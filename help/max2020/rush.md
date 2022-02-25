@@ -1,21 +1,21 @@
 ---
-title: '[!DNL Rush]'
-description: O Premiere [!DNL Rush] é o primeiro aplicativo multifuncional de edição de vídeo entre dispositivos que facilita a criação e o compartilhamento de conteúdo online
+title: '"[!DNL Rush]"'
+description: Premiere [!DNL Rush] é o primeiro aplicativo completo de edição de vídeo entre dispositivos que facilita a criação e o compartilhamento de conteúdo online
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: fe883361639bfe2edc184cdd10dda312f747c7fb
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
 
 # [!DNL Rush]
 
-![Imagem principal do tutorial](../assets/Rush.jpg)
+![Tutorial Hero Image](../assets/Rush.jpg)
 
-O Premiere [!DNL Rush] é o primeiro aplicativo multifuncional de edição de vídeo entre dispositivos que facilita a criação e o compartilhamento de conteúdo online. Essa solução integrada para desktop e dispositivos móveis sincroniza automaticamente seus projetos e edições na nuvem. permitindo que você trabalhe em qualquer lugar, em qualquer dispositivo.
+Premiere [!DNL Rush] é o primeiro aplicativo completo de edição de vídeo entre dispositivos que facilita a criação e o compartilhamento de conteúdo online. Essa solução integrada para desktop e dispositivos móveis sincroniza automaticamente seus projetos e edições na nuvem, permitindo que você trabalhe em qualquer lugar e dispositivo.
 
 ## Procurar Tutorials de produtos
 
@@ -23,12 +23,12 @@ O Premiere [!DNL Rush] é o primeiro aplicativo multifuncional de edição de v�
 <tr>
  <td>
    <a href="rush.md#tutorial1">
-      <img alt="Criar um vídeo de mídia social" src="../assets/rush_socialMediaAd_wood_thumbnail.jpg" />
+      <img alt="Criar um vídeo para redes sociais" src="../assets/rush_socialMediaAd_wood_thumbnail.jpg" />
    </a>
     <div>
-   <a href="rush.md#tutorial1"><strong>Criar um vídeo de mídia social</strong></a>
+   <a href="rush.md#tutorial1"><strong>Criar um vídeo para redes sociais</strong></a>
     </div>
-    <em>O Adobe [!DNL Rush] permite que você trabalhe em qualquer dispositivo e facilita a saída profissional o suficiente para iniciantes</em>
+    <em>Adobe [!DNL Rush] permite que você trabalhe em qualquer dispositivo e facilita a saída profissional para iniciantes</em>
     <br>
   </td>
   <td>
@@ -44,29 +44,29 @@ O Premiere [!DNL Rush] é o primeiro aplicativo multifuncional de edição de v�
 </tr>
 </table>
 
-## Criar um vídeo de mídia social (18:11) {#tutorial1}
+## Criar um vídeo para redes sociais (18:11) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326900?hidetitle=true)
 
-****
-DescriçãoConte sua história usando vídeo e áudio da Adobe  [!DNL Stock]. Adobe [!DNL Rush] permite que você trabalhe em qualquer dispositivo e facilita a saída profissional o suficiente para iniciantes.
+**Descrição**
+Conte sua história usando vídeo e áudio de Adobe [!DNL Stock]. Adobe [!DNL Rush] permite que você trabalhe em qualquer dispositivo e facilita a produção profissional para iniciantes.
 
-Neste tutorial, você aprenderá como:
-* Edite vídeos com facilidade no desktop, tablet e telefone
-* Mantenha seu assunto centralizado em fatores de forma horizontais, quadrados e verticais com o recurso de Atualização automática da tecnologia AI
-* Modelos de animações (MoGRTS) permitem títulos profissionais com aparência e personalizáveis facilmente e terços inferiores
-* Exporte e publique com facilidade diretamente em canais de redes sociais
-* Abrir projetos [!DNL Rush] no Adobe Premiere Pro
+Neste tutorial, você aprenderá a:
+* Edite vídeos com facilidade no desktop, no tablet e no telefone
+* Mantenha o modelo centralizado nos formatos horizontal, quadrado e vertical com o recurso de tecnologia de IA de reestruturação automática
+* Os modelos de animações (MoGRTS) permitem títulos de aparência profissional e facilmente personalizáveis e terços inferiores
+* Exporte e publique facilmente em canais de redes sociais
+* Abrir [!DNL Rush] projetos no Adobe Premiere Pro
 
 **Apresentado por:**
-A.J. Consultor de madeira e soluções (Mídia digital)
+A.J. Wood, consultor de soluções (mídia digital)
 
-![Logotipo do Rush](../assets/ru_appicon_96.png)
+![Logo do Rush](../assets/ru_appicon_96.png)
 
 **[!DNL Rush]Recursos**
 
-[Aprenda e ](https://helpx.adobe.com/support/premiere-rush.html) suporte seu hub para tutoriais adicionais,  [Novidades](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html) e links para fóruns da comunidade.
+[Aprendizagem e suporte](https://helpx.adobe.com/support/premiere-rush.html) é sua central de serviços para tutoriais adicionais, [Novidades](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html)e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 
-Comece a usar esses recursos (e muito mais!) baixando a atualização mais recente do seu aplicativo de desktop para Creative Cloud.
+Comece a usar esses recursos (e muito mais!) baixando a atualização mais recente no aplicativo de desktop Creative Cloud.
