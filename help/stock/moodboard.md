@@ -1,6 +1,6 @@
 ---
-title: Crie quadros de humor inspiradores em breve com Adobe [!DNL Stock]
-description: Crie um quadro de humor de projeto para transmitir informações, ideias, visuais e paletas de cores para equipes/clientes
+title: Crie modelos inspiradores em instantes com o Adobe [!DNL Stock]
+description: Crie um painel semântico de projetos para retransmitir informações, ideias, visuais e paletas de cores para equipes/clientes
 role: User
 level: Beginner, Intermediate
 thumbnail: 331816.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Crie quadros de humor inspiradores em breve com Adobe [!DNL Stock]
+# Crie modelos inspiradores em instantes com o Adobe [!DNL Stock]
 
-Crie um quadro de humor de projeto para transmitir informações, ideias, visuais e paletas de cores para equipes/clientes.
+Crie um painel semântico de projetos para retransmitir informações, ideias, visuais e paletas de cores para equipes/clientes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331816?hidetitle=true)

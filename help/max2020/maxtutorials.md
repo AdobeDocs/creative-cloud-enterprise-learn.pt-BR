@@ -1,21 +1,21 @@
 ---
-title: MAX 2020 Tutorials
-description: Estes tutoriais ajudarão você a conhecer os novos recursos da versão 2021 do Creative Cloud — de uma perspectiva corporativa
+title: Tutorials MAX 2020
+description: Esses tutoriais ajudarão você a aprender novos recursos na versão 2021 do Creative Cloud — sob uma perspectiva corporativa
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '322'
 ht-degree: 6%
 
 ---
 
 # Tutoriais
 
-![Máx. de 2020 imagem principal](../assets/MAX.jpg)
+![Max 2020 Hero Image](../assets/MAX.jpg)
 
-Como um criativo corporativo, você precisa colaborar com equipes distribuídas, estabelecer processos escaláveis e estar em conformidade com os sistemas e diretrizes corporativas. Esses tutoriais ajudarão você a conhecer os novos recursos da versão 2021 do Creative Cloud, de uma perspectiva corporativa.
+Como criativo corporativo, você precisa colaborar com equipes distribuídas, estabelecer processos dimensionáveis e estar em conformidade com sistemas e diretrizes corporativas. Esses tutoriais ajudarão você a aprender novos recursos na versão 2021 do Creative Cloud — sob uma perspectiva corporativa.
 
 ## Tutorials por produtos para desktop
 
@@ -38,7 +38,7 @@ Como um criativo corporativo, você precisa colaborar com equipes distribuídas,
     <div>
     <a href="dimension.md"><strong>Dimension</strong></a>
     </div>
-    <em>Crie imagens 3D fotorrealistas para marcas, capturas de produtos e design de pacotes</em>
+    <em>Criação de imagens em 3D fotorrealistas para identidade visual, fotos de produto e design de embalagens</em>
     <br>
   </td>
   <td>
@@ -48,7 +48,7 @@ Como um criativo corporativo, você precisa colaborar com equipes distribuídas,
     <div>
     <a href="illustrator.md"><strong>Illustrator</strong></a>
     </div>
-    <em>Gráficos vetoriais e ilustrações</em>
+    <em>Ilustrações e gráficos vetoriais</em>
     <br>
   </td>
 </tr>
@@ -60,7 +60,7 @@ Como um criativo corporativo, você precisa colaborar com equipes distribuídas,
     <div>
     <a href="indesign.md"><strong>InDesign</strong></a>
     </div>
-    <em>Design de páginas e layout para impressão e publicação digital</em>
+    <em>Design e layout de páginas para publicação impressa e digital</em>
     <br>
   </td>
   <td>
@@ -70,7 +70,7 @@ Como um criativo corporativo, você precisa colaborar com equipes distribuídas,
     <div>
     <a href="photoshop.md"><strong>Photoshop</strong></a>
     </div>
-    <em>Editar, compor e criar belas imagens, gráficos e arte no desktop</em>
+    <em>Edição, composição e criação de belas imagens, ilustrações e artes no desktop</em>
     <br>
   </td>
   <td>
@@ -80,7 +80,7 @@ Como um criativo corporativo, você precisa colaborar com equipes distribuídas,
     <div>
     <a href="rush.md"><strong>Rush</strong></a>
     </div>
-    <em>Crie e compartilhe vídeos online em qualquer lugar</em>
+    <em>Criação e compartilhamento de vídeos online em qualquer lugar</em>
     <br>
   </td>
 </tr>
@@ -92,7 +92,7 @@ Como um criativo corporativo, você precisa colaborar com equipes distribuídas,
     <div>
     <a href="xd.md"><strong>XD</strong></a>
     </div>
-    <em>Criar designs, protótipos e compartilhar experiências do usuário</em>
+    <em>Design, prototipagem e compartilhamento de experiências de usuário</em>
     <br>
   </td>
   <td>
@@ -119,7 +119,7 @@ Como um criativo corporativo, você precisa colaborar com equipes distribuídas,
     <div>
     <a href="capture.md"><strong>Capture</strong></a>
     </div>
-    <em>Transformar qualquer imagem em um tema de cores, gráfico vetorial, pincel e muito mais</em>
+    <em>Transforme qualquer imagem em um tema de cores, gráfico vetorial, pincel e muito mais</em>
     <br>
   </td>
   <td>
@@ -129,7 +129,7 @@ Como um criativo corporativo, você precisa colaborar com equipes distribuídas,
     <div>
     <a href="fresco.md"><strong>Fresco</strong></a>
     </div>
-    <em>Redescubra a alegria de desenhar e pintar em qualquer lugar</em>
+    <em>O prazer redescoberto de desenhar e pintar em qualquer lugar</em>
     <br>
   </td>
   <td>
@@ -139,7 +139,7 @@ Como um criativo corporativo, você precisa colaborar com equipes distribuídas,
     <div>
     <a href="illustratoripad.md"><strong>Illustrator no iPad</strong></a>
     </div>
-    <em>Gráficos vetoriais e ilustrações</em>
+    <em>Ilustrações e gráficos vetoriais</em>
     <br>
   </td>
 </tr>
@@ -151,7 +151,7 @@ Como um criativo corporativo, você precisa colaborar com equipes distribuídas,
     <div>
     <a href="photoshopipad.md"><strong>Photoshop no iPad</strong></a>
     </div>
-    <em>Edite, componha e crie belas imagens, gráficos e arte no desktop e no iPad</em>
+    <em>Edição, composição e criação de belas imagens, ilustrações e artes no desktop e no iPad</em>
     <br>
   </td>
   <td>
@@ -178,7 +178,7 @@ Como um criativo corporativo, você precisa colaborar com equipes distribuídas,
     <div>
     <a href="aem.md"><strong>AEM Assets e Asset Link</strong></a>
     </div>
-    <em>Gerenciamento de ativos digitais da próxima geração</em>
+    <em>Gerenciamento de ativos digitais de última geração</em>
     <br>
   </td>
   <td>
@@ -186,9 +186,9 @@ Como um criativo corporativo, você precisa colaborar com equipes distribuídas,
       <img alt="Aplicativo de desktop da Creative Cloud" src="../assets/CCDA.jpg" />
     </a>
     <div>
-    <a href="creativeclouddesktopapp.md"><strong>Aplicativo para desktop de Creative Cloud</strong></a>
+    <a href="creativeclouddesktopapp.md"><strong>Aplicativo de desktop Creative Cloud</strong></a>
     </div>
-    <em>O aplicativo para desktop Creative Cloud é o seu hub para gerenciar aplicativos, serviços e colaboração da CC, e muito mais!</em>
+    <em>O aplicativo de desktop Creative Cloud é o seu hub para gerenciar aplicativos, serviços e colaboração da CC e muito mais.</em>
     <br>
   </td>
   <td>
@@ -198,7 +198,7 @@ Como um criativo corporativo, você precisa colaborar com equipes distribuídas,
     <div>
     <a href="cclibraries.md"><strong>Bibliotecas da CC</strong></a>
     </div>
-    <em>Mantenha seus ativos em mãos e seus projetos na marca</em>
+    <em>Ativos sempre ao seu alcance e projetos com identidade visual consistente</em>
     <br>
   </td>
 </tr>
@@ -210,7 +210,7 @@ Como um criativo corporativo, você precisa colaborar com equipes distribuídas,
     <div>
     <a href="indesignserver.md"><strong>InDesign Server</strong></a>
     </div>
-    <em>As ferramentas sofisticadas do InDesign são combinadas com automação personalizada</em>
+    <em>As ferramentas sofisticadas de InDesign combinadas com automação personalizada</em>
     <br>
   </td>
  <td>
@@ -220,7 +220,7 @@ Como um criativo corporativo, você precisa colaborar com equipes distribuídas,
     <div>
     <a href="stock.md"><strong>Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Imagens digitais, ilustrações, vídeos, áudio, modelos de alta qualidade e muito mais</em>
+    <em>Imagens digitais de alta qualidade, ilustrações, vídeos, áudio, modelos e muito mais</em>
     <br>
   </td>
   <td>
@@ -231,18 +231,18 @@ Como um criativo corporativo, você precisa colaborar com equipes distribuídas,
 </tr>
 </table>
 
-### Projeto prático: Crie sua própria máscara
+### Projeto prático: Criar sua própria máscara de rosto
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="handsonproject.md">
-      <img alt="Crie sua própria máscara" src="../assets/faceMaskSplash.jpg" />
+      <img alt="Criar sua própria máscara de rosto" src="../assets/faceMaskSplash.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md"><strong>Crie sua própria máscara</strong></a>
+    <a href="handsonproject.md"><strong>Criar sua própria máscara de rosto</strong></a>
     </div>
-    <em>Com o plug-in Design to Print (Design de Adobe para impressão), você pode visualizar seus designs em centenas de produtos Zazzle e publicar diretamente no seu mercado online</em>
+    <em>Com o plug-in Adobe Design to Print, você pode visualizar seus designs em centenas de produtos da Zazzle e publicá-los diretamente em seu marketplace online</em>
     <br>
   </td>
   <td>

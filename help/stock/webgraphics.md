@@ -1,6 +1,6 @@
 ---
 title: Crie gráficos da Web envolventes combinando Adobe [!DNL Stock] imagens com CSS
-description: Crie a unidade da marca com imagens variadas combinando cores e gradientes na sua campanha publicitária
+description: Unifique sua marca com imagens variadas combinando cores e degradês em toda a campanha publicitária
 role: User
 level: Beginner, Intermediate
 thumbnail: 331812.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Crie gráficos da Web envolventes combinando imagens de Adobe [!DNL Stock] com CSS
+# Crie gráficos da Web envolventes combinando Adobe [!DNL Stock] imagens com CSS
 
-Crie a unidade da marca com imagens variadas combinando cores e gradientes na sua campanha publicitária.
+Unifique sua marca com imagens variadas, combinando cores e degradês em toda a campanha publicitária.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331812?hidetitle=true)

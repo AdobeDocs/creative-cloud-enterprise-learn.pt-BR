@@ -1,6 +1,6 @@
 ---
-title: Fique à vontade com [!UICONTROL Componentes] no Adobe XD
-description: Saiba como usar [!UICONTROL Componentes] para oferecer flexibilidade sem precedentes para aplicar velocidade e consistência ao fluxo de trabalho de design
+title: Fique confortável com [!UICONTROL Componentes] no Adobe XD
+description: Saiba como usar [!UICONTROL Componentes] para oferecer flexibilidade sem precedentes na aplicação de velocidade e consistência ao fluxo de trabalho de design
 role: User
 level: Beginner, Intermediate
 exl-id: 7cc3e842-56b3-493f-b11d-2576dbeeb98a
@@ -11,12 +11,12 @@ ht-degree: 0%
 
 ---
 
-# Fique à vontade com [!UICONTROL Componentes] no Adobe XD
+# Fique confortável com [!UICONTROL Componentes] no Adobe XD
 
-Saiba como usar [!UICONTROL Componentes] para oferecer flexibilidade sem precedentes para aplicar velocidade e consistência ao fluxo de trabalho de design.
+Saiba como usar [!UICONTROL Componentes] para oferecer flexibilidade sem precedentes na aplicação de velocidade e consistência ao fluxo de trabalho de design.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331003?hidetitle=true)
 
-Clique no ícone de arquivo PDF para baixar um PDF deste tutorial.
+Clique no ícone do arquivo PDF para baixar uma PDF deste tutorial.
 
-[![Ícone de arquivo PDF](../assets/acrobat_PDF_96.png)](../quick-reference/LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf)
+[![Ícone do arquivo PDF](../assets/acrobat_PDF_96.png)](../quick-reference/LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf)

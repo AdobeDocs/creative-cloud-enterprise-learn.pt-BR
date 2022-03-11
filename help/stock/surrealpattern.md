@@ -1,6 +1,6 @@
 ---
-title: Criar um padrão semissurreal com Adobe [!DNL Stock]
-description: Crie um belo padrão contínuo com base em imagens surreais de Adobe [!DNL Stock]
+title: Crie um padrão semissurrealista com o Adobe [!DNL Stock]
+description: Crie um belo padrão perfeito baseado em imagens surrealistas de Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331825.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Criar um padrão semissurreal com Adobe [!DNL Stock]
+# Crie um padrão semissurrealista com o Adobe [!DNL Stock]
 
-Crie um belo padrão contínuo com base em imagens surreais de Adobe [!DNL Stock].
+Crie um belo padrão perfeito baseado em imagens surrealistas de Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331825?hidetitle=true)

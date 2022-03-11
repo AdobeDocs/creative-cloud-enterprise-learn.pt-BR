@@ -1,21 +1,21 @@
 ---
 title: Illustrator no iPad
-description: O Adobe Illustrator no iPad é uma experiência de design vetorial repensada para toque, o Apple Pencil e iPad
+description: O Adobe Illustrator no iPad é uma experiência de design vetorial reformulada para toque, Apple Pencil e iPad
 role: User
 level: Beginner, Intermediate
 exl-id: 268b9891-77f6-4606-964c-343c443eafcb
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
 # Illustrator no iPad
 
-![Imagem principal do tutorial](../assets/AIoniPad.jpg)
+![Tutorial Hero Image](../assets/AIoniPad.jpg)
 
-O Adobe Illustrator no iPad é uma experiência de design vetorial repensada para toque, o Apple Pencil e o iPad.
+O Adobe Illustrator no iPad é uma experiência de design vetorial reformulada para toque, Apple Pencil e iPad.
 
 ## Procurar Tutorials de produtos
 
@@ -28,7 +28,7 @@ O Adobe Illustrator no iPad é uma experiência de design vetorial repensada par
     <div>
    <a href="illustratoripad.md#tutorial1"><strong>Introdução ao Illustrator no iPad</strong></a>
     </div>
-    <em>Crie um ícone de local em dificuldades e transforme-o em um padrão que você pode aplicar ao seu [!DNL Dimension] e ao seu projeto Zazzle!</em>
+    <em>Crie um ícone de local angustiado e transforme-o em um padrão que você pode aplicar ao seu [!DNL Dimension] e projeto Zazzle!</em>
     <br>
   </td>
   <td>
@@ -48,24 +48,24 @@ O Adobe Illustrator no iPad é uma experiência de design vetorial repensada par
 
 >[!VIDEO](https://video.tv.adobe.com/v/326823?hidetitle=true)
 
-****
-DescriçãoEsta visão geral rápida do Illustrator para iPad permite que você inicie rapidamente para criar um ícone de localização em dificuldades e transformá-lo em um padrão que você pode aplicar ao seu projeto  [!DNL Dimension] e ao seu projeto Zazzle!
+**Descrição**
+Esta rápida visão geral do Illustrator para iPad o ajudará a começar a trabalhar rapidamente para criar um ícone de local com dificuldades e transformá-lo em um padrão que você pode aplicar ao seu [!DNL Dimension] e projeto Zazzle!
 
-Neste tutorial, você aprenderá como:
-* A Illustrator reinventada para iPad transforma a produtividade, acelera a colaboração, expande habilidades criativas e capacita a criatividade para todos
-* A interface de toque permite uma experiência mais táctil e precisa usando o Apple Pencil
+Neste tutorial, você aprenderá a:
+* O Illustrator reformulado para o iPad transforma a produtividade, acelera a colaboração, expande as habilidades criativas e capacita a criatividade para todos
+* A interface de toque permite uma experiência mais tátil e precisa usando o Apple Pencil
 * Acessar gráficos e cores das Bibliotecas da CC
-* Fluxo de trabalho completo no Illustrator para dispositivos móveis e desktop
+* Fluxo de trabalho de ida e volta no Illustrator para dispositivos móveis e desktop
 
 **Apresentado por:**
-Dave Weinberg, Consultor de soluções sênior (Mídia digital)
+Dave Weinberg, consultor sênior de soluções (mídia digital)
 
-![Logotipo Illustrator no iPad](../assets/ai_appicon_96.png)
+![Logotipo do Illustrator no iPad](../assets/ai_appicon_96.png)
 
 **Recursos do Illustrator no iPad**
 
-[Aprenda e ](https://helpx.adobe.com/support/illustrator.html) suporte seu hub para tutoriais adicionais,  [Novidades](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html) e links para fóruns da comunidade.
+[Aprendizagem e suporte](https://helpx.adobe.com/support/illustrator.html) é sua central de serviços para tutoriais adicionais, [Novidades](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html)e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 
-Comece a usar esses recursos (e muito mais!) baixando a atualização mais recente do seu aplicativo de desktop para Creative Cloud.
+Comece a usar esses recursos (e muito mais!) baixando a atualização mais recente no aplicativo de desktop Creative Cloud.

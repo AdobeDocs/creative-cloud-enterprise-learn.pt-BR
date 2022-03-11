@@ -1,6 +1,6 @@
 ---
 title: Criar um gráfico de comparação de recursos de produto usando Adobe [!DNL Stock]
-description: Crie um gráfico que compara os planos de preços de produtos para fornecer aos clientes potenciais as informações de que eles precisam rapidamente
+description: Criar um gráfico que compara os planos de precificação de produtos para fornecer aos clientes potenciais as informações de que precisam rapidamente
 role: User
 level: Beginner, Intermediate
 thumbnail: 331817.jpg
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Criar um gráfico de comparação de recursos de produto usando Adobe [!DNL Stock]
 
-Crie um gráfico que compara os planos de preços de produtos para fornecer rapidamente aos clientes potenciais as informações necessárias.
+Crie um gráfico que compara os planos de precificação de produtos para fornecer aos clientes potenciais as informações necessárias rapidamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331817?hidetitle=true)

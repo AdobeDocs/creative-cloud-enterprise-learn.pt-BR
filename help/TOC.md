@@ -1,7 +1,7 @@
 ---
-user-guide-title: Creative Cloud para Tutorials empresariais
+user-guide-title: Creative Cloud para Tutorials corporações
 breadcrumb-title: Creative Cloud para corporações
-user-guide-description: Exiba tutoriais e guias de referência rápida focados na Creative Cloud para empresas.
+user-guide-description: Veja tutoriais e guias de referência rápida focados no Creative Cloud para corporações.
 solution: Creative Cloud
 type: Tutorial
 source-git-commit: b99fa53168d2d2d4bb6c14ebf3a9a52e8f0af379
@@ -12,55 +12,55 @@ ht-degree: 8%
 ---
 
 
-# Tutoriais de Creative Cloud para empresas {#cce-learning-hub}
+# Creative Cloud para tutoriais corporativos {#cce-learning-hub}
 
 + [Visão geral](overview.md)
 + CCE {#cceoverview}
    + [Visão geral](cce/overview-cce.md)
    + Tutoriais {#ccetutorials}
-      + [Criação de bibliotecas de Creative Cloud para equipes](cce/ccteamlibraries.md)
-      + [Compartilhamento de ativos de marca com bibliotecas de Creative Cloud para equipes](cce/sharecclibraries.md)
-      + [Criar composições exclusivas com Adobe [!DNL Stock] e Photoshop para iPad](cce/compositepsipad.md)
-      + [Criação de parágrafos de cinema com o Photoshop](cce/cinemagraphps.md)
-      + [Decodificação da sopa alfabética de formatos gráficos](cce/alphabetsoup.md)
-      + [Experimente o Fresco no iPad e iPhone](cce/frescoworkshop.md)
+      + [Criação de bibliotecas Creative Cloud para equipes](cce/ccteamlibraries.md)
+      + [Compartilhamento de ativos de identidade visual com as Bibliotecas Creative Cloud para equipes](cce/sharecclibraries.md)
+      + [Criar composições únicas com o Adobe [!DNL Stock] e Photoshop para iPad](cce/compositepsipad.md)
+      + [Criação de cinemagrafias com o Photoshop](cce/cinemagraphps.md)
+      + [Decodificação da sopa de letras dos formatos gráficos](cce/alphabetsoup.md)
+      + [Experimente Frescos no iPad e no iPhone](cce/frescoworkshop.md)
    + [Guias de referência rápida](quick-reference/overview-ref.md)
 + [!DNL Stock] {#stockoverview}
    + [Visão geral](stock/overview-stock.md)
    + Tutoriais {#stocktutorials}
-      + [Pesquisar Adobe [!DNL Stock] histórico de licenciamento](stock/searchstock.md)
-      + [Adicionar uma estética desenhada à mão a imagens Adobe [!DNL Stock] ](stock/handdrawn.md)
-      + [Adicionar talento à tipografia com máscaras e animação](stock/flairtypography.md)
-      + [Animar uma ilustração vetorial Adobe [!DNL Stock] no Photoshop](stock/animatevector.md)
-      + [Comece seu relatório anual com um vídeo criado com Adobe [!DNL Stock] e Spark Video](stock/annualreport.md)
-      + [Dê vida à criatividade com animações personalizadas por Adobe [!DNL Stock]](stock/customanimations.md)
-      + [Alterar as cores de uma Adobe [!DNL Stock] imagem para corresponder à sua história](stock/changecolors.md)
+      + [Adobe de pesquisa [!DNL Stock] histórico de licenciamento](stock/searchstock.md)
+      + [Adicionar uma estética desenhada à mão ao Adobe [!DNL Stock] imagens](stock/handdrawn.md)
+      + [Adicione estilo à tipografia com máscaras e animação](stock/flairtypography.md)
+      + [Animar um Adobe [!DNL Stock] ilustração vetorial no Photoshop](stock/animatevector.md)
+      + [Comece seu relatório anual com um vídeo criado com o Adobe [!DNL Stock] e Spark Video](stock/annualreport.md)
+      + [Dê vida à criatividade com animações personalizadas do Adobe [!DNL Stock]](stock/customanimations.md)
+      + [Alterar uma Adobe [!DNL Stock] cores da imagem que combinam com a sua história](stock/changecolors.md)
       + [Criar uma colagem 3D para um pôster usando Adobe [!DNL Stock] imagens](stock/collage.md)
-      + [Crie um rótulo em negrito com modelos Adobe [!DNL Stock] e Objetos Inteligentes da Photoshop](stock/boldlabel.md)
-      + [Crie infográficos de diretrizes da empresa com Adobe [!DNL Stock]](stock/infographic.md)
+      + [Criar um rótulo em negrito com Adobe [!DNL Stock] modelos e Photoshop Smart Objects](stock/boldlabel.md)
+      + [Crie um infográfico de diretrizes da empresa com o Adobe [!DNL Stock]](stock/infographic.md)
       + [Criar um gráfico de comparação de recursos de produto usando Adobe [!DNL Stock]](stock/featurecomparison.md)
-      + [Criar um composto semissurreal com Adobe [!DNL Stock]](stock/surrealcomposite.md)
-      + [Criar um padrão semissurreal com Adobe [!DNL Stock]](stock/surrealpattern.md)
-      + [Criar um configurador de produto interativo com Adobe [!DNL Stock]](stock/productconfigurator.md)
-      + [Crie uma foto interativa de turismo com Adobe [!DNL Stock] e XD](stock/interactivetourismphoto.md)
-      + [Criar animações para email com Adobe [!DNL Stock] e Photoshop](stock/animationemail.md)
-      + [Crie imagens de marca coesas com belos gradientes e ativos de Adobe [!DNL Stock] ](stock/brandgradients.md)
+      + [Crie uma composição semissurreal com Adobe [!DNL Stock]](stock/surrealcomposite.md)
+      + [Crie um padrão semissurrealista com o Adobe [!DNL Stock]](stock/surrealpattern.md)
+      + [Crie um configurador de produto interativo com o Adobe [!DNL Stock]](stock/productconfigurator.md)
+      + [Crie uma foto de turismo interativa com o Adobe [!DNL Stock] XD e](stock/interactivetourismphoto.md)
+      + [Crie animações para email com Adobe [!DNL Stock] e Photoshop](stock/animationemail.md)
+      + [Crie imagens de marca coesas com belos degradês e Adobe [!DNL Stock] ativos](stock/brandgradients.md)
       + [Crie gráficos da Web envolventes combinando Adobe [!DNL Stock] imagens com CSS](stock/webgraphics.md)
-      + [Crie quadros de humor inspiradores em breve com Adobe [!DNL Stock]](stock/moodboard.md)
-      + [Criar composições realistas de fotos com Adobe [!DNL Stock] imagens](stock/realisticcomposite.md)
-      + [Personalizar uma animação de tela de carregamento com Adobe [!DNL Stock] e XD](stock/loadingscreen.md)
-      + [Personalizar um modelo de apresentação de Adobe [!DNL Stock] para parecer profissional](stock/presentationtemplate.md)
-      + [Personalizar as cores em uma ilustração de vetor de Adobe [!DNL Stock] ](stock/customizecolors.md)
+      + [Crie modelos inspiradores em instantes com o Adobe [!DNL Stock]](stock/moodboard.md)
+      + [Crie composições realistas de fotos com o Adobe [!DNL Stock] imagens](stock/realisticcomposite.md)
+      + [Personalize uma animação de tela de carregamento com o Adobe [!DNL Stock] XD e](stock/loadingscreen.md)
+      + [Personalizar um Adobe [!DNL Stock] modelo de apresentação para parecer profissional](stock/presentationtemplate.md)
+      + [Personalizar as cores em um Adobe [!DNL Stock] ilustração vetorial](stock/customizecolors.md)
 + XD {#xdoverview}
    + [Visão geral](xd/overview-xd.md)
    + Tutoriais {#xdtutorials}
-   + [Fique à vontade com [!UICONTROL Componentes] no Adobe XD](xd/components.md)
-+ 3D e VR {#3doverview}
+   + [Fique confortável com [!UICONTROL Componentes] no Adobe XD](xd/components.md)
++ 3D e realidade virtual {#3doverview}
    + [Visão geral](3di/overview-3di.md)
    + Tutoriais {#3dtutorials}
-      + [Dicas e técnicas para dominar a iluminação 3D na CGI](3di/mastering3dlighting.md)
+      + [Dicas e técnicas para dominar a iluminação 3D em CGI](3di/mastering3dlighting.md)
       + [Criação de fotografia virtual fotorrealista com renderização e composição 3D](3di/photorealistic.md)
-      + [Personalizar e marcar um modelo 3D com [!DNL Dimension] e Adobe [!DNL Stock]](3di/3ddimensionstock.md)
+      + [Personalize e crie uma marca para um modelo 3D com [!DNL Dimension] e Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Vídeo {#videooverview}
    + [Tutoriais](dva/overview-dva.md)
 + Implantar e gerenciar {#deploy}
@@ -85,11 +85,11 @@ ht-degree: 8%
          + [Illustrator no iPad](max2020/illustratoripad.md)
          + [Photoshop no iPad](max2020/photoshopipad.md)
       + Integrações {#integrations}
-         + [AEM](max2020/aem.md)
+         + [AEM e](max2020/aem.md)
          + [Aplicativo de desktop da Creative Cloud](max2020/creativeclouddesktopapp.md)
          + [Bibliotecas da CC](max2020/cclibraries.md)
          + [InDesign Server](max2020/indesignserver.md)
          + [[!DNL Stock]](max2020/stock.md)
          + [Administração corporativa](max2020/enterprise.md)
-      + Projeto prático {#project}
-         + [Crie sua própria máscara](max2020/handsonproject.md)
+      + Hands-on Project {#project}
+         + [Criar sua própria máscara de rosto](max2020/handsonproject.md)

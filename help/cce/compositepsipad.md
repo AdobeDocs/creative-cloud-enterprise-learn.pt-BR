@@ -1,6 +1,6 @@
 ---
-title: Criar composições exclusivas com Adobe [!DNL Stock] e Photoshop para iPad
-description: Leve o poder do Photoshop ao seu alcance. Aprenda a usar um de seus aplicativos de Creative Cloud favoritos de uma maneira totalmente nova, com uma interface reformulada baseada em toque
+title: Criar composições únicas com o Adobe [!DNL Stock] e Photoshop para iPad
+description: Leve o poder do Photoshop ao seu alcance. Aprenda a usar um de seus aplicativos Creative Cloud favoritos de uma maneira totalmente nova, com uma interface baseada em toque reprojetada
 role: User
 level: Beginner, Intermediate
 exl-id: c2f1440a-5da7-4e04-9c7d-fe595d45a8c2
@@ -11,14 +11,14 @@ ht-degree: 0%
 
 ---
 
-# Criar composições exclusivas com Adobe [!DNL Stock] e Photoshop para iPad
+# Criar composições únicas com o Adobe [!DNL Stock] e Photoshop para iPad
 
-Leve o poder do Photoshop ao seu alcance. Aprenda a usar um de seus aplicativos de Creative Cloud favoritos de uma maneira totalmente nova, com uma interface reformulada baseada em toque.
+Leve o poder do Photoshop ao seu alcance. Aprenda a usar um de seus aplicativos Creative Cloud favoritos de uma maneira totalmente nova, com uma interface baseada em toque reprojetada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331004?hidetitle=true)
 
 <br> 
 
-[**Download do Guia PDF de referência rápida**](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
+[**Baixe o Guia de PDF de referência rápida**](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
 
 [![Imagem da primeira página do guia de referência rápida](assets/GettoknowPhotoshopontheiPadPage1.png)](../quick-reference/GettoknowPhotoshopontheiPad.pdf)

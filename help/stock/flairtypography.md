@@ -1,6 +1,6 @@
 ---
-title: Adicionar talento à tipografia com máscaras e animação
-description: Dê vida ao seu texto com elementos de Adobe [!DNL Stock] e estilos de animação do After Effects
+title: Adicione estilo à tipografia com máscaras e animação
+description: Dê vida ao seu texto com elementos do Adobe [!DNL Stock] e estilos de animação do After Effects
 role: User
 level: Beginner, Intermediate
 thumbnail: 331807.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adicionar talento à tipografia com máscaras e animação
+# Adicione estilo à tipografia com máscaras e animação
 
-Dê vida ao seu texto com elementos de Adobe [!DNL Stock] e estilos de animação do After Effects.
+Dê vida ao seu texto com elementos do Adobe [!DNL Stock] e estilos de animação do After Effects.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331807?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: Experimente o Fresco no iPad (e iPhone)
-description: Explore um mundo totalmente novo de desenho e pintura digitais com a Adobe Fresca neste workshop prático de 15 minutos
+title: Experimente Fresco no iPad (e no iPhone)
+description: Explore um mundo totalmente novo de desenho e pintura digitais com o Adobe Fresca neste workshop prático de 15 minutos
 role: User
 level: Beginner, Intermediate
 kt: 8039
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 ---
 
-# Experimente o Fresco no iPad (e iPhone)
+# Experimente Fresco no iPad (e no iPhone)
 
-Explore um mundo totalmente novo de desenho e pintura digitais com a Adobe Fresca neste workshop prático de 15 minutos. Aprenda rapidamente a trabalhar com camadas e máscaras de corte para adaptar a pintura e as texturas a uma forma de base. Acompanhe o designer/desenvolvedor Chris Converse para recriar parte de uma ilustração estática usando Fresco e Adobe Stock.
+Explore um mundo totalmente novo de desenho e pintura digitais com o Adobe Fresca neste workshop prático de 15 minutos. Aprenda rapidamente a trabalhar com camadas e máscaras de corte para adaptar a pintura e as texturas a uma forma de base. Acompanhe o designer/desenvolvedor Chris Converse para recriar parte de uma ilustração de natureza-morta usando o Fresco e o Adobe Stock.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333804?hidetitle=true)
 
 <br> 
 
-[**Download do Guia PDF de referência rápida**](../quick-reference/Frescoworkshop.pdf)
+[**Baixe o Guia de PDF de referência rápida**](../quick-reference/Frescoworkshop.pdf)
 
 [![Imagem da primeira página do guia de referência rápida](assets/FrescoworkshopPage1.png)](../quick-reference/Frescoworkshop.pdf)

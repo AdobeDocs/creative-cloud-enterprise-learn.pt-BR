@@ -1,6 +1,6 @@
 ---
-title: Crie um rótulo em negrito com modelos Adobe [!DNL Stock] e Objetos Inteligentes da Photoshop
-description: Crie e visualize seus designs personalizados com modelos de empacotamento realistas do Adobe [!DNL Stock]
+title: Criar um rótulo em negrito com Adobe [!DNL Stock] modelos e Photoshop Smart Objects
+description: Crie e visualize seus designs personalizados com modelos de embalagens realistas do Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331823.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Crie um rótulo em negrito com modelos de Adobe [!DNL Stock] e Objetos Inteligentes da Photoshop
+# Criar um rótulo em negrito com Adobe [!DNL Stock] modelos e Photoshop Smart Objects
 
-Crie e visualize seus designs personalizados com modelos de empacotamento realistas do Adobe [!DNL Stock]    .
+Crie e visualize seus designs personalizados com modelos de embalagens realistas do Adobe [!DNL Stock]    .
 
 >[!VIDEO](https://video.tv.adobe.com/v/331823?hidetitle=true)

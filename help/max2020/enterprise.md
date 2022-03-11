@@ -13,11 +13,11 @@ ht-degree: 3%
 
 # Administração corporativa
 
-![Imagem principal do tutorial](../assets/hero_cce.jpg)
+![Tutorial Hero Image](../assets/hero_cce.jpg)
 
 Gerencie direitos e ativos de Adobe em toda a organização.
 
-## Procurar Tutorials de administração corporativa
+## Procurar Tutorials de Administração do Enterprise
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,7 +28,7 @@ Gerencie direitos e ativos de Adobe em toda a organização.
     <div>
    <a href="enterprise.md#tutorial1"><strong>Adobe Fonts</strong></a>
     </div>
-    <em>Explore as quase 200 famílias no Adobe Fonts e a facilidade de uso do serviço Adobe Fonts</em>
+    <em>Conheça as quase 200 famílias no Adobe Fonts e a facilidade de uso do serviço Adobe Fonts</em>
     <br>
   </td>
   <td>
@@ -50,19 +50,19 @@ Gerencie direitos e ativos de Adobe em toda a organização.
 
 **Descrição:**
 
-Explore as quase 200 famílias no Adobe Fonts e a facilidade de uso do serviço Adobe Fonts.
+Conheça as quase 200 famílias no Adobe Fonts e a facilidade de uso do serviço Adobe Fonts.
 
-Neste tutorial, você aprenderá como:
-* Use a poderosa interface de navegação para encontrar a fonte certa com rapidez e facilidade
-* Economize tempo e dinheiro usando integrações nativas de Creative Cloud
-* Gerencie todas as suas fontes em um único lugar no Adobe Admin Console
+Neste tutorial, você aprenderá a:
+* Use a interface de navegação avançada para encontrar a fonte certa de maneira rápida e fácil
+* Poupe tempo e dinheiro usando integrações nativas com o Creative Cloud
+* Gerencie todas as suas fontes em um só lugar no Adobe Admin Console
 
 **Apresentado por:**
 
-Todd Burke, consultor de soluções principais (mídia digital)
+Todd Burke, consultor principal de soluções (mídia digital)
 
 **Recursos de administração corporativa:**
 
-[Guia do usuário Adobe Fonts](https://helpx.adobe.com/fonts/user-guide.html)
+[Guia do usuário do Adobe Fonts](https://helpx.adobe.com/fonts/user-guide.html)
 
 [Guia do administrador corporativo](https://helpx.adobe.com/enterprise/admin-guide.html)

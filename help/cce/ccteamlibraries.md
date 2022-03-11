@@ -1,6 +1,6 @@
 ---
-title: Criação de bibliotecas de Creative Cloud para equipes
-description: Saiba como compartilhar ativos em um grupo ou equipe usando as Bibliotecas de Creative Cloud para equipes
+title: Criação de bibliotecas Creative Cloud para equipes
+description: Saiba como compartilhar ativos em um grupo ou equipe usando as Bibliotecas Creative Cloud para equipes
 role: User
 level: Beginner, Intermediate
 kt: 8209
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Criação de bibliotecas de Creative Cloud para equipes
+# Criação de bibliotecas Creative Cloud para equipes
 
-Neste tutorial em vídeo, saiba mais como compartilhar ativos em um grupo ou equipe usando as Bibliotecas de Creative Cloud para equipes. Esses tipos de bibliotecas não estão vinculados a uma conta de usuário individual, em vez disso a biblioteca pertence à equipe. Você pode identificar as bibliotecas da equipe pelo ícone ![criar imagem](assets/Smock_Building_18_N.png).
+Neste tutorial em vídeo, aprenda a compartilhar ativos dentro de um grupo ou equipe usando as Bibliotecas Creative Cloud para equipes. Esses tipos de biblioteca não são vinculados a uma conta de usuário individual, mas sim a biblioteca que pertence à equipe. Você pode identificar as bibliotecas de equipe pelo ![criação de imagem](assets/Smock_Building_18_N.png) ícone.
 
 >[!TIP]
 >
->Use as Bibliotecas de Creative Cloud para equipes sempre que sua organização precisar manter a propriedade dos ativos criativos. Alguns exemplos incluem: guia de estilo corporativo, projetos compartilhados e elementos de design de interface do usuário.
+>Use as Bibliotecas Creative Cloud para equipes sempre que sua organização precisar manter a propriedade de ativos criativos. Alguns exemplos incluem: guia de estilo corporativo, projetos compartilhados e elementos de design de interface.
 
 <br> 
 

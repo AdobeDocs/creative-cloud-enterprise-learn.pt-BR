@@ -1,6 +1,6 @@
 ---
-title: 'Adicionar uma estética desenhada à mão a imagens Adobe [!DNL Stock] '
-description: Amplie seu marketing criativo com técnicas exclusivas que adicionam profundidade e dimensão às suas imagens usando o Photoshop para iPad
+title: Adicionar uma estética desenhada à mão ao Adobe [!DNL Stock] imagens
+description: Aprimore seu marketing criativo com técnicas exclusivas que adicionam profundidade e dimensão às suas imagens usando o Photoshop para iPad
 role: User
 level: Beginner, Intermediate
 thumbnail: 331819.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Adicionar uma estética desenhada à mão a imagens de Adobe [!DNL Stock]
+# Adicionar uma estética desenhada à mão ao Adobe [!DNL Stock] imagens
 
-Amplie seu marketing criativo com técnicas exclusivas que adicionam profundidade e dimensão às suas imagens usando o Photoshop para iPad.
+Aprimore seu marketing criativo com técnicas exclusivas que adicionam profundidade e dimensão às suas imagens usando o Photoshop para iPad.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331819?hidetitle=true)

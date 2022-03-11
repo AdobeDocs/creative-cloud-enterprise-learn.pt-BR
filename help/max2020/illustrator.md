@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Illustrator
 
-![Imagem principal do tutorial](../assets/Illustrator.jpg)
+![Tutorial Hero Image](../assets/Illustrator.jpg)
 
 O aplicativo moderno para ilustrações e gráficos. Crie logotipos, ícones, ilustrações e quaisquer outros designs que você possa imaginar para a Web, dispositivos móveis ou impressão.
 
@@ -28,17 +28,17 @@ O aplicativo moderno para ilustrações e gráficos. Crie logotipos, ícones, il
     <div>
    <a href="illustrator.md#tutorial1"><strong>Usar símbolos para atualizar várias instâncias de ícone</strong></a>
     </div>
-    <em>Reduzir o trabalho manual e manter a consistência com símbolos</em>
+    <em>Reduza o trabalho manual e mantenha a consistência com símbolos</em>
     <br>
   </td>
   <td>
     <a href="illustrator.md#tutorial2">
-        <img alt="Alinhar texto e imagens com o encaixe de glifo" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
+        <img alt="Alinhar texto e imagens com ajuste de glifo" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="illustrator.md#tutorial2"><strong>Alinhar texto e imagens com o encaixe de glifo</strong></a>
+    <a href="illustrator.md#tutorial2"><strong>Alinhar texto e imagens com ajuste de glifo</strong></a>
     </div>
-    <em>Ajustar rapidamente glifos a regiões importantes do documento</em>
+    <em>Encaixe rapidamente glifos em regiões importantes do documento</em>
     <br>
   </td>
   <td>
@@ -49,38 +49,38 @@ O aplicativo moderno para ilustrações e gráficos. Crie logotipos, ícones, il
 </tr>
 </table>
 
-## Use símbolos para atualizar várias instâncias de ícone (5:08) {#tutorial1}
+## Usar Símbolos para Atualizar Várias Instâncias de Ícone (5:08) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326816?hidetitle=true)
 
-****
-DescriçãoReduza o trabalho manual e mantenha a consistência com símbolos.
+**Descrição**
+Reduza o trabalho manual e mantenha a consistência com símbolos.
 
-Neste tutorial, você aprenderá como:
-* Reduzir o trabalho manual e manter a consistência com símbolos
+Neste tutorial, você aprenderá a:
+* Reduza o trabalho manual e mantenha a consistência com símbolos
 
 **Apresentado por:**
-Patti Sokol, Principal Solutions Consultant (Mídia digital)
+Patti Sokol, consultor principal de soluções (mídia digital)
 
-## Alinhar texto e imagens com o encaixe de glifo (6:48) {#tutorial2}
+## Alinhar texto e imagens com ajuste de glifo (6:48) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326817?hidetitle=true)
 
-****
-DescriçãoEncaixe rapidamente os glifos em regiões importantes do documento.
+**Descrição**
+Encaixe rapidamente glifos em regiões importantes do documento.
 
-Neste tutorial, você aprenderá como:
-* Ajustar rapidamente glifos a regiões importantes do documento
+Neste tutorial, você aprenderá a:
+* Encaixe rapidamente glifos em regiões importantes do documento
 
 **Apresentado por:**
-Patti Sokol, Principal Solutions Consultant (Mídia digital)
+Patti Sokol, consultor principal de soluções (mídia digital)
 
-![Logotipo Illustrator](../assets/ai_appicon_96.png)
+![Logotipo da Illustrator](../assets/ai_appicon_96.png)
 
-**Recursos da Illustrator**
+**Recursos do Illustrator**
 
-[Aprenda e ](https://helpx.adobe.com/support/illustrator.html) dê suporte ao seu hub para obter tutoriais adicionais e links para fóruns da comunidade.
+[Aprendizagem e suporte](https://helpx.adobe.com/support/illustrator.html) é seu hub para tutoriais adicionais e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 
-Comece a usar esses recursos (e muito mais!) baixando a atualização mais recente do seu aplicativo de desktop para Creative Cloud.
+Comece a usar esses recursos (e muito mais!) baixando a atualização mais recente no aplicativo de desktop Creative Cloud.

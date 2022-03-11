@@ -1,6 +1,6 @@
 ---
 title: Creative Cloud para vídeos de implantação corporativa
-description: Aproveite ao máximo como implantar e gerenciar o Creative Cloud para aplicativos corporativos
+description: Saiba como implantar e gerenciar o Creative Cloud para aplicativos corporativos
 role: User
 level: Beginner, Intermediate
 exl-id: 9533fb1f-a2cc-4c06-b701-67c75a60dbaf
@@ -11,14 +11,14 @@ ht-degree: 14%
 
 ---
 
-# Creative Cloud para implantar e gerenciar tópicos para empresas
+# Tópicos de implantação e gerenciamento do Creative Cloud para corporações
 
 ![Creative Cloud Hero Image](../assets/CCEbanner.png)
 
 A Creative Cloud para corporações oferece suporte a implantações personalizadas e ajustes flexíveis de licença e funciona com outras ofertas empresariais da Adobe.
 
-* [Entendendo o Creative Cloud para empresas e o ](cceserial.md)
-vencimento do número de série da AcrobatConheça a experiência de expiração do número de série para Creative Cloud para empresas e Acrobat.
+* [Noções básicas sobre a expiração do Creative Cloud para corporações e do número de série do Acrobat](cceserial.md)
+Saiba mais sobre a experiência de expiração do número de série para Creative Cloud para corporações e Acrobat.
 
-* [Números de série expirados? Por que é hora de Licenciamento por usuário nomeado](nameduserlicensing.md)
-Saiba mais sobre como licenciar produtos de Adobe por meio do Licenciamento por usuário nomeado (NUL) permite que os administradores de TI implantem e gerenciem facilmente as ferramentas de Adobe usando a Admin Console e dá aos usuários finais acesso aos aplicativos de criação e produtividade de classe mundial e aos serviços da Adobe Cloud, mesmo que toda a força de trabalho seja remota.
+* [Números de série prestes a expirar? Por que é hora de licenciamento por usuário nomeado](nameduserlicensing.md)
+Saiba como o licenciamento de produtos Adobe por meio do Licenciamento por usuário nomeado (NUL) permite que os administradores de TI implantem e gerenciem facilmente as ferramentas Adobe usando o Admin Console e dá aos usuários finais acesso a aplicativos de criação e produtividade de alto nível e a serviços da Adobe Cloud, mesmo que toda a força de trabalho seja remota.

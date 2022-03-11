@@ -1,6 +1,6 @@
 ---
 title: Tutoriais
-description: Bem-vindo ao Centro de Aprendizagem do Creative Cloud para empresas
+description: Bem-vindo ao Hub de Aprendizado do Creative Cloud para corporações
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
@@ -11,11 +11,11 @@ ht-degree: 10%
 
 ---
 
-# Creative Cloud para Tutorials empresariais
+# Creative Cloud para Tutorials corporações
 
 ![Creative Cloud Hero Image](assets/hero_cce.jpg)
 
-Bem-vindo ao Creative Cloud para o Centro de Aprendizagem Enterprise. Você encontrará uma ampla variedade de experiências de aprendizagem focadas na Creative Cloud para empresas. Nossos tutoriais, webinários e casos de uso foram projetados para acelerar o Creative Cloud para produtos corporativos tanto para iniciantes como para administradores.
+Bem-vindo ao Hub de Aprendizado do Creative Cloud para corporações. Você encontrará uma ampla variedade de experiências de aprendizado voltadas para o Creative Cloud para empresas. Nossos tutoriais, webinários e casos de uso foram criados para atualizar rapidamente iniciantes e administradores no Creative Cloud para produtos corporativos.
 
 ## Procurar tópicos
 
@@ -28,7 +28,7 @@ Bem-vindo ao Creative Cloud para o Centro de Aprendizagem Enterprise. Você enco
     <div>
    <a href="cce/overview-cce.md"><strong>Creative Cloud para corporações</strong></a>
     </div>
-    <em>Saiba mais sobre os novos recursos na versão mais recente do Creative Cloud — de uma perspectiva corporativa</em>
+    <em>Conheça os novos recursos da versão mais recente do Creative Cloud — do ponto de vista corporativo</em>
     <br>
   </td>
   <td>
@@ -38,7 +38,7 @@ Bem-vindo ao Creative Cloud para o Centro de Aprendizagem Enterprise. Você enco
     <div>
    <a href="stock/overview-stock.md"><strong>Adobe Stock</strong></a>
     </div>
-    <em>Imagens digitais, ilustrações, vídeos, áudio, modelos de alta qualidade e muito mais</em>
+    <em>Imagens digitais de alta qualidade, ilustrações, vídeos, áudio, modelos e muito mais</em>
     <br>
   </td>
   <td>
@@ -48,29 +48,29 @@ Bem-vindo ao Creative Cloud para o Centro de Aprendizagem Enterprise. Você enco
     <div>
    <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
     </div>
-    <em>Criar designs, protótipos e compartilhar experiências do usuário</em>
+    <em>Design, prototipagem e compartilhamento de experiências de usuário</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
    <a href="3di/overview-3di.md">
-      <img alt="Adobe 3D e VR" src="assets/Dimenio.jpg" />
+      <img alt="Adobe 3D E VR" src="assets/Dimenio.jpg" />
     </a>
     <div>
-   <a href="3di/overview-3di.md"><strong>Adobe 3D e VR</strong></a>
+   <a href="3di/overview-3di.md"><strong>Adobe 3D E VR</strong></a>
     </div>
-    <em>Crie imagens 3D fotorrealistas para marcas, capturas de produtos e design de pacotes</em>
+    <em>Criação de imagens em 3D fotorrealistas para identidade visual, fotos de produto e design de embalagens</em>
     <br>
   </td>
   <td>
   <a href="dva/overview-dva.md">
-      <img alt="Adobe" src="assets/CCEbanner-DVA.png" />
+      <img alt="Vídeo Adobe" src="assets/CCEbanner-DVA.png" />
     </a>
     <div>
-   <a href="dva/overview-dva.md"><strong>Adobe</strong></a>
+   <a href="dva/overview-dva.md"><strong>Vídeo Adobe</strong></a>
     </div>
-    <em>Dê vida às suas ideias com software de Adobe e aplicativos para edição de vídeo, animações, efeitos visuais, animações e muito mais</em>
+    <em>Dê vida às suas ideias com o software e os aplicativos Adobe para edição de vídeo, efeitos visuais, animações e muito mais</em>
     <br>
   </td>
   <td>
@@ -80,7 +80,7 @@ Bem-vindo ao Creative Cloud para o Centro de Aprendizagem Enterprise. Você enco
     <div>
    <a href="max2020/overview-max.md"><strong>MAX 2020 — as sessões corporativas</strong></a>
     </div>
-    <em>Saiba tudo sobre as sessões empresariais MAX 2020</em>
+    <em>Saiba tudo sobre as sessões do MAX 2020 Enterprise</em>
     <br>
   </td>
 </tr>

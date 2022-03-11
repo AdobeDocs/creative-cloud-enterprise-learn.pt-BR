@@ -1,6 +1,6 @@
 ---
-title: Crie infográficos de diretrizes da empresa com Adobe [!DNL Stock]
-description: Combine uma variedade de ativos de Adobe [!DNL Stock] para comunicar diretrizes na forma de infográficos visualmente atraentes
+title: Crie um infográfico de diretrizes da empresa com o Adobe [!DNL Stock]
+description: Combine uma variedade de ativos do Adobe [!DNL Stock] para comunicar diretrizes na forma de infográficos visualmente atraentes
 role: User
 level: Beginner, Intermediate
 thumbnail: 331811.jpg
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Crie infográficos de diretrizes da empresa com Adobe [!DNL Stock]
+# Crie um infográfico de diretrizes da empresa com o Adobe [!DNL Stock]
 
 Combine uma variedade de ativos do Adobe [!DNL Stock] para comunicar diretrizes na forma de infográficos visualmente atraentes.
 
