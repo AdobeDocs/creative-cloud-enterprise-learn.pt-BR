@@ -23,4 +23,4 @@ Arquivos JPG, PNG, SVG, GIF e EPS são comumente usados em design, alguns para p
 
 [**Baixe o Guia de PDF de referência rápida**](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
 
-[![Imagem da primeira página do guia de referência rápida](assets/DecodingthealfabetsoupofgraphicformatsPage1.png)](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
+[![Imagem da primeira página do guia de referência rápida](assets/DecodingthealphabetsoupofgraphicformatsPage1.png)](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
