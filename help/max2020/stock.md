@@ -4,16 +4,16 @@ description: Adobe [!DNL Stock] para corporações dá às equipes de criação 
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: fe883361639bfe2edc184cdd10dda312f747c7fb
+source-git-commit: c81e5982cfb4b168d66dc2a80c27a48895b64a52
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
 
-!![Tutorial Hero Image](../assets/[!DNL Stock].jpg)
+![Tutorial Hero Image](../assets/Stock.jpg)
 
 A equipe de criação está sob pressão para fornecer rapidamente conteúdo novo e visualmente envolvente que chamará a atenção. Adobe [!DNL Stock] para corporações dá às equipes de criação acesso a mais de 200 milhões de imagens, vídeos, modelos, ilustrações, arquivos de áudio e ativos 3D, tudo isso nos aplicativos de criação da Adobe que usam todos os dias.
 

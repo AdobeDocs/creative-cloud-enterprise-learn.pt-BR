@@ -5,9 +5,9 @@ role: User
 level: Beginner, Intermediate
 keywords: Iluminação 3D, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 01d80f9b296bc7d13b5e931cf0ca22d1335271dc
 workflow-type: tm+mt
-source-wordcount: '2738'
+source-wordcount: '2739'
 ht-degree: 0%
 
 ---
@@ -203,4 +203,4 @@ Isso significa que haverá muita interação complexa de traçado de raios, à m
 
 Espero que esta visão geral ilustre a importância de dominar as luzes 3D em várias situações. Você deve estar pronto para começar a produzir resultados mais atraentes.
 
-Boa iluminação! Baixe o [versão mais recente](https://creativecloud.adobe.com/apps/download/[!DNL Dimension]) de Dimension hoje.
+Boa iluminação! Baixe o [versão mais recente](https://creativecloud.adobe.com/apps/download/Dimension) de Dimension hoje.

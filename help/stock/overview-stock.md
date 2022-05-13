@@ -4,16 +4,16 @@ description: Tutorials para ajudá-lo a se atualizar sobre o Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 9dcf4a3054e528cd2cddeaa371f0b36e0039638d
 workflow-type: tm+mt
-source-wordcount: '1194'
+source-wordcount: '1196'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Stock] tutoriais
 
-!![Creative Cloud Hero Image](../assets/[!DNL Stock].jpg)
+![Creative Cloud Hero Image](../assets/Stock.jpg)
 
 A equipe de criação está sob pressão para fornecer rapidamente conteúdo novo e visualmente atraente que capture e preste atenção. Adobe [!DNL Stock] para corporações dá às equipes de criação acesso a mais de 200 milhões de imagens, vídeos, modelos, ilustrações, arquivos de áudio e ativos 3D, tudo isso nos aplicativos de criação da Adobe que usam todos os dias.
 
