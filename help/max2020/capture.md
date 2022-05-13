@@ -4,10 +4,10 @@ description: Adobe [!DNL Capture] transforma celulares e tablets em uma ferramen
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 591ecf1cf915c81fb53d9d9185e7e234d5a339b9
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ Adobe [!DNL Capture] transforma celulares e tablets em uma ferramenta de coleç�
     <div>
    <a href="capture.md#tutorial1"><strong>Capture a inspiração do mundo ao seu redor</strong></a>
     </div>
-    <em>Use as poderosas ferramentas de seleção e edição de cores no Adobe capture para mudar drasticamente uma imagem para atender às suas necessidades de marca corporativa</em>
+    <em>Use as poderosas ferramentas de seleção e edição de cores do Adobe Capture para mudar drasticamente uma imagem para atender às suas necessidades de marca corporativa</em>
     <br>
   </td>
   <td>
