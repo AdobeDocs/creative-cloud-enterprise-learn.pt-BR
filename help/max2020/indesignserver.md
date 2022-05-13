@@ -4,9 +4,9 @@ description: O software de servidor Adobe Adobe ® InDesign ® oferece um mecani
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 6e04256e587cdf82fc5ce150451697f8c8322b45
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![Tutorial Hero Image](../assets/InDesignServer.jpg)
 
-O software de servidor Adobe Adobe ® InDesign ® oferece um mecanismo robusto e escalável que aproveita os recursos de design, layout e tipografia do InDesign para que você crie documentos automatizados envolventes de forma programática.
+O software Adobe InDesign ® Server oferece um mecanismo robusto e escalável que aproveita os recursos de design, layout e tipografia do InDesign para que você crie documentos automatizados envolventes de forma programática.
 
 ## Procurar Tutorials de produtos
 
