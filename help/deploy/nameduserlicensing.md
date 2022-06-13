@@ -4,9 +4,9 @@ description: O licenciamento de produtos Adobe por meio do Licenciamento por usu
 role: User
 level: Beginner, Intermediate
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 82f7d93855e57500669e83af6b1a73f5335ae813
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '633'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ No cenário atual, o gerenciamento de TI teve que mudar rapidamente para uma exp
 
 O licenciamento de produtos Adobe por meio do Licenciamento por usuário nomeado (NUL) permite que os administradores de TI implantem e gerenciem facilmente as ferramentas Adobe usando o Admin Console e dá aos usuários finais acesso a aplicativos de criação e produtividade de alto nível e a serviços da Adobe Cloud, mesmo que toda a força de trabalho seja remota.
 
-Se a sua organização não estiver usando um NUL e ainda estiver usando a implantação serializada para produtos Adobe, seus números de série poderão expirar em breve. Para evitar a interrupção do serviço, é importante planejar a migração para NUL antes de [os números de série expiram](https://blogs.adobe.com/deployment/understanding-serialnumberexpiration).
+Se a sua organização não estiver usando um NUL e ainda estiver usando a implantação serializada para produtos Adobe, seus números de série poderão expirar em breve. Para evitar a interrupção do serviço, é importante planejar a migração para NUL antes que os números de série expirem.
 
 ## Sobre o licenciamento por usuário nomeado
 
