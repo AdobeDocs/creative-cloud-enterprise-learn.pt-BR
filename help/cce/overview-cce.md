@@ -4,9 +4,9 @@ description: Tutorials para ajudá-lo a se atualizar sobre os produtos Creative 
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 48f5ce6a9d19018a14cb1bf092994641b9c42cd5
+source-git-commit: ba9266ed28d6c9db6f5fe64989b43374c4166673
 workflow-type: tm+mt
-source-wordcount: '1401'
+source-wordcount: '1419'
 ht-degree: 0%
 
 ---
@@ -230,8 +230,6 @@ Como criativo corporativo, você deve colaborar com equipes distribuídas, estab
     <em>Elimine o tédio e poupe muito tempo usando Ações no Photoshop</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
       <img alt="Trabalhe com mais inteligência e facilidade com o Photoshop" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
@@ -260,11 +258,6 @@ Como criativo corporativo, você deve colaborar com equipes distribuídas, estab
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>A tela verde não é apenas para vídeo (PDF)</strong></a>
     </div>
     <em>Você pode usar a tela verde em um estúdio de fotos e usar o After Effects para preparar o uso da foto no Photoshop</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaçador" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>  
@@ -396,6 +389,16 @@ Como criativo corporativo, você deve colaborar com equipes distribuídas, estab
 
 <table  style="table-layout:fixed">
 <tr>
+<td>
+   <a href="assets/TamingTypeAnxiety.pdf">
+      <img alt="Ansiedade do tipo de domesticação" src="assets/TamingTypeAnxiety.jpg" />
+   </a>
+    <div>
+   <a href="assets/TamingTypeAnxiety.pdf"><strong>Ansiedade do tipo de domesticação (PDF)</strong></a>
+    </div>
+    <em>Saiba como acessar e usar mais de 20 mil fontes de design profissional no Creative Cloud</em>
+    <br>
+  </td>
   <td>
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
       <img alt="Criação de uma bela tipografia com o Creative Cloud" src="assets/CreatingBeautifulTypographywithCreativeCloud.jpg" />
@@ -426,12 +429,6 @@ Como criativo corporativo, você deve colaborar com equipes distribuídas, estab
     <em>O formato de OpenType permite que uma fonte contenha até 65.536 glifos</em>
     <br>
   </td>
-  <td>
-    <img alt="Espaçador" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
 </table>
 
 ### InDesign
