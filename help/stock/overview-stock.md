@@ -4,9 +4,9 @@ description: Tutorials para ajudá-lo a se atualizar sobre o Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 9dcf4a3054e528cd2cddeaa371f0b36e0039638d
+source-git-commit: 7db89df9d3fed62368eb9fb1d3caf1f6b969060b
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1208'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,7 @@ ht-degree: 0%
 
 ![Creative Cloud Hero Image](../assets/Stock.jpg)
 
-A equipe de criação está sob pressão para fornecer rapidamente conteúdo novo e visualmente atraente que capture e preste atenção. Adobe [!DNL Stock] para corporações dá às equipes de criação acesso a mais de 200 milhões de imagens, vídeos, modelos, ilustrações, arquivos de áudio e ativos 3D, tudo isso nos aplicativos de criação da Adobe que usam todos os dias.
-
+A equipe de criação está sob pressão para fornecer conteúdo visual envolvente com rapidez. O Adobe Stock dá às equipes de criação acesso a mais de 300 milhões de imagens, vídeos, arquivos de áudio, modelos, ilustrações e ativos 3D isentos de royalties dentro dos aplicativos Creative Cloud que usam todos os dias. Tenha acesso ilimitado aos ativos padrão da Adobe Stock com o Creative Cloud Pro Edition. Explore as coleções mais recentes em stock.adobe.com
 
 ## Clique para exibir um Adobe [!DNL Stock] tutorial
 
@@ -88,10 +87,10 @@ A equipe de criação está sob pressão para fornecer rapidamente conteúdo nov
 <tr>
    <td>
       <a href="changecolors.md">
-         <img alt="Alterar uma Adobe [!DNL Stock] cores da imagem que combinam com a sua história" src="assets/changecolors.jpg" />
+         <img alt="Alterar uma Adobe [!DNL Stock] cores da imagem para corresponder à sua história" src="assets/changecolors.jpg" />
       </a>
       <div>
-      <a href="changecolors.md"><strong>Alterar uma Adobe [!DNL Stock] cores da imagem que combinam com a sua história</strong></a>
+      <a href="changecolors.md"><strong>Alterar uma Adobe [!DNL Stock] cores da imagem para corresponder à sua história</strong></a>
       </div>
       <em>Encontrar uma foto exclusiva no Adobe [!DNL Stock] e, em seguida, ajuste a cor no Adobe Photoshop para atender às suas necessidades</em>
       <br>
