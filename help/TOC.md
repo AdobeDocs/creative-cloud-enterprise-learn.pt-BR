@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud para corporações
 user-guide-description: Veja tutoriais e guias de referência rápida focados no Creative Cloud para corporações.
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: b99fa53168d2d2d4bb6c14ebf3a9a52e8f0af379
+source-git-commit: a8ce127bd9eee259bd1d37640abcfb41631a5fe3
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '374'
 ht-degree: 8%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 8%
 + CCE {#cceoverview}
    + [Visão geral](cce/overview-cce.md)
    + Tutoriais {#ccetutorials}
+      + [Acrobat para criadores de conteúdo](cce/acrobat-content-creators.md)
       + [Criação de bibliotecas Creative Cloud para equipes](cce/ccteamlibraries.md)
       + [Compartilhamento de ativos de identidade visual com as Bibliotecas Creative Cloud para equipes](cce/sharecclibraries.md)
       + [Criar composições únicas com o Adobe [!DNL Stock] e Photoshop para iPad](cce/compositepsipad.md)
@@ -34,7 +35,7 @@ ht-degree: 8%
       + [Animar um Adobe [!DNL Stock] ilustração vetorial no Photoshop](stock/animatevector.md)
       + [Comece seu relatório anual com um vídeo criado com o Adobe [!DNL Stock] e Spark Video](stock/annualreport.md)
       + [Dê vida à criatividade com animações personalizadas do Adobe [!DNL Stock]](stock/customanimations.md)
-      + [Alterar uma Adobe [!DNL Stock] cores da imagem que combinam com a sua história](stock/changecolors.md)
+      + [Alterar uma Adobe [!DNL Stock] cores da imagem para corresponder à sua história](stock/changecolors.md)
       + [Criar uma colagem 3D para um pôster usando Adobe [!DNL Stock] imagens](stock/collage.md)
       + [Criar um rótulo em negrito com Adobe [!DNL Stock] modelos e Photoshop Smart Objects](stock/boldlabel.md)
       + [Crie um infográfico de diretrizes da empresa com o Adobe [!DNL Stock]](stock/infographic.md)
@@ -51,10 +52,6 @@ ht-degree: 8%
       + [Personalize uma animação de tela de carregamento com o Adobe [!DNL Stock] XD e](stock/loadingscreen.md)
       + [Personalizar um Adobe [!DNL Stock] modelo de apresentação para parecer profissional](stock/presentationtemplate.md)
       + [Personalizar as cores em um Adobe [!DNL Stock] ilustração vetorial](stock/customizecolors.md)
-+ XD {#xdoverview}
-   + [Visão geral](xd/overview-xd.md)
-   + Tutoriais {#xdtutorials}
-   + [Fique confortável com [!UICONTROL Componentes] no Adobe XD](xd/components.md)
 + 3D e realidade virtual {#3doverview}
    + [Visão geral](3di/overview-3di.md)
    + Tutoriais {#3dtutorials}
@@ -62,7 +59,14 @@ ht-degree: 8%
       + [Criação de fotografia virtual fotorrealista com renderização e composição 3D](3di/photorealistic.md)
       + [Personalize e crie uma marca para um modelo 3D com [!DNL Dimension] e Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Vídeo {#videooverview}
-   + [Tutoriais](dva/overview-dva.md)
+   + [Visão geral](dva/overview-dva.md)
+   + Tutoriais {#videotutorials}
+      + [Revisão de vídeo com Frame.io](dva/video-review-frame-io.md)
+   + [Guias de referência rápida](dva/overview-dva-ref.md)
++ XD {#xdoverview}
+   + [Visão geral](xd/overview-xd.md)
+   + Tutoriais {#xdtutorials}
+   + [Fique confortável com [!UICONTROL Componentes] no Adobe XD](xd/components.md)
 + Implantar e gerenciar {#deploy}
    + [Visão geral](deploy/overview-deploy.md)
    + [Expiração do número de série](deploy/cceserial.md)
