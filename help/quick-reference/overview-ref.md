@@ -4,7 +4,7 @@ description: Tutorials para ajudá-lo a se atualizar sobre os produtos Creative 
 role: User
 level: Beginner, Intermediate
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: e213f4535acfa0d032e829a5a2f91bccf77020c3
+source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 0%
@@ -375,12 +375,12 @@ Como criativo corporativo, você deve colaborar com equipes distribuídas, estab
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Espaçador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Espaçador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

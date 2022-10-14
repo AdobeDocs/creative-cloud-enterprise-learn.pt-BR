@@ -4,7 +4,7 @@ description: Tutorials para ajudá-lo a se atualizar sobre os produtos Creative 
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b529575f0c128b55509cadafc07fe3d008c987a3
+source-git-commit: 384f104dd62a89b5874f7c5ba666fca56755c905
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -316,11 +316,11 @@ Como criativo corporativo, você deve colaborar com equipes distribuídas, estab
 <table  style="table-layout:fixed">
 <tr>
 <td>
-   <a href="assets/TamingTypeAnxiety.pdf">
+   <a href="Taming-font-anxiety.md">
       <img alt="Ansiedade do tipo de domesticação" src="assets/TamingTypeAnxiety.jpg" />
    </a>
     <div>
-   <a href="assets/TamingTypeAnxiety.pdf"><strong>Ansiedade do tipo de domesticação (PDF)</strong></a>
+   <a href="Taming-font-anxiety.md"><strong>Ansiedade do tipo de domesticação (PDF)</strong></a>
     </div>
     <em>Saiba como acessar e usar mais de 20 mil fontes de design profissional no Creative Cloud</em>
     <br>
