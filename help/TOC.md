@@ -4,10 +4,10 @@ breadcrumb-title: Creative Cloud para corporações
 user-guide-description: Veja tutoriais e guias de referência rápida focados no Creative Cloud para corporações.
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: a8ce127bd9eee259bd1d37640abcfb41631a5fe3
+source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 8%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,6 +19,7 @@ ht-degree: 8%
    + [Visão geral](cce/overview-cce.md)
    + Tutoriais {#ccetutorials}
       + [Acrobat para criadores de conteúdo](cce/acrobat-content-creators.md)
+      + [Aprimore fluxos de trabalho da CC com as Bibliotecas da CC](cce/cc-workflows-cc-libraries.md)
       + [Criação de bibliotecas Creative Cloud para equipes](cce/ccteamlibraries.md)
       + [Compartilhamento de ativos de identidade visual com as Bibliotecas Creative Cloud para equipes](cce/sharecclibraries.md)
       + [Criar composições únicas com o Adobe [!DNL Stock] e Photoshop para iPad](cce/compositepsipad.md)

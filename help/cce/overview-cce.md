@@ -4,9 +4,9 @@ description: Tutorials para ajudá-lo a se atualizar sobre os produtos Creative 
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: eb461cadf0dc4c2122e3772e6d8f082516fd14f0
+source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
 workflow-type: tm+mt
-source-wordcount: '1423'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Como criativo corporativo, você deve colaborar com equipes distribuídas, estab
 <table style="table-layout:fixed">
 <tr>
  <td>
-   <a href="assets/AcrobatforContentCreators.pdf">
+   <a href="acrobat-content-creators.md">
       <img alt="Acrobat para criadores de conteúdo" src="assets/AcrobatforContentCreators.jpg" />
    </a>
     <div>
-   <a href="assets/AcrobatforContentCreators.pdf"><strong>Acrobat para criadores de conteúdo (PDF)</strong></a>
+   <a href="acrobat-content-creators.md"><strong>Acrobat para criadores de conteúdo (PDF)</strong></a>
     </div>
     <em>Saiba mais sobre as ferramentas do Acrobat que ajudam a simplificar fluxos de trabalho de criação</em>
     <br>
@@ -141,6 +141,16 @@ Como criativo corporativo, você deve colaborar com equipes distribuídas, estab
 <table  style="table-layout:fixed">
 <tr>
   <td>
+   <a href="cc-workflows-cc-libraries.md">
+      <img alt="Aprimore fluxos de trabalho da CC com as Bibliotecas da CC" src="assets/CCTeamLibraries_1280.jpg" />
+   </a>
+   <div>
+   <a href="cc-workflows-cc-libraries.md"><strong>Aprimore fluxos de trabalho da CC com as Bibliotecas da CC</strong></a>
+    </div>
+    <em>Saiba como as Bibliotecas Creative Cloud mantêm os elementos de design juntos, garantindo a consistência do projeto para designers e equipes</em>
+    <br>
+  </td>
+  <td>
    <a href="ccteamlibraries.md">
       <img alt="Criação de bibliotecas Creative Cloud para equipes" src="assets/CCTeamLibraries_1280.jpg" />
    </a>
@@ -170,6 +180,8 @@ Como criativo corporativo, você deve colaborar com equipes distribuídas, estab
     <em>As Bibliotecas da Creative Cloud fornecem um sistema integrado de marca que permite aos designers compartilhar ativos de marca entre equipes criativas</em>
     <br>
   </td>
+  </tr>
+  <tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
       <img alt="Compartilhar estilos de texto do Illustrator com bibliotecas Creative Cloud" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
@@ -178,6 +190,21 @@ Como criativo corporativo, você deve colaborar com equipes distribuídas, estab
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Compartilhar estilos de texto do Illustrator com bibliotecas Creative Cloud (PDF)</strong></a>
     </div>
     <em>Trabalhe com mais inteligência e facilidade no Illustrator</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
