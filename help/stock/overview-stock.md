@@ -4,9 +4,9 @@ description: Tutorials para ajudá-lo a se atualizar sobre o Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
+source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
 workflow-type: tm+mt
-source-wordcount: '1211'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -259,9 +259,7 @@ A equipe de criação está sob pressão para fornecer conteúdo visual envolven
     <em>Deixe os projetos perfeitos com uma ilustração incrível. Encontre o vetor perfeito em Adobe [!DNL Stock]e, em seguida, corresponda as cores à paleta do seu projeto usando o Adobe Illustrator</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
          <img alt="Adicionar movimento a imagens estáticas com o Adobe [!DNL Stock] e Photoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
       </a>
@@ -303,8 +301,6 @@ A equipe de criação está sob pressão para fornecer conteúdo visual envolven
       <em>Reúna duas imagens diferentes para criar uma cena totalmente nova para seus projetos de design. Adobe [!DNL Stock] e o Adobe Photoshop facilitam</em>
       <br>
    </td>
-</tr>
-<tr>
    <td>
       <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank">
          <img alt="Criação de uma cinemagogia de Halloween com o Photoshop CC e o Adobe [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
@@ -315,6 +311,8 @@ A equipe de criação está sob pressão para fornecer conteúdo visual envolven
       <em>Crie uma cinemagrafia compondo vídeos, ilustrações e fotos com o Adobe Photoshop</em>
       <br>
   </td>
+</tr>
+<tr>
    <td>
       <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank">
          <img alt="Coloque seus dados em movimento com o Adobe [!DNL Stock] e Premiere Pro" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
@@ -345,9 +343,7 @@ A equipe de criação está sob pressão para fornecer conteúdo visual envolven
       <em>Siga estas etapas para mostrar seu trabalho em um Adobe realista [!DNL Stock] modelo usando o Adobe Photoshop</em>
       <br>
   </td>
- </tr> 
- <tr>
-   <td>
+  <td>
       <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank">
          <img alt="Descubra detalhes incríveis em Adobe [!DNL Stock] imagens com o Lightroom for mobile" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
       </a>
@@ -357,6 +353,8 @@ A equipe de criação está sob pressão para fornecer conteúdo visual envolven
       <em>Descubra o poder do Lightroom no seu dispositivo móvel para tirar o melhor de suas imagens</em>
       <br>
   </td>
+ </tr> 
+ <tr>
    <td>
       <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
          <img alt="Visualize designs de pôster no mundo real com o Adobe [!DNL Stock] e Photoshop" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
@@ -368,12 +366,17 @@ A equipe de criação está sob pressão para fornecer conteúdo visual envolven
       <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <img alt="Espaçador" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <img alt="Espaçador" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
