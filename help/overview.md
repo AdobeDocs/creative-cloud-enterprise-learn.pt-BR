@@ -1,21 +1,21 @@
 ---
-title: Tutoriais
-description: Bem-vindo ao Hub de Aprendizado do Creative Cloud para corporações
+title: Creative Cloud para Tutorials corporativos
+description: Bem-vindo à central de aprendizado do Creative Cloud para corporações
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: cdb318618d08ab0eab1ec88c3faa3354e11f2fab
+source-git-commit: ab1ccf6b37a5fd9ca55edf9d9b7bee66bf7c73e3
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 10%
+source-wordcount: '173'
+ht-degree: 9%
 
 ---
 
-# Creative Cloud para Tutorials corporações
+# Creative Cloud para tutoriais corporativos
 
 ![Creative Cloud Hero Image](assets/hero_cce.jpg)
 
-Bem-vindo ao Hub de Aprendizado do Creative Cloud para corporações. Você encontrará uma ampla variedade de experiências de aprendizado voltadas para o Creative Cloud para empresas. Nossos tutoriais, webinários e casos de uso foram criados para atualizar rapidamente iniciantes e administradores no Creative Cloud para produtos corporativos.
+Bem-vindo ao centro de aprendizado Creative Cloud para empresas. Aqui você encontra uma ampla variedade de experiências de aprendizado voltadas para o Creative Cloud para empresas. Nossos tutoriais, webinários e casos de uso foram criados para atualizar rapidamente iniciantes e administradores no Creative Cloud para produtos corporativos.
 
 ## Procurar tópicos
 
@@ -42,18 +42,6 @@ Bem-vindo ao Hub de Aprendizado do Creative Cloud para corporações. Você enco
     <br>
   </td>
   <td>
-    <a href="xd/overview-xd.md">
-      <img alt="Adobe XD" src="assets/XD.jpg" />
-    </a>
-    <div>
-   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
-    </div>
-    <em>Design, prototipagem e compartilhamento de experiências de usuário</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
    <a href="3di/overview-3di.md">
       <img alt="Adobe 3D E VR" src="assets/Dimenio.jpg" />
     </a>
@@ -63,6 +51,8 @@ Bem-vindo ao Hub de Aprendizado do Creative Cloud para corporações. Você enco
     <em>Criação de imagens em 3D fotorrealistas para identidade visual, fotos de produto e design de embalagens</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
   <a href="dva/overview-dva.md">
       <img alt="Vídeo Adobe" src="assets/CCEbanner-DVA.png" />
@@ -71,6 +61,16 @@ Bem-vindo ao Hub de Aprendizado do Creative Cloud para corporações. Você enco
    <a href="dva/overview-dva.md"><strong>Vídeo Adobe</strong></a>
     </div>
     <em>Dê vida às suas ideias com o software e os aplicativos Adobe para edição de vídeo, efeitos visuais, animações e muito mais</em>
+    <br>
+  </td>
+  <td>
+    <a href="xd/overview-xd.md">
+      <img alt="Adobe XD" src="assets/XD.jpg" />
+    </a>
+    <div>
+   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
+    </div>
+    <em>Design, prototipagem e compartilhamento de experiências de usuário</em>
     <br>
   </td>
   <td>
