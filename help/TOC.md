@@ -4,7 +4,7 @@ breadcrumb-title: Creative Cloud para corporações
 user-guide-description: Veja tutoriais e guias de referência rápida focados em Creative Cloud para corporações
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 54260475720010fa756d67dd5175888e9bd5cc05
+source-git-commit: 9ba263d5a4d9b870653bf0e7cb848b910836cfd8
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 9%
@@ -28,7 +28,7 @@ ht-degree: 9%
       + [Decodificação da sopa de letras dos formatos gráficos](cce/alphabetsoup.md)
       + [Experimente Frescos no iPad e no iPhone](cce/frescoworkshop.md)
    + Guias de referência rápida {#ccerefguides}
-   + [CCE guides](quick-reference/overview-ref.md)
+      + [CCE guides](quick-reference/overview-ref.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Visão geral](stock/overview-stock.md)
    + Tutoriais {#stocktutorials}
