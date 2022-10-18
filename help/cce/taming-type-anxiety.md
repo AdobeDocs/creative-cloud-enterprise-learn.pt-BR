@@ -4,7 +4,7 @@ description: Saiba como acessar e usar mais de 20 mil fontes de design profissio
 role: User
 level: Beginner, Intermediate
 thumb: KT-10963.jpg
-source-git-commit: 72274ddcf4419935bb7ac2abf5170c1138a4b86b
+source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -17,4 +17,4 @@ Entre as muitas vantagens de uma assinatura do Adobe Creative Cloud está o aces
 
 Selecione a imagem abaixo para visualizar ou baixar este tutorial em PDF.
 
-[![Imagem da primeira página do tutorial](assets/TamingTypeAnxiety.jpg){&quot;width=680&quot;}](assets/TamingTypeAnxiety.pdf){target=&quot;blank&quot;}
+[![Imagem da primeira página do tutorial](assets/TamingTypeAnxiety.png){&quot;width=680&quot;}](assets/TamingTypeAnxiety.pdf){target=&quot;blank&quot;}

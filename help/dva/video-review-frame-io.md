@@ -4,7 +4,7 @@ description: Saiba como a extensão Frame.io para Adobe Premiere Pro permite cen
 role: User
 level: Beginner, Intermediate
 thumb: KT-11296.jpg
-source-git-commit: 72274ddcf4419935bb7ac2abf5170c1138a4b86b
+source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
@@ -17,4 +17,4 @@ Colabore onde for criar. Saiba como a extensão Frame.io para Adobe Premiere Pro
 
 Selecione a imagem abaixo para visualizar ou baixar este tutorial em PDF.
 
-[![Imagem da primeira página do tutorial](assets/Videoreviewwithframe.jpg){&quot;width=680&quot;}](assets/Video-review-with-Frame.io.pdf){target=&quot;blank&quot;}
+[![Imagem da primeira página do tutorial](assets/Videoreviewwithframe.png){&quot;width=680&quot;}](assets/Video-review-with-Frame.io.pdf){target=&quot;blank&quot;}
