@@ -4,9 +4,9 @@ description: Saiba mais sobre as principais ferramentas do Adobe Acrobat que aju
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
-source-git-commit: 6234a6496321536c1a36d91e72322e4cc4911862
+source-git-commit: 05689444c056feb01a147579150b20ce4b8e0f20
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,4 @@ Como criador de conteúdo, você provavelmente gera PDF e, em seguida, visualiza
 
 <br> 
 
-[![Imagem da primeira página do tutorial](assets/Acrobatforcontentcreators.png){&quot;width=680&quot;}](&quot;assets/AcrobatForContentCreators.pdf&quot; target=&quot;_blank&quot;)
+[![Imagem da primeira página do tutorial](assets/Acrobatforcontentcreators.png){&quot;width=680&quot;}](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/assets/AcrobatForContentCreators.pdf target=&quot;_blank&quot;)
