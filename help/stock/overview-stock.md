@@ -4,9 +4,9 @@ description: Tutorials para ajudá-lo a se atualizar sobre o Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 8776e5bf06700702223c284d5be437019654a793
+source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
 workflow-type: tm+mt
-source-wordcount: '1240'
+source-wordcount: '1242'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ A equipe de criação está sob pressão para fornecer conteúdo visual envolven
 <tr>
    <td>
       <a href="stunning-digital-assets.md">
-         <img alt="Ativos digitais incríveis" src="assets/Stunningdigitalassets.png" />
+         <img alt="Ativos digitais impressionantes (PDF)" src="assets/Stunningdigitalassets.png" />
       </a>
       <div>
-      <a href="stunning-digital-assets.md"><strong>Ativos digitais incríveis</strong></a>
+      <a href="stunning-digital-assets.md"><strong>Ativos digitais impressionantes (PDF)</strong></a>
       </div>
       <em>Saiba como integrar o Adobe Stock às Bibliotecas da CC para criar resultados de design consistentes e profissionais para impressão e tela neste tutorial prático</em>
       <br>
