@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud para corporações
 user-guide-description: Veja tutoriais e guias de referência rápida focados em Creative Cloud para corporações
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 6213900f0618e843bed50af6386bed8f1d4b3ab3
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '415'
 ht-degree: 9%
 
 ---
@@ -61,12 +61,14 @@ ht-degree: 9%
 + Adobe 3D E VR {#3doverview}
    + [Visão geral](3di/overview-3di.md)
    + Tutoriais {#3dtutorials}
+      + [Design e renderização 3D](3di/substance-3d-stager.md)
       + [Dicas e técnicas para dominar a iluminação 3D em CGI](3di/mastering3dlighting.md)
       + [Criação de fotografia virtual fotorrealista com renderização e composição 3D](3di/photorealistic.md)
       + [Personalize e crie uma marca para um modelo 3D com [!DNL Dimension] e Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Vídeo Adobe {#videooverview}
    + [Visão geral](dva/overview-dva.md)
    + Tutoriais {#videotutorials}
+      + [Modelos de animações profissionais](dva/motion-graphics-templates.md)
       + [Revisão de vídeo com Frame.io](dva/video-review-frame-io.md)
    + Guias de referência rápida {#videorefguides}
       + [Guias de vídeo](dva/overview-dva-ref.md)
