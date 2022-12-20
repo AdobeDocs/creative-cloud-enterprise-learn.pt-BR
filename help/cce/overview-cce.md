@@ -4,9 +4,9 @@ description: Tutorials para ajudá-lo a se atualizar sobre os produtos Creative 
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
+source-git-commit: b55059508f33e040d6238fadf3a15a18e0131d0a
 workflow-type: tm+mt
-source-wordcount: '1456'
+source-wordcount: '1534'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,26 @@ Como criativo corporativo, você deve colaborar com equipes distribuídas, estab
 <table style="table-layout:fixed">
 <tr>
  <td>
+   <a href="adobe-express-content-that-stands-out.md">
+      <img alt="Adobe Express: Conteúdo que se destaca" src="assets/Adobe-Express-content-that-stands-out.png" />
+   </a>
+    <div>
+   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express: Conteúdo que se destaca</strong></a>
+    </div>
+    <em> Criação de imagens, páginas da Web e histórias em minutos com o Adobe Express</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
+      <img alt="Criação da sua marca no Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Criação da sua marca no Adobe Spark (PDF)</strong></a>
+    </div>
+    <em>O Adobe Spark facilita a definição da sua marca</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
       <img alt="Adicionar uma apresentação de slides à sua Spark Page" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
    </a>
@@ -83,11 +103,6 @@ Como criativo corporativo, você deve colaborar com equipes distribuídas, estab
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Conheça Seu Novo Artista De Produção: Adobe Spark Post (PDF)</strong></a>
     </div>
     <em>O Adobe Spark aprende com você ao criar layouts, definir cores, importar arte e organizar elementos em suas composições</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaçador" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -214,6 +229,16 @@ Como criativo corporativo, você deve colaborar com equipes distribuídas, estab
 <table style="table-layout:fixed">
 <tr>
  <td>
+   <a href="collaboration-the-future-of-creativity.md">
+      <img alt="Colaboração: O futuro da criatividade" src="assets/Collaboration-The-Future-of-Creativity.png" />
+   </a>
+    <div>
+   <a href="collaboration-the-future-of-creativity.md"><strong>Colaboração: O futuro da criatividade</strong></a>
+    </div>
+    <em>Entre as muitas vantagens de uma assinatura do Adobe Creative Cloud está o acesso gratuito a mais de 20 mil fontes com design e curadoria profissionais do Adobe Fonts</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf">
       <img alt="De letras desenhadas à mão para o Illustrator via Creative Cloud" src="assets/FromHandLetteringtoIllustratorviaCreativeCloud.jpg" />
    </a>
@@ -231,16 +256,6 @@ Como criativo corporativo, você deve colaborar com equipes distribuídas, estab
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Da Lightroom Web ao InDesign via Creative Cloud (PDF)</strong></a>
     </div>
     <em>Leve sua criatividade da câmera ao design final com arquivos e bibliotecas Creative Cloud</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaçador" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaçador" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>

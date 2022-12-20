@@ -6,16 +6,16 @@ level: Beginner, Intermediate
 kt: 8209
 thumbnail: KT-8209
 exl-id: 1cb0d14d-4aa5-4002-85dc-e54f25b39945
-source-git-commit: f44f4c5cda6cd6bafccdff64a4d0f46213b67cbb
+source-git-commit: 6cca086e375f882cf822d2cbd2811e253a4c4b74
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
 # Criação de bibliotecas Creative Cloud para equipes
 
-Neste tutorial em vídeo, aprenda a compartilhar ativos dentro de um grupo ou equipe usando as Bibliotecas Creative Cloud para equipes. Esses tipos de biblioteca não são vinculados a uma conta de usuário individual, mas sim a biblioteca que pertence à equipe. Você pode identificar as bibliotecas de equipe pelo ![criação de imagem](assets/Smock_Building_18_N.png) ícone.
+Saiba como compartilhar ativos em um grupo ou equipe usando as Bibliotecas Creative Cloud para equipes. Esses tipos de biblioteca não são vinculados a uma conta de usuário individual, mas sim a biblioteca que pertence à equipe. Você pode identificar as bibliotecas de equipe pelo ![criação de imagem](assets/Smock_Building_18_N.png) ícone.
 
 >[!TIP]
 >
