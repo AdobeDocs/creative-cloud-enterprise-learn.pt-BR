@@ -4,9 +4,9 @@ description: Tutorials para ajudá-lo a se atualizar sobre os produtos Creative 
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+source-git-commit: a2319e107b620cc2e0f997dde8cf7235fd5e6779
 workflow-type: tm+mt
-source-wordcount: '1530'
+source-wordcount: '1529'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Como criativo corporativo, você deve colaborar com equipes distribuídas, estab
       <img alt="Acrobat para criadores de conteúdo" src="assets/Acrobatforcontentcreators.png" />
    </a>
     <div>
-   <a href="acrobat-content-creators.md"><strong>Acrobat para criadores de conteúdo (PDF)</strong></a>
+   <a href="acrobat-content-creators.md"><strong>Acrobat para criadores de conteúdo</strong></a>
     </div>
     <em>Saiba mais sobre as ferramentas do Acrobat que ajudam a simplificar fluxos de trabalho de criação</em>
     <br>
