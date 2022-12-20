@@ -4,9 +4,9 @@ description: Tutorials para ajudá-lo a se atualizar sobre os produtos Adobe DVA
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+source-git-commit: a9ac2b3752113ae5ae722a091e8f1242de0273e7
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Dê vida às suas ideias com softwares e aplicativos Adobe para edição de víd
       <img alt="Revisão de vídeo com Frame-io" src="assets/Videoreviewwithframe.png" />
    </a>
     <div>
-   <a href="video-review-frame-io.md"><strong>Revisão de vídeo com Frame.io (PDF)</strong></a>
+   <a href="video-review-frame-io.md"><strong>Revisão de vídeo com Frame.io</strong></a>
     </div>
     <em>Saiba como a extensão Frame.io para Adobe Premiere Pro permite centralizar e compartilhar ativos, receber comentários em tempo real, monitorar revisões e obter aprovações mais rápidas, tudo isso sem sair da linha do tempo</em>
     <br>
