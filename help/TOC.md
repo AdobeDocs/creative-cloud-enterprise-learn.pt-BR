@@ -7,7 +7,7 @@ type: Tutorial
 source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 9%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 # Creative Cloud para tutoriais corporativos {#cce-learning-hub}
 
 + [Visão geral](overview.md)
-+ Creative Cloud para empresas {#cceoverview}
++ Creative Cloud para corporações {#cceoverview}
    + [Visão geral](cce/overview-cce.md)
    + Tutoriais {#ccetutorials}
       + [Acrobat para criadores de conteúdo](cce/acrobat-content-creators.md)
@@ -33,7 +33,7 @@ ht-degree: 9%
       + [CCE guides](quick-reference/overview-ref.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Visão geral](stock/overview-stock.md)
-   + Tutoriais {#stocktutorials}
+   + Tutorials {#stocktutorials}
       + [Ativos digitais incríveis](stock/stunning-digital-assets.md)
       + [Adobe de pesquisa [!DNL Stock] histórico de licenciamento](stock/searchstock.md)
       + [Adicionar uma estética desenhada à mão ao Adobe [!DNL Stock] imagens](stock/handdrawn.md)
@@ -60,21 +60,21 @@ ht-degree: 9%
       + [Personalizar as cores em um Adobe [!DNL Stock] ilustração vetorial](stock/customizecolors.md)
 + Adobe 3D E VR {#3doverview}
    + [Visão geral](3di/overview-3di.md)
-   + Tutoriais {#3dtutorials}
+   + Tutorials {#3dtutorials}
       + [Design e renderização 3D](3di/substance-3d-stager.md)
       + [Dicas e técnicas para dominar a iluminação 3D em CGI](3di/mastering3dlighting.md)
       + [Criação de fotografia virtual fotorrealista com renderização e composição 3D](3di/photorealistic.md)
       + [Personalize e crie uma marca para um modelo 3D com [!DNL Dimension] e Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Vídeo Adobe {#videooverview}
    + [Visão geral](dva/overview-dva.md)
-   + Tutoriais {#videotutorials}
+   + Tutorials {#videotutorials}
       + [Modelos de animações profissionais](dva/motion-graphics-templates.md)
       + [Revisão de vídeo com Frame.io](dva/video-review-frame-io.md)
    + Guias de referência rápida {#videorefguides}
       + [Guias de vídeo](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
    + [Visão geral](xd/overview-xd.md)
-   + Tutoriais {#xdtutorials}
+   + Tutorials {#xdtutorials}
    + [Fique confortável com [!UICONTROL Componentes] no Adobe XD](xd/components.md)
 + Implantar e gerenciar {#deploy}
    + [Visão geral](deploy/overview-deploy.md)
@@ -82,7 +82,7 @@ ht-degree: 9%
    + [Licenciamento por usuário nomeado](deploy/nameduserlicensing.md)
 + MAX 2020 {#max2020}
    + [Visão geral](max2020/overview-max.md)
-   + Tutoriais {#tutorials}
+   + Tutorials {#tutorials}
       + [Visão geral](max2020/maxtutorials.md)
       + Produtos para desktop {#desktop-products}
          + [Acrobat e Sign](max2020/acrobat-sign.md)
