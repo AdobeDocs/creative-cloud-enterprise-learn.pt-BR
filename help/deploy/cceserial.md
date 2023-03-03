@@ -4,9 +4,9 @@ description: Entendendo a experiência de expiração de número de série para 
 role: User
 level: Beginner, Intermediate
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 524d071b6f4e059823601381f04c337aedc55970
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '844'
 ht-degree: 3%
 
 ---
@@ -41,7 +41,7 @@ Os aplicativos Acrobat e Creative Cloud para empresas começarão a exibir mensa
 
 ### Creative Cloud para a experiência corporativa
 
-As informações a seguir descrevem a experiência do usuário final. Segue abaixo um breve vídeo seguido da revisão da experiência do usuário final.
+As informações a seguir descrevem a experiência do usuário final. Há um breve vídeo abaixo seguido pela revisão da experiência do usuário final.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
 
@@ -57,7 +57,7 @@ Depois que o número de série expirar, os usuários não terão mais acesso ao 
 
 ![Mensagem de expiração de CCE](assets/cceafterexpire.png)
 
-Em todas as tentativas subsequentes de iniciar os aplicativos, o usuário final será solicitado a **Fazer logon agora** seguido pela opção de criar seu próprio Adobe ID e entrar no modo de avaliação. No entanto, qualquer nova Adobe ID criada pelo usuário final não será associada às licenças da sua organização e causará confusão adicional aos usuários. Para evitar interrupções nos negócios e/ou confusão desnecessária, migre seus usuários para o licenciamento por usuário nomeado antes que seus números de série expirem.
+Em todas as tentativas subsequentes de iniciar os aplicativos, o usuário final será solicitado a **Fazer logon agora** seguido pela opção de criar seu próprio Adobe ID e entrar no modo de avaliação. No entanto, qualquer novo Adobe ID criado pelo usuário final não será associado às licenças da sua organização e causará confusão adicional aos usuários. Para evitar interrupções nos negócios e/ou confusão desnecessária, migre seus usuários para o licenciamento por usuário nomeado antes que seus números de série expirem.
 
 ![Caixa de diálogo de logon do CCE 1](assets/ccesignin1.png)
 
@@ -65,7 +65,7 @@ Em todas as tentativas subsequentes de iniciar os aplicativos, o usuário final 
 
 ### Experiência com o Acrobat
 
-As informações a seguir descrevem a experiência do usuário final. Segue abaixo um breve vídeo seguido da revisão da experiência do usuário final.
+As informações a seguir descrevem a experiência do usuário final. Há um breve vídeo abaixo seguido pela revisão da experiência do usuário final.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331749?hidetitle=true)
 
@@ -82,15 +82,15 @@ Quando o número de série expirar, os usuários não terão mais acesso ao Acro
 
 ![Acrobat após mensagem de expiração](assets/acrobatafterexpire.png)
 
-Em todas as tentativas subsequentes de iniciar o Acrobat, o usuário final será solicitado a **Fazer logon agora** seguido pela opção de criar seu próprio Adobe ID e entrar no modo de avaliação. No entanto, qualquer nova Adobe ID criada pelo usuário final não será associada às licenças da sua organização e causará confusão adicional aos usuários.
+Em todas as tentativas subsequentes de iniciar o Acrobat, o usuário final será solicitado a **Fazer logon agora** seguido pela opção de criar seu próprio Adobe ID e entrar no modo de avaliação. No entanto, qualquer novo Adobe ID criado pelo usuário final não será associado às licenças da sua organização e causará confusão adicional aos usuários.
 
-![Caixa de diálogo Fazer logon no Acrobat 1](assets/acrobatsignin1.png)
+![Acrobat Sign no diálogo 1](assets/acrobatsignin1.png)
 
-![Caixa de diálogo de logon do Acrobat 2](assets/acrobatsignin2.png)
+![Acrobat Sign no diálogo 2](assets/acrobatsignin2.png)
 
 ## Entre em contato se precisar de ajuda
 
 Se tiver dúvidas sobre como usar o [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) ou precisar de ajuda para migrar da implantação do número de série para o usuário nomeado, você tem algumas opções:
 * Envie um email para a equipe de integração corporativa do Adobe - **entonb@adobe.com**
 * Abra um tíquete de suporte no [Admin Console](https://adminconsole.adobe.com/support)
-* Entre em contato com seu gerente de contas do Adobe ou gerente de sucesso do cliente
+* Entre em contato com a equipe de conta da Adobe
