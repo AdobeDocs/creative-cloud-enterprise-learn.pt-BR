@@ -6,7 +6,7 @@ level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ Neste tutorial, você aprenderá a:
 
 **Clique em Imagem para baixar Learn Design to Print PDF**
 
-[![Aprenda a criar para imprimir](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
+[![Aprenda design para impressão](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
 
 **Apresentado por:**
 Patti Sokol, consultor principal de soluções (mídia digital)

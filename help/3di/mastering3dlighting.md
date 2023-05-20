@@ -33,7 +33,7 @@ O processo de criar uma renderização 3D nunca é totalmente o mesmo, mas estas
 1. Enquadrar a cena
 1. **Iluminação**
 1. Criação ou atribuição de material
-1. Renderização
+1. Renderizando
 
 Quando você chegar à fase de iluminação, é ideal para configurar suas luzes antes de trabalhar nos materiais. Para fazer isso, você pode atribuir um material cinza neutro e fosco à cena inteira. Dessa forma, você poderá ver e entender mais claramente como as luzes afetam as silhuetas dos objetos na cena. Após a conclusão dos materiais, a iluminação pode precisar de mais refinamento.
 

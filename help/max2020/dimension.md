@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Dimension]"'
-description: '"[!DNL Dimension] facilita a criação de visualizações de marcas, ilustrações, modelos de produtos, designs de embalagens e outros trabalhos criativos"'
+title: "[!DNL Dimension]"
+description: "[!DNL Dimension] facilita a criação de visualizações de marcas, ilustrações, modelos de produtos, designs de embalagens e outros trabalhos criativos"
 role: User
 level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
@@ -17,18 +17,18 @@ ht-degree: 0%
 
 Crie conteúdo envolvente em 3D com mais rapidez usando modelos, materiais e efeitos de iluminação de alta qualidade. [!DNL Dimension] facilita a criação de visualizações de marcas, ilustrações, modelos de produtos, designs de embalagens e outros trabalhos criativos.
 
-## Browse Product Tutorials
+## Procurar Tutorials de produtos
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="dimension.md#tutorial1">
-      <img alt="Apply Substance Materials to 3D Models" src="../assets/dimension_substanceAndGraphics_babbage_thumbnail.jpg" />
+      <img alt="Aplique materiais de Substance a modelos 3D" src="../assets/dimension_substanceAndGraphics_babbage_thumbnail.jpg" />
    </a>
     <div>
-   <a href="dimension.md#tutorial1"><strong>Apply Substance Materials to 3D Models</strong></a>
+   <a href="dimension.md#tutorial1"><strong>Aplique materiais de Substance a modelos 3D</strong></a>
     </div>
-    <em>Substance materials support thousands of variations of pattern and design in a single material</em>
+    <em>Os materiais Substance suportam milhares de variações de padrão e design em um único material</em>
     <br>
   </td>
   <td>
@@ -44,25 +44,25 @@ Crie conteúdo envolvente em 3D com mais rapidez usando modelos, materiais e efe
 </tr>
 </table>
 
-## Apply Substance Materials to 3D Models (11:42) {#tutorial1}
+## Aplicar materiais de Substance a modelos 3D (11:42) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326944?hidetitle=true)
 
 **Descrição**
 Os materiais Substance suportam milhares de variações de padrão e design em um único material.
 
-In this tutorial, you will learn how to:
+Neste tutorial, você aprenderá a:
 * Crie conteúdo envolvente em 3D com mais rapidez usando modelos, materiais e efeitos de iluminação de alta qualidade
 
-**Presented by:**
-Jim Babbage, Senior Solutions Consultant (Digital Media)
+**Apresentado por:**
+Jim Babbage, consultor sênior de soluções (mídia digital)
 
-![Dimension Logo](../assets/dn_appicon_96.png)
+![Logo da Dimension](../assets/dn_appicon_96.png)
 
 **Recursos do Dimension**
 
 [Aprendizagem e suporte](https://helpx.adobe.com/support/dimension.html) é sua central de serviços para tutoriais adicionais, [Novidades](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html)e links para fóruns da comunidade.
 
-**October 2020 Release**
+**Versão de outubro de 2020**
 
-Start using these features (and more!) baixando a atualização mais recente no aplicativo de desktop Creative Cloud.
+Comece a usar esses recursos (e muito mais!) baixando a atualização mais recente no aplicativo de desktop Creative Cloud.

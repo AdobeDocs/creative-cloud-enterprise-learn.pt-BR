@@ -7,7 +7,7 @@ exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
 source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
 workflow-type: tm+mt
 source-wordcount: '153'
-ht-degree: 5%
+ht-degree: 8%
 
 ---
 
@@ -57,7 +57,7 @@ Neste tutorial, você aprenderá a:
 * Gerenciar e compartilhar ativos
 * Acessar o Adobe Fonts
 * Descubra tutoriais
-* Compartilhe seu trabalho no Behance
+* Compartilhar seu trabalho no Behance
 
 **Apresentado por:**
 Patti Sokol, consultor principal de soluções (mídia digital)

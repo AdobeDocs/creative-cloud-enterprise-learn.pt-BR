@@ -4,9 +4,10 @@ description: Conheça as diversas vantagens de uma assinatura do Adobe Creative 
 role: User
 level: Beginner, Intermediate
 thumb: KT-11640.jpg
-source-git-commit: 9c294d0754bb6aa1489c5b5761d4522ecf0ad26a
+exl-id: 3018dc2f-eb21-41e3-ac61-28021492080e
+source-git-commit: 64ee96d6cb943cdb8bb708ecb89c426d5af1557e
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,4 @@ Entre as muitas vantagens de uma assinatura do Adobe Creative Cloud está o aces
 
 Selecione a imagem abaixo para visualizar ou baixar este tutorial em PDF.
 
-[![Imagem da primeira página do tutorial](assets/Collaboration-The-Future-of-Creativity.png){&quot;width=680&quot;}](assets/Collaboration-The-Future-of-Creativity.pdf){target=&quot;blank&quot;}
+[![Imagem da primeira página do tutorial](assets/Collaboration-The-Future-of-Creativity.png){&quot;width=680&quot;}](assets/Collaboration-The-Future-of-Creativity.pdf){target="blank"}

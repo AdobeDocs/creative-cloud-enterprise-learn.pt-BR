@@ -3,7 +3,8 @@ title: Guias de referência rápida de vídeo
 description: Guias de referência rápida para ajudá-lo a se familiarizar com os produtos Adobe DVA
 role: User
 level: Beginner, Intermediate
-source-git-commit: 52f7fef0c7b7317b84e8f4508b274eac5cf162dd
+exl-id: 513a5b86-fd31-42c5-aed3-82669889248f
+source-git-commit: 92b250d685ff39430d4ee4c3bb816ed8d7eb043f
 workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 1%

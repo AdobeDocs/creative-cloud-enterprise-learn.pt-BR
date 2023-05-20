@@ -7,7 +7,7 @@ thumb: KT-10963.jpg
 exl-id: 376359d9-9eaf-4e8e-8b60-fae07fc69908
 source-git-commit: 4b8f03e9c38f0cf5b403db8da050dc339ed1311a
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ Entre as muitas vantagens de uma assinatura do Adobe Creative Cloud, há o acess
 
 Selecione a imagem abaixo para visualizar ou baixar este tutorial em PDF.
 
-[![Imagem da primeira página do tutorial](assets/TamingTypeAnxiety.png){&quot;width=680&quot;}](assets/Adobe-Fonts-Taming-Font-Anxiety.pdf){target=&quot;blank&quot;}
+[![Imagem da primeira página do tutorial](assets/TamingTypeAnxiety.png){&quot;width=680&quot;}](assets/Adobe-Fonts-Taming-Font-Anxiety.pdf){target="blank"}

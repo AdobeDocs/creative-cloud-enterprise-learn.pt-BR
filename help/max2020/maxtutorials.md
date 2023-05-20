@@ -7,7 +7,7 @@ exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
 source-wordcount: '322'
-ht-degree: 6%
+ht-degree: 25%
 
 ---
 
@@ -48,7 +48,7 @@ Como criativo corporativo, você precisa colaborar com equipes distribuídas, es
     <div>
     <a href="illustrator.md"><strong>Illustrator</strong></a>
     </div>
-    <em>Ilustrações e gráficos vetoriais</em>
+    <em>Gráficos vetoriais e ilustrações</em>
     <br>
   </td>
 </tr>
@@ -80,7 +80,7 @@ Como criativo corporativo, você precisa colaborar com equipes distribuídas, es
     <div>
     <a href="rush.md"><strong>Rush</strong></a>
     </div>
-    <em>Criação e compartilhamento de vídeos online em qualquer lugar</em>
+    <em>Crie e compartilhe vídeos online em qualquer lugar</em>
     <br>
   </td>
 </tr>
@@ -129,7 +129,7 @@ Como criativo corporativo, você precisa colaborar com equipes distribuídas, es
     <div>
     <a href="fresco.md"><strong>Fresco</strong></a>
     </div>
-    <em>O prazer redescoberto de desenhar e pintar em qualquer lugar</em>
+    <em>Redescubra o prazer de desenhar e pintar em qualquer lugar</em>
     <br>
   </td>
   <td>
@@ -139,7 +139,7 @@ Como criativo corporativo, você precisa colaborar com equipes distribuídas, es
     <div>
     <a href="illustratoripad.md"><strong>Illustrator no iPad</strong></a>
     </div>
-    <em>Ilustrações e gráficos vetoriais</em>
+    <em>Gráficos vetoriais e ilustrações</em>
     <br>
   </td>
 </tr>
@@ -151,7 +151,7 @@ Como criativo corporativo, você precisa colaborar com equipes distribuídas, es
     <div>
     <a href="photoshopipad.md"><strong>Photoshop no iPad</strong></a>
     </div>
-    <em>Edição, composição e criação de belas imagens, ilustrações e artes no desktop e no iPad</em>
+    <em>Edite, componha e crie belas imagens, ilustrações e artes no desktop e no iPad</em>
     <br>
   </td>
   <td>
@@ -186,7 +186,7 @@ Como criativo corporativo, você precisa colaborar com equipes distribuídas, es
       <img alt="Aplicativo de desktop da Creative Cloud" src="../assets/CCDA.jpg" />
     </a>
     <div>
-    <a href="creativeclouddesktopapp.md"><strong>Aplicativo de desktop Creative Cloud</strong></a>
+    <a href="creativeclouddesktopapp.md"><strong>Aplicativo de desktop da Creative Cloud</strong></a>
     </div>
     <em>O aplicativo de desktop Creative Cloud é o seu hub para gerenciar aplicativos, serviços e colaboração da CC e muito mais.</em>
     <br>
