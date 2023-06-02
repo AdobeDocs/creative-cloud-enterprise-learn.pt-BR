@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud para corporações
 user-guide-description: Veja tutoriais e guias de referência rápida focados em Creative Cloud para corporações
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+source-git-commit: 360291c15785a2d0e42295190425f6bb1975662c
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '416'
 ht-degree: 10%
 
 ---
@@ -31,6 +31,8 @@ ht-degree: 10%
       + [Experimente Frescos no iPad e no iPhone](cce/frescoworkshop.md)
    + Guias de referência rápida {#ccerefguides}
       + [CCE guides](quick-reference/overview-ref.md)
++ [!DNL Adobe Firefly] {#fireflyoverview}
+   + [Visão geral](firefly/overview-firefly.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Visão geral](stock/overview-stock.md)
    + Tutoriais {#stocktutorials}
