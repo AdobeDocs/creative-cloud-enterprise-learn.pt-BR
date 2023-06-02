@@ -3,7 +3,7 @@ title: Adobe [!DNL Firefly] Visão geral
 description: Atualize com a velocidade do Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 9a2f538183658cc8b1370e05febab9fa87fae819
+source-git-commit: a42dfb6c3f7bc038c6c090372bd25d3d9d696605
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -20,9 +20,9 @@ A Firefly é a nova família de modelos de IA criativos e generativos que chegam
 
 ## Veja o que você pode fazer com Adobe Firefly
 
->[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
-
 <br> 
+
+>[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
 
 ## Saiba mais sobre o Adobe Firefly
 
