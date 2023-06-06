@@ -4,9 +4,9 @@ description: Bem-vindo à central de aprendizado do Creative Cloud para corpora�
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: ab1ccf6b37a5fd9ca55edf9d9b7bee66bf7c73e3
+source-git-commit: 715226411355dce6411212f6d51043afc77998be
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '201'
 ht-degree: 12%
 
 ---
@@ -32,6 +32,26 @@ Bem-vindo ao centro de aprendizado Creative Cloud para empresas. Aqui você enco
     <br>
   </td>
   <td>
+    <a href="express/overview-express.md">
+      <img alt="Adobe Express" src="assets/Express.png" />
+    </a>
+    <div>
+   <a href="express/overview-express.md"><strong>Adobe Express</strong></a>
+    </div>
+    <em>Uma ferramenta de criação fácil de usar, sem experiência necessária</em>
+    <br>
+  </td>
+  <td>
+    <a href="firefly/overview-firefly.md">
+      <img alt="Adobe Firefly" src="assets/firefly.png" />
+    </a>
+    <div>
+   <a href="firefly/overview-firefly.md"><strong>Adobe Firefly</strong></a>
+    </div>
+    <em>A nova família de modelos de IA criativos e gerativos que chegam aos produtos Adobe</em>
+    <br>
+  </td>
+  <td>
     <a href="stock/overview-stock.md">
       <img alt="Adobe Stock" src="assets/Stock.jpg" />
     </a>
@@ -41,6 +61,7 @@ Bem-vindo ao centro de aprendizado Creative Cloud para empresas. Aqui você enco
     <em>Imagens digitais de alta qualidade, ilustrações, vídeos, áudio, modelos e muito mais</em>
     <br>
   </td>
+</tr>
   <td>
    <a href="3di/overview-3di.md">
       <img alt="Adobe 3D E VR" src="assets/Dimenio.jpg" />
@@ -51,8 +72,6 @@ Bem-vindo ao centro de aprendizado Creative Cloud para empresas. Aqui você enco
     <em>Criação de imagens em 3D fotorrealistas para identidade visual, fotos de produto e design de embalagens</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
   <a href="dva/overview-dva.md">
       <img alt="Vídeo Adobe" src="assets/CCEbanner-DVA.png" />
