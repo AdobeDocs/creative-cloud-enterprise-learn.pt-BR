@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud para corporações
 user-guide-description: Veja tutoriais e guias de referência rápida focados em Creative Cloud para corporações
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 0e71f14ba016ae538d9facbbf54cab6850edd05d
+source-git-commit: 2308b637adf076bf8fdcc56c1b34ebe734385e1e
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '482'
 ht-degree: 9%
 
 ---
@@ -106,29 +106,29 @@ ht-degree: 9%
    + [Visão geral](deploy/overview-deploy.md)
    + [Expiração do número de série](deploy/cceserial.md)
    + [Licenciamento por usuário nomeado](deploy/nameduserlicensing.md)
-+ MAX 2020 {#max2020}
-   + [Visão geral](max2020/overview-max.md)
++ Adobe MAX {#max}
+   + [Visão geral](max/overview-max.md)
    + Tutoriais {#tutorials}
-      + [Visão geral](max2020/maxtutorials.md)
+      + [Visão geral](max/maxtutorials.md)
       + Produtos para desktop {#desktop-products}
-         + [Acrobat e Sign](max2020/acrobat-sign.md)
-         + [[!DNL Dimension]](max2020/dimension.md)
-         + [Illustrator](max2020/illustrator.md)
-         + [InDesign](max2020/indesign.md)
-         + [Photoshop](max2020/photoshop.md)
-         + [[!DNL Rush]](max2020/rush.md)
-         + [XD](max2020/xd.md)
+         + [Acrobat e Sign](max/acrobat-sign.md)
+         + [[!DNL Dimension]](max/dimension.md)
+         + [Illustrator](max/illustrator.md)
+         + [InDesign](max/indesign.md)
+         + [Photoshop](max/photoshop.md)
+         + [[!DNL Rush]](max/rush.md)
+         + [XD](max/xd.md)
       + Aplicativos para dispositivos móveis {#mobile-apps}
-         + [[!DNL Capture]](max2020/capture.md)
-         + [Fresco](max2020/fresco.md)
-         + [Illustrator no iPad](max2020/illustratoripad.md)
-         + [Photoshop no iPad](max2020/photoshopipad.md)
+         + [[!DNL Capture]](max/capture.md)
+         + [Fresco](max/fresco.md)
+         + [Illustrator no iPad](max/illustratoripad.md)
+         + [Photoshop no iPad](max/photoshopipad.md)
       + Integrações {#integrations}
-         + [AEM e](max2020/aem.md)
-         + [Aplicativo de desktop da Creative Cloud](max2020/creativeclouddesktopapp.md)
-         + [Bibliotecas da CC](max2020/cclibraries.md)
-         + [InDesign Server](max2020/indesignserver.md)
-         + [[!DNL Stock]](max2020/stock.md)
-         + [Administração corporativa](max2020/enterprise.md)
+         + [AEM e](max/aem.md)
+         + [Aplicativo de desktop da Creative Cloud](max/creativeclouddesktopapp.md)
+         + [Bibliotecas da CC](max/cclibraries.md)
+         + [InDesign Server](max/indesignserver.md)
+         + [[!DNL Stock]](max/stock.md)
+         + [Administração corporativa](max/enterprise.md)
       + Hands-on Project {#project}
-         + [Criar sua própria máscara de rosto](max2020/handsonproject.md)
+         + [Criar sua própria máscara de rosto](max/handsonproject.md)
