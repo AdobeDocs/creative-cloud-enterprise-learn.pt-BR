@@ -5,9 +5,9 @@ role: User
 level: Beginner, Intermediate
 keywords: Iluminação 3D, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: 01d80f9b296bc7d13b5e931cf0ca22d1335271dc
+source-git-commit: 5e47268715a213c3bdc58cd61cdc7646ba333dd8
 workflow-type: tm+mt
-source-wordcount: '2739'
+source-wordcount: '2733'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 Saiba mais sobre a iluminação 3D e como criar diferentes condições de luz que podem alterar completamente uma cena gerada por computador e a aparência dos objetos.
 
-Percebemos o mundo à nossa volta usando nossos sentidos: ouvimos, sentimos, cheiramos, vemos. Podemos ver porque nossos olhos estão captando informações trazidas a nós por partículas elementares chamadas fótons. Esta informação é processada pelo nosso cérebro para produzir uma imagem. O que interpretamos como uma cor de objeto, brilho, translucidez ou qualidades metálicas são produtos da interação entre os fótons e a superfície do objeto.
+Percebemos o mundo à nossa volta usando nossos sentidos: ouvimos, sentimos, cheiramos, vemos. Podemos ver porque nossos olhos estão captando informações trazidas a nós por partículas elementares chamadas fótons. Esta informação é processada pelo nosso cérebro para produzir uma imagem. O que interpretamos como uma cor de objeto, brilho, translucidez ou qualidades metálicas são todos produtos da interação entre os fótons e a superfície do objeto.
 
-Mecânicos de luz em uma cena 3D gerada por computador seguem o mesmo princípio natural de dispersão de fótons, através de um processo chamado [traçado de raio](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)). Os raios saltam das formas e interagem com seus materiais, definindo efetivamente como os objetos aparecem na imagem final. As luzes expõem a dimensionalidade de tudo o que existe em uma cena 3D.
+Mecânicos de luz em uma cena 3D gerada por computador seguem o mesmo princípio natural de dispersão de fótons, através de um processo chamado traçado de raios. Os raios saltam das formas e interagem com seus materiais, definindo efetivamente como os objetos aparecem na imagem final. As luzes expõem a dimensionalidade de tudo o que existe em uma cena 3D.
 
 Alguns materiais são mais sensíveis às condições de iluminação do que outros. Tomemos como exemplo os metais: um objeto cromado basicamente reflete tudo ao seu redor. Se uma luz é movida, fica mais clara, ou maior, toda essa informação é visível diretamente na superfície do cromo em detalhes quase como espelhos, de modo que pode parecer completamente diferente de uma condição de luz para a outra.
 
@@ -35,7 +35,7 @@ O processo de criar uma renderização 3D nunca é totalmente o mesmo, mas estas
 1. Criação ou atribuição de material
 1. Renderizando
 
-Quando você chegar à fase de iluminação, é ideal para configurar suas luzes antes de trabalhar nos materiais. Para fazer isso, você pode atribuir um material cinza neutro e fosco à cena inteira. Dessa forma, você poderá ver e entender mais claramente como as luzes afetam as silhuetas dos objetos na cena. Após a conclusão dos materiais, a iluminação pode precisar de mais refinamento.
+Quando você chegar à fase de iluminação, é ideal para configurar suas luzes antes de trabalhar nos materiais. Para fazer isso, você pode atribuir um material cinza neutro e fosco à cena inteira. Dessa forma, você poderá ver e entender mais claramente como as luzes afetam as silhuetas do objeto na cena. Após a conclusão dos materiais, a iluminação pode precisar de mais refinamento.
 
 ![Comparação de renderização de sala de estar CGI com material fosco cinza neutro à esquerda em comparação com materiais acabados à direita](assets/Mastering3dlighting_2.jpg)
 
@@ -125,7 +125,7 @@ Você pode controlar a suavidade das sombras dimensionando o objeto com brilho p
 
 ![Alterar o tamanho da luz do objeto aumentará a quantidade de luz e suavizará as sombras](assets/Mastering3dlighting_19.gif)
 
-Diferentemente dos tipos de luzes anteriores, essas luzes também podem usar texturas, além de cores simples. As texturas podem ser anexadas à cor de base de seus materiais, e a intensidade da luz é controlada por meio de um controle deslizante de brilho.
+Diferentemente dos tipos de luzes anteriores que cobrimos, essas luzes também podem utilizar texturas, além de cores simples. As texturas podem ser anexadas à cor de base de seus materiais, e a intensidade da luz é controlada por meio de um controle deslizante de brilho.
 
 ![Aplicar uma textura a um objeto iluminando um modelo de carro 3D](assets/Mastering3dlighting_20.gif)
 
@@ -147,7 +147,7 @@ Essa configuração consiste em três luzes:
 
    ![Exemplo de uma luz de aro iluminando um modelo de fone de ouvido 3d](assets/Mastering3dlighting_23.jpg)
 
-1. **Luz de preenchimento:** menos intensiva e que serve para preencher áreas mais escuras, é usada para áreas que as duas luzes anteriores não alcançam.
+1. **Luz de preenchimento:** menos intensiva e servindo para preencher áreas mais escuras, é usada para áreas que as duas luzes anteriores não alcançam.
 
    ![Exemplo de uma luz de preenchimento iluminando um modelo de fone de ouvido 3d](assets/Mastering3dlighting_24.jpg)
 
