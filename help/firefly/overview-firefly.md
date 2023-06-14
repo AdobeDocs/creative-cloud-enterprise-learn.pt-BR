@@ -3,9 +3,9 @@ title: Adobe [!DNL Firefly] Visão geral
 description: Atualize com a velocidade do Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 0697674f779ffe2feba72d64da222a5b0506ce45
+source-git-commit: 0a38a173e0b2c14db9eb3a082e1ebd4635058214
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![Firefly Hero Image](../assets/firefly.png)
 
-A Firefly é a nova família de modelos de IA criativos e generativos que chegam aos produtos Adobe, com foco inicial na geração de efeitos de imagem e texto. A Firefly oferece novas maneiras de idealizar, criar e se comunicar, melhorando significativamente os fluxos de trabalho criativos.
+A Firefly é a nova família de modelos de IA criativos e generativos que chegam aos produtos Adobe, com foco inicial na geração de efeitos de imagem e texto. O Firefly oferece novas maneiras de idealizar, criar e se comunicar, melhorando significativamente os fluxos de trabalho criativos.
 
 <br> 
 
@@ -45,7 +45,7 @@ A Firefly é a nova família de modelos de IA criativos e generativos que chegam
       <div>
       <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank"><strong>Explore o Firefly no Photoshop</strong></a>
       </div>
-      <em>O Firefly está agora no Photoshop e a maneira como você cria nunca será a mesma</em>
+      <em>O Firefly agora está no Photoshop e a maneira como você cria nunca será a mesma</em>
       <br>
   </td>
   <td>
@@ -59,9 +59,14 @@ A Firefly é a nova família de modelos de IA criativos e generativos que chegam
       <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="generative-fill.md">
+         <img alt="Preenchimento genérico no Photoshop" src="assets/generative-fill.png" />
+      </a>
+      <div>
+      <a href="generative-fill.md"><strong>Preenchimento genérico no Photoshop</strong></a>
+      </div>
+      <em>Saiba como usar o preenchimento generativo viabilizado por Adobe Firefly</em>
+      <br>
   </td>
 </tr>
 </table>
