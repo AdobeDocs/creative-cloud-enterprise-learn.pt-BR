@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud para corporações
 user-guide-description: Veja tutoriais e guias de referência rápida focados em Creative Cloud para corporações
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 2308b637adf076bf8fdcc56c1b34ebe734385e1e
+source-git-commit: 579283730f25cc367a97810a34e2f883659b4d9b
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '487'
 ht-degree: 9%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 9%
    + Tutoriais {#expresstutorials}
       + [Introdução ao Adobe Express](express/get-started.md)
       + [Adobe Express para iniciantes](express/adobe-express-beginners.md)
+      + [Crie pôsteres para redes sociais com o Firefly](express/create-social-posters.md)
       + [Agendar postagens de redes sociais](express/schedule.md)
       + [Convidar colaboradores de projetos](express/collaborate.md)
       + [Inspire-se rapidamente](express/get-inspiration.md)

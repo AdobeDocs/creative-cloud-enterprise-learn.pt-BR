@@ -3,9 +3,9 @@ title: Adobe [!DNL Express] Visão geral
 description: Atualize com a velocidade do Adobe [!DNL Express]
 role: User
 level: Beginner
-source-git-commit: 91984a5d4fd32db0af0007a65cb9245ff2a5b960
+source-git-commit: 579283730f25cc367a97810a34e2f883659b4d9b
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -39,18 +39,23 @@ O Adobe Express é uma ferramenta de criação fácil de usar, sem experiência 
       </a>
   </td>
   <td>
+      <a href="create-social-posters.md">
+         <img alt="Crie pôsteres para redes sociais com o Firefly" src="assets/social-firefly.png" />
+      </a>
+  </td>
+  <td>
       <a href="schedule.md">
          <img alt="Agendar postagens de redes sociais" src="assets/schedule.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
    <a href="collaborate.md">
       <img alt="Convidar colaboradores de projetos" src="assets/collaborate.png" />
    </a>
   </td>
-</tr>
-<tr>
-   <td>
+ <td>
       <a href="get-inspiration.md">
          <img alt="Inspire-se rapidamente" src="assets/inspiration.png" />
       </a>
@@ -65,14 +70,14 @@ O Adobe Express é uma ferramenta de criação fácil de usar, sem experiência 
          <img alt="Adicionar ativos de design" src="assets/design-assets.png" />
       </a>
   </td>
+</tr>
+<tr>
   <td>
       <a href="group-objects.md">
          <img alt="Agrupar objetos" src="assets/group-objects.png" />
       </a>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="layers.md">
          <img alt="Selecionar e mover camadas" src="assets/layers.png" />
       </a>
@@ -87,14 +92,14 @@ O Adobe Express é uma ferramenta de criação fácil de usar, sem experiência 
          <img alt="Desfazer e refazer" src="assets/undo-redo.png" />
       </a>
   </td>
+</tr>
+<tr>
   <td>
       <a href="cc-libraries.md">
          <img alt="Usar Bibliotecas da CC" src="assets/cc-libraries.png" />
       </a>
   </td>
-</tr>
-<tr>
-   <td>
+ <td>
       <a href="brand.md">
          <img alt="Aplicar sua marca" src="assets/brand.png" />
       </a>
@@ -109,12 +114,12 @@ O Adobe Express é uma ferramenta de criação fácil de usar, sem experiência 
          <img alt="Remover fundo" src="assets/background.png" />
       </a>
   </td>
+</tr>
   <td>
       <a href="refine-cutout.md">
          <img alt="Refinar um recorte" src="assets/cutouts.png" />
       </a>
   </td>
-</tr>
   <td>
       <a href="text-effects.md">
          <img alt="Usar efeitos de texto" src="assets/text-effects.png" />
@@ -129,11 +134,6 @@ O Adobe Express é uma ferramenta de criação fácil de usar, sem experiência 
       <a href="create-curved-text.md">
          <img alt="Criar texto curvo" src="assets/curved-text.png" />
       </a>
-  </td>
-  <td>
-    <img alt="Espaçador" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
   </td>
 </tr>
 </table>
