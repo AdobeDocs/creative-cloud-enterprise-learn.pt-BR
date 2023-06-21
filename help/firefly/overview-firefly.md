@@ -3,9 +3,10 @@ title: Adobe [!DNL Firefly] Visão geral
 description: Atualize com a velocidade do Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 0a38a173e0b2c14db9eb3a082e1ebd4635058214
+exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
+source-git-commit: 36effc4e0896ef572130bf3fee4b5059c481f23c
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 ![Firefly Hero Image](../assets/firefly.png)
 
-A Firefly é a nova família de modelos de IA criativos e generativos que chegam aos produtos Adobe, com foco inicial na geração de efeitos de imagem e texto. O Firefly oferece novas maneiras de idealizar, criar e se comunicar, melhorando significativamente os fluxos de trabalho criativos.
+Firefly é a nova família de modelos de IA criativos e gerativos que chegam aos produtos Adobe, com foco inicial na geração de efeitos de imagem e texto. A Firefly oferece novas maneiras de idealizar, criar e se comunicar, melhorando significativamente os fluxos de trabalho criativos.
 
 <br> 
 
@@ -69,4 +70,30 @@ A Firefly é a nova família de modelos de IA criativos e generativos que chegam
       <br>
   </td>
 </tr>
+<tr>
+   <td>
+      <a href="web-banner-ad.md">
+         <img alt="Variações de anúncios em banner no Photoshop" src="assets/banner-ad-variations.png" />
+      </a>
+      <div>
+      <a href="web-banner-ad.md"><strong>Variações de anúncios em banner no Photoshop</strong></a>
+      </div>
+      <em>Saiba como usar o Preenchimento gerador para acelerar a criação de banners de anúncios da Web</em>
+      <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
 </table>
