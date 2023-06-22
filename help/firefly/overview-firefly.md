@@ -4,9 +4,9 @@ description: Atualize com a velocidade do Adobe [!DNL Firefly]
 role: User
 level: Beginner
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 0068e905d3f9f5eb5161157b90aa99eff97cb0fb
+source-git-commit: 5fcd683659a7a35679838f3b4074ab1e27f6f1ba
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![Firefly Hero Image](../assets/firefly.png)
 
-Firefly é a nova família de modelos de IA criativos e gerativos que chegam aos produtos Adobe, com foco inicial na geração de efeitos de imagem e texto. A Firefly oferece novas maneiras de idealizar, criar e se comunicar, melhorando significativamente os fluxos de trabalho criativos.
+A Firefly é a nova família de modelos de IA criativos e generativos que chegam aos produtos Adobe, com foco inicial na geração de efeitos de imagem e texto. A Firefly oferece novas maneiras de idealizar, criar e se comunicar, melhorando significativamente os fluxos de trabalho criativos.
 
 <br> 
 
@@ -56,7 +56,7 @@ Firefly é a nova família de modelos de IA criativos e gerativos que chegam aos
 
 <table style="table-layout:fixed">
 <tr>
-  <td>
+   <td>
       <a href="generative-fill.md">
          <img alt="Preenchimento genérico no Photoshop" src="assets/generative-fill.png" />
       </a>
@@ -67,9 +67,9 @@ Firefly é a nova família de modelos de IA criativos e gerativos que chegam aos
       </a>
   </td>
   <td>
-    <img alt="Espaçador" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="text-effects.md">
+         <img alt="Efeitos de texto" src="assets/text-effects.png" />
+      </a>
   </td>
   <td>
     <img alt="Espaçador" src="../assets/Whitespacer.png" />
