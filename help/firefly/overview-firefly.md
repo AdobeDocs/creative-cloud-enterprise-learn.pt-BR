@@ -4,7 +4,7 @@ description: Atualize com a velocidade do Adobe [!DNL Firefly]
 role: User
 level: Beginner
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 3ebd0493d0d31835571ecf9b5359617049977fbb
+source-git-commit: 0068e905d3f9f5eb5161157b90aa99eff97cb0fb
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![Firefly Hero Image](../assets/firefly.png)
 
-A Firefly é a nova família de modelos de IA criativos e generativos que chegam aos produtos Adobe, com foco inicial na geração de efeitos de imagem e texto. O Firefly oferece novas maneiras de idealizar, criar e se comunicar, melhorando significativamente os fluxos de trabalho criativos.
+Firefly é a nova família de modelos de IA criativos e gerativos que chegam aos produtos Adobe, com foco inicial na geração de efeitos de imagem e texto. A Firefly oferece novas maneiras de idealizar, criar e se comunicar, melhorando significativamente os fluxos de trabalho criativos.
 
 <br> 
 
@@ -61,8 +61,6 @@ A Firefly é a nova família de modelos de IA criativos e generativos que chegam
          <img alt="Preenchimento genérico no Photoshop" src="assets/generative-fill.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
       <a href="web-banner-ad.md">
          <img alt="Variações de anúncios em banner no Photoshop" src="assets/banner-ad-variations.png" />
