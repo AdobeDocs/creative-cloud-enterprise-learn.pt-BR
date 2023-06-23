@@ -3,10 +3,11 @@ title: Adobe [!DNL Firefly] Visão geral
 description: Atualize com a velocidade do Adobe [!DNL Firefly]
 role: User
 level: Beginner
+jira: KT-13379
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 5fcd683659a7a35679838f3b4074ab1e27f6f1ba
+source-git-commit: 83825707e568f91dab3ead2cfe7f02c7c78d0abf
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 ![Firefly Hero Image](../assets/firefly.png)
 
-A Firefly é a nova família de modelos de IA criativos e generativos que chegam aos produtos Adobe, com foco inicial na geração de efeitos de imagem e texto. A Firefly oferece novas maneiras de idealizar, criar e se comunicar, melhorando significativamente os fluxos de trabalho criativos.
+A Firefly é a nova família de modelos de IA criativos e generativos que chegam aos produtos Adobe, com foco inicial na geração de efeitos de imagem e texto. O Firefly oferece novas maneiras de idealizar, criar e se comunicar, melhorando significativamente os fluxos de trabalho criativos.
 
 <br> 
 
@@ -72,9 +73,9 @@ A Firefly é a nova família de modelos de IA criativos e generativos que chegam
       </a>
   </td>
   <td>
-    <img alt="Espaçador" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="generative-recolor.md">
+         <img alt="Recolorir generativamente no Illustrator" src="assets/firefly-recolor.png" />
+      </a>
   </td>
 </tr>
 </table>
