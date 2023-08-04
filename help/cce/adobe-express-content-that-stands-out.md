@@ -1,11 +1,12 @@
 ---
-title: Adobe Express — Conteúdo que se destaca
-description: Criação de imagens, páginas da Web e histórias em minutos com o Adobe Express
+title: Adobe Express — conteúdo que se destaca
+description: Crie belas imagens, páginas da Web e histórias em vídeo em minutos com o Adobe Express
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 thumb: KT-11641.jpg
 exl-id: ab62ec1d-d3f5-4fd0-8b6b-26ce038c1a76
-source-git-commit: 64ee96d6cb943cdb8bb708ecb89c426d5af1557e
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -14,8 +15,8 @@ ht-degree: 0%
 
 # Adobe Express: Conteúdo que se destaca
 
-Crie imagens, páginas da Web e histórias em minutos com o Adobe Express (conhecido anteriormente como Adobe Spark). Trabalhe com milhares de modelos criados por profissionais, crie publicações em redes sociais e histórias, folhetos, logotipos, livretos, pôsteres e muito mais. Comece gratuitamente e crie conteúdo que sempre se destaque.
+Crie belas imagens, páginas da Web e histórias em vídeo em minutos com o Adobe Express (conhecido anteriormente como Adobe Spark). Trabalhe com milhares de modelos criados profissionalmente, faça publicações e histórias para redes sociais, folhetos, logotipos, livretos, pôsteres e muito mais. Comece gratuitamente e crie conteúdo que sempre se destaque.
 
-Selecione a imagem abaixo para visualizar ou baixar este tutorial em PDF.
+Selecione a imagem abaixo para ver ou baixar este tutorial do PDF.
 
-[![Imagem da primeira página do tutorial](assets/Adobe-Express-content-that-stands-out.png){&quot;width=680&quot;}](assets/Adobe-Express-content-that-stands-out.pdf){target="blank"}
+[![Primeira página da imagem do tutorial](assets/Adobe-Express-content-that-stands-out.png){”width=680”}](assets/Adobe-Express-content-that-stands-out.pdf){target="blank"}

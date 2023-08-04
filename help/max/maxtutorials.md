@@ -1,10 +1,11 @@
 ---
-title: Tutorials MAX 2020
-description: Esses tutoriais ajudarão você a aprender novos recursos na versão 2021 do Creative Cloud — sob uma perspectiva corporativa
+title: Tutorials do MAX 2020
+description: Estes tutoriais ajudarão você a conhecer novos recursos da versão de 2021 do Creative Cloud — do ponto de vista corporativo
+feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 25%
@@ -13,9 +14,9 @@ ht-degree: 25%
 
 # Tutoriais
 
-![Max 2020 Hero Image](../assets/MAX.jpg)
+![Imagem principal do Max 2020](../assets/MAX.jpg)
 
-Como criativo corporativo, você precisa colaborar com equipes distribuídas, estabelecer processos dimensionáveis e estar em conformidade com sistemas e diretrizes corporativas. Esses tutoriais ajudarão você a aprender novos recursos na versão 2021 do Creative Cloud — sob uma perspectiva corporativa.
+Como um criador corporativo, você precisa colaborar com equipes distribuídas, estabelecer processos escaláveis e estar em conformidade com sistemas e diretrizes corporativos. Estes tutoriais ajudarão você a conhecer novos recursos da versão de 2021 do Creative Cloud — do ponto de vista corporativo.
 
 ## Tutorials por produtos para desktop
 
@@ -23,12 +24,12 @@ Como criativo corporativo, você precisa colaborar com equipes distribuídas, es
 <tr>
  <td>
     <a href="acrobat-sign.md">
-      <img alt="Acrobat e Adobe Sign" src="../assets/DC.jpg" />
+      <img alt="ACROBAT e ADOBE SIGN" src="../assets/DC.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md"><strong>Acrobat e Adobe Sign</strong></a>
+    <a href="acrobat-sign.md"><strong>ACROBAT e ADOBE SIGN</strong></a>
     </div>
-    <em>Criar, editar e assinar documentos e formulários PDF</em>
+    <em>Criar, editar e assinar documentos e formulários do PDF</em>
     <br>
   </td>
   <td>
@@ -38,7 +39,7 @@ Como criativo corporativo, você precisa colaborar com equipes distribuídas, es
     <div>
     <a href="dimension.md"><strong>Dimension</strong></a>
     </div>
-    <em>Criação de imagens em 3D fotorrealistas para identidade visual, fotos de produto e design de embalagens</em>
+    <em>Crie imagens fotorrealistas em 3D para criação de marca, fotos de produtos e design de embalagem</em>
     <br>
   </td>
   <td>
@@ -60,7 +61,7 @@ Como criativo corporativo, você precisa colaborar com equipes distribuídas, es
     <div>
     <a href="indesign.md"><strong>InDesign</strong></a>
     </div>
-    <em>Design e layout de páginas para publicação impressa e digital</em>
+    <em>Design de páginas e layout para impressão e publicação digital</em>
     <br>
   </td>
   <td>
@@ -70,7 +71,7 @@ Como criativo corporativo, você precisa colaborar com equipes distribuídas, es
     <div>
     <a href="photoshop.md"><strong>Photoshop</strong></a>
     </div>
-    <em>Edição, composição e criação de belas imagens, ilustrações e artes no desktop</em>
+    <em>Edite, componha e crie belas imagens, ilustrações e artes no desktop</em>
     <br>
   </td>
   <td>
@@ -188,7 +189,7 @@ Como criativo corporativo, você precisa colaborar com equipes distribuídas, es
     <div>
     <a href="creativeclouddesktopapp.md"><strong>Aplicativo de desktop da Creative Cloud</strong></a>
     </div>
-    <em>O aplicativo de desktop Creative Cloud é o seu hub para gerenciar aplicativos, serviços e colaboração da CC e muito mais.</em>
+    <em>O aplicativo de desktop Creative Cloud é o hub para gerenciar aplicativos, serviços e colaboração na CC e muito mais!</em>
     <br>
   </td>
   <td>
@@ -198,7 +199,7 @@ Como criativo corporativo, você precisa colaborar com equipes distribuídas, es
     <div>
     <a href="cclibraries.md"><strong>Bibliotecas da CC</strong></a>
     </div>
-    <em>Ativos sempre ao seu alcance e projetos com identidade visual consistente</em>
+    <em>Mantenha seus ativos à mão e projetos com marca</em>
     <br>
   </td>
 </tr>
@@ -231,18 +232,18 @@ Como criativo corporativo, você precisa colaborar com equipes distribuídas, es
 </tr>
 </table>
 
-### Projeto prático: Criar sua própria máscara de rosto
+### Projeto prático: crie sua própria máscara de rosto
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="handsonproject.md">
-      <img alt="Criar sua própria máscara de rosto" src="../assets/faceMaskSplash.jpg" />
+      <img alt="Crie sua própria máscara facial" src="../assets/faceMaskSplash.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md"><strong>Criar sua própria máscara de rosto</strong></a>
+    <a href="handsonproject.md"><strong>Crie sua própria máscara facial</strong></a>
     </div>
-    <em>Com o plug-in Adobe Design to Print, você pode visualizar seus designs em centenas de produtos da Zazzle e publicá-los diretamente em seu marketplace online</em>
+    <em>Com o plug-in Adobe Design to Print, você pode visualizar seus designs em centenas de produtos Zazzle e publicá-los diretamente em seu marketplace online</em>
     <br>
   </td>
   <td>

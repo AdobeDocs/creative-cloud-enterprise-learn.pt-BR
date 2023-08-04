@@ -1,9 +1,11 @@
 ---
-title: Agrupar objetos
+title: Agrupar Objetos
 description: Saiba como redimensionar texto e imagens
+feature: Graphic Design
 role: User
 level: Beginner
-source-git-commit: e45ff88014e4bceea43ab7c45069d73f29987459
+exl-id: 616230fc-756e-4d0e-8224-ad091a3144bc
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '18'
 ht-degree: 0%

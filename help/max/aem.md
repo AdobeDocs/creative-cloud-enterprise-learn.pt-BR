@@ -1,10 +1,11 @@
 ---
 title: AEM Assets e Asset Link
-description: AEM Uma lista de ativos e links
+description: Uma lista de ativos AEM e links
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 1%
@@ -13,9 +14,9 @@ ht-degree: 1%
 
 # AEM Assets e Asset Link
 
-![Tutorial Hero Image](../assets/AEM.jpg)
+![Tutorial: imagem principal](../assets/AEM.jpg)
 
-A Adobe Experience Manager é a solução de gerenciamento de experiência digital líder do setor para corporações e empresas de médio porte. Ele fornece uma base moderna e dimensionável para fornecer experiências atraentes que promovem o engajamento da marca, impulsionam a demanda e aumentam a fidelização do cliente. O Experience Manager inclui um conjunto completo de ferramentas para criar, gerenciar e fornecer experiências digitais em todos os canais.
+A Adobe Experience Manager é a solução de gerenciamento de experiências digitais líder do setor para empresas e organizações de médio porte. Ele fornece uma base moderna e dimensionável para proporcionar experiências atraentes que promovem o engajamento da marca, impulsionam a demanda e aumentam a fidelidade do cliente. O Experience Manager inclui um conjunto completo de ferramentas para criar, gerenciar e fornecer experiências digitais em todos os canais.
 
 ## Procurar Tutorials de produtos
 
@@ -28,17 +29,17 @@ A Adobe Experience Manager é a solução de gerenciamento de experiência digit
     <div>
    <a href="aem.md#tutorial1"><strong>AEM e Asset Link</strong></a>
     </div>
-    <em>AEM Faça atualizações em tempo real nos ativos armazenados no com o Asset Link</em>
+    <em>Faça atualizações em tempo real em ativos armazenados em AEM com o Asset Link</em>
     <br>
   </td>
    <td>
    <a href="aem.md#tutorial2">
-      <img alt="Arquivos de InDesign AEM hospedados em" src="../assets/InDesign-Files-Hosten-in-AEM.jpg" />
+      <img alt="Arquivos do InDesign Hospedados no AEM" src="../assets/InDesign-Files-Hosten-in-AEM.jpg" />
    </a>
     <div>
-   <a href="aem.md#tutorial2"><strong>Arquivos de InDesign AEM hospedados em</strong></a>
+   <a href="aem.md#tutorial2"><strong>Arquivos do InDesign Hospedados no AEM</strong></a>
     </div>
-    <em>Hospede o documento do InDesign AEM em</em>
+    <em>Hospede seu documento de InDesign no AEM para que vários usuários possam criar variações de conteúdo ao mesmo tempo</em>
     <br>
   </td>
   <td>
@@ -54,27 +55,27 @@ A Adobe Experience Manager é a solução de gerenciamento de experiência digit
 >[!VIDEO](https://video.tv.adobe.com/v/326828?hidetitle=true)
 
 **Descrição**
-AEM Faça atualizações em tempo real nos ativos armazenados no com o Asset Link.
+Faça atualizações em tempo real em ativos armazenados em AEM com o Asset Link.
 
-Neste tutorial, você aprenderá a:
-* Encontre o que você precisa, quando precisar, com um painel dedicado para pesquisar e procurar ativos dentro de seus programas de design
-* Faça upload de ativos com facilidade diretamente dos programas de design
-* Retirar e registrar ativos do DAM no seu programa de design para fazer atualizações em tempo real
+Neste tutorial, você aprenderá como:
+* Encontre o que você precisa, quando você precisa, com um painel dedicado para pesquisar e procurar ativos em seus programas de design
+* Faça upload de ativos com facilidade diretamente de seus programas de design
+* Fazer check-out e check-in de ativos do DAM em seu programa de design para fazer atualizações em tempo real
 
 **Apresentado por:**
 Eric Rowse, consultor sênior de soluções (mídia digital)
 
-## Arquivos de InDesign AEM hospedados em {#tutorial2}
+## Arquivos de InDesign Hospedados no AEM (3:16) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326829?hidetitle=true)
 
 **Descrição**
-Hospede o documento do InDesign AEM em para que vários usuários possam criar variações de conteúdo ao mesmo tempo.
+Hospede seu documento de InDesign no AEM para que vários usuários possam criar variações de conteúdo ao mesmo tempo.
 
-Neste tutorial, você aprenderá a:
-* Fazer upload do arquivo de InDesign AEM no para obter acesso comum ao armazenamento
-* Crie variações com segurança sem medo de arruinar o arquivo de origem
-* Os campos de documento são pré-formatados, permitindo edições rápidas ou alterações no conteúdo
+Neste tutorial, você aprenderá como:
+* Faça upload do arquivo de InDesign no AEM para obter acesso comum ao armazenamento
+* Crie variações com segurança sem medo de prejudicar o arquivo de origem
+* Os campos de documento são pré-formatados, permitindo edições ou alterações rápidas no conteúdo
 
 **Apresentado por:**
 Eric Rowse, consultor sênior de soluções (mídia digital)
@@ -88,12 +89,12 @@ Eric Rowse, consultor sênior de soluções (mídia digital)
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager.html"><strong>Adobe Experience Manager</strong></a>
     </div>
-    <em>Uma combinação poderosa para suas necessidades de gerenciamento de conteúdo e de ativos digitais</em>
+    <em>Uma combinação poderosa para suas necessidades de gerenciamento de conteúdo e ativos digitais</em>
     <br>
   </td>
   <td>
    <a href="https://www.adobe.com/marketing/experience-manager-assets.html">
-      <img alt="InDesign Server: Encontre um parceiro" src="../assets/AEM_Thumbnail.jpg" />
+      <img alt="InDesign Server: Encontrar um parceiro" src="../assets/AEM_Thumbnail.jpg" />
    </a>
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager-assets.html"><strong>AEM Assets</strong></a>
@@ -103,23 +104,23 @@ Eric Rowse, consultor sênior de soluções (mídia digital)
   </td>
   <td>
    <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html">
-      <img alt="InDesign Server: Encontre um parceiro" src="../assets/AEM_Thumbnail.jpg" />
+      <img alt="InDesign Server: Encontrar um parceiro" src="../assets/AEM_Thumbnail.jpg" />
    </a>
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html"><strong>AEM Assets: Benefícios</strong></a>
     </div>
-    <em>Faça seus ativos digitais trabalharem por você</em>
+    <em>Faça seus ativos digitais funcionarem para você</em>
     <br>
   </td>
 </tr>
 </table>
 
-![AEM Logotipo](../assets/aem_appicon_noshadow_96.png)
+![Logo da AEM](../assets/aem_appicon_noshadow_96.png)
 
-**AEM Asset Link e**
+**Recursos do Asset Link e AEM**
 
-[Aprendizagem e suporte](https://helpx.adobe.com/support/experience-manager.html) é seu centro de atividades para tutoriais adicionais, Novidades e links para fóruns da comunidade.
+[Aprendizagem e suporte](https://helpx.adobe.com/support/experience-manager.html) é o seu hub para tutoriais adicionais, Novidades e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 
-Comece a usar esses recursos (e muito mais!) baixando a atualização mais recente no aplicativo de desktop Creative Cloud.
+Comece a usar esses recursos (e muito mais!) baixando a atualização mais recente do seu aplicativo de desktop Creative Cloud.

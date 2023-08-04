@@ -1,23 +1,24 @@
 ---
-title: Plug-in Design to Print - Personalizar uma máscara de rosto
+title: Design para imprimir plug-in - Personalizar uma máscara de rosto
 description: Projeto prático para personalizar uma máscara de rosto
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
 
 ---
 
-# Plug-in Design to Print - Personalizar uma máscara de rosto
+# Design para imprimir plug-in - Personalizar uma máscara de rosto
 
-![Tutorial Hero Image](../assets/faceMaskSplash.jpg)
+![Tutorial: imagem principal](../assets/faceMaskSplash.jpg)
 
-Não seria legal se você pudesse personalizar uma máscara facial com sua própria ilustração? Com o plug-in Adobe Design to Print, você pode visualizar seus designs em centenas de produtos da Zazzle e publicá-los diretamente em seu marketplace online.
+Não seria legal se você pudesse personalizar uma máscara facial com suas próprias ilustrações? Com o plug-in Adobe Design to Print, você pode visualizar seus designs em centenas de produtos Zazzle e publicá-los diretamente em seu marketplace online.
 
-## Procurar Tutorials do Projeto Facemask
+## Procurar projetos do Facemask Tutorials
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,27 +29,27 @@ Não seria legal se você pudesse personalizar uma máscara facial com sua próp
     <div>
    <a href="handsonproject.md#tutorial1"><strong>Instalar o plug-in Photoshop Design to Print</strong></a>
     </div>
-    <em>Use as poderosas ferramentas de seleção e edição de cores do Adobe Photoshop para mudar drasticamente uma imagem para atender às suas necessidades de marca corporativa</em>
+    <em>Use as poderosas ferramentas de seleção e edição de cores no Adobe Photoshop para alterar drasticamente uma imagem para corresponder às necessidades da sua marca corporativa</em>
     <br>
   </td>
   <td>
     <a href="handsonproject.md#tutorial2">
-        <img alt="Personalizar uma máscara de rosto com design para imprimir" src="../assets/d2p_faceMask_sokol_thumbnail.jpg" />
+        <img alt="Personalize uma máscara facial com Design para imprimir" src="../assets/d2p_faceMask_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md#tutorial2"><strong>Personalizar uma máscara de rosto com design para imprimir</strong></a>
+    <a href="handsonproject.md#tutorial2"><strong>Personalize uma máscara facial com Design para imprimir</strong></a>
     </div>
-    <em>Personalizar sua própria máscara de rosto Zazzle</em>
+    <em>Personalize sua própria máscara facial do Zazzle</em>
     <br>
   </td>
   <td>
     <a href="handsonproject.md#tutorial3">
-      <img alt="Criar uma visualização 3D da máscara de rosto" src="../assets/DN_faceMaskShare_sokol_thumbnail.jpg" />
+      <img alt="Crie uma visualização 3D da sua máscara facial" src="../assets/DN_faceMaskShare_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="handsonproject.md#tutorial3"><strong>Criar uma visualização 3D da máscara de rosto</strong></a>
+   <a href="handsonproject.md#tutorial3"><strong>Crie uma visualização 3D da sua máscara facial</strong></a>
     </div>
-    <em>Criar uma visualização 3D da máscara facial para a galeria de eventos</em>
+    <em>Crie uma visualização 3D da sua máscara facial para a galeria de eventos</em>
     <br>
   </td>
 </tr>
@@ -61,41 +62,41 @@ Não seria legal se você pudesse personalizar uma máscara facial com sua próp
 **Descrição**
 Saiba como instalar o plug-in Design to Print para Photoshop.
 
-Neste tutorial, você aprenderá a:
-* Visualize seus designs em produtos como roupas, acessórios, artigos de papelaria e arte de parede em tempo real.
-* Publique no marketplace online da Dazzle
+Neste tutorial, você aprenderá como:
+* Visualize seus designs em produtos como roupas, acessórios, papelaria e arte de parede em tempo real!
+* Publicar no marketplace online do Dazzle
 
 **Apresentado por:**
-Patti Sokol, consultor principal de soluções (mídia digital)
+Patti Sokol, Consultor Principal de Soluções (Mídia Digital)
 
-## Personalizar uma máscara facial com design para impressão (7:54) {#tutorial2}
+## Personalize uma máscara facial com Design para imprimir (7:54) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327097?hidetitle=true)
 
 **Descrição**
-Personalizar sua própria máscara de rosto Zazzle
+Personalize sua própria máscara facial do Zazzle
 
-Neste tutorial, você aprenderá a:
-* Visualize seus designs em produtos como roupas, acessórios, artigos de papelaria e arte de parede em tempo real.
-* Publique no marketplace online da Dazzle
+Neste tutorial, você aprenderá como:
+* Visualize seus designs em produtos como roupas, acessórios, papelaria e arte de parede em tempo real!
+* Publicar no marketplace online do Dazzle
 
-**Clique em Imagem para baixar Learn Design to Print PDF**
+**Clique na imagem para baixar o Learn Design to Print PDF**
 
-[![Aprenda design para impressão](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
+[![Aprenda a criar designs a serem impressos](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
 
 **Apresentado por:**
-Patti Sokol, consultor principal de soluções (mídia digital)
+Patti Sokol, Consultor Principal de Soluções (Mídia Digital)
 
-## Crie uma visualização 3D da máscara de rosto (7:54) {#tutorial3}
+## Crie uma visualização 3D da sua máscara facial (7:54) {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327098?hidetitle=true)
 
 **Descrição**
-Criar uma visualização 3D da máscara facial para a galeria de eventos
+Crie uma visualização 3D da sua máscara facial para a galeria de eventos
 
-Neste tutorial, você aprenderá a:
-* Crie facilmente visualizações 3D realistas
-* Adicione materiais e controle a iluminação para criar um visual profissional
+Neste tutorial, você aprenderá como:
+* Crie facilmente visualizações 3D realistas para fotos
+* Adicione materiais e controle a iluminação para obter uma aparência profissional
 * Importar ativos para aplicar sua marca ou outros designs
 
 **Clique na imagem para baixar [!DNL Dimension] Arquivo com modelo 3D de máscara branca**
@@ -103,4 +104,4 @@ Neste tutorial, você aprenderá a:
 [![Imagem de comparação](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&amp;native_visual_search=&amp;similar_content_id=&amp;is_recent_search=&amp;search_type=usertyped&amp;k=face+mask&amp;asset_id=324075591)
 
 **Apresentado por:**
-Patti Sokol, consultor principal de soluções (mídia digital)
+Patti Sokol, Consultor Principal de Soluções (Mídia Digital)

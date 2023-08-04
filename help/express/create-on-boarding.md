@@ -1,9 +1,10 @@
 ---
 title: Crie conteúdo de recrutamento e integração com o Firefly
 description: Saiba mais sobre como usar o recurso Texto para imagem, habilitado por Adobe Firefly, em Adobe Express para criar gráficos exclusivos para o recrutamento de funcionários e conteúdo de integração
+feature: Image Editing
 role: User
 level: Beginner
-source-git-commit: f6b51be9a78af74e0ff166f36e610ce0d4a5f847
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 3%

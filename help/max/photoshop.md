@@ -1,10 +1,11 @@
 ---
 title: Photoshop
 description: Uma lista de tutoriais do Photoshop
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -13,9 +14,9 @@ ht-degree: 0%
 
 # Photoshop
 
-![Tutorial Hero Image](../assets/Photoshop.jpg)
+![Tutorial: imagem principal](../assets/Photoshop.jpg)
 
-O Photoshop é o melhor software de imagem e design gráfico, permitindo criatividade ilimitada para profissionais em vários dispositivos. Agora, qualquer um pode criar tudo o que imaginar, sempre que a inspiração surgir. Pense nisso com o Photoshop.
+O Photoshop é o melhor software de criação de imagens e design gráfico do mundo, permitindo criatividade ilimitada para profissionais em todos os dispositivos. Agora qualquer um pode criar qualquer coisa que imaginar, sempre que a inspiração surgir. Se você pode pensar, você pode fazer isso com o Photoshop.
 
 ## Procurar Tutorials de produtos
 
@@ -28,7 +29,7 @@ O Photoshop é o melhor software de imagem e design gráfico, permitindo criativ
     <div>
    <a href="photoshop.md#tutorial1"><strong>Editar imagens para corresponder à sua campanha</strong></a>
     </div>
-    <em>Use as poderosas ferramentas de seleção e edição de cores do Adobe Photoshop para mudar drasticamente uma imagem para atender às suas necessidades de marca corporativa</em>
+    <em>Use as poderosas ferramentas de seleção e edição de cores no Adobe Photoshop para alterar drasticamente uma imagem para corresponder às necessidades da sua marca corporativa</em>
     <br>
   </td>
   <td>
@@ -38,7 +39,7 @@ O Photoshop é o melhor software de imagem e design gráfico, permitindo criativ
     <div>
     <a href="photoshop.md#tutorial2"><strong>Selecionar e substituir o céu</strong></a>
     </div>
-    <em>Selecione automaticamente o céu em uma imagem e substitua-o pelo céu de sua escolha, ajustando automaticamente as cores da imagem para corresponder à sua seleção</em>
+    <em>Selecione automaticamente o céu em uma imagem e substitua-o por um céu de sua escolha, ajustando automaticamente as cores da imagem para corresponder à sua seleção</em>
     <br>
   </td>
   <td>
@@ -54,38 +55,38 @@ O Photoshop é o melhor software de imagem e design gráfico, permitindo criativ
 >[!VIDEO](https://video.tv.adobe.com/v/326950?hidetitle=true)
 
 **Descrição**
-Use as poderosas ferramentas de seleção e edição de cores do Adobe Photoshop para mudar drasticamente uma imagem para atender às suas necessidades de marca corporativa.
+Use as poderosas ferramentas de seleção e edição de cores no Adobe Photoshop para alterar drasticamente uma imagem para corresponder às suas necessidades de marca corporativa.
 
-Neste tutorial, você aprenderá a:
-* A ferramenta Seleção de objeto agiliza e simplifica a seleção de itens
-* O Preenchimento sensível ao conteúdo permite mais controle de áreas de amostra em uma imagem de origem para melhor clonagem e aplicação de patches nas áreas de destino
-* Pincéis podem ter diferentes formas para obter melhores resultados
-* O Adobe Sensei ajuda a aproveitar a inteligência artificial para tarefas comuns
+Neste tutorial, você aprenderá como:
+* A Ferramenta Seleção de objeto torna a seleção de itens mais rápida e simples
+* O Preenchimento sensível ao conteúdo permite mais controle de áreas de amostra em uma imagem de origem para melhorar a clonagem e a aplicação de patches em áreas de destino
+* Os pincéis podem ter diferentes formas para obter melhores resultados
+* O Adobe Sensei ajuda a aproveitar a inteligência artificial para tarefas rotineiras
 
 **Apresentado por:**
-A.J Wood, consultor sênior de soluções (mídia digital)
+A.J Wood, Consultor Sênior de Soluções (Mídia Digital)
 
 ## Selecionar e substituir o céu (2:16) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326953?hidetitle=true)
 
 **Descrição**
-Selecione automaticamente o céu em uma imagem e substitua-o pelo céu de sua escolha, ajustando automaticamente as cores da imagem para corresponder à sua seleção.
+Selecione automaticamente o céu em uma imagem e substitua-o por um céu de sua escolha, ajustando automaticamente as cores da imagem para corresponder à sua seleção.
 
-Neste tutorial, você aprenderá a:
-* A Substituição do céu oferece uma solução em um clique para trocar o céu de suas imagens instantaneamente
-* A Substituição do céu salva a saída como um grupo de camadas com cada máscara, ajuste e imagem para refinamento adicional
+Neste tutorial, você aprenderá como:
+* A Substituição do céu oferece uma solução de um clique para trocar instantaneamente o céu em suas imagens
+* A Substituição do céu salva sua saída como um grupo de camadas com cada máscara, ajuste e imagem para mais refinamento
 
 
 **Apresentado por:**
-A.J Wood, consultor sênior de soluções (mídia digital)
+A.J Wood, Consultor Sênior de Soluções (Mídia Digital)
 
 ![Logotipo da Photoshop](../assets/ps_appicon_96.png)
 
 **Recursos do Photoshop**
 
-[Aprendizagem e suporte](https://helpx.adobe.com/support/photoshop.html) é sua central de serviços para tutoriais adicionais, [Novidades](https://helpx.adobe.com/photoshop/using/whats-new.html)e links para fóruns da comunidade.
+[Aprendizagem e suporte](https://helpx.adobe.com/support/photoshop.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/photoshop/using/whats-new.html)e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 
-Comece a usar esses recursos (e muito mais!) baixando a atualização mais recente no aplicativo de desktop Creative Cloud.
+Comece a usar esses recursos (e muito mais!) baixando a atualização mais recente do seu aplicativo de desktop Creative Cloud.

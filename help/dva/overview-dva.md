@@ -1,10 +1,12 @@
 ---
 title: Tutorials de vídeo Adobe
-description: Tutorials para ajudá-lo a se atualizar sobre os produtos Adobe DVA
+description: Tutorials para ajudá-lo a obter-to-speed em produtos Adobe DVA
+feature: Video Editing
 role: User
 level: Beginner, Intermediate
+jira: KT-6946
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: a9ac2b3752113ae5ae722a091e8f1242de0273e7
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -13,20 +15,20 @@ ht-degree: 0%
 
 # Tutoriais em vídeo do Adobe
 
-![Creative Cloud Hero Image](../assets/CCEbanner-DVA.png)
+![Imagem principal do Creative Cloud](../assets/CCEbanner-DVA.png)
 
-Dê vida às suas ideias com softwares e aplicativos Adobe para edição de vídeo, efeitos visuais, animações e muito mais. Selecione uma imagem para ver um tutorial.
+Dê vida às suas ideias com softwares e aplicativos de Adobe para edição de vídeo, animações, efeitos visuais, animação e muito mais. Selecione uma imagem para ver um tutorial.
 
 <table>
 <tr>
  <td>
    <a href="motion-graphics-templates.md">
-      <img alt="Modelos de animações profissionais" src="assets/MORGTs.png" />
+      <img alt="Modelos profissionais de animações" src="assets/MORGTs.png" />
    </a>
     <div>
-   <a href="motion-graphics-templates.md"><strong>Modelos de animações profissionais</strong></a>
+   <a href="motion-graphics-templates.md"><strong>Modelos profissionais de animações</strong></a>
     </div>
-    <em>Os Modelos de animações (.mogrt) são uma maneira colaborativa e eficiente de criar pacotes de animações personalizáveis — títulos, animações de logotipo, terços inferiores e compartilhá-los com equipes editoriais</em>
+    <em>Os Modelos de animações (.mogrt) são uma maneira colaborativa e eficiente de criar pacotes de animações personalizáveis: títulos, animações de logotipo, terços inferiores e compartilhá-los com equipes editoriais</em>
     <br>
   </td>
   <td>
@@ -36,7 +38,7 @@ Dê vida às suas ideias com softwares e aplicativos Adobe para edição de víd
     <div>
    <a href="video-review-frame-io.md"><strong>Revisão de vídeo com Frame.io</strong></a>
     </div>
-    <em>Saiba como a extensão Frame.io para Adobe Premiere Pro permite centralizar e compartilhar ativos, receber comentários em tempo real, monitorar revisões e obter aprovações mais rápidas, tudo isso sem sair da linha do tempo</em>
+    <em>Saiba como a extensão Frame.io para Adobe Premiere Pro permite centralizar e compartilhar ativos, receber comentários em tempo real, acompanhar revisões e obter aprovações mais rápidas, tudo isso sem sair da linha do tempo</em>
     <br>
   </td>
   <td>

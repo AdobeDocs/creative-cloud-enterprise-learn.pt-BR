@@ -1,16 +1,18 @@
 ---
-title: Integração com o Google Drive
+title: Integração do Google Drive
 description: Saiba como importar imagens do Google Drive
+feature: Integrations
 role: User
 level: Beginner
-source-git-commit: e45ff88014e4bceea43ab7c45069d73f29987459
+exl-id: ade00966-541b-4e41-a7a1-aa17466de4d4
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '24'
 ht-degree: 0%
 
 ---
 
-# Integração com o Google Drive
+# Integração do Google Drive
 
 Saiba como importar imagens do Google Drive.
 

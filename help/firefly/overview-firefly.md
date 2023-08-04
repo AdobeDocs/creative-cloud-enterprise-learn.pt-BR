@@ -1,26 +1,27 @@
 ---
 title: Adobe [!DNL Firefly] Visão geral
-description: Atualize com a velocidade do Adobe [!DNL Firefly]
+description: Atualize-se com o Adobe [!DNL Firefly]
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13379
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 756fe272cdf135c4b7c11125b65311cf1eaca7cd
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Adobe [!DNL Firefly] visão geral
 
-![Firefly Hero Image](../assets/firefly.png)
+![Imagem principal do Firefly](../assets/firefly.png)
 
-Firefly é a nova família de modelos de IA criativos e gerativos que chegam aos produtos Adobe, com foco inicial na geração de efeitos de imagem e texto. A Firefly oferece novas maneiras de idealizar, criar e se comunicar, melhorando significativamente os fluxos de trabalho criativos.
+Firefly é a nova família de modelos criativos de IA generativa que estão chegando aos produtos Adobe, com foco inicialmente na geração de efeitos de imagem e texto. O Firefly oferece novas maneiras de idealizar, criar e se comunicar, além de melhorar significativamente os fluxos de trabalho criativos.
 
 <br> 
 
-## Veja o que você pode fazer com Adobe Firefly
+## Veja o que você pode fazer com o Adobe Firefly
 
 <br> 
 
@@ -37,12 +38,12 @@ Firefly é a nova família de modelos de IA criativos e gerativos que chegam aos
   </td>
   <td>
       <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank">
-         <img alt="Explore o Firefly no Photoshop" src="assets/firefly-photoshop.png" />
+         <img alt="Explorar o Firefly no Photoshop" src="assets/firefly-photoshop.png" />
       </a>
   </td>
   <td>
       <a href="webinar-experimenting.md">
-         <img alt="Experimentando o Adobe Firefly" src="assets/webinar-experimenting.png" />
+         <img alt="Experimentar com Adobe Firefly" src="assets/webinar-experimenting.png" />
       </a>
   </td>
   <td>
@@ -53,7 +54,7 @@ Firefly é a nova família de modelos de IA criativos e gerativos que chegam aos
 </tr>
 </table>
 
-## tutoriais do Firefly
+## Tutoriais do Firefly
 
 <table style="table-layout:fixed">
 <tr>
@@ -64,12 +65,12 @@ Firefly é a nova família de modelos de IA criativos e gerativos que chegam aos
    </td>
    <td>
       <a href="generative-fill.md">
-         <img alt="Preenchimento genérico no Photoshop" src="assets/generative-fill.png" />
+         <img alt="Preenchimento generativo no Photoshop" src="assets/generative-fill.png" />
       </a>
    </td>
    <td>
       <a href="web-banner-ad.md">
-         <img alt="Variações de anúncios em banner no Photoshop" src="assets/banner-ad-variations.png" />
+         <img alt="Banner e variações no Photoshop" src="assets/banner-ad-variations.png" />
       </a>
   </td>
   <td>
@@ -81,7 +82,7 @@ Firefly é a nova família de modelos de IA criativos e gerativos que chegam aos
 <tr>
 <td>
       <a href="generative-recolor.md">
-         <img alt="Recolorir generativamente no Illustrator" src="assets/firefly-recolor.png" />
+         <img alt="Recolorir generativo no Illustrator" src="assets/firefly-recolor.png" />
       </a>
   </td>
 <td>

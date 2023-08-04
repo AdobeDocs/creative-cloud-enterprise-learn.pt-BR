@@ -1,10 +1,11 @@
 ---
 title: "[!DNL Rush]"
-description: Premiere [!DNL Rush] é o primeiro aplicativo completo de edição de vídeo entre dispositivos que facilita a criação e o compartilhamento de conteúdo online
+description: Premiere [!DNL Rush] é o primeiro aplicativo completo de edição de vídeo multifuncional que torna a criação e o compartilhamento de conteúdo online mais fáceis do que nunca
+feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
@@ -13,9 +14,9 @@ ht-degree: 0%
 
 # [!DNL Rush]
 
-![Tutorial Hero Image](../assets/Rush.jpg)
+![Tutorial: imagem principal](../assets/Rush.jpg)
 
-Premiere [!DNL Rush] é o primeiro aplicativo completo de edição de vídeo entre dispositivos que facilita a criação e o compartilhamento de conteúdo online. Essa solução integrada para desktop e dispositivos móveis sincroniza automaticamente seus projetos e edições na nuvem, permitindo que você trabalhe em qualquer lugar e dispositivo.
+Premiere [!DNL Rush] é o primeiro aplicativo completo de edição de vídeo em vários dispositivos que torna a criação e o compartilhamento de conteúdo online mais fáceis do que nunca. Esta solução integrada para desktop e dispositivos móveis sincroniza automaticamente seus projetos e edições na nuvem, permitindo que você trabalhe em qualquer lugar, em qualquer dispositivo.
 
 ## Procurar Tutorials de produtos
 
@@ -28,7 +29,7 @@ Premiere [!DNL Rush] é o primeiro aplicativo completo de edição de vídeo ent
     <div>
    <a href="rush.md#tutorial1"><strong>Criar um vídeo para redes sociais</strong></a>
     </div>
-    <em>Adobe [!DNL Rush] permite que você trabalhe em qualquer dispositivo e facilita a saída profissional para iniciantes</em>
+    <em>Adobe [!DNL Rush] permite trabalhar em qualquer dispositivo e torna a saída profissional fácil o suficiente para iniciantes</em>
     <br>
   </td>
   <td>
@@ -44,18 +45,18 @@ Premiere [!DNL Rush] é o primeiro aplicativo completo de edição de vídeo ent
 </tr>
 </table>
 
-## Criar um vídeo para redes sociais (18:11) {#tutorial1}
+## Criar um Vídeo de Mídia Social (18:11) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326900?hidetitle=true)
 
 **Descrição**
-Conte sua história usando vídeo e áudio de Adobe [!DNL Stock]. Adobe [!DNL Rush] permite que você trabalhe em qualquer dispositivo e facilita a produção profissional para iniciantes.
+Conte sua história usando vídeo e áudio do Adobe [!DNL Stock]. Adobe [!DNL Rush] permite que você trabalhe em qualquer dispositivo e torna a saída profissional fácil o suficiente para iniciantes.
 
-Neste tutorial, você aprenderá a:
-* Edite vídeos com facilidade no desktop, no tablet e no telefone
-* Mantenha o modelo centralizado nos formatos horizontal, quadrado e vertical com o recurso de tecnologia de IA de reestruturação automática
-* Os modelos de animações (MoGRTS) permitem títulos de aparência profissional e facilmente personalizáveis e terços inferiores
-* Exporte e publique facilmente em canais de redes sociais
+Neste tutorial, você aprenderá como:
+* Edite vídeos facilmente no desktop, tablet e telefone
+* Mantenha seu objeto centralizado em formatos horizontais, quadrados e verticais com o recurso de tecnologia de IA de Reestruturação automática
+* Os Modelos de animações (MoGRTS) permitem títulos profissionais e facilmente personalizáveis e de terceiros mais baixos
+* Exporte e publique facilmente diretamente em canais de redes sociais
 * Abrir [!DNL Rush] projetos no Adobe Premiere Pro
 
 **Apresentado por:**
@@ -65,8 +66,8 @@ A.J. Wood, consultor de soluções (mídia digital)
 
 **[!DNL Rush]Recursos**
 
-[Aprendizagem e suporte](https://helpx.adobe.com/support/premiere-rush.html) é sua central de serviços para tutoriais adicionais, [Novidades](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html)e links para fóruns da comunidade.
+[Aprendizagem e suporte](https://helpx.adobe.com/support/premiere-rush.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html)e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 
-Comece a usar esses recursos (e muito mais!) baixando a atualização mais recente no aplicativo de desktop Creative Cloud.
+Comece a usar esses recursos (e muito mais!) baixando a atualização mais recente do seu aplicativo de desktop Creative Cloud.

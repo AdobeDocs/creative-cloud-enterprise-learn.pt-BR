@@ -1,33 +1,34 @@
 ---
-title: MAX 2020 — as sessões corporativas
+title: MAX 2020 — Sessões corporativas
 description: Sobre os ativos de demonstração
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
 
 ---
 
-# MAX 2020 — as sessões corporativas
+# MAX 2020 — Sessões corporativas
 
-![Max 2020 Hero Image](../assets/MAX2020.jpg)
+![Imagem principal do Max 2020](../assets/MAX2020.jpg)
 
-Como criativo corporativo, você precisa colaborar com equipes distribuídas, estabelecer processos dimensionáveis e estar em conformidade com sistemas e diretrizes corporativas. Esses tutoriais ajudarão você a aprender novos recursos na versão 2021 do Creative Cloud — sob uma perspectiva corporativa.
+Como um criador corporativo, você precisa colaborar com equipes distribuídas, estabelecer processos escaláveis e estar em conformidade com sistemas e diretrizes corporativos. Estes tutoriais ajudarão você a conhecer novos recursos da versão de 2021 do Creative Cloud — do ponto de vista corporativo.
 
-## Operação em escala — aproveite o poder do AEM Assets e do InDesign Server (26:54)
+## Opere em escala — aproveite a capacidade do AEM Assets e do InDesign Server (26:54)
 
 >[!VIDEO](https://video.tv.adobe.com/v/327112?hidetitle=true)
 
 **Descrição**
 
-Sua equipe criativa está gastando muito tempo com trabalho manual e repetitivo? Ajude sua organização a aproveitar ao máximo os profissionais de criação. AEM Sistemas corporativos como o e o InDesign Server podem fornecer à equipe de criação e de produção meios para levar rapidamente o conteúdo para as mãos do público-alvo.
+Sua equipe criativa está gastando muito tempo em trabalho manual e repetitivo? Ajude sua organização a aproveitar ao máximo os profissionais de criação. Sistemas corporativos como AEM e InDesign Server podem fornecer meios de profissionais de criação e produção para colocar rapidamente o conteúdo nas mãos do público-alvo.
 
 Nesta sessão gravada ao vivo, você verá exemplos de fluxos de trabalho baseados em modelo em:
-* O Adobe Experience Manager AEM (Ativos) é uma solução de gerenciamento de ativos digitais (DAM) que pode ser integrada ao Adobe Creative Cloud para ajudar usuários de DAM a trabalhar em conjunto com equipes de criação, simplificando a colaboração no processo de criação de conteúdo
-* O Adobe InDesign Server é um mecanismo de layout e composição que viabiliza soluções automatizadas de publicação integrando-as a outros sistemas
+* O Adobe Experience Manager (AEM) Assets é uma solução de gerenciamento de ativos digitais (DAM) que pode ser integrada ao Adobe Creative Cloud para ajudar os usuários do DAM a trabalhar em conjunto com as equipes criativas, simplificando a colaboração no processo de criação de conteúdo
+* O Adobe InDesign Server é um mecanismo de layout e composição que possibilita soluções automatizadas de publicação por meio da integração em outros sistemas
 
 **Apresentado por:**
 
@@ -39,16 +40,16 @@ Eric Rowse, consultor sênior de soluções (mídia digital) Derek Lu, consultor
 
 **Descrição**
 
-O trabalho remoto trouxe desafios, mas também obrigou os profissionais de criação e suas empresas a experimentar novas ferramentas e maneiras de criar. Experimente ferramentas conhecidas, como o Illustrator e o Photoshop, nas novas versões do iPad e desenhe com o Fresco em tablets (iPad, Microsoft Surface) e agora no iPhone!
+A WFH trouxe desafios, mas também obrigou os criativos e suas empresas a experimentar novas ferramentas e novas maneiras de criar. Explore ferramentas conhecidas, como Illustrator e Photoshop, em suas novas versões do iPad e desenhe com Fresco em tablets (iPad, Microsoft Surface) e agora no iPhone!
 
 Nesta sessão gravada ao vivo, você aprenderá a:
-* Use várias técnicas de pincéis e sombreamento no Fresco para criar ilustrações de campanha desenhadas à mão
-* Crie e compartilhe ícones angustiados no Illustrator no iPad para combinar com a identidade visual
-* Crie ilustrações no Fresco e no Illustrator no iPad para criar conteúdo para nossos canais de redes sociais em qualquer lugar com o Photoshop no iPad
+* Use vários pincéis e técnicas de sombreamento ao Fresco para criar ilustrações de campanha desenhadas à mão
+* Crie e compartilhe ícones angustiados no Illustrator no iPad para combinar com a marca
+* Arte composta do Fresco e do Illustrator no iPad para criar conteúdo para nossos canais de redes sociais em qualquer lugar com o Photoshop no iPad
 
 **Apresentado por:**
 
-Dave Weinberg, consultor sênior de soluções (mídia digital) Liz Tanonis, consultor de soluções (mídia digital) Emilie Enke, consultor de soluções (mídia digital)
+Dave Weinberg, Consultor sênior de soluções (mídia digital) Liz Tanonis, Consultora de soluções (mídia digital) Emilie Enke, Consultora de soluções (mídia digital)
 
 ## Colaboração com as Bibliotecas da CC (27:58)
 
@@ -56,11 +57,11 @@ Dave Weinberg, consultor sênior de soluções (mídia digital) Liz Tanonis, con
 
 **Descrição**
 
-Com as Bibliotecas da Adobe Creative Cloud, você gerencia, organiza e acessa seus logotipos, suas cores e muito mais diretamente de seus aplicativos Creative Cloud favoritos. Trabalhe com mais eficiência, garanta a consistência criativa e facilite a sincronia com sua equipe.
+Com as Bibliotecas da Adobe Creative Cloud, você pode gerenciar, organizar e acessar seus logotipos, cores e muito mais diretamente de seus aplicativos Creative Cloud favoritos. Trabalhe com mais eficiência, garanta a consistência criativa e fique facilmente em sincronia com sua equipe.
 
-Neste tutorial, você aprenderá a:
-* Encontre facilmente os ativos necessários em todos os seus aplicativos de criação
-* Capacite os comunicadores de toda a organização a criar experiências consistentes com a marca e manter o controle
+Neste tutorial, você aprenderá como:
+* Encontre facilmente os ativos de que você precisa em todos os seus aplicativos de criação
+* Capacite os comunicadores em toda a organização para criar experiências com a marca, mantendo o controle
 
 **Apresentado por:**
 
@@ -68,8 +69,8 @@ Ashley Dvorin, Consultora sênior de soluções (mídia digital) Emily Palmer, C
 
 ## Sobre os ativos de demonstração: LOCAL
 
-A equipe se aproximou de criar os ativos de demonstração como uma empresa o faria. Imaginamos uma campanha e criamos ativos para vários canais. Também criamos uma biblioteca da CC com elementos de marca para oferecer suporte à colaboração e consistência.
+A equipe abordou a criação dos ativos de demonstração como uma empresa faria. Imaginamos uma campanha e criamos ativos para vários canais. Também criamos uma biblioteca da CC de elementos de marca para oferecer suporte à colaboração e consistência.
 
-Em resposta à COVID-19, a LOCAL, uma empresa que realiza eventos ao vivo que celebram feriados divertidos e malucos, se voltou para reuniões online e faz parcerias com pequenos caminhões e restaurantes para promover seus negócios e ajudá-los a permanecer abertos.
+Em resposta à Covid-19, a LOCAL, empresa que realiza eventos ao vivo que celebram feriados divertidos e malucos, tem se dedicado a reuniões on-line e está fazendo parceria com pequenos food trucks e restaurantes locais para promover seus negócios — e ajudá-los a permanecer abertos.
 
 ![Ativos de demonstração LOCAIS](../assets/demo_local_assets-WIP-v1.jpg)

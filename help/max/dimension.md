@@ -1,10 +1,11 @@
 ---
 title: "[!DNL Dimension]"
-description: "[!DNL Dimension] facilita a criação de visualizações de marcas, ilustrações, modelos de produtos, designs de embalagens e outros trabalhos criativos"
+description: '"[!DNL Dimension] facilita a criação de visualizações de marcas, ilustrações, modelos de produtos, designs de embalagens e outros trabalhos criativos”'
+feature: 3D
 role: User
 level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -13,9 +14,9 @@ ht-degree: 0%
 
 # [!DNL Dimension]
 
-![Tutorial Hero Image](../assets/Dimenio.jpg)
+![Tutorial: imagem principal](../assets/Dimenio.jpg)
 
-Crie conteúdo envolvente em 3D com mais rapidez usando modelos, materiais e efeitos de iluminação de alta qualidade. [!DNL Dimension] facilita a criação de visualizações de marcas, ilustrações, modelos de produtos, designs de embalagens e outros trabalhos criativos.
+Crie conteúdo envolvente em 3D mais rapidamente com modelos, materiais e iluminação de alta qualidade. [!DNL Dimension] facilita a criação de visualizações de marcas, ilustrações, modelos de produtos, designs de embalagens e outros trabalhos criativos.
 
 ## Procurar Tutorials de produtos
 
@@ -23,12 +24,12 @@ Crie conteúdo envolvente em 3D com mais rapidez usando modelos, materiais e efe
 <tr>
  <td>
    <a href="dimension.md#tutorial1">
-      <img alt="Aplique materiais de Substance a modelos 3D" src="../assets/dimension_substanceAndGraphics_babbage_thumbnail.jpg" />
+      <img alt="Aplicar materiais de Substance a modelos 3D" src="../assets/dimension_substanceAndGraphics_babbage_thumbnail.jpg" />
    </a>
     <div>
-   <a href="dimension.md#tutorial1"><strong>Aplique materiais de Substance a modelos 3D</strong></a>
+   <a href="dimension.md#tutorial1"><strong>Aplicar materiais de Substance a modelos 3D</strong></a>
     </div>
-    <em>Os materiais Substance suportam milhares de variações de padrão e design em um único material</em>
+    <em>Os materiais de Substance suportam milhares de variações de padrões e designs em um único material</em>
     <br>
   </td>
   <td>
@@ -49,20 +50,20 @@ Crie conteúdo envolvente em 3D com mais rapidez usando modelos, materiais e efe
 >[!VIDEO](https://video.tv.adobe.com/v/326944?hidetitle=true)
 
 **Descrição**
-Os materiais Substance suportam milhares de variações de padrão e design em um único material.
+Os materiais Substance suportam milhares de variações de padrões e designs em um único material.
 
-Neste tutorial, você aprenderá a:
-* Crie conteúdo envolvente em 3D com mais rapidez usando modelos, materiais e efeitos de iluminação de alta qualidade
+Neste tutorial, você aprenderá como:
+* Crie conteúdo envolvente em 3D mais rapidamente, com modelos, materiais e iluminação de alta qualidade
 
 **Apresentado por:**
-Jim Babbage, consultor sênior de soluções (mídia digital)
+Jim Babbage, consultor sênior de soluções (Mídia digital)
 
-![Logo da Dimension](../assets/dn_appicon_96.png)
+![Logotipo Dimension](../assets/dn_appicon_96.png)
 
-**Recursos do Dimension**
+**Recursos Dimension**
 
-[Aprendizagem e suporte](https://helpx.adobe.com/support/dimension.html) é sua central de serviços para tutoriais adicionais, [Novidades](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html)e links para fóruns da comunidade.
+[Aprendizagem e suporte](https://helpx.adobe.com/support/dimension.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html)e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 
-Comece a usar esses recursos (e muito mais!) baixando a atualização mais recente no aplicativo de desktop Creative Cloud.
+Comece a usar esses recursos (e muito mais!) baixando a atualização mais recente do seu aplicativo de desktop Creative Cloud.
