@@ -1,11 +1,12 @@
 ---
 title: Tutoriais de 3D e VR do Adobe
 description: Tutorials para ajudá-lo a obter a velocidade de Adobe 3D e VR
+feature: 3D
 role: User
 level: Beginner, Intermediate
 jira: KT-6945
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
