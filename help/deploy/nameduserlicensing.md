@@ -3,8 +3,9 @@ title: Números de série prestes a expirar? Por que é hora do Licenciamento po
 description: O licenciamento de produtos de Adobe por meio do Licenciamento por usuário nomeado (NUL) permite que os administradores de TI implantem e gerenciem facilmente as ferramentas de Adobe usando o Admin Console e dá aos usuários finais acesso aos aplicativos de produtividade e criação de classe mundial e aos serviços da Adobe Cloud, mesmo que toda a força de trabalho seja remota
 role: Admin
 level: Beginner, Intermediate
+feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 2%

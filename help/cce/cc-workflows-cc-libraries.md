@@ -1,12 +1,12 @@
 ---
 title: Aprimore os fluxos de trabalho da CC com as Bibliotecas da CC
 description: Saiba como as Bibliotecas Creative Cloud mantêm os elementos de design unidos, garantindo a consistência do projeto para designers e equipes
-feature: Integrations
+feature: Integrations, Workflow
 role: User
 level: Intermediate
 thumb: KT-11193.jpg
 exl-id: 358e0681-b722-4a58-b1eb-0eb2c813d50f
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
