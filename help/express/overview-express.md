@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13380
 exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+source-git-commit: ef203983789b9b18796dc210308047c7c604d249
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '40'
 ht-degree: 0%
 
 ---
@@ -19,147 +19,33 @@ ht-degree: 0%
 
 O Adobe Express é uma ferramenta criativa fácil de usar, sem experiência necessária.
 
-<br> 
-
-## Crie seu primeiro design com o Adobe Express
-
-<br> 
-
->[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
-
-## Tutoriais do Adobe Express
+## Caminhos de aprendizado
 
 <table style="table-layout:fixed">
 <tr>
    <td>
-      <a href="get-started.md">
-         <img alt="Introdução ao Adobe Express" src="assets/get-started.png" />
+      <a href="overview-express-how-to.md">
+         <img alt="Tutorials de instruções do Adobe Express" src="assets/how-to-tutorials.png" />
       </a>
   </td>
   <td>
-      <a href="jumpstart-ideation.md">
-         <img alt="Impulsione uma ideia criativa" src="assets/marketing-ideation.png" />
-      </a>
-   </td>     
-   <td>
-      <a href="create-local-marketing.md">
-         <img alt="Criar conteúdo de folheto para campanha de marketing com o Firefly" src="assets/local-marketing.png" />
-      </a>
-   </td>    
-   <td>
-      <a href="create-on-boarding.md">
-         <img alt="Crie conteúdo de recrutamento e de integração com o Firefly" src="assets/on-boarding.png" />
-      </a>
-   </td>
-</tr>
-<tr>
-   <td>
-      <a href="create-social-posters.md">
-         <img alt="Criar pôsteres para redes sociais com o Firefly" src="assets/social-firefly.png" />
+      <a href="overview-express-use-case-tutorials.md">
+         <img alt="tutoriais sobre casos de uso do Adobe Express" src="assets/use-case-tutorials.png" />
       </a>
    </td>
    <td>
-      <a href="create-blog-graphics.md">
-         <img alt="Criar conteúdo gráfico para blogs com Firefly" src="assets/blog-graphic.png" />
-      </a>
-   </td>
-   <td>
-      <a href="create-webinar-poster.md">
-         <img alt="Criar pôsteres para webinar com o Firefly" src="assets/webinar-poster.png" />
-      </a>
-   </td>
-   <td>
-      <a href="schedule.md">
-         <img alt="Agendar publicações nas redes sociais" src="assets/schedule.png" />
-      </a>
-   </td>
-</tr>
-<tr>
-  <td>
-   <a href="collaborate.md">
-      <img alt="Convidar colaboradores do projeto" src="assets/collaborate.png" />
-   </a>
-  </td>
-    <td>
-      <a href="get-inspiration.md">
-         <img alt="Obtenha inspiração rápida" src="assets/inspiration.png" />
-      </a>
-  </td>
-   <td>
-   <a href="create-templates.md">
-      <img alt="Criar modelos" src="assets/templates.png" />
-   </a>
-  </td>
-   <td>
-         <a href="add-design-assets.md">
-            <img alt="Adicionar ativos de design" src="assets/design-assets.png" />
-         </a>
-   </td>
-</tr>
-<tr>
-  <td>
-         <a href="group-objects.md">
-            <img alt="Agrupar objetos" src="assets/group-objects.png" />
-         </a>
-   </td>
-  <td>
-         <a href="layers.md">
-            <img alt="Selecionar e mover camadas" src="assets/layers.png" />
-         </a>
-   </td>
-  <td>
-      <a href="multiple-pages.md">
-         <img alt="Criar várias páginas" src="assets/multiple-pages.png" />
-      </a>
+    <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
   </td>
   <td>
-      <a href="undo-redo.md">
-         <img alt="Desfazer e refazer" src="assets/undo-redo.png" />
-      </a>
-   </td>
-</tr>
-<tr>
- <td>
-      <a href="cc-libraries.md">
-         <img alt="Usar Bibliotecas da CC" src="assets/cc-libraries.png" />
-      </a>
+    <img alt="Espaçador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
   </td>
-   <td>
-      <a href="brand.md">
-         <img alt="Aplicar sua marca" src="assets/brand.png" />
-      </a>
-  </td>
-   <td>
-      <a href="google-drive.md">
-         <img alt="Integração do Google Drive" src="assets/google-drive.png" />
-      </a>
-  </td>
-  <td>
-      <a href="remove-background.md">
-         <img alt="Remover fundo" src="assets/background.png" />
-      </a>
-  </td>
-</tr>
-<tr>
- <td>
-      <a href="text-effects.md">
-         <img alt="Usar efeitos de texto" src="assets/text-effects.png" />
-      </a>
-  </td>
-  <td>
-      <a href="text-effects.md">
-         <img alt="Usar efeitos de texto" src="assets/text-effects.png" />
-      </a>
-  </td>
-  <td>
-      <a href="image-effects.md">
-         <img alt="Usar efeitos de imagem" src="assets/image-effects.png" />
-      </a>
-  </td>
-   <td>
-      <a href="create-curved-text.md">
-         <img alt="Criar texto curvo" src="assets/curved-text.png" />
-      </a>
-   </td>
 </tr>
 </table>
+
+## Crie seu primeiro design com o Adobe Express
+
+>[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
