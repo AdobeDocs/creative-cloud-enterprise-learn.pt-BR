@@ -5,7 +5,7 @@ feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Beginner
 jira: KT-13995
-source-git-commit: ef203983789b9b18796dc210308047c7c604d249
+source-git-commit: 6f60c1d99b3143341a43ab0aa44bad469d564fc6
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Descubra como equipes diferentes em sua organização podem se beneficiar do Ado
 <tr>
    <td>
       <a href="localized-marketing-content.md">
-         <img alt="Capacite equipes distribuídas para localizar conteúdo" src="assets/marketing-region-content.png" />
+         <img alt="Capacite equipes distribuídas para localizar conteúdo" src="assets/marketing-regional-content.png" />
       </a>
   </td>
   <td>
