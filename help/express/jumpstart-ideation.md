@@ -3,9 +3,9 @@ title: Jumpstart Creative Ideation
 description: Saiba como obter uma vantagem no desenvolvimento de conteúdo criativo para uma campanha de marketing
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-13952
-source-git-commit: a449e1d0484d11d4b01ecb91ff13f506ff419630
+source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 2%

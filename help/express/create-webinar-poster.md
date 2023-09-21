@@ -2,8 +2,9 @@
 title: Crie pôsteres de webinar com o Firefly
 description: Saiba como usar Texto para imagem, fornecido por Adobe Firefly, no Adobe Express para criar um pôster de webinar para um evento de realidade virtual
 feature: Image Editing, Gen AI
-level: Beginner
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+level: Intermediate
+jira: KT-13525
+source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 4%
