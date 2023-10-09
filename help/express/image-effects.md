@@ -1,19 +1,19 @@
 ---
-title: Usar efeitos de imagem
-description: Saiba como clarear e escurecer imagens
+title: Como adicionar efeitos e ajustes a uma foto
+description: Descubra as infinitas possibilidades adicionando efeitos e ajustes de fotos
 feature: Image Editing
 role: User
 level: Beginner
-exl-id: 6203686b-bc7c-4140-8107-26843753245e
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: d048d1ce-9f87-4257-a3a2-eeb56232c8f8
+source-git-commit: c5da6a77534492307cd58cf44cac651e98018b81
 workflow-type: tm+mt
-source-wordcount: '20'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# Usar efeitos de imagem
+# Como adicionar efeitos e ajustes a uma foto
 
-Saiba como clarear e escurecer imagens.
+Saiba como adicionar efeitos e ajustes a uma foto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420223?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423770?quality=12&learn=on&hidetitle=true)
