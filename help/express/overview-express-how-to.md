@@ -5,9 +5,10 @@ feature: Graphic Design, Image Editing, Integrations
 role: User
 level: Beginner
 jira: KT-13994
-source-git-commit: ef203983789b9b18796dc210308047c7c604d249
+exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
+source-git-commit: dc08bb9cea129fcfee25c888e9eb7021f15ee6c1
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -104,21 +105,21 @@ Comece a criar trabalhos incríveis que se destacam com IA generativa desenvolvi
       </a>
   </td>
   <td>
-      <a href="text-effects.md">
-         <img alt="Usar efeitos de texto" src="assets/text-effects.png" />
+      <a href="image-effects.md">
+         <img alt="Usar efeitos de imagem" src="assets/image-effects.png" />
       </a>
   </td>
 </tr>
 <tr>
   <td>
-      <a href="image-effects.md">
-         <img alt="Usar efeitos de imagem" src="assets/image-effects.png" />
-      </a>
-  </td>
-  <td>
          <a href="create-curved-text.md">
             <img alt="Criar texto curvo" src="assets/curved-text.png" />
          </a>
+   </td>
+  <td>
+      <img alt="Espaçador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
    </td>
    <td>
       <img alt="Espaçador" src="../assets/Whitespacer.png" />
