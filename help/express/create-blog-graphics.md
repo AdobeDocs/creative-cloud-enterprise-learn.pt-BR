@@ -1,19 +1,20 @@
 ---
-title: Crie conteúdo gráfico para blogs com Firefly
-description: Saiba como usar Texto para imagem, potencializado por Adobe Firefly, em Adobe Express para criar conteúdo gráfico exclusivo para um blog
+title: Execute facilmente campanhas sociais
+description: Saiba como usar o recurso Texto para imagem do Adobe Firefly para criar conteúdo gráfico exclusivo para campanhas na Web, em blogs e em redes sociais
 feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-13744
-source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
+exl-id: 36758179-0f46-4fea-9ff5-dae7ec3e8a58
+source-git-commit: 2c53f3fceed8a46bc9d1330ac95bc17f6ecd19de
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 4%
+source-wordcount: '60'
+ht-degree: 5%
 
 ---
 
-# Criar conteúdo gráfico para blogs com Firefly
+# Realize campanhas sociais com facilidade
 
-Saiba como usar Texto para imagem, potencializado por Adobe Firefly, em Adobe Express para criar conteúdo gráfico exclusivo para um blog. Este tutorial usa o novo [Adobe Express](https://www.adobe.com/express/).
+Saiba como usar o recurso Texto para imagem do Adobe Firefly para criar conteúdo gráfico exclusivo para campanhas na Web, em blogs e redes sociais. Este tutorial usa o novo [Adobe Express](https://www.adobe.com/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422408?quality=12&learn=on&hidetitle=true)

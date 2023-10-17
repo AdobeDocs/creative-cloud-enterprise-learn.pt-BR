@@ -8,7 +8,7 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: dc08bb9cea129fcfee25c888e9eb7021f15ee6c1
+source-git-commit: 2c53f3fceed8a46bc9d1330ac95bc17f6ecd19de
 workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 8%
@@ -67,12 +67,13 @@ ht-degree: 8%
       + [Criar conteúdo de folheto para campanha de marketing com o Firefly](express/create-local-marketing.md)
       + [Crie conteúdo de recrutamento e de integração com o Firefly](express/create-on-boarding.md)
       + [Criar pôsteres para redes sociais com o Firefly](express/create-social-posters.md)
-      + [Criar conteúdo gráfico para blogs com Firefly](express/create-blog-graphics.md)
+      + [Realize campanhas sociais com facilidade](express/create-blog-graphics.md)
       + [Criar pôsteres para webinar com o Firefly](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Visão geral](firefly/overview-firefly.md)
    + Tutoriais {#firefly-tutorials}
       + [Visão geral do Adobe Firefly](firefly/overview-of-firefly.md)
+      + [Habilite a eficiência criativa](firefly/enable-creative-efficiency.md)
       + [Banner e variações em [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [Preenchimento generativo [!DNL Photoshop]](firefly/generative-fill.md)
       + [Efeitos de texto](firefly/text-effects.md)
