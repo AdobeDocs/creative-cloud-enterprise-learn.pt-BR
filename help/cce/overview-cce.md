@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1529'
+source-wordcount: '1525'
 ht-degree: 1%
 
 ---
 
 # Creative Cloud para tutoriais corporativos
-
-![Imagem principal do Creative Cloud](../assets/CCEbanner.png)
 
 Como um criador corporativo, você deve colaborar com equipes distribuídas, estabelecer processos escaláveis e estar em conformidade com sistemas e diretrizes corporativos. Esses tutoriais ajudam a aprender novos recursos em Creative Cloud de uma perspectiva corporativa.
 
@@ -446,7 +444,7 @@ Como um criador corporativo, você deve colaborar com equipes distribuídas, est
     <div>
    <a href="assets/StyleWebContentwithInDesign.pdf"><strong>Estilizar conteúdo da Web com o Adobe InDesign CC (PDF)</strong></a>
     </div>
-    <em>Você sabia que pode aproveitar o poder do InDesign para gerar HTML de saída e gráficos da Web?</em>
+    <em>Você sabia que pode aproveitar o poder do InDesign para produzir HTML e gráficos da Web?</em>
     <br>
   </td>
   <td>

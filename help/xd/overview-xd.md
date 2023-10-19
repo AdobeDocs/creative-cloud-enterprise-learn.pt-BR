@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6944
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
 
 # Tutoriais do Adobe XD
-
-![Imagem principal do Creative Cloud](../assets/XD.jpg)
 
 O Adobe XD é uma ferramenta de design e prototipagem da experiência do usuário para criar sites, aplicativos, interfaces de voz, jogos e outros tipos de experiências digitais. Selecione uma imagem para ver um tutorial.
 

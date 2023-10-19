@@ -5,16 +5,14 @@ feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '383'
 ht-degree: 1%
 
 ---
 
 # AEM Assets e Asset Link
-
-![Tutorial: imagem principal](../assets/AEM.jpg)
 
 A Adobe Experience Manager é a solução de gerenciamento de experiências digitais líder do setor para empresas e organizações de médio porte. Ele fornece uma base moderna e dimensionável para proporcionar experiências atraentes que promovem o engajamento da marca, impulsionam a demanda e aumentam a fidelidade do cliente. O Experience Manager inclui um conjunto completo de ferramentas para criar, gerenciar e fornecer experiências digitais em todos os canais.
 

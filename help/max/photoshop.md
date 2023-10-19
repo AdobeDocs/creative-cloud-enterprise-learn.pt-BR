@@ -5,16 +5,14 @@ feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
 
 # Photoshop
-
-![Tutorial: imagem principal](../assets/Photoshop.jpg)
 
 O Photoshop é o melhor software de criação de imagens e design gráfico do mundo, permitindo criatividade ilimitada para profissionais em todos os dispositivos. Agora qualquer um pode criar qualquer coisa que imaginar, sempre que a inspiração surgir. Se você pode pensar, você pode fazer isso com o Photoshop.
 

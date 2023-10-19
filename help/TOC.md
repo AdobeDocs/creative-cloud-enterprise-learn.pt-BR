@@ -8,7 +8,7 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 2c53f3fceed8a46bc9d1330ac95bc17f6ecd19de
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 8%
@@ -16,7 +16,7 @@ ht-degree: 8%
 ---
 
 
-# Creative Cloud para tutoriais corporativos {#cce-learning-hub}
+# Creative Cloud para Tutorials corporativos {#cce-learning-hub}
 
 + [Visão geral](overview.md)
 + Creative Cloud para empresas {#cceoverview}

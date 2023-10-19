@@ -5,16 +5,15 @@ feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Intermediate
 jira: KT-13995
-source-git-commit: 358e7cb886829fbd3e25cd6d33f220f038fede0a
+exl-id: 0608deaf-21d2-4833-9552-b4f4d963ce90
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '157'
 ht-degree: 1%
 
 ---
 
 # Adobe [!DNL Express] tutoriais de caso de uso
-
-![Express Hero Image](../assets/Express.png)
 
 Descubra como equipes diferentes em sua organização podem se beneficiar do Adobe Express.
 

@@ -5,16 +5,14 @@ feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '204'
 ht-degree: 2%
 
 ---
 
 # Photoshop no iPad
-
-![Tutorial: imagem principal](../assets/PSoniPad.jpg)
 
 O Photoshop é o melhor software de criação de imagens e design gráfico do mundo, permitindo criatividade ilimitada para profissionais em todos os dispositivos. Agora qualquer um pode criar qualquer coisa que imaginar, sempre que a inspiração surgir. Se você pode pensar, você pode fazer isso com o Photoshop.
 

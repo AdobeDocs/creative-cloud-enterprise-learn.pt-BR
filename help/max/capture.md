@@ -5,16 +5,14 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '196'
 ht-degree: 1%
 
 ---
 
 # [!DNL Capture]
-
-![Tutorial: imagem principal](../assets/Capture.jpg)
 
 Adobe [!DNL Capture] transforma celulares e tablets em uma ferramenta de coleção de design. Os usuários podem criar muitos tipos diferentes de ativos (elementos digitais individuais para a arte).   Esses ativos são sincronizados automaticamente com outros aplicativos de Adobe para desktop e dispositivos móveis. Os usuários podem usá-los em seus projetos criativos ou compartilhá-los facilmente com colaboradores.
 

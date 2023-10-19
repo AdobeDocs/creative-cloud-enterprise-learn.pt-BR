@@ -5,16 +5,14 @@ feature: Collaboration, Share, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '611'
 ht-degree: 0%
 
 ---
 
 # Acrobat e Sign
-
-![Tutorial: imagem principal](../assets/DC.jpg)
 
 Com o Adobe Document Cloud, que inclui as principais soluções de PDF e assinatura eletrônica do mundo, você pode transformar os processos manuais de documentos em processos digitais eficientes. Agora sua equipe pode executar ações rápidas em documentos, fluxos de trabalho e tarefas em várias telas e dispositivos, em qualquer lugar, a qualquer hora e dentro de seus aplicativos favoritos da Microsoft e para corporações.
 

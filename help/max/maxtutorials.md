@@ -5,16 +5,14 @@ feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integratio
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 25%
+source-wordcount: '319'
+ht-degree: 26%
 
 ---
 
 # Tutoriais
-
-![Imagem principal do Max 2020](../assets/MAX.jpg)
 
 Como um criador corporativo, você precisa colaborar com equipes distribuídas, estabelecer processos escaláveis e estar em conformidade com sistemas e diretrizes corporativos. Estes tutoriais ajudarão você a conhecer novos recursos da versão de 2021 do Creative Cloud — do ponto de vista corporativo.
 

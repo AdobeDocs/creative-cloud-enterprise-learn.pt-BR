@@ -5,16 +5,14 @@ feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '234'
 ht-degree: 3%
 
 ---
 
 # Bibliotecas da CC
-
-![Tutorial: imagem principal](../assets/CCLibs.jpg)
 
 Mantenha seus ativos à mão e projetos com marca.
 

@@ -5,16 +5,14 @@ feature: Workspace, Collaboration
 role: User
 level: Beginner, Intermediate
 exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '150'
 ht-degree: 8%
 
 ---
 
 # Aplicativo de desktop da Creative Cloud
-
-![Tutorial: imagem principal](../assets/CCDA.jpg)
 
 O aplicativo de desktop Creative Cloud é o hub para gerenciar aplicativos, serviços e colaboração na CC e muito mais!
 

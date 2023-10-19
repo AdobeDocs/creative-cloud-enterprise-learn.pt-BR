@@ -5,16 +5,14 @@ feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
-
-![Tutorial: imagem principal](../assets/Stock.jpg)
 
 Os criativos estão sob pressão para fornecer rapidamente conteúdo novo e visualmente atraente que irá capturar e manter a atenção. Adobe [!DNL Stock] para corporações, dá às equipes de criação acesso a mais de 200 milhões de imagens, vídeos, modelos, ilustrações, arquivos de áudio e ativos 3D, tudo nos aplicativos de criação da Adobe que usam diariamente.
 

@@ -5,16 +5,14 @@ feature: UI Design
 role: User
 level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
 
 # XD
-
-![Tutorial: imagem principal](../assets/XD.jpg)
 
 O Adobe XD é uma ferramenta de design e prototipagem da experiência do usuário para criar sites, aplicativos, interfaces de voz, jogos e outros tipos de experiências digitais.
 
@@ -76,10 +74,10 @@ O Adobe XD é uma ferramenta de design e prototipagem da experiência do usuári
   </td>
   <td>
    <a href="xd.md#tutorial6">
-      <img alt="E-mail - Criar e preencher uma repetição de grade" src="../assets/xd_repeat_torres.jpg" />
+      <img alt="Email - Criar e Preencher uma Repetição de Grade" src="../assets/xd_repeat_torres.jpg" />
    </a>
     <div>
-   <a href="xd.md#tutorial7"><strong>E-mail - Criar e preencher uma repetição de grade</strong></a>
+   <a href="xd.md#tutorial7"><strong>Email - Criar e Preencher uma Repetição de Grade</strong></a>
     </div>
     <em>Transforme um único elemento em grades repetidas com um simples clique e arraste</em>
     <br>

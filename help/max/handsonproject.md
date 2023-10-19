@@ -5,16 +5,14 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
 
 # Design para imprimir plug-in - Personalizar uma máscara de rosto
-
-![Tutorial: imagem principal](../assets/faceMaskSplash.jpg)
 
 Não seria legal se você pudesse personalizar uma máscara facial com suas próprias ilustrações? Com o plug-in Adobe Design to Print, você pode visualizar seus designs em centenas de produtos Zazzle e publicá-los diretamente em seu marketplace online.
 

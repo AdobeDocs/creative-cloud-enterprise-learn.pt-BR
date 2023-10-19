@@ -5,16 +5,14 @@ feature: Integrations, Workflow
 role: User
 level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
-source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '500'
 ht-degree: 0%
 
 ---
 
 # MAX 2020 — Sessões corporativas
-
-![Imagem principal do Max 2020](../assets/MAX2020.jpg)
 
 Como um criador corporativo, você precisa colaborar com equipes distribuídas, estabelecer processos escaláveis e estar em conformidade com sistemas e diretrizes corporativos. Estes tutoriais ajudarão você a conhecer novos recursos da versão de 2021 do Creative Cloud — do ponto de vista corporativo.
 
