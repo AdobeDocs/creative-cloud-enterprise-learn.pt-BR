@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-13380
 exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 0%
+source-wordcount: '34'
+ht-degree: 11%
 
 ---
 
@@ -44,6 +44,6 @@ O Adobe Express é uma ferramenta criativa fácil de usar, sem experiência nece
 </tr>
 </table>
 
-## Crie seu primeiro design com o Adobe Express
+## O que é o Adobe Express?
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
