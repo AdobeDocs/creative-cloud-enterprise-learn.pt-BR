@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 6324cb0dce5ba7278f1e9a92090d87c2f75f4cf9
+source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -68,50 +68,68 @@ Comece a criar trabalhos incríveis que se destacam com IA generativa desenvolvi
          <img alt="Como adicionar uma imagem Ger AI" src="assets/gen-ai-image.png" />
       </a>
   </td>
+ <td>
+      <a href="grids.md">
+         <img alt="Como usar grades" src="assets/grids.png" />
+      </a>
+  </td>
+   <td>
+         <a href="add-design-assets.md">
+            <img alt="Como usar elementos" src="assets/design-assets.png" />
+         </a>
+   </td>
+   <td>
+         <a href="layers.md">
+            <img alt="Trabalho com camadas e pranchetas" src="assets/layers.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+   <td>
+   <a href="collaborate.md">
+      <img alt="Como colaborar" src="assets/collaborate.png" />
+   </a>
+  </td>
+  <td>
+   <a href="share.md">
+      <img alt="Como compartilhar e baixar" src="assets/share.png" />
+   </a>
+  </td>
+  <td>
+   <a href="version-history.md">
+      <img alt="Como usar o histórico de versões" src="assets/version-history.png" />
+   </a>
+  </td>
   <td>
       <a href="schedule.md">
          <img alt="Agendar publicações nas redes sociais" src="assets/schedule.png" />
       </a>
   </td>
-  <td>
-   <a href="collaborate.md">
-      <img alt="Convidar colaboradores do projeto" src="assets/collaborate.png" />
-   </a>
-  </td>
+</tr>
+<tr>
   <td>
       <a href="get-inspiration.md">
          <img alt="Obtenha inspiração rápida" src="assets/inspiration.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
    <a href="create-templates.md">
       <img alt="Criar modelos" src="assets/templates.png" />
    </a>
   </td>
- <td>
-         <a href="add-design-assets.md">
-            <img alt="Adicionar ativos de design" src="assets/design-assets.png" />
-         </a>
- </td>
-  <td>
+
+<td>
          <a href="group-objects.md">
             <img alt="Agrupar objetos" src="assets/group-objects.png" />
          </a>
    </td>
-  <td>
-         <a href="layers.md">
-            <img alt="Selecionar e mover camadas" src="assets/layers.png" />
-         </a>
-   </td>
-</tr>
-<tr>
    <td>
       <a href="multiple-pages.md">
          <img alt="Criar várias páginas" src="assets/multiple-pages.png" />
       </a>
   </td>
+</tr>
+<tr>
   <td>
       <a href="undo-redo.md">
          <img alt="Desfazer e refazer" src="assets/undo-redo.png" />
@@ -127,19 +145,24 @@ Comece a criar trabalhos incríveis que se destacam com IA generativa desenvolvi
          <img alt="Integração do Google Drive" src="assets/google-drive.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
          <a href="remove-background.md">
             <img alt="Remover fundo" src="assets/background.png" />
          </a>
    </td>
+</tr>
+<tr>
   <td>
          <a href="create-curved-text.md">
             <img alt="Criar texto curvo" src="assets/curved-text.png" />
          </a>
    </td>
   <td>
+      <img alt="Espaçador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+   <td>
       <img alt="Espaçador" src="../assets/Whitespacer.png" />
       <div>
       <br>
