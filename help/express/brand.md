@@ -1,19 +1,20 @@
 ---
-title: Aplicar sua marca
-description: Saiba como adicionar seu logotipo e cor de marca a qualquer modelo
+title: Configuração de um kit de marcas
+description: Saiba como criar uma coleção de ativos da marca para seus projetos empresariais ou pessoais
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: 21bbcd5a-a762-4169-a944-d8f1252699b9
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+jira: KT-13417
+exl-id: 770172e2-2cd4-4333-81bf-8b1af6eef1c0
+source-git-commit: 6324cb0dce5ba7278f1e9a92090d87c2f75f4cf9
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
-# Aplicar sua marca
+# Configurar um kit de marcas
 
-Saiba como adicionar seu logotipo e cor de marca a qualquer modelo.
+Saiba como criar uma coleção de ativos de marca para criar designs consistentes e profissionais para sua empresa ou projetos pessoais.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420218?quality=12&learn=on&hidetitle=true)

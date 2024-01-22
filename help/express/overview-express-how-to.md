@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
+source-git-commit: 6324cb0dce5ba7278f1e9a92090d87c2f75f4cf9
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -33,14 +33,46 @@ Comece a criar trabalhos incríveis que se destacam com IA generativa desenvolvi
       <a href="introduction-templates.md">
          <img alt="Introdução às ações rápidas" src="assets/introduction-templates.png" />
       </a>
- </td>
+ </td>     
  <td>
-      <a href="schedule.md">
-         <img alt="Agendar publicações nas redes sociais" src="assets/schedule.png" />
+      <a href="brand.md">
+         <img alt="Configurar um kit de marcas" src="assets/brand.png" />
       </a>
   </td>
 </tr>
 <tr>
+   <td>
+      <a href="new-project.md">
+         <img alt="Iniciar um projeto" src="assets/starting-a-project.png" />
+      </a>
+  </td>
+   <td>
+      <a href="workspace.md">
+         <img alt="UX de um projeto" src="assets/workspace.png" />
+      </a>
+  </td>
+  <td>
+      <a href="text-effects.md">
+         <img alt="Como adicionar texto" src="assets/text-effects.png" />
+      </a>
+  </td>
+  <td>
+      <a href="image-effects.md">
+         <img alt="Como adicionar uma imagem" src="assets/image-effects.png" />
+      </a>
+  </td>
+</tr>
+<tr>
+   <td>
+      <a href="add-gen-ai-image.md">
+         <img alt="Como adicionar uma imagem Ger AI" src="assets/gen-ai-image.png" />
+      </a>
+  </td>
+  <td>
+      <a href="schedule.md">
+         <img alt="Agendar publicações nas redes sociais" src="assets/schedule.png" />
+      </a>
+  </td>
   <td>
    <a href="collaborate.md">
       <img alt="Convidar colaboradores do projeto" src="assets/collaborate.png" />
@@ -51,7 +83,9 @@ Comece a criar trabalhos incríveis que se destacam com IA generativa desenvolvi
          <img alt="Obtenha inspiração rápida" src="assets/inspiration.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
    <a href="create-templates.md">
       <img alt="Criar modelos" src="assets/templates.png" />
    </a>
@@ -61,8 +95,6 @@ Comece a criar trabalhos incríveis que se destacam com IA generativa desenvolvi
             <img alt="Adicionar ativos de design" src="assets/design-assets.png" />
          </a>
  </td>
-</tr>
-<tr>
   <td>
          <a href="group-objects.md">
             <img alt="Agrupar objetos" src="assets/group-objects.png" />
@@ -73,7 +105,9 @@ Comece a criar trabalhos incríveis que se destacam com IA generativa desenvolvi
             <img alt="Selecionar e mover camadas" src="assets/layers.png" />
          </a>
    </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="multiple-pages.md">
          <img alt="Criar várias páginas" src="assets/multiple-pages.png" />
       </a>
@@ -83,16 +117,9 @@ Comece a criar trabalhos incríveis que se destacam com IA generativa desenvolvi
          <img alt="Desfazer e refazer" src="assets/undo-redo.png" />
       </a>
    </td>
-</tr>
-<tr>
   <td>
       <a href="cc-libraries.md">
          <img alt="Usar Bibliotecas da CC" src="assets/cc-libraries.png" />
-      </a>
-  </td>
-   <td>
-      <a href="brand.md">
-         <img alt="Aplicar sua marca" src="assets/brand.png" />
       </a>
   </td>
    <td>
@@ -100,29 +127,24 @@ Comece a criar trabalhos incríveis que se destacam com IA generativa desenvolvi
          <img alt="Integração do Google Drive" src="assets/google-drive.png" />
       </a>
   </td>
-  <td>
-      <a href="remove-background.md">
-         <img alt="Remover fundo" src="assets/background.png" />
-      </a>
-  </td>
-  </tr>
+</tr>
 <tr>
-  <td>
-      <a href="text-effects.md">
-         <img alt="Usar efeitos de texto" src="assets/text-effects.png" />
-      </a>
-  </td>
-  <td>
-      <a href="image-effects.md">
-         <img alt="Usar efeitos de imagem" src="assets/image-effects.png" />
-      </a>
-  </td>
+   <td>
+         <a href="remove-background.md">
+            <img alt="Remover fundo" src="assets/background.png" />
+         </a>
+   </td>
   <td>
          <a href="create-curved-text.md">
             <img alt="Criar texto curvo" src="assets/curved-text.png" />
          </a>
    </td>
   <td>
+      <img alt="Espaçador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+   <td>
       <img alt="Espaçador" src="../assets/Whitespacer.png" />
       <div>
       <br>
