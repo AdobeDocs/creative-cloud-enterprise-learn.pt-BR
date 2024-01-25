@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 825bff22978949e0bb47c6194af4d68f8cb38aa9
+source-git-commit: d1f45cf8f40f601e77ca752e0ac1d369e22db664
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 2%
+source-wordcount: '235'
+ht-degree: 1%
 
 ---
 
@@ -213,8 +213,52 @@ Comece a criar trabalhos incríveis que se destacam com IA generativa desenvolvi
 <table style="table-layout:fixed">
 <tr>
    <td>
+         <a href="remove-background.md">
+            <img alt="Como remover um plano de fundo de qualquer imagem" src="assets/background.png" />
+         </a>
+   </td>
+   <td>
+         <a href="intro-gen-ai.md">
+            <img alt="Quais são os novos recursos de IA do Gen no Adobe Express?" src="assets/intro-gen-ai.png" />
+         </a>
+   </td>
+   <td>
+         <a href="object-eraser.md">
+            <img alt="Como usar a ferramenta Borracha de objeto" src="assets/object-eraser.png" />
+         </a>
+   </td>
+   <td>
+         <a href="generative-fill.md">
+            <img alt="Como usar o Preenchimento generativo" src="assets/gen-fill.png" />
+         </a>
+   </td>      
+</tr>
+<tr>
+   <td>
+      <a href="gen-text.md">
+         <img alt="Aprimorar o design de texto com a Gen AI" src="assets/text-design.png" />
+      </a>
+   </td>
+   <td>
+      <a href="text-to-template.md">
+         <img alt="Como usar a geração de IA de texto para modelo" src="assets/text-to-template.png" />
+      </a>
+   </td>
+   <td>
+      <a href="bulk-translate.md">
+         <img alt="Como traduzir seu conteúdo em massa" src="assets/bulk-translate.png" />
+      </a>
+   </td>
+   <td>
+      <a href="edit-a-pdf.md">
+         <img alt="Como editar um PDF" src="assets/edit-pdf.png" />
+      </a>
+   </td>
+</tr>
+<tr>
+   <td>
       <a href="schedule.md">
-         <img alt="Agendar publicações nas redes sociais" src="assets/schedule.png" />
+         <img alt="Como usar o agendador para lançamento" src="assets/schedule.png" />
       </a>
    </td>
    <td>
@@ -244,15 +288,15 @@ Comece a criar trabalhos incríveis que se destacam com IA generativa desenvolvi
          <img alt="Integração do Google Drive" src="assets/google-drive.png" />
       </a>
   </td>
-   <td>
-         <a href="remove-background.md">
-            <img alt="Remover fundo" src="assets/background.png" />
-         </a>
-   </td>
   <td>
          <a href="create-curved-text.md">
             <img alt="Criar texto curvo" src="assets/curved-text.png" />
          </a>
    </td>
+   <td>
+    <img alt="Espaçador" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>

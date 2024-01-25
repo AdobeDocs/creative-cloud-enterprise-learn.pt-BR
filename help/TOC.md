@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: e79a55515326070651e6f5180f5f557bc79673c4
 workflow-type: tm+mt
-source-wordcount: '643'
-ht-degree: 5%
+source-wordcount: '689'
+ht-degree: 4%
 
 ---
 
@@ -65,13 +65,20 @@ ht-degree: 5%
       + [Adicionar áudio às suas animações](express/audio-animation.md)
       + [Como redimensionar animações](express/resize-animations.md)
       + [Exportação de animações](express/export-animations.md)
-      + [Agendar publicações nas redes sociais](express/schedule.md)
+      + [Como remover um plano de fundo de qualquer imagem](express/remove-background.md)
+      + [Quais são os novos recursos de IA da geração no Adobe Express?](express/intro-gen-ai.md)
+      + [Como usar a ferramenta Borracha de objeto](express/object-eraser.md)
+      + [Como usar o Preenchimento generativo](express/generative-fill.md)
+      + [Aprimorar o design de texto com a Gen AI](express/gen-text.md)
+      + [Como usar a geração de IA de texto para modelo](express/text-to-template.md)
+      + [Como traduzir seu conteúdo em massa](express/bulk-translate.md)
+      + [Como editar um PDF](express/edit-a-pdf.md)
+      + [Como usar o agendador para lançamento](express/schedule.md)
       + [Criar modelos](express/create-templates.md)
       + [Agrupar objetos](express/group-objects.md)
       + [Criar várias páginas](express/multiple-pages.md)
       + [Usar Bibliotecas da CC](express/cc-libraries.md)
       + [Integração do Google Drive](express/google-drive.md)
-      + [Como remover um plano de fundo de uma foto com um clique](express/remove-background.md)
       + [Refinar um recorte de arestas](express/refine-cutout.md)
       + [Criar texto curvo](express/create-curved-text.md)
    + Tutoriais de caso de uso {#expressusecase}
