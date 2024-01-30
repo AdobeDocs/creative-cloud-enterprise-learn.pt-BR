@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
+source-git-commit: f4226d6d483d807559f06c2971cdd7e111095078
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '716'
 ht-degree: 4%
 
 ---
@@ -84,6 +84,7 @@ ht-degree: 4%
       + [Como iniciar um projeto de vídeo](express/start-video.md)
       + [Como adicionar videoclipes](express/add-video-clips.md)
       + [O que é uma linha de tempo de vídeo?](express/video-timeline.md)
+      + [Trabalhar com vários clipes](express/multiple-clips.md)
       + [Como adicionar áudio](express/add-audio-video.md)
       + [Como exportar vídeo](express/export-video.md)
    + Tutoriais de caso de uso {#expressusecase}
