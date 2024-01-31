@@ -1,19 +1,20 @@
 ---
-title: Criar Modelos
-description: Saiba como usar o mesmo layout de projeto novamente
+title: Criação de um modelo
+description: Saiba como criar um modelo e adicionar instruções para que outras pessoas usem
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: 64d758ab-85ef-46fa-865d-1f18d2fb4c6f
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+jira: KT-13410
+exl-id: f044b41b-e7f8-4c0a-86fe-83b82a332334
+source-git-commit: 3d3e0b0aa8884a86a59f2b89d21e64952cd0ab6c
 workflow-type: tm+mt
-source-wordcount: '22'
+source-wordcount: '30'
 ht-degree: 0%
 
 ---
 
-# Criar modelos
+# Criação de um modelo
 
-Saiba como usar o mesmo layout de projeto novamente.
+Saiba como criar modelos e adicionar instruções para que outras pessoas possam usá-los.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420208?quality=12&learn=on&hidetitle=true)

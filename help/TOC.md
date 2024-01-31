@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f4226d6d483d807559f06c2971cdd7e111095078
+source-git-commit: 91329113e9dcca0f2ebdc8d6d998f4f0a2d2012d
 workflow-type: tm+mt
-source-wordcount: '716'
+source-wordcount: '730'
 ht-degree: 4%
 
 ---
@@ -74,7 +74,6 @@ ht-degree: 4%
       + [Como traduzir seu conteúdo em massa](express/bulk-translate.md)
       + [Como editar um PDF](express/edit-a-pdf.md)
       + [Como usar o agendador para lançamento](express/schedule.md)
-      + [Criar modelos](express/create-templates.md)
       + [Agrupar objetos](express/group-objects.md)
       + [Criar várias páginas](express/multiple-pages.md)
       + [Usar Bibliotecas da CC](express/cc-libraries.md)
@@ -87,6 +86,10 @@ ht-degree: 4%
       + [Trabalhar com vários clipes](express/multiple-clips.md)
       + [Como adicionar áudio](express/add-audio-video.md)
       + [Como exportar vídeo](express/export-video.md)
+      + [Como e por que bloquear camadas](express/lock-layers.md)
+      + [Criação de um modelo](express/create-templates.md)
+      + [Salvar e compartilhar modelos](express/share-templates.md)
+      + [Como usar modelos](express/use-templates.md)
    + Tutoriais de caso de uso {#expressusecase}
       + [Visão geral](express/overview-express-use-case-tutorials.md)
       + [Criar conteúdo de merchandising atraente](express/compelling-merchandise.md)

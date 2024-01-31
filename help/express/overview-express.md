@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13380
 exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
-source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
+source-git-commit: 3d3e0b0aa8884a86a59f2b89d21e64952cd0ab6c
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 8%
+source-wordcount: '76'
+ht-degree: 10%
 
 ---
 
@@ -47,21 +47,21 @@ Crie Reels e vídeos, folhetos, currículos, banners, logotipos do TikTok e muit
   </td>
 </tr>
 <tr>
-  <td>
+   <td>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#video">
          <img alt="Vídeos de tutoriais" src="assets/video.png" />
       </a>
-  </td>
+   </td>
    <td>
+      <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#templates">
+         <img alt="Vídeos de tutoriais" src="assets/templates.png" />
+      </a>
+   </td>
+  <td>
       <a href="overview-express-use-case-tutorials.md">
          <img alt="tutoriais sobre casos de uso do Adobe Express" src="assets/use-case-tutorials.png" />
       </a>
    </td>
-  <td>
-    <img alt="Espaçador" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
-  </td>
   <td>
     <img alt="Espaçador" src="../assets/Gray_thumbnail.png" />
     <div>

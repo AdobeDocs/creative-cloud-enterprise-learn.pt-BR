@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: f4226d6d483d807559f06c2971cdd7e111095078
+source-git-commit: 3d3e0b0aa8884a86a59f2b89d21e64952cd0ab6c
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '284'
 ht-degree: 1%
 
 ---
@@ -262,11 +262,6 @@ Comece a criar trabalhos incríveis que se destacam com IA generativa desenvolvi
       </a>
    </td>
    <td>
-   <a href="create-templates.md">
-      <img alt="Criar modelos" src="assets/templates.png" />
-   </a>
-   </td>
-   <td>
          <a href="group-objects.md">
             <img alt="Agrupar objetos" src="assets/group-objects.png" />
          </a>
@@ -276,13 +271,13 @@ Comece a criar trabalhos incríveis que se destacam com IA generativa desenvolvi
          <img alt="Criar várias páginas" src="assets/multiple-pages.png" />
       </a>
   </td>
-</tr>
-<tr>
   <td>
       <a href="cc-libraries.md">
          <img alt="Usar Bibliotecas da CC" src="assets/cc-libraries.png" />
       </a>
   </td>
+</tr>
+<tr>
    <td>
       <a href="google-drive.md">
          <img alt="Integração do Google Drive" src="assets/google-drive.png" />
@@ -297,6 +292,11 @@ Comece a criar trabalhos incríveis que se destacam com IA generativa desenvolvi
          <a href="create-curved-text.md">
             <img alt="Criar texto curvo" src="assets/curved-text.png" />
          </a>
+   </td>
+   <td>
+    <img alt="Espaçador" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
    </td>
 </tr>
 </table>
@@ -346,6 +346,33 @@ Comece a criar trabalhos incríveis que se destacam com IA generativa desenvolvi
     <img alt="Espaçador" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
+   </td>
+</tr>
+</table>
+
+## Modelos
+
+<table style="table-layout:fixed">
+<tr>
+   <td>
+         <a href="lock-layers.md">
+            <img alt="Como e por que bloquear camadas" src="assets/lock-layers.png" />
+         </a>
+   </td>
+  <td>
+         <a href="create-templates.md">
+            <img alt="Criação de um modelo" src="assets/create-template.png" />
+         </a>
+   </td>
+   <td>
+         <a href="share-templates.md">
+            <img alt="Salvar e compartilhar modelos" src="assets/share-templates.png" />
+         </a>
+   </td>
+   <td>
+         <a href="use-templates.md">
+            <img alt="Como usar modelos" src="assets/use-templates.png" />
+         </a>
    </td>
 </tr>
 </table>
