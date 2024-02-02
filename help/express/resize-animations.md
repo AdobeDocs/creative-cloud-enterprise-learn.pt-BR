@@ -5,15 +5,15 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14838
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '35'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
 # Como redimensionar animações
 
-Saiba como otimizar o tamanho da animação usando predefinições integradas para publicações em redes sociais.
+Saiba como otimizar o tamanho da animação usando predefinições integradas para publicações em redes sociais, como o Instagram. Independentemente de como você redimensiona suas animações, as configurações são mantidas para que não seja necessário reconstruí-las.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426984?quality=12&learn=on&hidetitle=true)

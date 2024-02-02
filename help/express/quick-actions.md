@@ -5,15 +5,15 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14818
-source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '33'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
 # Introdução às ações rápidas
 
-Ações rápidas são ferramentas fáceis de usar que oferecem uma edição rápida e gratuita de imagens, vídeos e documentos.
+Ações rápidas poupam tempo e fornecem ferramentas básicas de edição para o trabalho criativo diário. Exemplos de ações rápidas incluem mesclar e aparar vídeos, remover planos de fundo, redimensionar imagens e vídeos, converter vídeos em gifs e editar PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426925?quality=12&learn=on&hidetitle=true)

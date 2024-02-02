@@ -1,19 +1,19 @@
 ---
 title: Como usar o histórico de versões
-description: Saiba como exibir um log de versões recentes do seu projeto
+description: Saiba como acessar o histórico de versões e exibir e copiar versões anteriores de seus projetos
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14829
-source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
 # Como usar o histórico de versões
 
-Saiba como exibir um log de versões recentes do seu projeto.
+Saiba como acessar o histórico de versões e exibir e copiar versões anteriores de seus projetos. Marque pontos fundamentais no desenvolvimento para voltar facilmente a momentos específicos no progresso do projeto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426937?quality=12&learn=on&hidetitle=true)

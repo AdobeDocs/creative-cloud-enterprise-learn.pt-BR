@@ -5,15 +5,15 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14832
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
 # Diferentes tipos de animações
 
-Saiba mais sobre os três tipos diferentes de animações que você pode adicionar aos seus projetos para torná-los mais envolventes.
+Saiba mais sobre os três tipos diferentes de animações (introdução, loop e encerramento) que você pode adicionar aos seus projetos para torná-los mais envolventes. Cada animação tem um estilo diferente que você pode visualizar e selecionar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426976?quality=12&learn=on&hidetitle=true)

@@ -5,15 +5,19 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-14851
-source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
 # Como traduzir seu conteúdo em massa
 
-Saiba como eliminar a necessidade de traduções manuais e o incômodo de ferramentas de tradução externas, traduzindo o texto em arquivos de uma ou várias páginas para os 46 idiomas de sua escolha.
+Saiba como criar variações de idioma dos seus projetos traduzindo automaticamente o conteúdo em 46 idiomas diferentes. Você pode selecionar o idioma desejado, duplicar e traduzir o conteúdo e manter todas as animações.
+
+>[!NOTE]
+>
+>É importante revisar a precisão das traduções antes de compartilhar ou baixar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427023?quality=12&learn=on&hidetitle=true)

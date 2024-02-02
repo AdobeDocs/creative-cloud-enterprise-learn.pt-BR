@@ -1,19 +1,19 @@
 ---
 title: Como adicionar áudio
-description: Saiba como gravar sua própria voz ou adicionar áudio isento de royalties do Adobe Stock a qualquer vídeo
+description: Saiba como criar projetos envolventes e memoráveis adicionando áudio
 feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14874
-source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
 # Como adicionar áudio
 
-Saiba como gravar sua própria voz ou adicionar áudio isento de royalties do Adobe Stock a qualquer vídeo.
+Saiba como criar projetos envolventes e memoráveis adicionando áudio. Você pode fazer upload de seus próprios arquivos de áudio ou escolher um áudio isento de royalties. Você também pode gravar narrações e ajustar o volume para áudio e narrações.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427092?quality=12&learn=on&hidetitle=true)
