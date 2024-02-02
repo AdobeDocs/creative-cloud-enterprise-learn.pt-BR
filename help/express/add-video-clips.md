@@ -5,9 +5,9 @@ feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14871
-source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
+source-git-commit: 79b9f6ba419663b707519aa6f62d0a265b8da38d
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -17,3 +17,52 @@ ht-degree: 0%
 Saiba como criar vídeos de destaque com rapidez e facilidade usando o recurso de arrastar e soltar na criação de vídeos. Comece com modelos ou seus próprios designs estáticos e adicione sua marca, ativos de design, vídeos e músicas do Adobe Stock e muito mais.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427071?quality=12&learn=on&hidetitle=true)
+
+## Vídeos adicionais desta série
+
+<table style="table-layout:fixed">
+<tr>
+   <td>
+         <a href="start-video.md">
+            <img alt="Como iniciar um projeto de vídeo" src="assets/start-video.png" />
+         </a>
+   </td>
+   <td>
+         <a href="video-timeline.md">
+            <img alt="O que é uma linha de tempo de vídeo?" src="assets/video-timeline.png" />
+         </a>
+   </td>
+   <td>
+         <a href="multiple-clips.md">
+            <img alt="Trabalhar com vários clipes" src="assets/multiple-clips.png" />
+         </a>
+   </td>
+   <td>
+         <a href="add-audio-video.md">
+            <img alt="Como adicionar áudio" src="assets/add-audio-video.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+    <td>
+         <a href="export-video.md">
+            <img alt="Como exportar vídeo" src="assets/export-video.png" />
+         </a>
+   </td>
+   <td>
+    <img alt="Espaçador" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+   </td>
+   <td>
+    <img alt="Espaçador" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+   </td>
+   <td>
+    <img alt="Espaçador" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+   </td>
+</tr>
+</table>
