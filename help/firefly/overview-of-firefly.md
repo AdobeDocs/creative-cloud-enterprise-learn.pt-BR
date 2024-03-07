@@ -5,16 +5,17 @@ feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13528
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: 82dcb3aa-beb0-4ca1-8696-9897f86163c6
+source-git-commit: 3dd3f81266103593478531c789beda40ceb38b90
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
 # Visão geral do Adobe Firefly
 
-Saiba o que você pode criar com o Adobe Firefly. Descubra como acelerar a criação de conteúdo em aplicativos Adobe Express e Adobe Creative Cloud, como o Adobe Photoshop. Este tutorial usa [Photoshop Beta (24.6.0+)](https://helpx.adobe.com/x-productkb/global/creative-cloud-beta.html).
+Saiba o que você pode criar com o Adobe Firefly. Descubra como acelerar a criação de conteúdo em aplicativos Adobe Express e Adobe Creative Cloud, como o Adobe Photoshop.
 
 <br> 
 
