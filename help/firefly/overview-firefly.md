@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: a070aad2cc264fd6e3fefdc7a3ad5b092aa0fd72
+source-git-commit: 88fe17c839859a4fdc39f1ebc7494cc226beaab8
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,11 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
       </a>
    </td>
    <td>
+      <a href="custom-model-subject.md">
+         <img alt="Criar um Modelo Personalizado usando um assunto" src="assets/custom-model-subject.png" />
+      </a>
+   </td>
+   <td>
       <a href="custom-model-style.md">
          <img alt="Criar um modelo personalizado usando estilos" src="assets/custom-model-styles.png" />
       </a>
@@ -69,14 +74,14 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
          <img alt="Descobrir Adobe Firefly" src="assets/discover.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="landing-page.md">
          <img alt="Página de aterrisagem" src="assets/landing-page.png" />
       </a>
    </td>
-</tr>
-<tr>
-   <td>
+    <td>
       <a href="text-to-image.md">
          <img alt="Texto para imagem" src="assets/text-to-image.png" />
       </a>
@@ -91,14 +96,14 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
          <img alt="Preenchimento generativo" src="assets/generative-fill.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="gen-recolor.md">
          <img alt="Recolorir generativo" src="assets/generative-recolor.png" />
       </a>
    </td>
-</tr>
-<tr>
-  <td>
+   <td>
       <a href="examples.md">
          <img alt="Exemplos de como usar o Firefly" src="assets/examples.png" />
       </a>
@@ -113,22 +118,17 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
          <img alt="Preenchimento generativo no Photoshop" src="assets/generative-fill-ps.png" />
       </a>
    </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="web-banner-ad.md">
          <img alt="Banner e variações no Photoshop" src="assets/banner-ad-variations.png" />
       </a>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="generative-recolor.md">
             <img alt="Recolorir generativo no Illustrator" src="assets/firefly-recolor.png" />
       </a>
-   </td>
-   <td>
-      <img alt="Espaçador" src="../assets/Gray_thumbnail.png" />
-      <div>
-      <br>
    </td>
    <td>
       <img alt="Espaçador" src="../assets/Gray_thumbnail.png" />
