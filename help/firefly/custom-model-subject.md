@@ -5,9 +5,10 @@ feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-15269
-source-git-commit: 12ed03cedbb4434840a0bc9671e618c6aa4ea1da
+exl-id: ba38dcbf-5ccd-4060-a193-8773358b275a
+source-git-commit: efd5e6062194514e15d0ab015d2cd54d41943746
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '85'
 ht-degree: 1%
 
 ---
@@ -20,3 +21,6 @@ Saiba como criar modelos personalizados em Firefly para criar novas imagens para
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428094?quality=12&learn=on&hidetitle=true)
 
+>[!IMPORTANT]
+>
+>Saiba mais sobre o [arquitetura de segurança e fluxo de dados de modelos personalizados](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf).
