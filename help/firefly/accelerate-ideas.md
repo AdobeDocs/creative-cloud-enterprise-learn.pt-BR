@@ -1,11 +1,12 @@
 ---
 title: Acelere a ideia criativa
 description: Saiba como visualizar ideias rapidamente e explorar conceitos para campanhas de negócios
-feature: Graphic Design, Gen AI
+feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-15422
-source-git-commit: 1fc995e8be33317f0d9200bb421fcff0f77a568c
+exl-id: df991508-194c-4316-aeb6-76a5b06b10f2
+source-git-commit: 64f061905203642776cd23e18a4a9f379a95fb83
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 2%
