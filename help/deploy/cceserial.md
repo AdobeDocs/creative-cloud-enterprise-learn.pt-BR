@@ -7,8 +7,8 @@ feature: Deploy
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
 source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
 workflow-type: tm+mt
-source-wordcount: '844'
-ht-degree: 3%
+source-wordcount: '840'
+ht-degree: 1%
 
 ---
 
@@ -20,12 +20,12 @@ Historicamente, a Adobe emitia números de série com nossos aplicativos (por ex
 
 ### Localizar o(s) número(s) de série
 
-As licenças por número de série associadas ao seu contrato ETLA estão disponíveis por meio do [Site de licenciamento do Adobe](https://licensing.adobe.com/) (LWS). Siga estas instruções para exibir e baixar:
+As licenças por número de série associadas ao seu contrato ETLA estão disponíveis no [Site de Licenciamento por Adobe](https://licensing.adobe.com/) (LWS). Siga estas instruções para exibir e baixar:
 
-1. Faça logon em [Site de licenciamento do Adobe](https://licensing.adobe.com/) (LWS) com sua Adobe ID e senha.
-1. Escolher **Licenças > Recuperar números de série**.
-1. Insira seu **ID do usuário final** ou **ID de implantação**.
-1. (Opcional) Selecione um **Nome do produto**, **Versão do produto**, ou **Plataforma** para filtrar resultados.
+1. Entre no [site de licenciamento de Adobe](https://licensing.adobe.com/) (LWS) com sua Adobe ID e senha.
+1. Escolha **Licenças > Recuperar Números de Série**.
+1. Insira sua **ID de Usuário Final** ou **ID de Implantação**.
+1. (Opcional) Selecione um **Nome do Produto**, uma **Versão do Produto** ou uma **Plataforma** para filtrar os resultados.
 1. Clique em Pesquisar.
 1. O nome do produto e os números de série são exibidos.
 1. (Opcional) Selecione “EXPORTAR PARA CSV” para baixar a lista de números de série.
@@ -34,7 +34,7 @@ As licenças por número de série associadas ao seu contrato ETLA estão dispon
 
 ### Verificar a data de expiração
 
-O [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) O é um utilitário de linha de comando para administradores de TI para verificar se os produtos de Adobe em um computador estão usando números de série que expiraram ou estão expirando. A ferramenta exibirá informações como o identificador da licença do produto (LEID), o número de série criptografado e a data de expiração. Este [página](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) contém instruções sobre como baixar e usar a ferramenta em computadores Mac ou Windows.
+O [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) é um utilitário de linha de comando para administradores de TI para verificar se os produtos Adobe em um computador estão usando números de série que expiraram ou estão expirando. A ferramenta exibirá informações como o identificador da licença do produto (LEID), o número de série criptografado e a data de expiração. Esta [página](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) contém instruções sobre como baixar e usar a ferramenta em computadores Mac ou Windows.
 
 ## Entendendo a experiência do usuário final antes e depois da expiração do número de série
 
@@ -48,21 +48,21 @@ As informações a seguir descrevem a experiência do usuário final. Há um bre
 
 **Antes da expiração**
 
-A partir de 60 dias antes do número de série expirar, todos os Creative Cloud para aplicativos corporativos exibirão uma caixa de diálogo no produto para o usuário final. Esta mensagem será exibida semanalmente, até 30 dias antes da expiração, em seguida será exibida diariamente até a data de expiração que *Sua licença está expirando. Este produto Adobe está usando uma licença que expira em 29 de novembro de 2020. Entre em contato com o administrador para garantir o acesso contínuo*.
+A partir de 60 dias antes do número de série expirar, todos os Creative Cloud para aplicativos corporativos exibirão uma caixa de diálogo no produto para o usuário final. Esta mensagem será exibida semanalmente, até 30 dias antes da expiração. Ela será exibida diariamente até a data de expiração que começa com *Sua licença está expirando. Este produto Adobe está usando uma licença que expira em 29 de novembro de 2020. Entre em contato com o administrador para garantir o acesso contínuo*.
 
 ![Mensagem de CCE antes da expiração](assets/cceexpiring.png)
 
 **Após a expiração**
 
-Depois que o número de série expirar, os usuários não terão mais acesso ao Creative Cloud para aplicativos corporativos. Na primeira inicialização após a expiração, o usuário receberá uma caixa de diálogo informando *O número de série inserido expirou. Este produto não pode ser licenciado. Entre em contato com o Suporte ao cliente*.
+Depois que o número de série expirar, os usuários não terão mais acesso ao Creative Cloud para aplicativos corporativos. Na primeira inicialização após a expiração, o usuário receberá uma caixa de diálogo informando *O número de série inserido expirou. Este produto não pode ser licenciado. Contate o Suporte ao Cliente*.
 
 ![Mensagem de CCE após expiração](assets/cceafterexpire.png)
 
-Para todas as tentativas subsequentes de iniciar os aplicativos, o usuário final será solicitado a **Fazer logon agora** seguido da opção para criar seu próprio Adobe ID e entrar no modo de avaliação. No entanto, qualquer novo Adobe ID criado pelo usuário final não será associado às licenças da sua organização e causará confusão adicional aos seus usuários. Para evitar a interrupção dos negócios e/ou confusões desnecessárias, migre seus usuários para o licenciamento por usuário nomeado antes que os números de série expirem.
+Para todas as tentativas subsequentes de iniciar os aplicativos, o usuário final será solicitado a **Fazer logon agora**, seguido da opção de criar sua própria Adobe ID e entrar no modo de avaliação. No entanto, qualquer novo Adobe ID criado pelo usuário final não será associado às licenças da sua organização e causará confusão adicional aos seus usuários. Para evitar a interrupção dos negócios e/ou confusões desnecessárias, migre seus usuários para o licenciamento por usuário nomeado antes que os números de série expirem.
 
-![Caixa de diálogo 1 do logon do CCE](assets/ccesignin1.png)
+![Caixa de diálogo de entrada do CCE 1](assets/ccesignin1.png)
 
-![Caixa de diálogo 2 do CCE Sign-in](assets/ccesignin2.png)
+![Caixa de diálogo de entrada do CCE 2](assets/ccesignin2.png)
 
 ### experiência com Acrobat
 
@@ -73,17 +73,17 @@ As informações a seguir descrevem a experiência do usuário final. Há um bre
 
 **Antes da expiração**
 
-A partir de 60 dias antes do número de série expirar, o Acrobat exibe uma mensagem pop-up no produto para o usuário final. Isso será exibido uma vez por semana até 7 dias antes do vencimento. Começará então a aparecer diariamente afirmando *Sua licença do Adobe Acrobat expira em 30/11/2020. Entre em contato com o administrador para continuar usando o Acrobat sem interrupções.*
+A partir de 60 dias antes do número de série expirar, o Acrobat exibe uma mensagem pop-up no produto para o usuário final. Isso será exibido uma vez por semana até 7 dias antes do vencimento. Ela começará a aparecer diariamente a partir de *Sua licença do Adobe Acrobat expira em 11/30/2020. Entre em contato com o administrador para continuar usando o Acrobat sem interrupções.*
 
 ![Mensagem de expiração do Acrobat](assets/acrobatexpiring.png)
 
 **Após a expiração**
 
-Depois que o número de série expirar, os usuários não terão mais acesso ao Acrobat. Na primeira inicialização após a expiração, o usuário receberá uma caixa de diálogo informando *O número de série inserido expirou. Este produto não pode ser licenciado. Entre em contato com o Suporte ao cliente.*
+Depois que o número de série expirar, os usuários não terão mais acesso ao Acrobat. Na primeira inicialização após a expiração, o usuário receberá uma caixa de diálogo informando *O número de série inserido expirou. Este produto não pode ser licenciado. Entre em contato com o Suporte ao Cliente.*
 
-![Mensagem de pós-expiração do Acrobat](assets/acrobatafterexpire.png)
+![Mensagem sobre o Acrobat após a expiração](assets/acrobatafterexpire.png)
 
-Para todas as tentativas subsequentes de iniciar o Acrobat, o usuário final será solicitado a **Fazer logon agora** seguido da opção para criar seu próprio Adobe ID e entrar no modo de avaliação. No entanto, qualquer novo Adobe ID criado pelo usuário final não será associado às licenças da sua organização e causará confusão adicional aos seus usuários.
+Para todas as tentativas subsequentes de iniciar o Acrobat, o usuário final será solicitado a **Fazer logon agora** seguido da opção de criar sua própria Adobe ID e entrar no modo de avaliação. No entanto, qualquer novo Adobe ID criado pelo usuário final não será associado às licenças da sua organização e causará confusão adicional aos seus usuários.
 
 ![Acrobat Sign na caixa de diálogo 1](assets/acrobatsignin1.png)
 
@@ -91,7 +91,7 @@ Para todas as tentativas subsequentes de iniciar o Acrobat, o usuário final ser
 
 ## Fale conosco se precisar de ajuda
 
-Se tiver dúvidas sobre como usar o [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) Se precisar de ajuda ao migrar da implantação por número de série para um usuário nomeado, você tem algumas opções:
+Se você tiver dúvidas sobre como usar a ferramenta [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) ou precisar de ajuda para migrar da implantação de número de série para um usuário nomeado, terá algumas opções:
 * Enviar um email para a equipe de integração do Adobe Enterprise - **entonb@adobe.com**
-* Abra um tíquete de suporte no [Admin Console](https://adminconsole.adobe.com/support)
+* Abrir um tíquete de suporte em [Admin Console](https://adminconsole.adobe.com/support)
 * Entre em contato com sua equipe de conta do Adobe

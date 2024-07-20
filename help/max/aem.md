@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '383'
-ht-degree: 1%
+source-wordcount: '363'
+ht-degree: 0%
 
 ---
 
@@ -35,9 +35,9 @@ A Adobe Experience Manager é a solução de gerenciamento de experiências digi
       <img alt="Arquivos do InDesign Hospedados no AEM" src="../assets/InDesign-Files-Hosten-in-AEM.jpg" />
    </a>
     <div>
-   <a href="aem.md#tutorial2"><strong>Arquivos do InDesign Hospedados no AEM</strong></a>
+   <a href="aem.md#tutorial2"><strong>Arquivos de InDesign Hospedados no AEM</strong></a>
     </div>
-    <em>Hospede seu documento de InDesign no AEM para que vários usuários possam criar variações de conteúdo ao mesmo tempo</em>
+    <em>Hospede seu documento de InDesign em AEM para que vários usuários possam criar variações de conteúdo ao mesmo tempo</em>
     <br>
   </td>
   <td>
@@ -87,7 +87,7 @@ Eric Rowse, consultor sênior de soluções (mídia digital)
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager.html"><strong>Adobe Experience Manager</strong></a>
     </div>
-    <em>Uma combinação poderosa para suas necessidades de gerenciamento de conteúdo e ativos digitais</em>
+    <em>Uma combinação avançada para suas necessidades de gerenciamento de conteúdo e ativos digitais</em>
     <br>
   </td>
   <td>
@@ -113,9 +113,9 @@ Eric Rowse, consultor sênior de soluções (mídia digital)
 </tr>
 </table>
 
-![Logo da AEM](../assets/aem_appicon_noshadow_96.png)
+![Logotipo AEM](../assets/aem_appicon_noshadow_96.png)
 
-**Recursos do Asset Link e AEM**
+**Recursos de AEM e Asset Link**
 
 [Aprendizagem e suporte](https://helpx.adobe.com/support/experience-manager.html) é o seu hub para tutoriais adicionais, Novidades e links para fóruns da comunidade.
 

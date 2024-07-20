@@ -1,5 +1,5 @@
 ---
-title: Compartilhamento de recursos de marca com bibliotecas Creative Cloud para equipes
+title: Compartilhar ativos de marca com as Bibliotecas da Creative Cloud para equipes
 description: Saiba como criar, usar e compartilhar ativos de marca para seu grupo ou equipe usando as Bibliotecas da Creative Cloud para equipes
 feature: Integrations
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Compartilhamento de ativos de marca com bibliotecas de Creative Cloud para equipes
+# Compartilhar ativos de marca com as Bibliotecas da Creative Cloud para equipes
 
-Saiba como criar, usar e compartilhar ativos de marca para seu grupo ou equipe usando as Bibliotecas da Creative Cloud para equipes. Os ativos nas Bibliotecas Creative Cloud para equipes são armazenados em um local central e não estão vinculados à conta de usuário individual. Você pode identificar bibliotecas de equipe pelo ![criação de imagem](assets/Smock_Building_18_N.png) ícone.
+Saiba como criar, usar e compartilhar ativos de marca para seu grupo ou equipe usando as Bibliotecas da Creative Cloud para equipes. Os ativos das Bibliotecas da Creative Cloud para equipes são armazenados em um local central e não estão vinculados à conta de usuário individual. Você pode identificar bibliotecas de equipe pelo ícone de ![criação de imagem](assets/Smock_Building_18_N.png).
 
 >[!TIP]
 >
->Use as Bibliotecas de Creative Cloud para equipes sempre que sua organização precisar manter a propriedade de ativos criativos. Alguns exemplos incluem: guia de estilo corporativo, projetos compartilhados e elementos de design de interface.
+>Use as Bibliotecas da Creative Cloud para equipes sempre que sua organização precisar manter a propriedade de ativos criativos. Alguns exemplos incluem: guia de estilo corporativo, projetos compartilhados e elementos de design de interface.
 
 <br> 
 

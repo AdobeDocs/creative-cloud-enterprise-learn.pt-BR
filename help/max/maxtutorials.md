@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 26%
+source-wordcount: '322'
+ht-degree: 9%
 
 ---
 
@@ -25,7 +25,7 @@ Como um criador corporativo, você precisa colaborar com equipes distribuídas, 
       <img alt="ACROBAT e ADOBE SIGN" src="../assets/DC.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md"><strong>ACROBAT e ADOBE SIGN</strong></a>
+    <a href="acrobat-sign.md"><strong>Acrobat E Adobe Sign</strong></a>
     </div>
     <em>Criar, editar e assinar documentos e formulários do PDF</em>
     <br>
@@ -37,7 +37,7 @@ Como um criador corporativo, você precisa colaborar com equipes distribuídas, 
     <div>
     <a href="dimension.md"><strong>Dimension</strong></a>
     </div>
-    <em>Crie imagens fotorrealistas em 3D para criação de marca, fotos de produtos e design de embalagem</em>
+    <em>Crie imagens fotorrealistas em 3D para identidade visual, fotos de produtos e design de embalagens</em>
     <br>
   </td>
   <td>
@@ -47,7 +47,7 @@ Como um criador corporativo, você precisa colaborar com equipes distribuídas, 
     <div>
     <a href="illustrator.md"><strong>Illustrator</strong></a>
     </div>
-    <em>Gráficos vetoriais e ilustrações</em>
+    <em>Ilustrações e gráficos vetoriais</em>
     <br>
   </td>
 </tr>
@@ -59,7 +59,7 @@ Como um criador corporativo, você precisa colaborar com equipes distribuídas, 
     <div>
     <a href="indesign.md"><strong>InDesign</strong></a>
     </div>
-    <em>Design de páginas e layout para impressão e publicação digital</em>
+    <em>Design e layout de páginas para impressão e publicação digital</em>
     <br>
   </td>
   <td>
@@ -91,7 +91,7 @@ Como um criador corporativo, você precisa colaborar com equipes distribuídas, 
     <div>
     <a href="xd.md"><strong>XD</strong></a>
     </div>
-    <em>Design, prototipagem e compartilhamento de experiências de usuário</em>
+    <em>Criar designs e protótipos e compartilhar experiências de usuário</em>
     <br>
   </td>
   <td>
@@ -138,7 +138,7 @@ Como um criador corporativo, você precisa colaborar com equipes distribuídas, 
     <div>
     <a href="illustratoripad.md"><strong>Illustrator no iPad</strong></a>
     </div>
-    <em>Gráficos vetoriais e ilustrações</em>
+    <em>Ilustrações e gráficos vetoriais</em>
     <br>
   </td>
 </tr>
@@ -185,9 +185,9 @@ Como um criador corporativo, você precisa colaborar com equipes distribuídas, 
       <img alt="Aplicativo de desktop da Creative Cloud" src="../assets/CCDA.jpg" />
     </a>
     <div>
-    <a href="creativeclouddesktopapp.md"><strong>Aplicativo de desktop da Creative Cloud</strong></a>
+    <a href="creativeclouddesktopapp.md"><strong>Aplicativo de Desktop do Creative Cloud</strong></a>
     </div>
-    <em>O aplicativo de desktop Creative Cloud é o hub para gerenciar aplicativos, serviços e colaboração na CC e muito mais!</em>
+    <em>O aplicativo de desktop Creative Cloud é o seu hub para gerenciar aplicativos, serviços e colaboração da CC e muito mais!</em>
     <br>
   </td>
   <td>
@@ -197,7 +197,7 @@ Como um criador corporativo, você precisa colaborar com equipes distribuídas, 
     <div>
     <a href="cclibraries.md"><strong>Bibliotecas da CC</strong></a>
     </div>
-    <em>Mantenha seus ativos à mão e projetos com marca</em>
+    <em>Mantenha seus ativos à mão e seus projetos sob marca</em>
     <br>
   </td>
 </tr>
@@ -239,9 +239,9 @@ Como um criador corporativo, você precisa colaborar com equipes distribuídas, 
       <img alt="Crie sua própria máscara facial" src="../assets/faceMaskSplash.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md"><strong>Crie sua própria máscara facial</strong></a>
+    <a href="handsonproject.md"><strong>Crie sua própria Máscara de rosto</strong></a>
     </div>
-    <em>Com o plug-in Adobe Design to Print, você pode visualizar seus designs em centenas de produtos Zazzle e publicá-los diretamente em seu marketplace online</em>
+    <em>Com o plug-in Adobe Design to Print, você pode visualizar seus designs em centenas de produtos da Zazzle e publicá-los diretamente em seu marketplace online</em>
     <br>
   </td>
   <td>

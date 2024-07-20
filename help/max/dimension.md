@@ -1,20 +1,20 @@
 ---
-title: "[!DNL Dimension]"
-description: '"[!DNL Dimension] facilita a criação de visualizações de marcas, ilustrações, modelos de produtos, designs de embalagens e outros trabalhos criativos”'
+title: “[!DNL Dimension]”
+description: “[!DNL Dimension] facilita a criação de visualizações de marcas, ilustrações, modelos de produtos, designs de embalagens e outros trabalhos criativos”
 feature: 3D
 role: User
 level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
 # [!DNL Dimension]
 
-Crie conteúdo envolvente em 3D mais rapidamente com modelos, materiais e iluminação de alta qualidade. [!DNL Dimension] facilita a criação de visualizações de marcas, ilustrações, modelos de produtos, designs de embalagens e outros trabalhos criativos.
+Crie conteúdo envolvente em 3D mais rapidamente com modelos, materiais e iluminação de alta qualidade. O [!DNL Dimension] facilita a criação de visualizações de marcas, ilustrações, modelos de produtos, designs de embalagens e outros trabalhos criativos.
 
 ## Procurar Tutorials de produtos
 
@@ -27,7 +27,7 @@ Crie conteúdo envolvente em 3D mais rapidamente com modelos, materiais e ilumin
     <div>
    <a href="dimension.md#tutorial1"><strong>Aplicar materiais de Substance a modelos 3D</strong></a>
     </div>
-    <em>Os materiais de Substance suportam milhares de variações de padrões e designs em um único material</em>
+    <em>materiais de Substance dão suporte a milhares de variações de padrão e design em um único material</em>
     <br>
   </td>
   <td>
@@ -56,11 +56,11 @@ Neste tutorial, você aprenderá como:
 **Apresentado por:**
 Jim Babbage, consultor sênior de soluções (Mídia digital)
 
-![Logotipo Dimension](../assets/dn_appicon_96.png)
+![Logotipo do Dimension](../assets/dn_appicon_96.png)
 
 **Recursos Dimension**
 
-[Aprendizagem e suporte](https://helpx.adobe.com/support/dimension.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html)e links para fóruns da comunidade.
+[Aprendizagem e Suporte](https://helpx.adobe.com/support/dimension.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html) e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 

@@ -5,10 +5,11 @@ feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-15038
-source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
+exl-id: 147e657a-b341-4ac7-9b32-a5f4654bc9ec
+source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -19,4 +20,3 @@ Saiba como usar o Preenchimento generativo para adicionar, expandir ou remover c
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427609?quality=12&learn=on&hidetitle=true)
-

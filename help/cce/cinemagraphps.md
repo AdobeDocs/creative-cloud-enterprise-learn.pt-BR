@@ -1,6 +1,6 @@
 ---
 title: Criação de cinemágrafos com o Photoshop
-description: Neste tutorial em vídeo de workshop passo a passo, crie uma fotografia viva combinando o vídeo do Adobe [!DNL Stock] com técnicas de mascaramento inteligentes no Photoshop
+description: Neste tutorial em vídeo de workshop passo a passo, crie uma fotografia viva combinando vídeo do Adobe [!DNL Stock] com técnicas de mascaramento inteligentes no Photoshop
 feature: Image Editing
 role: User
 level: Beginner, Intermediate

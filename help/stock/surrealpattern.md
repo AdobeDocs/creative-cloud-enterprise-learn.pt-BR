@@ -1,5 +1,5 @@
 ---
-title: Crie um padrão semissurreal com Adobe [!DNL Stock]
+title: Criar um padrão semissurreal com Adobe [!DNL Stock]
 description: Crie um belo padrão perfeito com base em imagens surreais de Adobe [!DNL Stock]
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Crie um padrão semissurreal com Adobe [!DNL Stock]
+# Criar um padrão semissurreal com Adobe [!DNL Stock]
 
 Crie um belo padrão perfeito com base em imagens surreais de Adobe [!DNL Stock].
 

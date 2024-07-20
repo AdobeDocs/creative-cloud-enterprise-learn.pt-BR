@@ -1,5 +1,5 @@
 ---
-title: Personalizar um Adobe [!DNL Stock] modelo de apresentação para parecer profissional, mas atraente
+title: Personalize um modelo de apresentação do Adobe [!DNL Stock] para parecer profissional, mas atraente
 description: Crie uma bela apresentação estilizada em minutos com imagens e modelos do Adobe [!DNL Stock] e alguns efeitos especiais fáceis de fazer
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Personalizar um Adobe [!DNL Stock] modelo de apresentação para parecer profissional, mas atraente
+# Personalize um modelo de apresentação do Adobe [!DNL Stock] para parecer profissional, mas atraente
 
 Crie uma bela apresentação estilizada em minutos com imagens e modelos do Adobe [!DNL Stock] e alguns efeitos especiais fáceis de fazer.
 

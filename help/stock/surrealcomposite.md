@@ -1,5 +1,5 @@
 ---
-title: Crie uma composição semissurreal com Adobe [!DNL Stock]
+title: Criar uma composição semissurreal com Adobe [!DNL Stock]
 description: Crie uma imagem editorial memorável combinando várias imagens com efeitos de cor, movimento e máscara
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Crie uma composição semissurreal com Adobe [!DNL Stock]
+# Criar uma composição semissurreal com Adobe [!DNL Stock]
 
 Crie uma imagem editorial memorável combinando várias imagens com efeitos de cor, movimento e mascaramento.
 

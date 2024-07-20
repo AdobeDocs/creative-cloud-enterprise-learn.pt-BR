@@ -5,7 +5,8 @@ feature: Image Editing
 role: User
 level: Intermediate
 jira: KT-14845
-source-git-commit: 70de488fa5dfc5324a03c54d7ad3cc2afd7444bf
+exl-id: 7f3a9a0b-55c6-46c1-b756-e93d0fa9d687
+source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%

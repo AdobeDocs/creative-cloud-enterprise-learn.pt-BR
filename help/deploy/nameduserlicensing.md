@@ -7,8 +7,8 @@ feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
 source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 2%
+source-wordcount: '615'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ Se sua organização não estiver em NUL e ainda estiver usando a implantação 
 
 ## Sobre o Licenciamento por usuário nomeado
 
-[Licenciamento por usuário nomeado](https://helpx.adobe.com/enterprise/using/licensing.html) é um modelo de licenciamento de software que permite que o software seja atribuído a um indivíduo em vez de um número de série ou dispositivo. A NUL oferece aos administradores de TI segurança de nível corporativo com gerenciamento avançado de identidade de usuário e permite a implantação e o gerenciamento fáceis de aplicativos usando o Adobe Admin Console.
+O [Licenciamento por Usuário Nomeado](https://helpx.adobe.com/enterprise/using/licensing.html) é um modelo de licenciamento de software que permite que o software seja atribuído a um indivíduo em vez de um número de série ou dispositivo. A NUL oferece aos administradores de TI segurança de nível corporativo com gerenciamento avançado de identidade de usuário e permite a implantação e o gerenciamento fáceis de aplicativos usando o Adobe Admin Console.
 
 ## Benefícios do licenciamento por usuário nomeado:
 
@@ -32,7 +32,7 @@ Se sua organização não estiver em NUL e ainda estiver usando a implantação 
 
 * Aproveite os Serviços Especializados.
 
-  Seu Enterprise Term License Agreement com Adobe oferece sessões ilimitadas de 30 minutos por telefone ou conferência na Web com um especialista em Adobe para ajudar com quaisquer problemas. Para marcar uma sessão, acesse a guia Suporte no Admin Console e clique em **Solicitar sessão com especialista**.
+  Seu Enterprise Term License Agreement com Adobe oferece sessões ilimitadas de 30 minutos por telefone ou conferência na Web com um especialista em Adobe para ajudar com quaisquer problemas. Para marcar uma sessão, vá para a guia Suporte no Admin Console e clique em **Solicitar sessão com especialista**.
 
 * Grande número de usuários? Sem problema.
 
@@ -46,4 +46,4 @@ Se sua organização não estiver em NUL e ainda estiver usando a implantação 
 
   Ao aproveitar o NUL, seus usuários terão acesso às máquinas de produtividade que são a Adobe Creative Cloud e a Adobe Document Cloud. Há tanta coisa que você pode fazer: criar e assinar documentos com segurança; criar rapidamente PDF personalizados; iniciar um projeto criativo em um tablet antes de levá-lo a um desktop; compartilhar documentos com uma equipe por meio do Document Cloud; e trabalhar em novos projetos de equipe no Adobe XD. Nossos serviços baseados em nuvem facilitam o compartilhamento de ativos e a colaboração como uma equipe remota.
 
-Desafios de fluxo de trabalho modernos exigem soluções modernas. Vamos ajudar você a fazer a transição para o Licenciamento por usuário nomeado. Confira o [Guia de Migração de Licenciamento por Usuário Nomeado](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf) para começar a transição.
+Desafios de fluxo de trabalho modernos exigem soluções modernas. Vamos ajudar você a fazer a transição para o Licenciamento por usuário nomeado. Confira o [Guia de Migração de Licenciamento por Usuário Nomeado](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf) para começar sua transição.

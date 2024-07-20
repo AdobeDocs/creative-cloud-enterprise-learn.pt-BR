@@ -9,7 +9,7 @@ thumb: KT-11642.jpg
 exl-id: bb43c54f-e5d1-431e-bb9b-cddcd37451ac
 source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ Os Modelos de animações (.mogrt) são uma maneira colaborativa e eficiente de 
 
 Selecione a imagem abaixo para ver ou baixar este tutorial do PDF.
 
-[![Primeira página da imagem do tutorial](assets/MORGTs.png){”width=680”}](assets/Adobe-Premiere-Pro-Motion-Graphics-Templates.pdf){target="blank"}
+[![Primeira imagem de página do tutorial](assets/MORGTs.png){”width=680”}](assets/Adobe-Premiere-Pro-Motion-Graphics-Templates.pdf){target="blank"}

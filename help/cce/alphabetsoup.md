@@ -1,6 +1,6 @@
 ---
 title: Decodificação da sopa de alfabeto de formatos gráficos
-description: Arquivos JPG, PNG, SVG, GIF e EPS são geralmente usados em design, alguns para páginas da Web, outros para apresentações, publicações e projetos criativos. Mas o que eles querem dizer e qual escolher?
+description: Arquivos JPG, PNG, SVG, GIF e EPS são comumente usados em design, alguns para páginas da Web, outros para apresentações, publicações e projetos criativos. Mas o que eles querem dizer e qual escolher?
 feature: Image Editing
 role: User
 level: Beginner, Intermediate
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Decodificação da sopa de alfabetos de formatos gráficos
 
-Arquivos JPG, PNG, SVG, GIF e EPS são geralmente usados em design, alguns para páginas da Web, outros para apresentações, publicações e projetos criativos. Mas, o que eles querem dizer e qual você deve escolher? Saiba mais neste workshop prático de 15 minutos. Aprenda rapidamente como aplicar efeitos de transparência no Photoshop que podem levar suas habilidades de apresentação a um novo nível enquanto explora diferentes configurações de exportação e otimização de gráficos. Acompanhe o designer/desenvolvedor Chris Converse para criar uma animação atraente no PowerPoint usando gráficos personalizados exportados do Photoshop.
+Arquivos JPG, PNG, SVG, GIF e EPS são comumente usados em design, alguns para páginas da Web, outros para apresentações, publicações e projetos criativos. Mas, o que eles querem dizer e qual você deve escolher? Saiba mais neste workshop prático de 15 minutos. Aprenda rapidamente como aplicar efeitos de transparência no Photoshop que podem levar suas habilidades de apresentação a um novo nível enquanto explora diferentes configurações de exportação e otimização de gráficos. Acompanhe o designer/desenvolvedor Chris Converse para criar uma animação atraente no PowerPoint usando gráficos personalizados exportados do Photoshop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333805?hidetitle=true)
 

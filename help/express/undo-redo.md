@@ -4,8 +4,8 @@ description: Saiba como desfazer e refazer ações
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: 4d7c5ff0-43d8-4c34-bdad-1cae7955b63b
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: d5acd03a-cce5-4806-8632-0cfbdfb139d1
+source-git-commit: 068b3b3cc5c5d6281e06d810a1ee5e3242227881
 workflow-type: tm+mt
 source-wordcount: '20'
 ht-degree: 0%

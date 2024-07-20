@@ -1,6 +1,6 @@
 ---
-title: Personalize e marque um modelo 3D com [!DNL Dimension] e ADOBE [!DNL Stock]
-description: Personalizar e adicionar marca a um modelo 3D em [!DNL [!DNL Dimension]] uso de materiais, propriedades ambientais, iluminação e fotografia para criar imagens realistas para qualquer projeto de design
+title: Personalize e marque um modelo 3D com  [!DNL Dimension] e Adobe [!DNL Stock]
+description: Personalize e marque um modelo 3D no [!DNL [!DNL Dimension]] usando materiais, propriedades ambientais, iluminação e fotografia para criar imagens realistas para qualquer projeto de design
 feature: 3D
 role: User
 level: Beginner, Intermediate
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 ---
 
-# Personalize e marque um modelo 3D com [!DNL Dimension] e ADOBE [!DNL Stock]
+# Personalize e marque um modelo 3D com [!DNL Dimension] e Adobe [!DNL Stock]
 
-Personalize e marque um modelo 3D no [!DNL Dimension] usar materiais, propriedades ambientais, iluminação e fotografia para criar imagens realistas para qualquer projeto de design.
+Personalize e marque um modelo 3D no [!DNL Dimension] usando materiais, propriedades ambientais, iluminação e fotografia para criar imagens realistas para qualquer projeto de design.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331005?hidetitle=true)
 

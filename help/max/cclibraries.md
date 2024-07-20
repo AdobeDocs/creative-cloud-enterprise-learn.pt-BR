@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 3%
+source-wordcount: '233'
+ht-degree: 2%
 
 ---
 
@@ -22,20 +22,20 @@ Mantenha seus ativos à mão e projetos com marca.
 <tr>
  <td>
    <a href="cclibraries.md#tutorial1">
-      <img alt="Criar bibliotecas da CC" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
+      <img alt="Criar CC Libraries" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial1"><strong>Criar bibliotecas da CC</strong></a>
+   <a href="cclibraries.md#tutorial1"><strong>Criar CC Libraries</strong></a>
     </div>
-    <em>Com as Bibliotecas da Adobe Creative Cloud, você pode gerenciar, organizar e acessar seus logotipos, cores e muito mais em seus aplicativos Creative Cloud favoritos</em>
+    <em>Com as Bibliotecas da Adobe Creative Cloud, você pode gerenciar, organizar e acessar seus logotipos, cores e muito mais em seus aplicativos de Creative Cloud favoritos</em>
     <br>
   </td>
    <td>
    <a href="cclibraries.md#tutorial2">
-      <img alt="Compartilhar bibliotecas da CC" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
+      <img alt="Compartilhar o CC Libraries" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial2"><strong>Compartilhar bibliotecas da CC</strong></a>
+   <a href="cclibraries.md#tutorial2"><strong>Compartilhar CC Libraries</strong></a>
     </div>
     <em>Trabalhe com mais eficiência, garanta a consistência criativa e fique facilmente em sincronia com sua equipe</em>
     <br>
@@ -48,7 +48,7 @@ Mantenha seus ativos à mão e projetos com marca.
 </tr>
 </table>
 
-## Criar bibliotecas da CC (4:38) {#tutorial1}
+## Criar CC Libraries (4:38) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
@@ -62,7 +62,7 @@ Neste tutorial, você aprenderá como:
 **Apresentado por:**
 Ashley Dvorin, consultor sênior de soluções (mídia digital)
 
-## Compartilhar bibliotecas da CC (4:14) {#tutorial2}
+## Compartilhar CC Libraries (4:14) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326803?hidetitle=true)
 
@@ -76,9 +76,9 @@ Neste tutorial, você aprenderá como:
 **Apresentado por:**
 Ashley Dvorin, consultor sênior de soluções (mídia digital)
 
-![Logo da CC Libraries](../assets/cc_appicon_96.png)
+![Logotipo do CC Libraries](../assets/cc_appicon_96.png)
 
-**Recursos das bibliotecas da CC**
+**Recursos do CC Libraries**
 
 [Aprendizagem e suporte](https://helpx.adobe.com/creative-cloud/help/libraries.html) é o seu hub para tutoriais adicionais, Novidades e links para fóruns da comunidade.
 

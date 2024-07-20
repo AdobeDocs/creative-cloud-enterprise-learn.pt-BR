@@ -1,5 +1,5 @@
 ---
-title: Adicionar uma estética desenhada à mão ao Adobe [!DNL Stock] imagens
+title: Adicionar uma estética desenhada à mão a imagens Adobe [!DNL Stock] nativas
 description: Amplie seu marketing criativo com técnicas exclusivas que adicionam profundidade e dimensão às suas imagens usando o Photoshop para iPad
 feature: Licensable Assets, Image Editing
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adicionar uma estética desenhada à mão ao Adobe [!DNL Stock] imagens
+# Adicionar uma estética desenhada à mão a imagens Adobe [!DNL Stock]
 
 Amplie seu marketing criativo com técnicas exclusivas que adicionam profundidade e dimensão às suas imagens usando o Photoshop para iPad.
 

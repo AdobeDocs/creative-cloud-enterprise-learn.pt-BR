@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
 source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '510'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,8 @@ Nesta sessão gravada ao vivo, você verá exemplos de fluxos de trabalho basead
 
 **Apresentado por:**
 
-Eric Rowse, consultor sênior de soluções (mídia digital) Derek Lu, consultor principal de soluções (prova de conceito)
+Eric Rowse, consultor sênior de soluções (mídia digital)
+Derek Lu, consultor principal de soluções (Prova de conceito)
 
 ## Novas ferramentas para o novo normal (29:57)
 
@@ -47,9 +48,11 @@ Nesta sessão gravada ao vivo, você aprenderá a:
 
 **Apresentado por:**
 
-Dave Weinberg, Consultor sênior de soluções (mídia digital) Liz Tanonis, Consultora de soluções (mídia digital) Emilie Enke, Consultora de soluções (mídia digital)
+Dave Weinberg, consultor sênior de soluções (mídia digital)
+Liz Tanonis, Consultora de soluções (mídia digital)
+Emilie Enke, Consultora de soluções (Mídia digital)
 
-## Colaboração com as Bibliotecas da CC (27:58)
+## Colaboração com a CC Libraries (27:58)
 
 >[!VIDEO](https://video.tv.adobe.com/v/328199?hidetitle=true)
 
@@ -63,7 +66,8 @@ Neste tutorial, você aprenderá como:
 
 **Apresentado por:**
 
-Ashley Dvorin, Consultora sênior de soluções (mídia digital) Emily Palmer, Consultora de soluções (mídia digital)
+Ashley Dvorin, consultor sênior de soluções (mídia digital)
+Emily Palmer, Consultora de soluções (Mídia digital)
 
 ## Sobre os ativos de demonstração: LOCAL
 
@@ -71,4 +75,4 @@ A equipe abordou a criação dos ativos de demonstração como uma empresa faria
 
 Em resposta à Covid-19, a LOCAL, empresa que realiza eventos ao vivo que celebram feriados divertidos e malucos, tem se dedicado a reuniões on-line e está fazendo parceria com pequenos food trucks e restaurantes locais para promover seus negócios — e ajudá-los a permanecer abertos.
 
-![Ativos de demonstração LOCAIS](../assets/demo_local_assets-WIP-v1.jpg)
+![Ativos de Demonstração LOCAIS](../assets/demo_local_assets-WIP-v1.jpg)

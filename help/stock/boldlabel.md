@@ -1,5 +1,5 @@
 ---
-title: Crie um rótulo em negrito com Adobe [!DNL Stock] modelos e objetos inteligentes do Photoshop
+title: Crie um rótulo em negrito com modelos Adobe [!DNL Stock] e objetos inteligentes Photoshop
 description: Crie e visualize seus designs personalizados com modelos de empacotamento realistas do Adobe [!DNL Stock]
 feature: Licensable Assets, Image Editing
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Crie um rótulo em negrito com Adobe [!DNL Stock] modelos e objetos inteligentes do Photoshop
+# Crie um rótulo em negrito com modelos Adobe [!DNL Stock] e Photoshop Smart Objects
 
 Crie e visualize seus designs personalizados com modelos de empacotamento realistas do Adobe [!DNL Stock]    .
 

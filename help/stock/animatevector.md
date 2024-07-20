@@ -1,6 +1,6 @@
 ---
-title: Animar um Adobe [!DNL Stock] ilustração vetorial no Photoshop
-description: Traga animações para os gráficos do seu boletim informativo com vetores editáveis para Adobe [!DNL Stock]
+title: Animar uma ilustração vetorial Adobe [!DNL Stock]  no Photoshop
+description: Traga a animação para os gráficos do seu boletim informativo com vetores editáveis para o Adobe [!DNL Stock]
 feature: Licensable Assets, Vector Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Animar um Adobe [!DNL Stock] ilustração vetorial no Photoshop
+# Animar uma ilustração vetorial Adobe [!DNL Stock] no Photoshop
 
-Traga animações para os gráficos do seu boletim informativo com vetores editáveis para Adobe [!DNL Stock].
+Traga a animação para os gráficos do informativo com vetores editáveis para o Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331839?hidetitle=true)

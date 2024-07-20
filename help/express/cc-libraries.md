@@ -1,5 +1,5 @@
 ---
-title: Usar Bibliotecas da CC
+title: Usar o CC Libraries
 description: Saiba como compartilhar ativos da biblioteca da CC com sua equipe
 feature: Integrations
 role: User
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Usar Bibliotecas da CC
+# Usar o CC Libraries
 
 Saiba como compartilhar ativos da biblioteca da CC com sua equipe.
 

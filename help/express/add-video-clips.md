@@ -5,7 +5,8 @@ feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14871
-source-git-commit: 79b9f6ba419663b707519aa6f62d0a265b8da38d
+exl-id: 0ef37dc8-c48e-49da-b6ef-c8da63519c9b
+source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%

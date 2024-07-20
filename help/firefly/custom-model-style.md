@@ -23,4 +23,4 @@ Saiba como criar modelos personalizados no Firefly para criar novas imagens para
 
 >[!IMPORTANT]
 >
->Saiba mais sobre o [arquitetura de segurança e fluxo de dados de modelos personalizados](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf).
+>Saiba mais sobre a [arquitetura de segurança e o fluxo de dados de Modelos Personalizados](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf).

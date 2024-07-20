@@ -5,7 +5,8 @@ feature: Gen AI, Graphic Design
 role: User
 level: Intermediate
 jira: KT-14847
-source-git-commit: 70de488fa5dfc5324a03c54d7ad3cc2afd7444bf
+exl-id: 13ed15ce-adc3-453c-98c8-365319d4d985
+source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%

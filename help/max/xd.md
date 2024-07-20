@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '708'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ O Adobe XD é uma ferramenta de design e prototipagem da experiência do usuári
       <img alt="Criar componentes com estados Hover" src="../assets/Xd_hoverstates_components_thumbnail.jpg" />
    </a>
     <div>
-   <a href="xd.md#tutorial1"><strong>Criar componentes com estados Hover</strong></a>
+   <a href="xd.md#tutorial1"><strong>Criar Componentes com Estados Hover</strong></a>
     </div>
-    <em>Criar botões reutilizáveis, redimensionáveis dinamicamente, para seus designs interativos</em>
+    <em>Criar botões reutilizáveis e redimensionáveis dinamicamente para seus designs interativos</em>
     <br>
   </td>
   <td>
@@ -35,7 +35,7 @@ O Adobe XD é uma ferramenta de design e prototipagem da experiência do usuári
         <img alt="Criar e preencher uma repetição de grade" src="../assets/XD_repeatgrid_thumbnail.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial2"><strong>Criar e preencher uma repetição de grade</strong></a>
+    <a href="xd.md#tutorial2"><strong>Criar e Preencher uma Repetição de Grade</strong></a>
     </div>
     <em>Transforme um único elemento em grades repetidas com um simples clique e arraste</em>
     <br>
@@ -45,19 +45,21 @@ O Adobe XD é uma ferramenta de design e prototipagem da experiência do usuári
       <img alt="Trabalhar com pilhas" src="../assets/xd_Stacks_thumbnail.jpg" />
    </a>
     <div>
-    <a href="xd.md#tutorial3"><strong>Trabalhar com pilhas</strong></a>
+    <a href="xd.md#tutorial3"><strong>Trabalhar com Pilhas</strong></a>
     </div>
-    <em>Use a propriedade stack para reorganizar elementos facilmente</em>
+    <em>Usar a propriedade stack para reorganizar elementos facilmente</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="xd.md#tutorial4">
-        <img alt="Criar um protótipo - Links de âncora e grupos de rolagem" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
+        <img alt="Criar um protótipo - Links de âncora e 
+Grupos de rolagem" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial4"><strong>Criar um protótipo - Links de âncora e grupos de rolagem</strong></a>
+    <a href="xd.md#tutorial4"><strong>Criar um Protótipo - Links de Âncora e 
+Grupos de Rolagem</strong></a>
     </div>
     <em>Adicionar navegação e rolagem a um protótipo</em>
     <br>
@@ -67,7 +69,7 @@ O Adobe XD é uma ferramenta de design e prototipagem da experiência do usuári
         <img alt="Criar um Protótipo - Estados de Componente Interativo" src="../assets/XD_interactiveprototypes_enke.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial5"><strong>Criar um Protótipo - Estados de Componente Interativo</strong></a>
+    <a href="xd.md#tutorial5"><strong>Criar um Protótipo — Estados de Componente Interativo</strong></a>
     </div>
     <em>Adicionar interatividade e um menu de sobreposição a um protótipo</em>
     <br>
@@ -91,7 +93,7 @@ O Adobe XD é uma ferramenta de design e prototipagem da experiência do usuári
     <div>
     <a href="xd.md#tutorial7"><strong>Email - Trabalhar com Pilhas</strong></a>
     </div>
-    <em>Use a propriedade stack para reorganizar elementos facilmente</em>
+    <em>Usar a propriedade stack para reorganizar elementos facilmente</em>
     <br>
   </td>
   <td>
@@ -208,11 +210,11 @@ Neste tutorial, você aprenderá como:
 **Apresentado por:**
 Victoria Torres, Consultora de soluções (Mídia digital)
 
-![Logo da XD](../assets/xd_appicon_96.png)
+![Logotipo XD](../assets/xd_appicon_96.png)
 
 **Recursos XD**
 
-[Aprendizagem e suporte](https://helpx.adobe.com/support/xd.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)e links para fóruns da comunidade.
+[Aprendizagem e Suporte](https://helpx.adobe.com/support/xd.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 

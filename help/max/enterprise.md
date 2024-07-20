@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 3%
+source-wordcount: '133'
+ht-degree: 4%
 
 ---
 
@@ -27,7 +27,7 @@ Gerencie direitos e ativos de Adobe em toda a organização.
     <div>
    <a href="enterprise.md#tutorial1"><strong>Adobe Fonts</strong></a>
     </div>
-    <em>Explore as quase 200 famílias no Adobe Fonts e a facilidade de uso do serviço Adobe Fonts</em>
+    <em>Explore as quase 200 famílias do Adobe Fonts e a facilidade de uso do serviço Adobe Fonts</em>
     <br>
   </td>
   <td>
@@ -60,8 +60,8 @@ Neste tutorial, você aprenderá como:
 
 Todd Burke, Consultor principal de soluções (Mídia digital)
 
-**Recursos de Administração Empresarial:**
+**Recursos de Administração da Empresa:**
 
-[Guia do usuário do Adobe Fonts](https://helpx.adobe.com/fonts/user-guide.html)
+[Guia do Usuário do Adobe Fonts](https://helpx.adobe.com/fonts/user-guide.html)
 
-[Guia do administrador corporativo](https://helpx.adobe.com/enterprise/admin-guide.html)
+[Guia do Administrador Corporativo](https://helpx.adobe.com/enterprise/admin-guide.html)

@@ -1,5 +1,5 @@
 ---
-title: Crie imagens de marca coesas com belos gradientes e Adobe [!DNL Stock] ativos
+title: Crie imagens de marca coesas com belos gradientes e ativos de Adobe [!DNL Stock]
 description: Crie unidade de marca com imagens variadas combinando cores e gradientes em toda a sua campanha publicitária
 feature: Licensable Assets
 role: User
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Crie imagens de marca coesas com belos gradientes e Adobe [!DNL Stock] ativos
+# Crie imagens de marca coesas com belos gradientes e ativos Adobe [!DNL Stock]
 
-Traga animações para os gráficos do seu boletim informativo com vetores editáveis para Adobe [!DNL Stock].
+Traga a animação para os gráficos do informativo com vetores editáveis para o Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331809?hidetitle=true)

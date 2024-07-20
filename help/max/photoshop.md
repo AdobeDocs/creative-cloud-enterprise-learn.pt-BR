@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ O Photoshop é o melhor software de criação de imagens e design gráfico do mu
     <div>
    <a href="photoshop.md#tutorial1"><strong>Editar imagens para corresponder à sua campanha</strong></a>
     </div>
-    <em>Use as poderosas ferramentas de seleção e edição de cores no Adobe Photoshop para alterar drasticamente uma imagem para corresponder às necessidades da sua marca corporativa</em>
+    <em>Use as poderosas ferramentas de seleção e edição de cores no Adobe Photoshop para alterar drasticamente uma imagem para corresponder às suas necessidades de identidade corporativa</em>
     <br>
   </td>
   <td>
@@ -79,11 +79,11 @@ Neste tutorial, você aprenderá como:
 **Apresentado por:**
 A.J Wood, Consultor Sênior de Soluções (Mídia Digital)
 
-![Logotipo da Photoshop](../assets/ps_appicon_96.png)
+![Logotipo do Photoshop](../assets/ps_appicon_96.png)
 
 **Recursos do Photoshop**
 
-[Aprendizagem e suporte](https://helpx.adobe.com/support/photoshop.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/photoshop/using/whats-new.html)e links para fóruns da comunidade.
+[Aprendizagem e Suporte](https://helpx.adobe.com/support/photoshop.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/photoshop/using/whats-new.html) e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 

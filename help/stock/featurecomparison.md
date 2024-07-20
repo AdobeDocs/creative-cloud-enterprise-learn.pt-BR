@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Criar um gráfico de comparação de recursos do produto usando o Adobe [!DNL Stock]
+# Criar um gráfico de comparação de recursos de produto usando o Adobe [!DNL Stock]
 
 Crie um gráfico que compare os planos de preços de produtos para fornecer aos clientes potenciais as informações de que precisam rapidamente.
 

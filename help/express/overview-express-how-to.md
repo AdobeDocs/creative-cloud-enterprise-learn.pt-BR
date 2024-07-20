@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Express] Tutorials de instruções
-description: Atualize-se com o Adobe [!DNL Express]
+description: Atualize-se em Adobe [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations
 role: User
 level: Beginner, Intermediate
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 ---
 
-# Adobe [!DNL Express] tutoriais de instruções
+# Tutoriais de instruções do Adobe [!DNL Express]
 
 Comece a criar trabalhos incríveis que se destacam com IA generativa desenvolvida por Adobe Firefly. Folhetos de design, TikToks, currículos e rolos com Adobe Express.
 
@@ -273,7 +273,7 @@ Comece a criar trabalhos incríveis que se destacam com IA generativa desenvolvi
   </td>
   <td>
       <a href="cc-libraries.md">
-         <img alt="Usar Bibliotecas da CC" src="assets/cc-libraries.png" />
+         <img alt="Usar o CC Libraries" src="assets/cc-libraries.png" />
       </a>
   </td>
 </tr>

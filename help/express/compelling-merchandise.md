@@ -5,10 +5,11 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-13999
-source-git-commit: 358e7cb886829fbd3e25cd6d33f220f038fede0a
+exl-id: caafeb4c-7948-4a96-975d-c1f0d40dd96c
+source-git-commit: 068b3b3cc5c5d6281e06d810a1ee5e3242227881
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 2%
+source-wordcount: '104'
+ht-degree: 0%
 
 ---
 

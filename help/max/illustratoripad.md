@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 268b9891-77f6-4606-964c-343c443eafcb
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ O Adobe Illustrator no iPad é uma experiência de design vetorial reinventada p
     <div>
    <a href="illustratoripad.md#tutorial1"><strong>Introdução ao Illustrator no iPad</strong></a>
     </div>
-    <em>Crie um ícone de local aflito e transforme-o em um padrão que você pode aplicar ao seu [!DNL Dimension] e projeto Zazzle!</em>
+    <em>Crie um ícone de local aflito e transforme-o em um padrão que você possa aplicar ao seu projeto [!DNL Dimension] e Zazzle!</em>
     <br>
   </td>
   <td>
@@ -48,12 +48,12 @@ O Adobe Illustrator no iPad é uma experiência de design vetorial reinventada p
 >[!VIDEO](https://video.tv.adobe.com/v/326823?hidetitle=true)
 
 **Descrição**
-Essa visão geral rápida do Illustrator para iPad vai colocar seu sistema em funcionamento rapidamente para criar um ícone de local aflito e transformá-lo em um padrão que você pode aplicar ao seu [!DNL Dimension] e projeto Zazzle!
+Esta visão geral rápida do Illustrator para iPad vai deixar você em operação rapidamente para criar um ícone de local aflito e transformá-lo em um padrão que você pode aplicar ao seu projeto [!DNL Dimension] e Zazzle!
 
 Neste tutorial, você aprenderá como:
 * O Illustrator reformulado para o iPad transforma a produtividade, acelera a colaboração, expande os conjuntos de habilidades criativas e capacita a criatividade para todos
 * A interface de toque permite uma experiência mais tátil e precisa usando o Apple Pencil
-* Acessar gráficos e cores das Bibliotecas da CC
+* Acessar gráficos e cores do CC Libraries
 * Fluxo de trabalho de ida e volta no Illustrator para dispositivos móveis e desktop
 
 **Apresentado por:**
@@ -63,7 +63,7 @@ Dave Weinberg, consultor sênior de soluções (mídia digital)
 
 **Recursos do Illustrator no iPad**
 
-[Aprendizagem e suporte](https://helpx.adobe.com/support/illustrator.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html)e links para fóruns da comunidade.
+[Aprendizagem e Suporte](https://helpx.adobe.com/support/illustrator.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html) e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 

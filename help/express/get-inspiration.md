@@ -4,8 +4,8 @@ description: Expresse-se aprendendo a criar seu primeiro design
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: 2608daf8-eec4-4e67-acda-e0ea047e6688
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: 102ffaf2-8906-409f-8920-d7c2bc4e5469
+source-git-commit: 068b3b3cc5c5d6281e06d810a1ee5e3242227881
 workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 0%

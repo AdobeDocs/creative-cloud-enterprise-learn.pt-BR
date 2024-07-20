@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -35,17 +35,19 @@ O aplicativo padrão do setor para criar belos documentos para impressão e publ
       <img alt="Compartilhar para revisão no InDesign" src="../assets/indesign_shareforreview_palmer_thumbnail.jpg" />
    </a>
     <div>
-   <a href="indesign.md#tutorial2"><strong>Compartilhar para revisão no InDesign</strong></a>
+   <a href="indesign.md#tutorial2"><strong>Compartilhar para revisão do InDesign</strong></a>
     </div>
-    <em>Experiência de revisão criativa simplificada para designers e membros de sua equipe</em>
+    <em>Experiência perfeita de revisão criativa para designers e membros de sua equipe</em>
     <br>
   </td>
   <td>
     <a href="indesign.md#tutorial3">
-        <img alt="Importar comentários de PDF de uma revisão de Document Cloud" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
+        <img alt="Importar comentários de PDF de um documento 
+Revisão da nuvem" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
     </a>
     <div>
-    <a href="indesign.md#tutorial3"><strong>Importar comentários de PDF de uma revisão de Document Cloud</strong></a>
+    <a href="indesign.md#tutorial3"><strong>Importar comentários de PDF de um documento 
+Revisão da nuvem</strong></a>
     </div>
     <em>Importe comentários de um PDF diretamente para o InDesign e aplique rapidamente as alterações solicitadas</em>
     <br>
@@ -59,7 +61,7 @@ O aplicativo padrão do setor para criar belos documentos para impressão e publ
     <div>
    <a href="indesign.md#tutorial4"><strong>Adicionar arquivo de vídeo ao documento do InDesign</strong></a>
     </div>
-    <em>Adicione vídeo ao InDesign. Exportar para o PDF e publicar online</em>
+    <em>Adicione vídeo ao InDesign. Saída para o PDF e publicação online</em>
     <br>
   </td>
  <td>
@@ -142,11 +144,11 @@ Neste tutorial, você aprenderá como:
 **Apresentado por:**
 Patti Sokol, Consultor Principal de Soluções (Mídia Digital)
 
-![InDesignLogo](../assets/id_appicon_96.png)
+![Logotipo do InDesign](../assets/id_appicon_96.png)
 
 **Recursos do InDesign**
 
-[Aprendizagem e suporte](https://helpx.adobe.com/support/indesign.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html)e links para fóruns da comunidade.
+[Aprendizagem e Suporte](https://helpx.adobe.com/support/indesign.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html) e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 

@@ -8,7 +8,7 @@ jira: KT-13413
 exl-id: 80037a4b-9d6d-47d7-a827-e7d0777f2666
 source-git-commit: a21ff3b9340b44320272e6e66248d9589655ae2b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---

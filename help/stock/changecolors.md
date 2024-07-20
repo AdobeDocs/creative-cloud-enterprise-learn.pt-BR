@@ -1,6 +1,6 @@
 ---
-title: Alterar um Adobe [!DNL Stock] as cores da imagem para corresponder à sua história
-description: Faça uma imagem incrível trabalhar ainda mais para suportar sua mensagem. Encontre uma foto única no Adobe [!DNL Stock] e ajuste a cor no Adobe Photoshop para atender às suas necessidades
+title: Altere as cores de um Adobe [!DNL Stock] imagem para corresponder à sua história
+description: Faça uma imagem incrível trabalhar ainda mais para suportar sua mensagem. Encontre uma foto exclusiva no Adobe [!DNL Stock] e ajuste a cor no Adobe Photoshop para atender às suas necessidades
 feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Alterar um Adobe [!DNL Stock] as cores da imagem para corresponder à sua história
+# Altere as cores de uma imagem Adobe [!DNL Stock] para corresponder à sua história
 
-Faça uma imagem incrível trabalhar ainda mais para suportar sua mensagem. Encontre uma foto única no Adobe [!DNL Stock] e ajuste a cor no Adobe Photoshop para atender às suas necessidades.
+Faça uma imagem incrível trabalhar ainda mais para suportar sua mensagem. Encontre uma foto exclusiva no Adobe [!DNL Stock] e ajuste a cor no Adobe Photoshop para atender às suas necessidades.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331810?hidetitle=true)

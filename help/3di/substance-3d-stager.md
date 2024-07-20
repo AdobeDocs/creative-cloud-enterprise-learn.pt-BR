@@ -8,7 +8,7 @@ thumb: KT-11643.jpg
 exl-id: 1404fb19-2400-4523-b360-1620acd61c1b
 source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ Importe conteúdo, organize sua cena, aplique materiais e texturas, ajuste a ilu
 
 Selecione a imagem abaixo para ver ou baixar este tutorial do PDF.
 
-[![Primeira página da imagem do tutorial](assets/Substance3DStager.png){”width=680”}](assets/Adobe-Substance-Stager.pdf){target="blank"}
+[![Primeira imagem de página do tutorial](assets/Substance3DStager.png){”width=680”}](assets/Adobe-Substance-Stager.pdf){target="blank"}

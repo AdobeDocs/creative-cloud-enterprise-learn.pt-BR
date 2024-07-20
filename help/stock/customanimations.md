@@ -1,6 +1,6 @@
 ---
 title: Dê vida à criatividade com animações personalizadas por Adobe [!DNL Stock]
-description: Usar Adobe [!DNL Stock] imagens, texturas, padrões para animações personalizadas no Photoshop
+description: Usar imagens, texturas e padrões do Adobe [!DNL Stock] para personalizar animações no Photoshop
 feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Dê vida à criatividade com animações personalizadas por Adobe [!DNL Stock]
+# Dê vida à criatividade com animações personalizadas do Adobe [!DNL Stock]
 
-Usar Adobe [!DNL Stock] imagens, texturas, padrões para animações personalizadas no Photoshop.
+Use imagens, texturas e padrões do Adobe [!DNL Stock] para personalizar animações no Photoshop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331806?hidetitle=true)

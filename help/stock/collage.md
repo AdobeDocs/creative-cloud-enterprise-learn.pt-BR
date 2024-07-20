@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Criar uma colagem 3D para um pôster usando Adobe [!DNL Stock] imagens
+# Criar uma colagem 3D para um pôster usando imagens Adobe [!DNL Stock]
 
 Crie pôsteres que chamem a atenção. Encontre imagens relevantes no Adobe [!DNL Stock] e crie uma colagem no Adobe Illustrator que tenha um efeito 3D atraente.
 

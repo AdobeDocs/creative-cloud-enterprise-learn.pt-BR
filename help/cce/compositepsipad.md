@@ -1,5 +1,5 @@
 ---
-title: Crie composições exclusivas com o Adobe [!DNL Stock] e Photoshop para iPad
+title: Crie composições exclusivas com o Adobe [!DNL Stock] e o Photoshop para iPad
 description: Traga o poder do Photoshop ao seu alcance. Aprenda a usar um de seus aplicativos Creative Cloud favoritos de uma forma totalmente nova, com uma interface baseada em toque reformulada
 feature: Image Editing
 role: User
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Crie composições exclusivas com o Adobe [!DNL Stock] e Photoshop para iPad
+# Crie composições exclusivas com o Adobe [!DNL Stock] e o Photoshop para iPad
 
 Traga o poder do Photoshop ao seu alcance. Aprenda a usar um de seus aplicativos Creative Cloud favoritos de uma forma totalmente nova, com uma interface baseada em toque reformulada.
 

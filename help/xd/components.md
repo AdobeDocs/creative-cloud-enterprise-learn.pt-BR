@@ -1,6 +1,6 @@
 ---
-title: Fique confortável com [!UICONTROL Componentes] no Adobe XD
-description: Saiba como usar [!UICONTROL Componentes] para oferecer flexibilidade sem precedentes na aplicação de velocidade e consistência ao fluxo de trabalho do projeto
+title: Fique confortável com os [!UICONTROL Componentes] do Adobe XD
+description: Saiba como usar [!UICONTROL Componentes] para proporcionar flexibilidade sem precedentes na aplicação de velocidade e consistência ao fluxo de trabalho de design
 feature: UI Design
 role: User
 level: Beginner, Intermediate
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 ---
 
-# Fique confortável com [!UICONTROL Componentes] no Adobe XD
+# Fique confortável com os [!UICONTROL Componentes] do Adobe XD
 
-Saiba como usar [!UICONTROL Componentes] para oferecer flexibilidade sem precedentes na aplicação de velocidade e consistência ao fluxo de trabalho de design.
+Saiba como usar [!UICONTROL Componentes] para proporcionar flexibilidade sem precedentes na aplicação de velocidade e consistência ao fluxo de trabalho de design.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331003?hidetitle=true)
 

@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ Com o Adobe Document Cloud, que inclui as principais soluções de PDF e assinat
       <img alt="Início de uma revisão compartilhada do Acrobat" src="../assets/acrobat_sharedreview_armstrong.jpg" />
    </a>
     <div>
-   <a href="acrobat-sign.md#tutorial1"><strong>Início de uma revisão compartilhada do Acrobat</strong></a>
+   <a href="acrobat-sign.md#tutorial1"><strong>Iniciando uma revisão compartilhada do Acrobat</strong></a>
     </div>
-    <em>Convidar revisores para adicionar comentários a um documento PDF</em>
+    <em>Convidar revisores para adicionar seus comentários a um documento PDF</em>
     <br>
   </td>
   <td>
@@ -35,9 +35,9 @@ Com o Adobe Document Cloud, que inclui as principais soluções de PDF e assinat
         <img alt="Crie uma Forms de isenção online com o Adobe Sign" src="../assets/sign_webforms_palmer-kobey_thumbnail.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md#tutorial2"><strong>Crie uma Forms de isenção online com o Adobe Sign</strong></a>
+    <a href="acrobat-sign.md#tutorial2"><strong>Criar Forms de Renúncia Online com o Adobe Sign</strong></a>
     </div>
-    <em>Transforme rapidamente documentos em formulários online e publique-os online onde qualquer pessoa que precise deles pode preenchê-los e assiná-los</em>
+    <em>Transforme rapidamente documentos em formulários online e publique-os online onde qualquer pessoa que precise deles possa preenchê-los e assiná-los</em>
     <br>
   </td>
   <td>
@@ -57,9 +57,9 @@ Com o Adobe Document Cloud, que inclui as principais soluções de PDF e assinat
       <img alt="Exibir menus no dispositivo móvel com o Liquid Mode" src="../assets/acrobat_liquidmode_enke_thumbnail.jpg" />
    </a>
     <div>
-   <a href="acrobat-sign.md#tutorial4"><strong>Exibir menus no dispositivo móvel com o Liquid Mode</strong></a>
+   <a href="acrobat-sign.md#tutorial4"><strong>Exibir Menus no Dispositivo Móvel com o Liquid Mode</strong></a>
     </div>
-    <em>Use o Liquid Mode para aprimorar a experiência do leitor de PDF em dispositivos móveis</em>
+    <em>Usar o Liquid Mode para aprimorar a experiência de leitura de PDF em dispositivos móveis</em>
     <br>
   </td>
   <td>
@@ -67,9 +67,9 @@ Com o Adobe Document Cloud, que inclui as principais soluções de PDF e assinat
         <img alt="Digitalize documentos em PDF usando seu celular" src="../assets/acrobat_scan_enke.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md#tutorial5"><strong>Digitalize documentos em PDF usando seu celular</strong></a>
+    <a href="acrobat-sign.md#tutorial5"><strong>Digitalizar documentos para PDF a partir do seu celular</strong></a>
     </div>
-    <em>Com o Adobe Scan Adobe, capture e converta facilmente documentos, formulários, cartões de visita e quadros brancos em PDF de alta qualidade</em>
+    <em>Com o Adobe Scan, capture e converta facilmente documentos, formulários, cartões de visita e quadros brancos em PDF de Adobe de alta qualidade</em>
     <br>
   </td>
   <td>
@@ -97,7 +97,8 @@ Neste tutorial, você aprenderá como:
 [![Imagem de comparação](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
 **Apresentado por:**
-Dan Armstrong, consultor de soluções (Mídia digital) Rick Borstein, gerente sênior de consultoria de soluções (Mídia digital)
+Dan Armstrong, consultor de soluções (Mídia digital)
+Rick Borstein, Gerente Sênior de Consultoria de Soluções (Mídia Digital)
 
 ## Criar Forms de Renúncia Online com o Adobe Sign (5:19) {#tutorial2}
 
@@ -112,7 +113,8 @@ Neste tutorial, você aprenderá como:
 * Os formulários preenchidos são arquivados automaticamente para seus registros
 
 **Apresentado por:**
-Taylor Kobey, Consultora de soluções (Mídia digital) Emily Palmer, Consultora de soluções (Mídia digital)
+Taylor Kobey, consultor de soluções (mídia digital)
+Emily Palmer, Consultora de soluções (Mídia digital)
 
 ## Solicitar uma assinatura com o Adobe Sign (3:21) {#tutorial3}
 
@@ -157,11 +159,11 @@ Neste tutorial, você aprenderá como:
 **Apresentado por:**
 Emilie Enke, Consultora de soluções associadas (Mídia digital)
 
-![Logo da DC](../assets/Doc-Cloud-256.png)
+![Logotipo do DC](../assets/Doc-Cloud-256.png)
 
 **Recursos do Acrobat e do Adobe Sign**
 
-[Aprendizagem e suporte](https://helpx.adobe.com/support/document-cloud.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/acrobat/using/whats-new.html)e links para fóruns da comunidade.
+[Aprendizagem e Suporte](https://helpx.adobe.com/support/document-cloud.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/acrobat/using/whats-new.html) e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 

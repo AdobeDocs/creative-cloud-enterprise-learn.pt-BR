@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Não seria legal se você pudesse personalizar uma máscara facial com suas pró
     <div>
    <a href="handsonproject.md#tutorial1"><strong>Instalar o plug-in Photoshop Design to Print</strong></a>
     </div>
-    <em>Use as poderosas ferramentas de seleção e edição de cores no Adobe Photoshop para alterar drasticamente uma imagem para corresponder às necessidades da sua marca corporativa</em>
+    <em>Use as poderosas ferramentas de seleção e edição de cores no Adobe Photoshop para alterar drasticamente uma imagem para corresponder às suas necessidades de identidade corporativa</em>
     <br>
   </td>
   <td>
@@ -35,9 +35,9 @@ Não seria legal se você pudesse personalizar uma máscara facial com suas pró
         <img alt="Personalize uma máscara facial com Design para imprimir" src="../assets/d2p_faceMask_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md#tutorial2"><strong>Personalize uma máscara facial com Design para imprimir</strong></a>
+    <a href="handsonproject.md#tutorial2"><strong>Personalizar uma Máscara de Rosto com Design para Imprimir</strong></a>
     </div>
-    <em>Personalize sua própria máscara facial do Zazzle</em>
+    <em>Personalizar sua própria máscara facial do Zazzle</em>
     <br>
   </td>
   <td>
@@ -45,9 +45,9 @@ Não seria legal se você pudesse personalizar uma máscara facial com suas pró
       <img alt="Crie uma visualização 3D da sua máscara facial" src="../assets/DN_faceMaskShare_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="handsonproject.md#tutorial3"><strong>Crie uma visualização 3D da sua máscara facial</strong></a>
+   <a href="handsonproject.md#tutorial3"><strong>Criar uma visualização 3D da sua máscara facial</strong></a>
     </div>
-    <em>Crie uma visualização 3D da sua máscara facial para a galeria de eventos</em>
+    <em>Criar uma visualização 3D da sua máscara facial para a galeria de eventos</em>
     <br>
   </td>
 </tr>
@@ -62,7 +62,7 @@ Saiba como instalar o plug-in Design to Print para Photoshop.
 
 Neste tutorial, você aprenderá como:
 * Visualize seus designs em produtos como roupas, acessórios, papelaria e arte de parede em tempo real!
-* Publicar no marketplace online do Dazzle
+* Marketplace online do Publish para o Dazzle
 
 **Apresentado por:**
 Patti Sokol, Consultor Principal de Soluções (Mídia Digital)
@@ -76,11 +76,11 @@ Personalize sua própria máscara facial do Zazzle
 
 Neste tutorial, você aprenderá como:
 * Visualize seus designs em produtos como roupas, acessórios, papelaria e arte de parede em tempo real!
-* Publicar no marketplace online do Dazzle
+* Marketplace online do Publish para o Dazzle
 
-**Clique na imagem para baixar o Learn Design to Print PDF**
+**Clique na imagem para baixar o PDF Learn Design to Print**
 
-[![Aprenda a criar designs a serem impressos](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
+[![Aprenda a Imprimir o Design](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
 
 **Apresentado por:**
 Patti Sokol, Consultor Principal de Soluções (Mídia Digital)
@@ -97,7 +97,7 @@ Neste tutorial, você aprenderá como:
 * Adicione materiais e controle a iluminação para obter uma aparência profissional
 * Importar ativos para aplicar sua marca ou outros designs
 
-**Clique na imagem para baixar [!DNL Dimension] Arquivo com modelo 3D de máscara branca**
+**Clique na imagem para baixar o arquivo [!DNL Dimension] com o modelo 3D de máscara branca**
 
 [![Imagem de comparação](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&amp;native_visual_search=&amp;similar_content_id=&amp;is_recent_search=&amp;search_type=usertyped&amp;k=face+mask&amp;asset_id=324075591)
 

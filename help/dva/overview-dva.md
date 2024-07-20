@@ -24,9 +24,9 @@ Dê vida às suas ideias com softwares e aplicativos de Adobe para edição de v
       <img alt="Modelos profissionais de animações" src="assets/MORGTs.png" />
    </a>
     <div>
-   <a href="motion-graphics-templates.md"><strong>Modelos profissionais de animações</strong></a>
+   <a href="motion-graphics-templates.md"><strong>Modelos de animações profissionais</strong></a>
     </div>
-    <em>Os Modelos de animações (.mogrt) são uma maneira colaborativa e eficiente de criar pacotes de animações personalizáveis: títulos, animações de logotipo, terços inferiores e compartilhá-los com equipes editoriais</em>
+    <em>Modelos de animações (.mogrt) são uma maneira colaborativa e eficiente de criar pacotes de animações personalizáveis, como títulos, animações de logotipo, terços inferiores e compartilhá-los com equipes editoriais</em>
     <br>
   </td>
   <td>

@@ -5,7 +5,8 @@ feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-15035
-source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
+exl-id: a45c00f4-8df4-4a32-bcf7-8f6d32bbfef3
+source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
 workflow-type: tm+mt
 source-wordcount: '23'
 ht-degree: 4%
@@ -19,4 +20,3 @@ Saiba como começar a usar o Adobe Firefly em [firefly.adobe.com](https://firefl
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427607?quality=12&learn=on&hidetitle=true)
-

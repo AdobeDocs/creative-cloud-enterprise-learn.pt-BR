@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Express] Visão geral
-description: Atualize-se com o Adobe [!DNL Express]
+title: Visão Geral do Adobe [!DNL Express] Noun
+description: Atualize-se em Adobe [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Beginner, Intermediate
@@ -13,7 +13,7 @@ ht-degree: 10%
 
 ---
 
-# Adobe [!DNL Express] visão geral
+# Visão geral do Adobe [!DNL Express]
 
 Crie Reels e vídeos, folhetos, currículos, banners, logotipos do TikTok e muito mais com o novo aplicativo completo de Adobe Express para criar conteúdo com rapidez e facilidade. Faça um trabalho incrível que se destaca com recursos de IA generativa com o Adobe Firefly.
 
@@ -21,7 +21,7 @@ Crie Reels e vídeos, folhetos, currículos, banners, logotipos do TikTok e muit
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
 
-## Adobe [!DNL Express] tutoriais
+## Tutoriais do Adobe [!DNL Express]
 
 <table style="table-layout:fixed">
 <tr>

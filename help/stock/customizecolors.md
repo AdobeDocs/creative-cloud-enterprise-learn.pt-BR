@@ -1,6 +1,6 @@
 ---
-title: Personalizar as cores em um Adobe [!DNL Stock] ilustração vetorial
-description: Adicione polimento a qualquer projeto com uma ilustração incrível. Encontre o vetor perfeito em Adobe [!DNL Stock]e, em seguida, faça a correspondência das cores com a paleta do seu projeto usando o Adobe Illustrator
+title: Personalizar as cores em uma ilustração vetorial Adobe [!DNL Stock]
+description: Adicione polimento a qualquer projeto com uma ilustração incrível. Encontre o vetor perfeito em Adobe [!DNL Stock] e combine as cores com a paleta do seu projeto usando o Adobe Illustrator
 feature: Licensable Assets, Vector Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Personalizar as cores em um Adobe [!DNL Stock] ilustração vetorial
+# Personalizar as cores em uma ilustração vetorial Adobe [!DNL Stock]
 
-Adicione polimento a qualquer projeto com uma ilustração incrível. Encontre o vetor perfeito em Adobe [!DNL Stock]e, em seguida, corresponda as cores à paleta do seu projeto usando o Adobe Illustrator.
+Adicione polimento a qualquer projeto com uma ilustração incrível. Encontre o vetor perfeito no Adobe [!DNL Stock] e combine as cores com a paleta do seu projeto usando o Adobe Illustrator.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331826?hidetitle=true)

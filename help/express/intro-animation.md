@@ -5,7 +5,8 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14831
-source-git-commit: 2c281b48a4003cb90951d0d2b16814700d09960b
+exl-id: 1a90ddca-f374-403f-a3ed-a589e8d7c870
+source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
@@ -66,4 +67,3 @@ Saiba como adicionar animação a uma publicação em redes sociais para aumenta
    </td>
 </tr>
 </table>
-

@@ -5,7 +5,8 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14833
-source-git-commit: 2c281b48a4003cb90951d0d2b16814700d09960b
+exl-id: cbdb531e-64ee-4c34-878a-3fd61dcf297c
+source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -66,4 +67,3 @@ Saiba como ajustar as configurações das animações para melhorar a eficácia.
    </td>
 </tr>
 </table>
-

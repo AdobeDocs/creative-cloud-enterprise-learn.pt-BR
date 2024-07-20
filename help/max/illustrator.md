@@ -25,9 +25,9 @@ O aplicativo moderno para ilustrações e gráficos. Crie logotipos, ícones, il
       <img alt="Usar Símbolos para Atualizar Várias Instâncias de Ícone" src="../assets/Illustrator_symbols_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="illustrator.md#tutorial1"><strong>Usar Símbolos para Atualizar Várias Instâncias de Ícone</strong></a>
+   <a href="illustrator.md#tutorial1"><strong>Usar Símbolos para Atualizar Várias Instâncias de Ícones</strong></a>
     </div>
-    <em>Reduzir o trabalho manual e manter a consistência com símbolos</em>
+    <em>Reduza o trabalho manual e mantenha a consistência com símbolos</em>
     <br>
   </td>
   <td>
@@ -74,11 +74,11 @@ Neste tutorial, você aprenderá como:
 **Apresentado por:**
 Patti Sokol, Consultor Principal de Soluções (Mídia Digital)
 
-![Logotipo da Illustrator](../assets/ai_appicon_96.png)
+![Logotipo do Illustrator](../assets/ai_appicon_96.png)
 
 **Recursos do Illustrator**
 
-[Aprendizagem e suporte](https://helpx.adobe.com/support/illustrator.html) é o seu hub para tutoriais adicionais e links para fóruns da comunidade.
+[Aprendizagem e Suporte](https://helpx.adobe.com/support/illustrator.html) é o seu hub para tutoriais adicionais e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 

@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ O Adobe Fresco é um aplicativo compatível com várias plataformas para criar d
     <div>
    <a href="fresco.md#tutorial1"><strong>Introdução ao desenho com o Adobe Fresco</strong></a>
     </div>
-    <em>Use as poderosas ferramentas de seleção e edição de cores do Adobe fresco para alterar drasticamente uma imagem para corresponder às necessidades da sua marca corporativa</em>
+    <em>Use as poderosas ferramentas de seleção e edição de cores do Adobe fresco para alterar drasticamente uma imagem para corresponder às suas necessidades de identidade corporativa</em>
     <br>
   </td>
   <td>
@@ -35,7 +35,7 @@ O Adobe Fresco é um aplicativo compatível com várias plataformas para criar d
       <img alt="Criar arte texturizada — Fresco para o Illustrator" src="../assets/fresco_textureToVector_tanonis_thumbnail.jpg" />
    </a>
     <div>
-   <a href="fresco.md#tutorial2"><strong>Criar arte texturizada — Fresco para o Illustrator</strong></a>
+   <a href="fresco.md#tutorial2"><strong>Criar arte texturizada: Fresco para o Illustrator</strong></a>
     </div>
     <em>Pinte e desenhe texturas no Adobe Fresco e aprenda a usá-las no Illustrator</em>
     <br>
@@ -83,7 +83,7 @@ Liz Tanonis, Consultora de soluções (mídia digital)
 
 **Recursos do Fresco**
 
-[Aprendizagem e suporte](https://helpx.adobe.com/support/adobe-fresco.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/fresco/using/whats-new.html)e links para fóruns da comunidade.
+[Aprendizagem e Suporte](https://helpx.adobe.com/support/adobe-fresco.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/fresco/using/whats-new.html) e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 

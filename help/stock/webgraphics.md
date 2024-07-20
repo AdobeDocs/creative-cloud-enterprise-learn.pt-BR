@@ -1,5 +1,5 @@
 ---
-title: Crie gráficos da Web envolventes combinando Adobe [!DNL Stock] imagens com CSS
+title: Crie gráficos da Web envolventes combinando imagens Adobe [!DNL Stock] com CSS
 description: Crie unidade de marca com imagens variadas combinando cores e gradientes em toda a sua campanha publicitária
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Crie gráficos da Web envolventes combinando Adobe [!DNL Stock] imagens com CSS
+# Crie gráficos da Web envolventes combinando imagens Adobe [!DNL Stock] com CSS
 
 Crie unidade de marca com imagens variadas combinando cores e gradientes em toda a sua campanha publicitária.
 

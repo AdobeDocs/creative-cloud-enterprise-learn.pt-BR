@@ -5,7 +5,8 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14828
-source-git-commit: d7b0469735ceb9259f585bacb524a231a34de880
+exl-id: 08e566b6-b1fa-4834-b17a-5ea55dc16877
+source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 # Como compartilhar e baixar
 
-Conheça as opções para baixar e compartilhar projetos em diferentes formatos de arquivo, como PNG, JPEG ou PDF. Publique projetos na Web e gere um link para fácil acesso, ou agende e compartilhe mídia diretamente em plataformas de redes sociais com opções para personalizar publicações para cada plataforma.
+Conheça as opções para baixar e compartilhar projetos em diferentes formatos de arquivo, como PNG, JPEG ou PDF. O Publish projeta na Web e gera um link para acesso fácil, ou agenda e compartilha mídia diretamente em plataformas de redes sociais com opções para personalizar publicações para cada plataforma.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426936?quality=12&learn=on&hidetitle=true)
 

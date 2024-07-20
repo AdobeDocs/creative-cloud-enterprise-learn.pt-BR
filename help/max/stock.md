@@ -1,20 +1,20 @@
 ---
-title: "[!DNL Stock]"
-description: Adobe [!DNL Stock] para corporações, dá às equipes de criação acesso a mais de 200 milhões de imagens, vídeos, modelos, ilustrações, arquivos de áudio e ativos 3D
+title: “[!DNL Stock]”
+description: o Adobe [!DNL Stock] para corporações fornece às equipes de criação acesso a mais de 200 milhões de imagens, vídeos, modelos, ilustrações, arquivos de áudio e ativos 3D
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
 
-Os criativos estão sob pressão para fornecer rapidamente conteúdo novo e visualmente atraente que irá capturar e manter a atenção. Adobe [!DNL Stock] para corporações, dá às equipes de criação acesso a mais de 200 milhões de imagens, vídeos, modelos, ilustrações, arquivos de áudio e ativos 3D, tudo nos aplicativos de criação da Adobe que usam diariamente.
+Os criativos estão sob pressão para fornecer rapidamente conteúdo novo e visualmente atraente que irá capturar e manter a atenção. O Adobe [!DNL Stock] para corporações dá às equipes de criação acesso a mais de 200 milhões de imagens, vídeos, modelos, ilustrações, arquivos de áudio e ativos 3D, tudo nos aplicativos de criação da Adobe que usam todos os dias.
 
 ## Procurar Tutorials de produtos
 
@@ -27,17 +27,18 @@ Os criativos estão sob pressão para fornecer rapidamente conteúdo novo e visu
     <div>
    <a href="stock.md#tutorial1"><strong>Encontre os melhores ativos mais rapidamente com o Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Encontre a imagem perfeita e isenta de royalties para aprimorar seu projeto criativo usando resultados de pesquisa melhores e mais rápidos com o Adobe Sensei, nosso mecanismo de inteligência artificial</em>
+    <em>Encontre a imagem isenta de royalties perfeita para aprimorar seu projeto criativo usando resultados de pesquisa melhores e mais rápidos fornecidos pelo Adobe Sensei, nosso mecanismo de inteligência artificial</em>
     <br>
   </td>
   <td>
    <a href="stock.md#tutorial2">
-      <img alt="Pesquisar e licenciar [!DNL Stock] Ativos no AEM" src="../assets/stock_aemintegration_palmer_thumbnail.jpg" />
+      <img alt="Pesquisar e Licenciar [!DNL Stock] Ativos no AEM" src="../assets/stock_aemintegration_palmer_thumbnail.jpg" />
    </a>
     <div>
-   <a href="stock.md#tutorial2"><strong>Pesquisar e licenciar [!DNL Stock] Ativos no Adobe Experience Manager</strong></a>
+   <a href="stock.md#tutorial2"><strong>Pesquisar e licenciar [!DNL Stock] ativos em 
+Adobe Experience Manager</strong></a>
     </div>
-    <em>Simplifique o processo de upload do seu Adobe licenciado [!DNL Stock] ativos em seu sistema de Gerenciamento de ativos digitais</em>
+    <em>Simplifique o processo de carregar os ativos do Adobe [!DNL Stock] licenciados no sistema de Gerenciamento de Ativos Digitais</em>
     <br>
   </td>
   <td>
@@ -62,28 +63,28 @@ Neste tutorial, você aprenderá como:
 
 **Apresentado por:**
 
-Victoria Torres [!DNL Stock] Consultor de soluções (mídia digital)
+Victoria Torres, Consultora de Soluções do [!DNL Stock] (Mídia digital)
 
-## Pesquisar e licenciar [!DNL Stock] Ativos no AEM (6:46) {#tutorial2}
+## Pesquisar e Licenciar [!DNL Stock] Ativos no AEM (6:46) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
 **Descrição**
-Simplifique o processo de upload do seu Adobe licenciado [!DNL Stock] ativos em seu sistema de Gerenciamento de ativos digitais.
+Simplifique o processo de upload dos ativos do Adobe [!DNL Stock] licenciados para o sistema de Gerenciamento de Ativos Digitais.
 
 Neste tutorial, você aprenderá como:
-* Executar Adobe [!DNL Stock] pesquisa de ativos sem sair da área de trabalho do AEM
+* Executar a pesquisa de ativos do Adobe [!DNL Stock] sem sair do espaço de trabalho AEM
 * Salvar ativos licenciados diretamente em uma pasta AEM no momento do licenciamento
-* Exibir ativos licenciados do AEM em seu [!DNL Stock] histórico de licenças na [!DNL Stock] Site do.
+* Exiba ativos licenciados por AEM no histórico de licenças do [!DNL Stock] no site do [!DNL Stock].
 
 **Apresentado por:**
 Emily Palmer, Consultora de soluções (Mídia digital)
 
-![[!DNL Stock] Logo](../assets/st_appicon_96.png)
+Logotipo ![[!DNL Stock]](../assets/st_appicon_96.png)
 
 **Adobe [!DNL Stock] Recursos**
 
-[Aprendizagem e suporte](https://helpx.adobe.com/support/stock.html) é o seu hub para tutoriais adicionais e links para fóruns da comunidade.
+[Aprendizagem e Suporte](https://helpx.adobe.com/support/stock.html) é o seu hub para tutoriais adicionais e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 

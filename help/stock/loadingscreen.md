@@ -1,6 +1,6 @@
 ---
-title: Personalize uma animação de tela de carregamento com o Adobe [!DNL Stock] e XD
-description: Personalizar arte vetorial do Adobe [!DNL Stock] para criar uma animação de tela de carregamento de resfriamento para um aplicativo para dispositivos móveis
+title: Personalize uma animação de tela de carregamento com Adobe [!DNL Stock] e XD
+description: Personalize a arte vetorial do Adobe [!DNL Stock] para criar uma animação de tela de carregamento de arrefecimento para um aplicativo móvel
 feature: Licensable Assets, UI Design
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Personalize uma animação de tela de carregamento com o Adobe [!DNL Stock] e XD
+# Personalizar uma animação de tela de carregamento com Adobe [!DNL Stock] e XD
 
-Personalizar arte vetorial do Adobe [!DNL Stock] para criar uma animação de tela de carregamento de resfriamento para um aplicativo para dispositivos móveis.
+Personalize a arte vetorial do Adobe [!DNL Stock] para criar uma animação de tela de carregamento de arrefecimento para um aplicativo móvel.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331814?hidetitle=true)

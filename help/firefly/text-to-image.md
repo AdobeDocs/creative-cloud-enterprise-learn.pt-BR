@@ -15,7 +15,7 @@ ht-degree: 8%
 
 # Texto para imagem
 
-Saiba como criar uma imagem a partir de descrições de texto. [Gerando imagens](https://www.adobe.com/products/firefly/features/text-to-image.html) de acordo com suas necessidades específicas permite criar conteúdo personalizado e inspirador. Experimente o Adobe Firefly [aqui](https://firefly.adobe.com/).
+Saiba como criar uma imagem a partir de descrições de texto. [Gerar imagens](https://www.adobe.com/products/firefly/features/text-to-image.html) de acordo com suas necessidades específicas permite criar conteúdo personalizado e inspirador. Experimente o Adobe Firefly [aqui](https://firefly.adobe.com/).
 
 <br> 
 
