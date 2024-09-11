@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-13411
 exl-id: d048d1ce-9f87-4257-a3a2-eeb56232c8f8
-source-git-commit: a21ff3b9340b44320272e6e66248d9589655ae2b
+source-git-commit: d2ce81cbf60a65c9a79bb1e9dd0c3adc88d79ed9
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
