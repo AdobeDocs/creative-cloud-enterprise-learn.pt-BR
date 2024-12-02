@@ -1,5 +1,5 @@
 ---
-title: “[!DNL Stock]”
+title: '[!DNL Stock]'
 description: o Adobe [!DNL Stock] para corporações fornece às equipes de criação acesso a mais de 200 milhões de imagens, vídeos, modelos, ilustrações, arquivos de áudio e ativos 3D
 feature: Licensable Assets
 role: User

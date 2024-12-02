@@ -1,6 +1,6 @@
 ---
-title: “[!DNL Dimension]”
-description: “[!DNL Dimension] facilita a criação de visualizações de marcas, ilustrações, modelos de produtos, designs de embalagens e outros trabalhos criativos”
+title: '[!DNL Dimension]'
+description: O [!DNL Dimension] facilita a criação de visualizações de marcas, ilustrações, modelos de produtos, designs de embalagens e outros trabalhos criativos
 feature: 3D
 role: User
 level: Beginner, Intermediate
