@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14886
 exl-id: 7fd2e120-a797-466a-ab5e-1f6dfd8223a1
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -24,20 +24,35 @@ Saiba como salvar e compartilhar modelos em um kit de marca ou biblioteca para a
 <table style="table-layout:fixed">
 <tr>
     <td>
-            <a href="lock-layers.md">
-                <img alt="Como e por que bloquear camadas" src="assets/lock-layers.png" />
-            </a>
+        <a href="lock-layers.md">
+            <img alt="Como e por que bloquear camadas" src="assets/lock-layers.png" />
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>Como e por que bloquear camadas</strong></a>
+            </div>
+            <em>Saiba por que é importante bloquear vários elementos do seu modelo</em>
+            <br>
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="Criação de um modelo" src="assets/create-template.png" />
+            <img alt="Maximizar a eficiência: criar modelos reutilizáveis" src="assets/create-template.png" />
          </a>
-    </td>
+         <div>
+         <a href="create-templates.md"><strong>Maximizar a eficiência: criar modelos reutilizáveis</strong></a>
+         </div>
+         <em>Saiba como oferecer consistência de marca, eficiência, profissionalismo e economia de custos à sua organização com modelos</em>
+         <br>
+   </td>
     <td>
-            <a href="use-templates.md">
-                <img alt="Como usar modelos" src="assets/use-templates.png" />
-            </a>
-    </td>
+         <a href="use-templates.md">
+            <img alt="Consistência de marca sem esforço com modelos" src="assets/use-templates.png" />
+         </a>
+         <div>
+         <a href="use-templates.md"><strong>Consistência de marca sem esforço com modelos</strong></a>
+         </div>
+         <em>Saiba como criar conteúdo de marca de maneira rápida e eficiente em toda a organização</em>
+         <br>
+   </td>
     <td>
       <img alt="Espaçador" src="../assets/Whitespacer.png" />
       <div>

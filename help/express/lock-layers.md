@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14885
 exl-id: f7aba5fa-40dd-48f2-afe3-d65ecc9a666c
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -25,18 +25,33 @@ Saiba por que é importante bloquear vários elementos do seu modelo para que el
 <tr>
    <td>
          <a href="create-templates.md">
-            <img alt="Criação de um modelo" src="assets/create-template.png" />
+            <img alt="Maximizar a eficiência: criar modelos reutilizáveis" src="assets/create-template.png" />
          </a>
+         <div>
+         <a href="create-templates.md"><strong>Maximizar a eficiência: criar modelos reutilizáveis</strong></a>
+         </div>
+         <em>Saiba como oferecer consistência de marca, eficiência, profissionalismo e economia de custos à sua organização com modelos</em>
+         <br>
    </td>
    <td>
          <a href="share-templates.md">
             <img alt="Salvar e compartilhar modelos" src="assets/share-templates.png" />
          </a>
+         <div>
+         <a href="share-templates.md"><strong>Salvar e compartilhar modelos</strong></a>
+         </div>
+         <em>Saiba como salvar e compartilhar modelos em um kit de marcas ou biblioteca para sua equipe</em>
+         <br>
    </td>
    <td>
          <a href="use-templates.md">
-            <img alt="Como usar modelos" src="assets/use-templates.png" />
+            <img alt="Consistência de marca sem esforço com modelos" src="assets/use-templates.png" />
          </a>
+         <div>
+         <a href="use-templates.md"><strong>Consistência de marca sem esforço com modelos</strong></a>
+         </div>
+         <em>Saiba como criar conteúdo de marca de maneira rápida e eficiente em toda a organização</em>
+         <br>
    </td>
    <td>
       <img alt="Espaçador" src="../assets/Whitespacer.png" />
