@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14885
 exl-id: f7aba5fa-40dd-48f2-afe3-d65ecc9a666c
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Saiba por que é importante bloquear vários elementos do seu modelo para que el
          <div>
          <a href="create-templates.md"><strong>Maximizar a eficiência: criar modelos reutilizáveis</strong></a>
          </div>
-         <em>Saiba como oferecer consistência de marca, eficiência, profissionalismo e economia de custos à sua organização com modelos</em>
+         <em>Saiba como oferecer consistência de marca, eficiência e economia de custos à sua organização com modelos</em>
          <br>
    </td>
    <td>

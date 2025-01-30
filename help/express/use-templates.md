@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14887
 exl-id: 00b8d83a-630f-48a1-a87f-c6f43ad5f992
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Saiba como criar conteúdo de marca de maneira rápida e eficiente em toda a org
          <div>
          <a href="create-templates.md"><strong>Maximizar a eficiência: criar modelos reutilizáveis</strong></a>
          </div>
-         <em>Saiba como oferecer consistência de marca, eficiência, profissionalismo e economia de custos à sua organização com modelos</em>
+         <em>Saiba como oferecer consistência de marca, eficiência e economia de custos à sua organização com modelos</em>
          <br>
    </td>
    <td>

@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 55946f53633e679f1c7242e54fe07b41b1e626a3
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '360'
 ht-degree: 1%
 
 ---
@@ -355,24 +355,44 @@ Comece a criar trabalhos incríveis que se destacam com IA generativa desenvolvi
 <table style="table-layout:fixed">
 <tr>
    <td>
-         <a href="lock-layers.md">
+        <a href="lock-layers.md">
             <img alt="Como e por que bloquear camadas" src="assets/lock-layers.png" />
-         </a>
-   </td>
-   <td>
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>Como e por que bloquear camadas</strong></a>
+            </div>
+            <em>Saiba por que é importante bloquear vários elementos do seu modelo</em>
+            <br>
+    </td>
+    <td>
          <a href="create-templates.md">
-            <img alt="Criação de um modelo" src="assets/create-template.png" />
+            <img alt="Maximizar a eficiência: criar modelos reutilizáveis" src="assets/create-template.png" />
          </a>
+         <div>
+         <a href="create-templates.md"><strong>Maximizar a eficiência: criar modelos reutilizáveis</strong></a>
+         </div>
+         <em>Saiba como oferecer consistência de marca, eficiência e economia de custos à sua organização com modelos</em>
+         <br>
    </td>
    <td>
          <a href="share-templates.md">
             <img alt="Salvar e compartilhar modelos" src="assets/share-templates.png" />
          </a>
+         <div>
+         <a href="share-templates.md"><strong>Salvar e compartilhar modelos</strong></a>
+         </div>
+         <em>Saiba como salvar e compartilhar modelos em um kit de marcas ou biblioteca para sua equipe</em>
+         <br>
    </td>
    <td>
          <a href="use-templates.md">
-            <img alt="Como usar modelos" src="assets/use-templates.png" />
+            <img alt="Consistência de marca sem esforço com modelos" src="assets/use-templates.png" />
          </a>
+         <div>
+         <a href="use-templates.md"><strong>Consistência de marca sem esforço com modelos</strong></a>
+         </div>
+         <em>Saiba como criar conteúdo de marca de maneira rápida e eficiente em toda a organização</em>
+         <br>
    </td>
 </tr>
 </table>
