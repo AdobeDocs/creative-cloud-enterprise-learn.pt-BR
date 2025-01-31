@@ -5,10 +5,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: 7ce148a9f81dbb0392f44495a834d2983b8380b9
+source-git-commit: 4479a9483934fed8fc7f84c4aa796ae23677cffa
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 11%
+source-wordcount: '179'
+ht-degree: 7%
 
 ---
 
@@ -74,191 +74,89 @@ Bem-vindo ao Creative Cloud para o centro de aprendizado corporativo. Aqui você
 <!-- END CARDS -->
 <!-- END COMMENT -->
 
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Creative Cloud for enterprise tutorials">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/overview-cce" title="Creative Cloud para tutoriais corporativos" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/media_16d0b4bc8d977366abc857846ccb13e98d0dbdcba.png?width=400&format=webply&optimize=medium" alt="Creative Cloud para tutoriais corporativos"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/overview-cce" target="_self" rel="referrer" title="Creative Cloud para tutoriais corporativos">Creative Cloud para tutoriais corporativos</a>
-                    </p>
-                    <p class="is-size-6">Conheça os novos recursos da versão mais recente do Creative Cloud — do ponto de vista corporativo</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/overview-cce" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Express">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to" title="Adobe Express" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/media_147ff2adb3b6666e184b73e7d7a2f3ba7870e2e2d.png?width=400&format=webply&optimize=medium" alt="Adobe Express"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to" target="_self" rel="referrer" title="Adobe Express">Adobe Express</a>
-                    </p>
-                    <p class="is-size-6">Comece a criar um trabalho incrível que se destaca</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Firefly">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/overview-firefly" title="Adobe Firefly" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/media_1ef57758ab48c616d77f2a64a42dd64d7089aade5.png?width=400&format=webply&optimize=medium" alt="Adobe Firefly"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/overview-firefly" target="_self" rel="referrer" title="Adobe Firefly">Adobe Firefly</a>
-                    </p>
-                    <p class="is-size-6">Família de modelos criativos de IA generativa em produtos do Adobe</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/overview-firefly" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Stock">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/stockoverview/overview-stock" title="Adobe Stock" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/media_1269d469351bf3a67311794f9b3dce2e0b342429e.png?width=400&format=webply&optimize=medium" alt="Adobe Stock"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/stockoverview/overview-stock" target="_self" rel="referrer" title="Adobe Stock">Adobe Stock</a>
-                    </p>
-                    <p class="is-size-6">Imagens digitais de alta qualidade, ilustrações, vídeo, áudio, modelos e muito mais</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/stockoverview/overview-stock" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe 3D & VR">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/3doverview/overview-3di" title="Adobe 3D e VR" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/media_18e961b58ea0fc7210e7aed113da2b2f69a23d0d4.png?width=400&format=webply&optimize=medium" alt="Adobe 3D e VR"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/3doverview/overview-3di" target="_self" rel="referrer" title="Adobe 3D e VR">Adobe 3D e VR</a>
-                    </p>
-                    <p class="is-size-6">Crie imagens fotorrealistas em 3D para criação de marca, fotos de produtos e design de embalagem</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/3doverview/overview-3di" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Video">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/overview-dva" title="Vídeo Adobe" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/overview-dva./media_17ac9ae3e09a9aec8f018e66210682331cffa52ca.png?width=400&format=png&optimize=medium" alt="Vídeo Adobe"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/overview-dva" target="_self" rel="referrer" title="Vídeo Adobe">Vídeo Adobe</a>
-                    </p>
-                    <p class="is-size-6">Dê vida às suas ideias com aplicativos para edição de vídeo, animações, efeitos visuais, animação e muito mais</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/overview-dva" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe XD">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/xdoverview/overview-xd" title="Adobe XD" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/xdoverview/overview-xd./media_1ac5324195b1d8df51c40fbf0258d50e993eeb9ca.jpeg?width=400&format=jpeg&optimize=medium" alt="Adobe XD"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/xdoverview/overview-xd" target="_self" rel="referrer" title="Adobe XD">Adobe XD</a>
-                    </p>
-                    <p class="is-size-6">Criar designs e protótipos e compartilhar experiências de usuário</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/xdoverview/overview-xd" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe MAX">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/max/overview-max" title="Adobe MAX" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/327112?hidetitle=true&format=jpeg&nocache=1738346230770" alt="Adobe MAX"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/max/overview-max" target="_self" rel="referrer" title="Adobe MAX">Adobe MAX</a>
-                    </p>
-                    <p class="is-size-6">Saiba tudo sobre as sessões empresariais do MAX 2020</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/max/overview-max" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+<table style="table-layout:fixed">
+<tr>
+   <td>
+      <a href="cce/overview-cce.md">
+         <img alt="Creative Cloud para tutoriais corporativos" src="assets/CCecard.png" />
+      </a>
+      <div>
+          <a href="cce/overview-cce.md"><strong>Creative Cloud para tutoriais corporativos</strong></a>
+          </div>
+          <em>Saiba mais sobre os novos recursos da versão mais recente do Creative Cloud, do ponto de vista corporativo</em>
+          <br>
+   </td>
+   <td>
+      <a href="express/overview-express.md">
+         <img alt="Adobe Express" src="assets/Expresscard.png" />
+      </a>
+      <div>
+          <a href="express/overview-express.md"><strong>Adobe Express</strong></a>
+          </div>
+          <em>Comece a criar conteúdo incrível que se destaca</em>
+        <br>
+   </td>
+   <td>
+      <a href="firefly/overview-firefly.md">
+         <img alt="Firefly" src="assets/Fireflycard.png" />
+      </a>
+      <div>
+          <a href="firefly/overview-firefly.md"><strong>Firefly</strong></a>
+          </div>
+          <em>Saiba tudo sobre os modelos de IA generativa em produtos Adobe</em>
+        <br>
+   </td>
+   <td>
+      <a href="stock/overview-stock.md">
+         <img alt="Adobe Stock" src="assets/Stockcard.png" />
+      </a>
+      <div>
+          <a href="stock/overview-stock.md"><strong>Adobe Stock</strong></a>
+          </div>
+          <em>Imagens digitais de alta qualidade, ilustrações, vídeo, áudio, modelos e muito mais</em>
+        <br>
+   </td>
+</tr>
+<tr>
+  <td>
+      <a href="3di/overview-3di.md">
+         <img alt="Adobe 3D e VR" src="assets/3Dcard.png" />
+      </a>
+      <div>
+          <a href="3di/overview-3di.md"><strong>Adobe 3D e VR</strong></a>
+          </div>
+          <em>Crie imagens fotorrealistas em 3D para identidade visual, fotos de produtos e design de embalagens</em>
+        <br>
+   </td>
+   <td>
+      <a href="dva/overview-dva.md">
+         <img alt="Vídeo Adobe" src="assets/Videocard.png" />
+      </a>
+      <div>
+          <a href="dva/overview-dva.md"><strong>Vídeo Adobe</strong></a>
+          </div>
+          <em>Dê vida às suas ideias com vídeo</em>
+        <br>
+   </td>
+   <td>
+      <a href="xd/overview-xd.md">
+         <img alt="Adobe XD" src="assets/XDcard.png" />
+      </a>
+      <div>
+          <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
+          </div>
+          <em>Criar designs e protótipos e compartilhar experiências de usuário</em>
+        <br>
+   </td>
+    <td>
+      <a href="max/overview-max.md">
+         <img alt="Adobe MAX" src="assets/Maxcard.png" />
+      </a>
+      <div>
+          <a href="max/overview-max.md"><strong>Adobe MAX</strong></a>
+          </div>
+          <em>Saiba tudo sobre as sessões corporativas do MAX 2020</em>
+        <br>
+   </td>
+</tr>
+</table>
