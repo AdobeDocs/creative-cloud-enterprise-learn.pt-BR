@@ -5,7 +5,7 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: c55874d6e3477aa49d6ef4e35569c3d582d0816a
+source-git-commit: 7ce148a9f81dbb0392f44495a834d2983b8380b9
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 11%
@@ -242,7 +242,7 @@ Bem-vindo ao Creative Cloud para o centro de aprendizado corporativo. Aqui você
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/max/overview-max" title="Adobe MAX" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/327112?hidetitle=true&format=jpeg&nocache=1738341192616" alt="Adobe MAX"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/327112?hidetitle=true&format=jpeg&nocache=1738346230770" alt="Adobe MAX"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
