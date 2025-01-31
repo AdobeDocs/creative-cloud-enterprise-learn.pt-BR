@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13380
 exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
-source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
+source-git-commit: c55874d6e3477aa49d6ef4e35569c3d582d0816a
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 3%
+source-wordcount: '204'
+ht-degree: 5%
 
 ---
 
@@ -38,43 +38,43 @@ Saiba como oferecer consistência de marca, eficiência, profissionalismo e econ
 
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#getting-started
   {target = _self}
-  {title = Getting started tutorials}
+  {title = Getting started}
   {description = Learn how to navigate, use Quick actions, and explore thousands of professionally designed templates}
   {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_11da3118b5b5e9240cee54d84d0a53b93a5f564d5.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks
   {target = _self}
-  {title = Basic tasks tutorials}
+  {title = Basic tasks}
   {description = Learn how to make content that really stands out}
   {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_1d371d6487ef5279f42ce3392bd7c9e0449ad2e63.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#animation
   {target = _self}
-  {title = Animation tutorials}
+  {title = Animation}
   {description = Take your content to the next level with custom animations}
   {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_10ccd063d4336b984c17c2419090f01454111660c.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#advanced-tasks
   {target = _self}
-  {title = Advanced tasks tutorials}
+  {title = Advanced tasks}
   {description = Dive deeper into Gen AI, PDF editing, and more}
   {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_14ac40625ddf85c6af4a99cc2cd27732a564508eb.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#video
   {target = _self}
-  {title = Video tutorials}
+  {title = Video}
   {description = Video made easy. Add Adobe Stock videos and music for content that really stands out}
   {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_1eee90d39e1002d4ed1ebae216c1b0603de61461b.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#templates
   {target = _self}
-  {title = Template tutorials}
+  {title = Templates}
   {description = Learn how bring brand consistency, efficiency, and cost savings to your organization}
   {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e715d1ec959dc755a27cab94e21039372673afac.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
 * https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/overview-express-use-case-tutorials
   {target = _self}
-  {title = Use case tutorials}
+  {title = Use cases}
   {description = Learn how different teams within your organization can benefit from using Adobe Express}
   {https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_173c02cd2ed892e1d570e939c3b2f463bc14da843.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
@@ -83,168 +83,79 @@ Saiba como oferecer consistência de marca, eficiência, profissionalismo e econ
 <!-- END CARDS -->
 <!-- END COMMENT -->
 
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Getting started tutorials">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#getting-started" title="Tutoriais de introdução" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_11da3118b5b5e9240cee54d84d0a53b93a5f564d5.png?width=400&format=webply&optimize=medium" alt="Tutoriais de introdução"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#getting-started" target="_self" rel="referrer" title="Tutoriais de introdução">Tutoriais de introdução</a>
-                    </p>
-                    <p class="is-size-6">Saiba como navegar, usar ações rápidas e explorar milhares de modelos com design profissional</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#getting-started" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Basic tasks tutorials">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks" title="Tutoriais de tarefas básicas" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_1d371d6487ef5279f42ce3392bd7c9e0449ad2e63.png?width=400&format=webply&optimize=medium" alt="Tutoriais de tarefas básicas"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks" target="_self" rel="referrer" title="Tutoriais de tarefas básicas">Tutoriais de tarefas básicas</a>
-                    </p>
-                    <p class="is-size-6">Saiba como criar conteúdo que realmente se destaca</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Animation tutorials">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#animation" title="Tutoriais de animação" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_10ccd063d4336b984c17c2419090f01454111660c.png?width=400&format=webply&optimize=medium" alt="Tutoriais de animação"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#animation" target="_self" rel="referrer" title="Tutoriais de animação">Tutoriais de animação</a>
-                    </p>
-                    <p class="is-size-6">Eleve o nível do seu conteúdo com animações personalizadas</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#animation" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Advanced tasks tutorials">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#advanced-tasks" title="Tutoriais de tarefas avançadas" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_14ac40625ddf85c6af4a99cc2cd27732a564508eb.png?width=400&format=webply&optimize=medium" alt="Tutoriais de tarefas avançadas"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#advanced-tasks" target="_self" rel="referrer" title="Tutoriais de tarefas avançadas">Tutoriais de tarefas avançadas</a>
-                    </p>
-                    <p class="is-size-6">Saiba mais sobre Gen AI, edição de PDF e muito mais</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#advanced-tasks" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Video tutorials">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#video" title="Vídeos de tutoriais" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_1eee90d39e1002d4ed1ebae216c1b0603de61461b.png?width=400&format=webply&optimize=medium" alt="Vídeos de tutoriais"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#video" target="_self" rel="referrer" title="Vídeos de tutoriais">Vídeos de tutoriais</a>
-                    </p>
-                    <p class="is-size-6">Vídeo facilitado. Adicione vídeos e músicas do Adobe Stock para obter conteúdo que realmente se destaca</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#video" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Template tutorials">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#templates" title="Tutoriais do modelo" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e715d1ec959dc755a27cab94e21039372673afac.png?width=400&format=webply&optimize=medium" alt="Tutoriais do modelo"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#templates" target="_self" rel="referrer" title="Tutoriais do modelo">Tutoriais de modelo</a>
-                    </p>
-                    <p class="is-size-6">Saiba como oferecer consistência de marca, eficiência e economia de custos à sua organização</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#templates" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Use case tutorials">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/overview-express-use-case-tutorials" title="Tutoriais de caso de uso" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/overview-express-use-case-tutorials./media_1c09c87fff32e8ed0ffe00c509b216e6dd8f44206.png?width=400&format=png&optimize=medium" alt="Tutoriais de caso de uso"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/overview-express-use-case-tutorials" target="_self" rel="referrer" title="Tutoriais de caso de uso">Tutoriais de caso de uso</a>
-                    </p>
-                    <p class="is-size-6">Saiba como equipes diferentes em sua organização podem se beneficiar do uso do Adobe Express</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/overview-express-use-case-tutorials" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+<table style="table-layout:fixed">
+<tr>
+   <td>
+      <a href="get-started.md">
+         <img alt="Introdução" src="assets/get-started.png" />
+      </a>
+      <div>
+          <a href="get-started.md"><strong>Introdução</strong></a>
+          </div>
+          <em>Saiba como navegar, usar ações rápidas e explorar milhares de modelos com design profissional</em>
+          <br>
+   </td>
+   <td>
+      <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks">
+         <img alt="Tarefas básicas" src="assets/basic-tasks.png" />
+      </a>
+      <div>
+          <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks"><strong>Tarefas básicas</strong></a>
+          </div>
+          <em>Saiba como criar conteúdo que realmente se destaque</em>
+        <br>
+   </td>
+   <td>
+      <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to?#animation">
+         <img alt="Animação" src="assets/animation.png" />
+      </a>
+      <div>
+          <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to?#animation"><strong>Animação</strong></a>
+          </div>
+          <em>Aprimore ainda mais seu conteúdo com animações personalizadas</em>
+        <br>
+   </td>
+   <td>
+      <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#advanced-tasks">
+         <img alt="Tarefas avançadas" src="assets/advanced-tasks.png" />
+      </a>
+      <div>
+          <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#advanced-tasks"><strong>Tarefas avançadas</strong></a>
+          </div>
+          <em>Aprofunde-se mais na Gen AI, na edição de PDF e mais</em>
+        <br>
+   </td>
+</tr>
+<tr>
+  <td>
+      <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#video">
+         <img alt="Vídeo" src="assets/video.png" />
+      </a>
+      <div>
+          <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#video"><strong>Vídeo</strong></a>
+          </div>
+          <em>Vídeo facilitado. Adicione vídeos e músicas do Adobe Stock para obter conteúdo que realmente se destaca</em>
+        <br>
+   </td>
+   <td>
+      <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#templates">
+         <img alt="Modelos" src="assets/templates.png" />
+      </a>
+      <div>
+          <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#templates"><strong>Modelos</strong></a>
+          </div>
+          <em>Saiba como oferecer consistência de marca, eficiência e economia de custos à sua organização</em>
+        <br>
+   </td>
+   <td>
+      <a href="overview-express-use-case-tutorials.md">
+         <img alt="Casos de uso" src="assets/use-case-tutorials.png" />
+      </a>
+      <div>
+          <a href="overview-express-use-case-tutorials.md"><strong>Casos de uso</strong></a>
+          </div>
+          <em>Saiba como equipes diferentes em sua organização podem se beneficiar do uso de Adobe Express</em>
+        <br>
+   </td>
+</tr>
+</table>
