@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14886
 exl-id: 7fd2e120-a797-466a-ab5e-1f6dfd8223a1
-source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -35,10 +35,10 @@ Saiba como salvar e compartilhar modelos em um kit de marca ou biblioteca para a
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="Maximizar a eficiência: criar modelos reutilizáveis" src="assets/create-template.png" />
+            <img alt="Maximizar a eficiência: criar um modelo reutilizável" src="assets/create-template.png" />
          </a>
          <div>
-         <a href="create-templates.md"><strong>Maximizar a eficiência: criar modelos reutilizáveis</strong></a>
+         <a href="create-templates.md"><strong>Maximizar a eficiência: criar um modelo reutilizável</strong></a>
          </div>
          <em>Saiba como oferecer consistência de marca, eficiência e economia de custos à sua organização com modelos</em>
          <br>

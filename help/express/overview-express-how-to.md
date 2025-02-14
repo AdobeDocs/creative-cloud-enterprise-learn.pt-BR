@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '362'
 ht-degree: 1%
 
 ---
@@ -366,10 +366,10 @@ Comece a criar trabalhos incríveis que se destacam com IA generativa desenvolvi
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="Maximizar a eficiência: criar modelos reutilizáveis" src="assets/create-template.png" />
+            <img alt="Maximizar a eficiência: criar um modelo reutilizável" src="assets/create-template.png" />
          </a>
          <div>
-         <a href="create-templates.md"><strong>Maximizar a eficiência: criar modelos reutilizáveis</strong></a>
+         <a href="create-templates.md"><strong>Maximizar a eficiência: criar um modelo reutilizável</strong></a>
          </div>
          <em>Saiba como oferecer consistência de marca, eficiência e economia de custos à sua organização com modelos</em>
          <br>
