@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: 4bcd3e57d397280cb0957a044c1468db9a203a24
+source-git-commit: 57b9844401cc8ba4f3ccdb1c5013129dfe77d859
 workflow-type: tm+mt
-source-wordcount: '1124'
+source-wordcount: '1126'
 ht-degree: 0%
 
 ---
@@ -116,6 +116,11 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
   {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_171503d937e79262529deabb4ac74f504bce2e143.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
 -->
+<!-- END CARDS -->
+<!-- END COMMENT -->
+
+## Tutoriais do Firefly
+
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Overview of Adobe Firefly">
@@ -964,4 +969,3 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-<!-- END CARDS -->
