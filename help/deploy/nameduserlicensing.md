@@ -22,7 +22,7 @@ Se sua organização não estiver em NUL e ainda estiver usando a implantação 
 
 ## Sobre o Licenciamento por usuário nomeado
 
-O [Licenciamento por Usuário Nomeado](https://helpx.adobe.com/enterprise/using/licensing.html) é um modelo de licenciamento de software que permite que o software seja atribuído a um indivíduo em vez de um número de série ou dispositivo. A NUL oferece aos administradores de TI segurança de nível corporativo com gerenciamento avançado de identidade de usuário e permite a implantação e o gerenciamento fáceis de aplicativos usando o Adobe Admin Console.
+O [Licenciamento por Usuário Nomeado](https://helpx.adobe.com/br/enterprise/using/licensing.html) é um modelo de licenciamento de software que permite que o software seja atribuído a um indivíduo em vez de um número de série ou dispositivo. A NUL oferece aos administradores de TI segurança de nível corporativo com gerenciamento avançado de identidade de usuário e permite a implantação e o gerenciamento fáceis de aplicativos usando o Adobe Admin Console.
 
 ## Benefícios do licenciamento por usuário nomeado:
 

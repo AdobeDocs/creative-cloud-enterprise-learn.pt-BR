@@ -63,7 +63,7 @@ Dan Armstrong, consultor de soluções (Mídia digital)
 
 **Recursos do Photoshop no iPad**
 
-[Aprendizagem e Suporte](https://helpx.adobe.com/support/photoshop.html) é o seu hub para tutoriais adicionais e links para fóruns da comunidade.
+[Aprendizagem e Suporte](https://helpx.adobe.com/br/support/photoshop.html) é o seu hub para tutoriais adicionais e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 

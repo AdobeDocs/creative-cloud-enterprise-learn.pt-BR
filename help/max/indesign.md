@@ -148,7 +148,7 @@ Patti Sokol, Consultor Principal de Soluções (Mídia Digital)
 
 **Recursos do InDesign**
 
-[Aprendizagem e Suporte](https://helpx.adobe.com/support/indesign.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html) e links para fóruns da comunidade.
+[Aprendizagem e Suporte](https://helpx.adobe.com/br/support/indesign.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/br/indesign/user-guide.html/indesign/using/whats-new.ug.html) e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 

@@ -34,7 +34,7 @@ As licenças por número de série associadas ao seu contrato ETLA estão dispon
 
 ### Verificar a data de expiração
 
-O [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) é um utilitário de linha de comando para administradores de TI para verificar se os produtos Adobe em um computador estão usando números de série que expiraram ou estão expirando. A ferramenta exibirá informações como o identificador da licença do produto (LEID), o número de série criptografado e a data de expiração. Esta [página](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) contém instruções sobre como baixar e usar a ferramenta em computadores Mac ou Windows.
+O [AdobeExpiryCheck](https://helpx.adobe.com/br/enterprise/kb/volume-license-expiration-check.html) é um utilitário de linha de comando para administradores de TI para verificar se os produtos Adobe em um computador estão usando números de série que expiraram ou estão expirando. A ferramenta exibirá informações como o identificador da licença do produto (LEID), o número de série criptografado e a data de expiração. Esta [página](https://helpx.adobe.com/br/enterprise/kb/volume-license-expiration-check.html) contém instruções sobre como baixar e usar a ferramenta em computadores Mac ou Windows.
 
 ## Entendendo a experiência do usuário final antes e depois da expiração do número de série
 
@@ -91,7 +91,7 @@ Para todas as tentativas subsequentes de iniciar o Acrobat, o usuário final ser
 
 ## Fale conosco se precisar de ajuda
 
-Se você tiver dúvidas sobre como usar a ferramenta [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) ou precisar de ajuda para migrar da implantação de número de série para um usuário nomeado, terá algumas opções:
+Se você tiver dúvidas sobre como usar a ferramenta [AdobeExpiryCheck](https://helpx.adobe.com/br/enterprise/kb/volume-license-expiration-check.html) ou precisar de ajuda para migrar da implantação de número de série para um usuário nomeado, terá algumas opções:
 * Enviar um email para a equipe de integração do Adobe Enterprise - **entonb@adobe.com**
 * Abrir um tíquete de suporte em [Admin Console](https://adminconsole.adobe.com/support)
 * Entre em contato com sua equipe de conta do Adobe
