@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Saiba mais sobre como usar o Preenchimento generativo fornecido pelo Adobe Firefly para adicionar e remover elementos de uma imagem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427020?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437837?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 ## Vídeos adicionais desta série
 

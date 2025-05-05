@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Saiba como acessar o histórico de versões e exibir e copiar versões anteriores de seus projetos. Marque pontos fundamentais no desenvolvimento para voltar facilmente a momentos específicos no progresso do projeto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426937?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438702?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 ## Vídeos adicionais desta série
 

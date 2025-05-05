@@ -19,4 +19,4 @@ Saiba como visualizar ideias rapidamente e explorar conceitos para campanhas emp
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3428827?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3452519?quality=12&learn=on&hidetitle=true&captions=por_br)

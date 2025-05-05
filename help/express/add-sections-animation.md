@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Eleve o nível da sua animação adicionando elementos como imagens e títulos a uma animação. Saiba como adicionar, duplicar, reorganizar ou substituir elementos em uma cena enquanto mantém as animações intactas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426982?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433925?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 ## Vídeos adicionais desta série
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Saiba como criar uma coleção de ativos de marca para criar designs consistentes e profissionais para sua empresa ou projetos pessoais. Um kit de marca é uma coleção de ativos de marca como logotipos, cores, fontes, gráficos e modelos. Eles podem ser criados do zero ou de uma biblioteca existente e compartilhados com colegas, que podem ter privilégios de edição ou exibição.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420218?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449370?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 ## Vídeos adicionais desta série
 

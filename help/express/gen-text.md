@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Saiba como criar designs impactantes usando efeitos de texto com o Adobe Firefly. Usando um prompt de texto, você pode gerar efeitos de texto extraordinários que podem ser refinados e embelezados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427021?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438818?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 ## Vídeos adicionais desta série
 

@@ -24,4 +24,4 @@ Saiba como criar, usar e compartilhar ativos de marca para seu grupo ou equipe u
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/335333?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449193?hidetitle=true&captions=por_br)

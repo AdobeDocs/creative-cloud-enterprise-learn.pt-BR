@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Saiba como ajustar as configurações das animações para melhorar a eficácia. Você pode editar a duração, a personalidade, a velocidade e a intensidade da animação para criar um efeito específico.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426977?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438526?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 ## Vídeos adicionais desta série
 

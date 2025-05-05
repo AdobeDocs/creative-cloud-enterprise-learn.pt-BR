@@ -19,4 +19,4 @@ Saiba como acelerar a criação de conteúdo com ferramentas geradas por IA no A
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3425036?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446242?quality=12&learn=on&hidetitle=true&captions=por_br)

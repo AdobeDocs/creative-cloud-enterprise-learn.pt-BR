@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Ações rápidas poupam tempo e fornecem ferramentas básicas de edição para o trabalho criativo diário. Exemplos de ações rápidas incluem mesclar e aparar vídeos, remover planos de fundo, redimensionar imagens e vídeos, converter vídeos em gifs e editar PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446304?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 ## Vídeos adicionais desta série
 

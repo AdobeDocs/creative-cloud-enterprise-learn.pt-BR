@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Saiba como criar projetos envolventes e memoráveis adicionando áudio. Você pode fazer upload de seus próprios arquivos de áudio ou escolher um áudio isento de royalties. Você também pode gravar narrações e ajustar o volume para áudio e narrações.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427092?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436849?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 ## Vídeos adicionais desta série
 

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Saiba como criar imagens envolventes para um curso de aprendizado online. Comece remixando um dos milhares de modelos com design profissional. Em seguida, adicione uma foto e use técnicas de edição para mesclá-la na composição antes de redimensionar e fornecer os visuais finais.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427122?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433936?quality=12&learn=on&hidetitle=true&captions=por_br)

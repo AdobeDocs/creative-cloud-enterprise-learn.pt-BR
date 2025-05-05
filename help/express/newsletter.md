@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Saiba como iniciar a criação de um boletim informativo procurando modelos de design profissional com palavras-chave. Depois de alterar o logotipo e a cópia do texto, você pode convidar colegas para colaborar e adicionar seu próprio conteúdo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427120?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439208?quality=12&learn=on&hidetitle=true&captions=por_br)

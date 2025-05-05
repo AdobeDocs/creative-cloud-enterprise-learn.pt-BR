@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Saiba como trabalhar com pranchetas e camadas em um projeto de design. Adicione, exclua, duplique, reordene e redimensione pranchetas para diferentes redes sociais. Você também pode alterar a ordem dos elementos na pilha de camadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420214?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447070?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 ## Vídeos adicionais desta série
 

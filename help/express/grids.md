@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Saiba como usar grades para criar colagens de fotos, quadros de humor e pôsteres atraentes. Há 40 layouts de grade diferentes disponíveis para você personalizar com suas próprias imagens ou fotos do Adobe Stock.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426934?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439997?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 ## Vídeos adicionais desta série
 

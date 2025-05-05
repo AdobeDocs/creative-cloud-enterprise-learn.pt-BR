@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Saiba como convidar pessoas para editar, publicar na Web, agendar uma publicação nas redes sociais ou baixar sua animação. O Adobe Express fornece recomendações para qual formato de arquivo exportar com base na sua situação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426985?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433958?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 ## Vídeos adicionais desta série
 

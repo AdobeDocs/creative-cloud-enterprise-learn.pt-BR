@@ -19,4 +19,4 @@ Saiba como usar o recurso Recolorir generativa, oferecido pelo Adobe Firefly, no
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420872?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3442072?quality=12&learn=on&hidetitle=true&captions=por_br)

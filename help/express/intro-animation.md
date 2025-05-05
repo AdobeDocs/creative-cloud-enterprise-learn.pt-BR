@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Saiba como adicionar animação a uma publicação em redes sociais para aumentar o envolvimento. Para acessar o painel de animação, selecione qualquer elemento na página, como uma imagem, e aplique vários tipos de animação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426975?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436590?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 ## Vídeos adicionais desta série
 

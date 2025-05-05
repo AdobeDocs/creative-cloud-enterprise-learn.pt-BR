@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Saiba como criar projetos envolventes e memoráveis adicionando áudio, incluindo arquivos de áudio isentos de royalties disponíveis na Express.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426983?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433914?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 ## Vídeos adicionais desta série
 

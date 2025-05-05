@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Explore milhares de modelos com design profissional para todas as suas necessidades de redes sociais e marketing. Os modelos oferecem uma maneira rápida de criar conteúdo personalizado fazendo remixes com suas próprias palavras e fotos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426927?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443542?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 ## Vídeos adicionais desta série
 

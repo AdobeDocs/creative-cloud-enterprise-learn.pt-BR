@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Saiba como criar conteúdo de marca de maneira rápida e eficiente em toda a organização. Este tutorial mostra como criar conteúdo novo de marca que pode ser compartilhado e localizado imediatamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427099?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436130?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 ## Vídeos adicionais desta série
 

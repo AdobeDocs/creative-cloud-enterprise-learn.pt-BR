@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Explore um mundo totalmente novo de desenho e pintura digital com o Adobe Fresco neste workshop prático de 15 minutos. Aprenda rapidamente a trabalhar com camadas e máscaras de corte para adequar a pintura e as texturas a uma forma de base. Acompanhe Chris Converse, designer/desenvolvedor, para recriar parte de uma ilustração de natureza morta usando Fresco e Adobe Stock.
 
->[!VIDEO](https://video.tv.adobe.com/v/333804?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417360?hidetitle=true&captions=por_br)
 
 <br> 
 

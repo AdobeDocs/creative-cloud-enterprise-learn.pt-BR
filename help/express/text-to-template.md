@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Saiba como gerar modelos editáveis para publicações em redes sociais, pôsteres, folhetos e cartões a partir de uma descrição de texto em segundos. Você pode editar o design, alterar as fontes e adicionar a marca ao projeto antes de baixá-lo ou compartilhá-lo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427022?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438125?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 ## Vídeos adicionais desta série
 

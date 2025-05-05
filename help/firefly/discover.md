@@ -19,4 +19,4 @@ Adobe Firefly Descubra o [futuro da criatividade](https://www.adobe.com/products
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427606?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436983?quality=12&learn=on&hidetitle=true&captions=por_br)

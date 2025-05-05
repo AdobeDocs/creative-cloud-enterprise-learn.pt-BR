@@ -19,4 +19,4 @@ Saiba mais sobre como usar o Preenchimento generativo com o Adobe Firefly no Ado
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420791?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444541?quality=12&learn=on&hidetitle=true&captions=por_br)
