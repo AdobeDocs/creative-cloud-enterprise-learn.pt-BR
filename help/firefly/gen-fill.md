@@ -19,4 +19,4 @@ Saiba como usar o Preenchimento generativo para adicionar, expandir ou remover c
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427609?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3473994?quality=12&learn=on&hidetitle=true&captions=por_br)
