@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: aebe14690cd3c13019ed593c7ca3ffe284b1354b
+source-git-commit: 52677453aa7f1d1efd92259f29036433430ca557
 workflow-type: tm+mt
-source-wordcount: '817'
+source-wordcount: '821'
 ht-degree: 5%
 
 ---
@@ -115,6 +115,7 @@ ht-degree: 5%
       + [Descobrir [!DNL Adobe Firefly]](firefly/discover.md)
       + [Acelere a ideação criativa](firefly/accelerate-ideas.md)
       + [Criar cenas reutilizáveis para mercadorias](firefly/reusable-scenes.md)
+      + [Criar um Modelo Personalizado](firefly/custom-model.md)
       + [Criar um Modelo Personalizado usando um assunto](firefly/custom-model-subject.md)
       + [Criar um modelo personalizado usando estilos](firefly/custom-model-style.md)
       + [Página de aterrisagem](firefly/landing-page.md)
