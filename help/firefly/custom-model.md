@@ -6,8 +6,8 @@ role: User
 level: Beginner
 jira: KT-19197
 index: false
-hide: true
-source-git-commit: 52677453aa7f1d1efd92259f29036433430ca557
+hidefromtoc: true
+source-git-commit: 021afe1407edaac712da957b590a3096658e87c5
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 1%
