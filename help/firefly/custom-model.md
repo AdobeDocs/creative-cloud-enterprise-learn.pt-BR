@@ -18,7 +18,7 @@ Saiba como treinar Modelos personalizados no Firefly para criar novas imagens pa
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3474936?quality=12&learn=on&hidetitle=true&captions=por_br)
 
 ## O que são modelos personalizados de Firefly
 
