@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 jira: KT-11640
 thumb: KT-11640.jpg
 exl-id: 3018dc2f-eb21-41e3-ac61-28021492080e
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 62675e7f3d07ffbdb5e431fe30d3467c3f4a2412
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ Saiba como adicionar comentários e compartilhar feedback sobre arquivos e pasta
 
 Selecione a imagem abaixo para ver ou baixar este tutorial do PDF.
 
-[![Primeira imagem de página do tutorial](assets/Collaboration-The-Future-of-Creativity.png){”width=680”}](assets/Collaboration-The-Future-of-Creativity.pdf){target="blank"}
+[![Primeira imagem de página do tutorial](assets/Collaboration-The-Future-of-Creativity.png){width="680"}](assets/Collaboration-The-Future-of-Creativity.pdf){target="blank"}

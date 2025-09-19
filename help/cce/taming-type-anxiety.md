@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 jira: KT-10963
 thumb: KT-10963.jpg
 exl-id: 376359d9-9eaf-4e8e-8b60-fae07fc69908
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 62675e7f3d07ffbdb5e431fe30d3467c3f4a2412
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ Entre as muitas vantagens de uma assinatura do Adobe Creative Cloud, está o ace
 
 Selecione a imagem abaixo para ver ou baixar este tutorial do PDF.
 
-[![Primeira imagem de página do tutorial](assets/TamingTypeAnxiety.png){”width=680”}](assets/Adobe-Fonts-Taming-Font-Anxiety.pdf){target="blank"}
+[![Primeira imagem de página do tutorial](assets/TamingTypeAnxiety.png){width="680"}](assets/Adobe-Fonts-Taming-Font-Anxiety.pdf){target="blank"}
