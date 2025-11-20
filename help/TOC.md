@@ -11,7 +11,7 @@ auto-video-transcripts: true
 source-git-commit: f60b915c0a289217dec46ca72659c015ae71aaef
 workflow-type: tm+mt
 source-wordcount: '808'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
@@ -135,7 +135,7 @@ ht-degree: 5%
    + [Visão geral](stock/overview-stock.md)
    + Tutoriais {#stocktutorials}
       + [Ativos digitais impressionantes](stock/stunning-digital-assets.md)
-      + [Pesquisar histórico de licenciamento de Adobe [!DNL Stock] &#x200B;](stock/searchstock.md)
+      + [Pesquisar histórico de licenciamento de Adobe [!DNL Stock] ](stock/searchstock.md)
       + [Adicionar uma estética desenhada à mão a imagens Adobe [!DNL Stock] nativas](stock/handdrawn.md)
       + [Adicionar estilo à tipografia com máscaras e animação](stock/flairtypography.md)
       + [Animar uma ilustração vetorial Adobe [!DNL Stock]  no Photoshop](stock/animatevector.md)
@@ -151,13 +151,13 @@ ht-degree: 5%
       + [Criar um configurador de produto interativo com Adobe [!DNL Stock]](stock/productconfigurator.md)
       + [Crie uma foto de turismo interativa com Adobe [!DNL Stock] e XD](stock/interactivetourismphoto.md)
       + [Criar animações para email com Adobe [!DNL Stock] e Photoshop](stock/animationemail.md)
-      + [Crie imagens de marca coesas com belos gradientes e ativos de Adobe [!DNL Stock] &#x200B;](stock/brandgradients.md)
+      + [Crie imagens de marca coesas com belos gradientes e ativos de Adobe [!DNL Stock] ](stock/brandgradients.md)
       + [Crie gráficos da Web envolventes combinando imagens Adobe [!DNL Stock] com CSS](stock/webgraphics.md)
       + [Crie quadros de humor inspiradores em um piscar de olhos com o Adobe [!DNL Stock]](stock/moodboard.md)
-      + [Crie composições de fotos realistas com imagens Adobe [!DNL Stock] &#x200B;](stock/realisticcomposite.md)
+      + [Crie composições de fotos realistas com imagens Adobe [!DNL Stock] ](stock/realisticcomposite.md)
       + [Personalize uma animação de tela de carregamento com Adobe [!DNL Stock] e XD](stock/loadingscreen.md)
       + [Personalize um modelo de apresentação do Adobe [!DNL Stock] para parecer profissional](stock/presentationtemplate.md)
-      + [Personalizar as cores em uma ilustração vetorial Adobe [!DNL Stock] &#x200B;](stock/customizecolors.md)
+      + [Personalizar as cores em uma ilustração vetorial Adobe [!DNL Stock] ](stock/customizecolors.md)
 + Adobe 3D e VR {#3doverview}
    + [Visão geral](3di/overview-3di.md)
    + Tutoriais {#3dtutorials}
@@ -165,7 +165,7 @@ ht-degree: 5%
       + [Dicas e técnicas para dominar a iluminação 3D na CGI](3di/mastering3dlighting.md)
       + [Criação de fotografia virtual realista com renderização e composição 3D](3di/photorealistic.md)
       + [Personalize e marque um modelo 3D com  [!DNL Dimension] e Adobe [!DNL Stock]](3di/3ddimensionstock.md)
-+ Vídeo Adobe {#videooverview}
++ Adobe Video {#videooverview}
    + [Visão geral](dva/overview-dva.md)
    + Tutoriais {#videotutorials}
       + [Modelos profissionais de animações](dva/motion-graphics-templates.md)
