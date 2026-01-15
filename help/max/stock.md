@@ -5,9 +5,9 @@ feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Os criativos estão sob pressão para fornecer rapidamente conteúdo novo e visu
     <div>
    <a href="stock.md#tutorial1"><strong>Encontre os melhores ativos mais rapidamente com o Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Encontre a imagem isenta de royalties perfeita para aprimorar seu projeto criativo usando resultados de pesquisa melhores e mais rápidos fornecidos pelo Adobe Sensei, nosso mecanismo de inteligência artificial</em>
+    <em>Encontre a imagem isenta de royalties perfeita para aprimorar seu projeto criativo usando resultados de pesquisa melhores e mais rápidos viabilizados por Adobe AI</em>
     <br>
   </td>
   <td>
@@ -54,9 +54,10 @@ Adobe Experience Manager</strong></a>
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
 **Descrição**
-Encontre a imagem perfeita e isenta de royalties para aprimorar seu projeto criativo usando resultados de pesquisa melhores e mais rápidos com o Adobe Sensei, nosso mecanismo de inteligência artificial.
+Encontre a imagem perfeita e isenta de royalties para aprimorar seu projeto criativo usando resultados de pesquisa melhores e mais rápidos com o Adobe AI.
 
 Neste tutorial, você aprenderá como:
+
 * Reserve um tempo e concentre-se em sua pesquisa por imagens e vídeos de alta qualidade
 * Gerencie e rastreie facilmente as licenças e o uso de ativos em toda a empresa
 * Pesquise, visualize e licencie diretamente nos aplicativos da Adobe Creative Cloud
@@ -65,7 +66,7 @@ Neste tutorial, você aprenderá como:
 
 Victoria Torres, Consultora de Soluções do [!DNL Stock] (Mídia digital)
 
-## Pesquisar e Licenciar [!DNL Stock] Ativos no AEM (6:46) {#tutorial2}
+## Pesquisar e licenciar [!DNL Stock] ativos no AEM (6:46) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
@@ -84,7 +85,7 @@ Logotipo ![[!DNL Stock]](../assets/st_appicon_96.png)
 
 **Adobe [!DNL Stock] Recursos**
 
-[Aprendizagem e Suporte](https://helpx.adobe.com/br/support/stock.html) é o seu hub para tutoriais adicionais e links para fóruns da comunidade.
+[Aprendizagem e Suporte](https://helpx.adobe.com/support/stock.html) é o seu hub para tutoriais adicionais e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 

@@ -5,9 +5,9 @@ feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -55,16 +55,16 @@ O Photoshop é o melhor software de criação de imagens e design gráfico do mu
 **Descrição**
 Use as poderosas ferramentas de seleção e edição de cores no Adobe Photoshop para alterar drasticamente uma imagem para corresponder às suas necessidades de marca corporativa.
 
-Neste tutorial, você aprenderá como:
+Neste tutorial, saiba como:
 * A Ferramenta Seleção de objeto torna a seleção de itens mais rápida e simples
 * O Preenchimento sensível ao conteúdo permite mais controle de áreas de amostra em uma imagem de origem para melhorar a clonagem e a aplicação de patches em áreas de destino
 * Os pincéis podem ter diferentes formas para obter melhores resultados
-* O Adobe Sensei ajuda a aproveitar a inteligência artificial para tarefas rotineiras
+* A IA do Adobe utiliza inteligência artificial para tarefas rotineiras
 
 **Apresentado por:**
 A.J Wood, Consultor Sênior de Soluções (Mídia Digital)
 
-## Selecionar e substituir o céu (2:16) {#tutorial2}
+## Selecionar e Substituir o Céu (2:16) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326953?hidetitle=true)
 
@@ -83,7 +83,7 @@ A.J Wood, Consultor Sênior de Soluções (Mídia Digital)
 
 **Recursos do Photoshop**
 
-[Aprendizagem e Suporte](https://helpx.adobe.com/br/support/photoshop.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/br/photoshop/using/whats-new.html) e links para fóruns da comunidade.
+[Aprendizagem e Suporte](https://helpx.adobe.com/support/photoshop.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/photoshop/using/whats-new.html) e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 

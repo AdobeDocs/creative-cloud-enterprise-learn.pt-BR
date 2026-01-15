@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 keywords: fotografia virtual, 100 Global MSV
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '2387'
+source-wordcount: '2376'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Essa técnica, de dispor camadas ou de “compor” modelos 3D em uma imagem ou 
 
 ![Editando o plano de um modelo de esfera metálica em um Adobe [!DNL Dimension] composto](assets/Photorealistic_3.png)
 
-O Adobe [!DNL Dimension] permitiu que os usuários combinassem facilmente elementos 2D e 3D diretamente no aplicativo usando a função de imagem de correspondência avançada do Adobe Sensei. O principal benefício de compor elementos desta forma é que ela melhora o processo de criação de uma imagem de aparência realista, substituindo uma cena 3D totalmente realizada por uma imagem de fundo, que pode ser capturada a partir da realidade.
+O Adobe [!DNL Dimension] permitiu que os usuários combinassem facilmente elementos 2D e 3D diretamente no aplicativo usando o Adobe AI. O principal benefício de compor elementos desta forma é que ela melhora o processo de criação de uma imagem de aparência realista, substituindo uma cena 3D totalmente realizada por uma imagem de fundo, que pode ser capturada a partir da realidade.
 
 ![O recurso Corresponder Imagem no Adobe [!DNL Dimension] analisa a imagem de fundo e estima a distância focal e a posição da câmera usada para capturá-la](assets/Photorealistic_4.gif)
 
@@ -38,7 +38,7 @@ Mas e tudo o que não foi capturado dentro do quadro da câmera?  O ambiente com
 
 ![Uma composição de imagem realista em 3D de uma motocicleta em uma sala de estar](assets/Photorealistic_5.png)
 
-O recurso Corresponder imagem tentará “imaginar” o ambiente de iluminação em que uma imagem de fundo foi tirada. Ele faz um trabalho impressionante que produzirá excelentes resultados rapidamente, mas capturar o ambiente e a imagem de fundo produz resultados ainda mais realistas. Esse é mesmo o método usado para treinar o recurso do Adobe Sensei para fazer isso sozinho.
+O recurso Corresponder imagem tentará “imaginar” o ambiente de iluminação em que uma imagem de fundo foi tirada. Ele faz um trabalho impressionante que produzirá excelentes resultados rapidamente, mas capturar o ambiente e a imagem de fundo produz resultados ainda mais realistas. Esse é mesmo o método usado para treinar a IA de Adobe.
 
 ![Uma panorâmica HDR em 360 graus do espaço de escritório](assets/Photorealistic_6.png)
 
