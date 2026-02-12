@@ -8,7 +8,7 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f60b915c0a289217dec46ca72659c015ae71aaef
+source-git-commit: c52f7a40d98aa5aef552a13bea2d3e5f5a89193e
 workflow-type: tm+mt
 source-wordcount: '808'
 ht-degree: 6%
@@ -175,7 +175,7 @@ ht-degree: 6%
 + Adobe XD {#xdoverview}
    + [Visão geral](xd/overview-xd.md)
    + Tutoriais {#xdtutorials}
-   + [Fique confortável com os [!UICONTROL Componentes] do Adobe XD](xd/components.md)
+      + [Fique confortável com os [!UICONTROL Componentes] do Adobe XD](xd/components.md)
 + Implantar e gerenciar {#deploy}
    + [Visão geral](deploy/overview-deploy.md)
    + [Expiração do número de série](deploy/cceserial.md)
