@@ -21,7 +21,7 @@ Olhando para as imagens acima, ninguém te julgaria se você dissesse que tudo o
 
 ![Uma cena do filme O Segredo do Abismo, de James Cameron, em que Mary Mastrantonio se aproxima para tocar o tentáculo de água em CGI](assets/Photorealistic_2.jpg)
 
-Essa técnica, de dispor camadas ou de “compor” modelos 3D em uma imagem ou vídeo, não é nova e, na verdade, suas origens remontam aos primeiros dias de efeitos visuais (já nos anos 1980). O que é novo e empolgante é que essa técnica se tornou uma ferramenta poderosa para usuários do [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html) e um novo fluxo de trabalho intrigante para fotógrafos.
+Essa técnica, de dispor camadas ou de “compor” modelos 3D em uma imagem ou vídeo, não é nova e, na verdade, suas origens remontam aos primeiros dias de efeitos visuais (já nos anos 1980). O que é novo e empolgante é que essa técnica se tornou uma ferramenta poderosa para usuários do [Adobe [!DNL Dimension]](https://www.adobe.com/br/products/dimension.html) e um novo fluxo de trabalho intrigante para fotógrafos.
 
 
 ## A tecnologia por trás da criação de imagens compostas no Adobe [!DNL Dimension]
@@ -58,7 +58,7 @@ Um dos aspectos mais importantes da captura eficaz desse tipo de conteúdo é ap
 
 ### Escolher um local
 
-Procure locais interessantes para o contexto e a iluminação. Ao considerar o contexto, pode ser útil imaginar o uso potencial de uma cena. Por exemplo, uma vista de uma estrada vazia poderia ser adicionada em um carro 3D enquanto uma vista de uma mesa em uma cafeteria poderia ser usada para [exibir embalagens](https://www.adobe.com/products/dimension/packaging-design-mockup.html) de produtos alimentícios.
+Procure locais interessantes para o contexto e a iluminação. Ao considerar o contexto, pode ser útil imaginar o uso potencial de uma cena. Por exemplo, uma vista de uma estrada vazia poderia ser adicionada em um carro 3D enquanto uma vista de uma mesa em uma cafeteria poderia ser usada para [exibir embalagens](https://www.adobe.com/br/products/dimension/packaging-design-mockup.html) de produtos alimentícios.
 
 ![4 cenas de local para uma fotografia virtual são contrastadas com as mesmas cenas com uma composição 3D](assets/Photorealistic_8.png)
 
