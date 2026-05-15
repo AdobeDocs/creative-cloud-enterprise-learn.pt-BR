@@ -5,9 +5,16 @@ feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
+TQID: https://experienceleague.adobe.com/d4119C3FBhupshY9ryrLLT2VtRPHDRqagPOXjI8HW4c
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2: id: b29e1156-4668-4c0c-84e3-9347e94225ed
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: 341
 ht-degree: 0%
 
 ---
@@ -59,7 +66,7 @@ Neste tutorial, saiba como:
 * A Ferramenta Seleção de objeto torna a seleção de itens mais rápida e simples
 * O Preenchimento sensível ao conteúdo permite mais controle de áreas de amostra em uma imagem de origem para melhorar a clonagem e a aplicação de patches em áreas de destino
 * Os pincéis podem ter diferentes formas para obter melhores resultados
-* A IA do Adobe utiliza inteligência artificial para tarefas rotineiras
+* A IA da Adobe aproveita a inteligência artificial para tarefas rotineiras
 
 **Apresentado por:**
 A.J Wood, Consultor Sênior de Soluções (Mídia Digital)
@@ -83,7 +90,7 @@ A.J Wood, Consultor Sênior de Soluções (Mídia Digital)
 
 **Recursos do Photoshop**
 
-[Aprendizagem e Suporte](https://helpx.adobe.com/br/support/photoshop.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/br/photoshop/using/whats-new.html) e links para fóruns da comunidade.
+[Aprendizagem e Suporte](https://helpx.adobe.com/support/photoshop.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/photoshop/using/whats-new.html) e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 

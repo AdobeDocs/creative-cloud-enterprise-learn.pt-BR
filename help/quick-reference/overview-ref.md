@@ -6,9 +6,15 @@ role: User
 level: Beginner, Intermediate
 jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+TQID: https://experienceleague.adobe.com/aY5x7jWyzTgckibWDj7BcdvqyZR1yy4GUQOikhFWQRA
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2: id: aaae4770-bc47-47c2-876b-1fbcb533c42aid: b29e1156-4668-4c0c-84e3-9347e94225edid: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '1190'
+source-wordcount: 1212
 ht-degree: 0%
 
 ---
@@ -96,7 +102,7 @@ Como um criador corporativo, você deve colaborar com equipes distribuídas, est
 </tr>
 </table>
 
-## Fonts
+## Fontes
 
 <table>
 <tr>
@@ -139,7 +145,7 @@ Como um criador corporativo, você deve colaborar com equipes distribuídas, est
     <div>
    <a href="Frescoworkshop.pdf" target="_blank"><strong>Experimente o Fresco no iPad (e iPhone) (PDF)</strong></a>
     </div>
-    <em>Explore um mundo totalmente novo de desenho e pintura digital com o Adobe Fresco neste workshop prático de 15 minutos</em>
+    <em>Explore um mundo totalmente novo de desenho e pintura digital com o Adobe Fresca neste workshop prático de 15 minutos</em>
     <br>
   </td>
   <td>
@@ -334,7 +340,7 @@ Como um criador corporativo, você deve colaborar com equipes distribuídas, est
     <div>
    <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf" target="_blank"><strong>Dicas para Criar Animação em Email com Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>Combine imagens estáticas e vídeos no Photoshop GIF para criar uma animação atraente para a sua campanha, adequada para uma ampla variedade de aplicativos de email de clientes</em>
+    <em>Combine imagens estáticas e vídeos no Photoshop para criar uma animação atraente para a sua campanha, adequada para uma ampla variedade de aplicativos de email de clientes</em>
     <br>
   </td>
   <td>

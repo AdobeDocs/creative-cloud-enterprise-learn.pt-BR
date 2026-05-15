@@ -5,9 +5,15 @@ feature: Vector Editing
 role: User
 level: Beginner, Intermediate
 exl-id: b1b8e424-7e08-42a6-b370-cfee1b76b036
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/kXIPWEkEr3wd57Xb5rSbNTBXzyf-sM5m5xcSL1LAg6Y
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2: id: aaae4770-bc47-47c2-876b-1fbcb533c42a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: 219
 ht-degree: 0%
 
 ---
@@ -61,7 +67,7 @@ Neste tutorial, você aprenderá como:
 **Apresentado por:**
 Patti Sokol, Consultor Principal de Soluções (Mídia Digital)
 
-## Alinhar texto e imagens com o ajuste de glifo (6:48) {#tutorial2}
+## Alinhar Texto e Imagens com Ajuste de Glifos (6:48) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326817?hidetitle=true)
 
@@ -78,7 +84,7 @@ Patti Sokol, Consultor Principal de Soluções (Mídia Digital)
 
 **Recursos do Illustrator**
 
-[Aprendizagem e Suporte](https://helpx.adobe.com/br/support/illustrator.html) é o seu hub para tutoriais adicionais e links para fóruns da comunidade.
+[Aprendizagem e Suporte](https://helpx.adobe.com/support/illustrator.html) é o seu hub para tutoriais adicionais e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 

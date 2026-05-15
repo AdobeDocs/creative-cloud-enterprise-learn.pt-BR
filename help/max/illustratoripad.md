@@ -5,9 +5,15 @@ feature: Vector Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 268b9891-77f6-4606-964c-343c443eafcb
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/puvDrfl-knDE-Pitqei79ZApcRROFWXCsHEPJ-afosQ
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2: id: aaae4770-bc47-47c2-876b-1fbcb533c42a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: 235
 ht-degree: 0%
 
 ---
@@ -63,7 +69,7 @@ Dave Weinberg, consultor sênior de soluções (mídia digital)
 
 **Recursos do Illustrator no iPad**
 
-[Aprendizagem e Suporte](https://helpx.adobe.com/br/support/illustrator.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/br/illustrator/using/whats-new/mobile-2021.html) e links para fóruns da comunidade.
+[Aprendizagem e Suporte](https://helpx.adobe.com/support/illustrator.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html) e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 

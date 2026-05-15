@@ -5,9 +5,13 @@ feature: Collaboration, Share, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/9wkX7D0IVInCzEFg6GNjZBb6deU28Xg76wdH6Ma8OVw
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: 624
 ht-degree: 0%
 
 ---
@@ -80,7 +84,7 @@ Com o Adobe Document Cloud, que inclui as principais soluções de PDF e assinat
 </tr>
 </table>
 
-## Início de uma Revisão compartilhada do Acrobat (3:49) {#tutorial1}
+## Iniciando uma Revisão Compartilhada do Acrobat (3:49) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326777?hidetitle=true)
 
@@ -116,7 +120,7 @@ Neste tutorial, você aprenderá como:
 Taylor Kobey, consultor de soluções (mídia digital)
 Emily Palmer, Consultora de soluções (Mídia digital)
 
-## Solicitar uma assinatura com o Adobe Sign (3:21) {#tutorial3}
+## Solicitar uma Assinatura com o Adobe Sign (3:21) {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326801?hidetitle=true)
 
@@ -129,7 +133,7 @@ Neste tutorial, você aprenderá como:
 **Apresentado por:**
 Rick Borstein, Gerente Sênior de Consultoria de Soluções (Mídia Digital)
 
-## Exibir menus no dispositivo móvel com o Liquid Mode (2:57) {#tutorial4}
+## Exibir Menus no Dispositivo Móvel com o Liquid Mode (2:57) {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327093?hidetitle=true)
 
@@ -144,7 +148,7 @@ Neste tutorial, você aprenderá como:
 **Apresentado por:**
 Emilie Enke, Consultora de soluções associadas (Mídia digital)
 
-## Digitalizar documentos em PDF a partir do seu telefone celular (5:53) {#tutorial5}
+## Digitalizar Documentos em PDF do Celular (5:53) {#tutorial5}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327094?hidetitle=true)
 
@@ -163,7 +167,7 @@ Emilie Enke, Consultora de soluções associadas (Mídia digital)
 
 **Recursos do Acrobat e do Adobe Sign**
 
-[Aprendizagem e Suporte](https://helpx.adobe.com/br/support/document-cloud.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/br/acrobat/using/whats-new.html) e links para fóruns da comunidade.
+[Aprendizagem e Suporte](https://helpx.adobe.com/support/document-cloud.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/acrobat/using/whats-new.html) e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 

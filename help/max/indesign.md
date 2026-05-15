@@ -5,9 +5,13 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/pKY2Rbu80CAU9iZU3rU4kbUzO8lBYaTvY2dr7UB8f4c
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: 435
 ht-degree: 0%
 
 ---
@@ -47,7 +51,7 @@ Revisão da nuvem" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
     </a>
     <div>
     <a href="indesign.md#tutorial3"><strong>Importar comentários de PDF de um documento 
-Revisão da nuvem</strong></a>
+Revisão na nuvem</strong></a>
     </div>
     <em>Importe comentários de um PDF diretamente para o InDesign e aplique rapidamente as alterações solicitadas</em>
     <br>
@@ -112,7 +116,7 @@ Neste tutorial, você aprenderá como:
 **Apresentado por:**
 Emily Palmer, Consultora de soluções (Mídia digital)
 
-## Importar comentários de PDF de uma revisão de Document Cloud (4:52) {#tutorial3}
+## Importar Comentários de PDF de uma Revisão de Document Cloud (4:52) {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326959?hidetitle=true)
 
@@ -130,7 +134,7 @@ Neste tutorial, você aprenderá como:
 **Apresentado por:**
 Michael Murphy, consultor sênior de soluções (mídia digital)
 
-## Adicionar arquivo de vídeo ao documento do InDesign (5:58) {#tutorial4}
+## Adicionar Arquivo de Vídeo ao Documento do InDesign (5:58) {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326757?hidetitle=true)
 
@@ -148,7 +152,7 @@ Patti Sokol, Consultor Principal de Soluções (Mídia Digital)
 
 **Recursos do InDesign**
 
-[Aprendizagem e Suporte](https://helpx.adobe.com/br/support/indesign.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/br/indesign/user-guide.html/indesign/using/whats-new.ug.html) e links para fóruns da comunidade.
+[Aprendizagem e Suporte](https://helpx.adobe.com/support/indesign.html) é o seu hub para tutoriais adicionais, [Novidades](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html) e links para fóruns da comunidade.
 
 **Versão de outubro de 2020**
 
