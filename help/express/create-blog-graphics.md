@@ -28,4 +28,4 @@ ht-degree: 5%
 
 Saiba como usar o recurso Texto para imagem do Adobe Firefly para criar conteúdo gráfico exclusivo para campanhas na Web, em blogs e redes sociais. Este tutorial usa o novo [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3422408?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441368?captions=por_br&quality=12&learn=on&hidetitle=true)

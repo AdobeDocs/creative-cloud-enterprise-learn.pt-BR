@@ -26,4 +26,4 @@ Saiba como criar cenas reutilizáveis para mercadorias, como bolsas e acessório
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3428765?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448472?captions=por_br&quality=12&learn=on&hidetitle=true)

@@ -30,4 +30,4 @@ Saiba como obter uma vantagem no desenvolvimento de conteúdo criativo para uma 
 
 Este tutorial usa o novo [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446165?captions=por_br&quality=12&learn=on&hidetitle=true)

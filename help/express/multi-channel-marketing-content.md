@@ -30,4 +30,4 @@ Saiba como as equipes de marketing de eventos podem criar conteúdo exclusivo pa
 
 Este tutorial usa o novo [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424446?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444984?captions=por_br&quality=12&learn=on&hidetitle=true)

@@ -30,4 +30,4 @@ Saiba como usar o Preenchimento generativo fornecido pelo Adobe Firefly no Adobe
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420537?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448539?captions=por_br&quality=12&learn=on&hidetitle=true)

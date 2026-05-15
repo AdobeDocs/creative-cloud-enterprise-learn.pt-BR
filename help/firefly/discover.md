@@ -26,4 +26,4 @@ Descubra o [futuro da criatividade](https://www.adobe.com/br/products/firefly/di
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427606?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436983?captions=por_br&quality=12&learn=on&hidetitle=true)

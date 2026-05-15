@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Saiba como navegar e ajustar a linha de tempo da animação. A linha do tempo é uma visualização geral de toda a animação, onde você pode visualizar e reduzir/estender a duração da animação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426978?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437606?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

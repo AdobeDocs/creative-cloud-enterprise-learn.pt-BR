@@ -30,4 +30,4 @@ Saiba como usar a Produção Criativa do [!DNL Firefly] para remover e/ou substi
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3472916?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3472924?captions=por_br&quality=12&learn=on&hidetitle=true)

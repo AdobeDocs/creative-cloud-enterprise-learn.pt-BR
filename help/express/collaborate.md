@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Saiba como colaborar com colegas em projetos criativos, incluindo convidá-los, definir permissões, resolver comentários e trabalhar no projeto simultaneamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420253?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439542?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

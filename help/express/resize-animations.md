@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Saiba como otimizar o tamanho da animação usando predefinições integradas para publicações em redes sociais, como o Instagram. Independentemente de como você redimensiona suas animações, as configurações são mantidas para que não seja necessário reconstruí-las.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426984?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437727?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

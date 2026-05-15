@@ -26,4 +26,4 @@ Saiba como criar texto exclusivo e inspirador para seus projetos usando prompts 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420829?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3432217?captions=por_br&quality=12&learn=on&hidetitle=true)

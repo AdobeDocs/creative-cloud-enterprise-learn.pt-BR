@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Saiba como criar planos de fundo envolventes para apresentações do PowerPoint. Usando o recurso texto para imagem do Adobe Firefly, você pode gerar uma imagem personalizada para sua apresentação e, em seguida, fazer outras alterações na imagem, aplicar efeitos e baixá-la para uso na apresentação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427117?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433980?captions=por_br&quality=12&learn=on&hidetitle=true)

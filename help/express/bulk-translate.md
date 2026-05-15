@@ -28,7 +28,7 @@ Saiba como criar variações de idioma dos seus projetos traduzindo automaticame
 >
 >É importante revisar a precisão das traduções antes de compartilhar ou baixar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427023?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438273?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

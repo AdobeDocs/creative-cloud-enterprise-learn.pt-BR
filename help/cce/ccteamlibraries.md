@@ -32,4 +32,4 @@ Saiba como compartilhar ativos em um grupo ou equipe usando as Bibliotecas da Cr
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/335325?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417356?captions=por_br&hidetitle=true)

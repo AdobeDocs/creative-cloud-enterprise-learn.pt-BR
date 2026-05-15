@@ -26,4 +26,4 @@ Saiba como criar uma imagem a partir de descrições de texto. [Gerar imagens](h
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427608?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447675?captions=por_br&quality=12&learn=on&hidetitle=true)

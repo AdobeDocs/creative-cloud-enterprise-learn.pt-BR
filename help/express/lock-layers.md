@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Saiba por que é importante bloquear vários elementos do seu modelo para que eles não possam ser alterados. Determinados elementos, como logotipos, não devem ser alterados para que possam ser bloqueados antes do compartilhamento do modelo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427095?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437072?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Saiba como criar um novo projeto a partir do zero usando um tamanho de tela específico, como uma publicação quadrada do Instagram.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441422?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 
