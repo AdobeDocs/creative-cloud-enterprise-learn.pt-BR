@@ -72,6 +72,6 @@ Todd Burke, Consultor principal de soluções (Mídia digital)
 
 **Recursos de Administração da Empresa:**
 
-[Guia do usuário do Adobe Fonts](https://helpx.adobe.com/fonts/user-guide.html)
+[Guia do usuário do Adobe Fonts](https://helpx.adobe.com/br/fonts/user-guide.html)
 
 [Guia do administrador corporativo](https://helpx.adobe.com/pt/enterprise/admin-guide.html)
