@@ -7,9 +7,12 @@ level: Beginner
 jira: KT-14837
 exl-id: 76a7b235-abb8-4a40-907a-2340a088e41b
 TQID: https://experienceleague.adobe.com/se4ihvvmwe1IYBqNFrxer5xOLWCsznHGew1xBZarLw8
-product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
 source-wordcount: 82
