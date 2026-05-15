@@ -1,29 +1,41 @@
 ---
-title: 'Visão geral do Adobe [!DNL Express] '
-description: Atualize-se no Adobe [!DNL Express]
+title: Visão Geral do Adobe [!DNL Express] Noun
+description: Atualize-se em Adobe [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-13380
 exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
-source-git-commit: 10dcd7a20e5f1e3fa649531559791e4dc804a7e5
+TQID: https://experienceleague.adobe.com/uaTsSqVykY6Cy2BBhgb0kbnjzTZxWchmnk8B-YTHcK0
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: 621
 ht-degree: 4%
 
 ---
 
 # Visão geral do Adobe [!DNL Express]
 
-TikTok Desenhe vídeos, folhetos, currículos, banners, logotipos e muito mais com o novo aplicativo completo Adobe Express para uma criação de conteúdo rápida e fácil. Projete um trabalho incrível que se destaca pelos recursos de IA generativa fornecidos pelo Adobe Firefly.
+Crie Reels e vídeos, folhetos, currículos, banners, logotipos do TikTok e muito mais com o novo aplicativo completo de Adobe Express para criar conteúdo com rapidez e facilidade. Crie um trabalho incrível que se destaque com recursos de IA generativa desenvolvidos por Adobe Firefly.
 
 ## Novidades
 
 >[!BEGINTABS]
 
->[!TAB Consistência de marca sem esforços com modelos]
+>[!TAB Consistência de marca sem esforço com modelos]
 
-Saiba como criar conteúdo sobre a marca de forma rápida e eficiente usando [modelos](use-templates.md) em toda a organização.
+Saiba como criar conteúdo de marca de maneira rápida e eficiente usando [modelos](use-templates.md) em toda a sua organização.
 
 >[!TAB Maximizar a eficiência: criar modelos reutilizáveis]
 
@@ -101,7 +113,7 @@ Saiba como oferecer consistência de marca, eficiência, profissionalismo e econ
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#getting-started" target="_self" rel="referrer" title="Introdução">Introdução</a>
                     </p>
-                    <p class="is-size-6">Saiba como navegar, usar ações rápidas e explorar milhares de modelos projetados profissionalmente</p>
+                    <p class="is-size-6">Saiba como navegar, usar ações rápidas e explorar milhares de modelos com design profissional</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#getting-started" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>
@@ -124,7 +136,7 @@ Saiba como oferecer consistência de marca, eficiência, profissionalismo e econ
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks" target="_self" rel="referrer" title="Tarefas básicas">Tarefas básicas</a>
                     </p>
-                    <p class="is-size-6">Saiba como criar conteúdo que realmente se destaque</p>
+                    <p class="is-size-6">Saiba como criar conteúdo que realmente se destaca</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#basic-tasks" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>

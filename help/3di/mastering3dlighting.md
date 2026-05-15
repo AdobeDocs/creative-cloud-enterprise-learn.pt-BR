@@ -6,9 +6,19 @@ role: User
 level: Beginner, Intermediate
 keywords: Iluminação 3D, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+TQID: https://experienceleague.adobe.com/CZbD3FV-y-j2LJMhRfGB13pTkcb9t7dETQmvIr-anwQ
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '2722'
+source-wordcount: 2754
 ht-degree: 0%
 
 ---
@@ -56,7 +66,7 @@ As luzes ambiente são imagens equirretangulares (esféricas), que são envolvid
 
 ![Exemplos de luzes ambiente feitas de fotos, uma cena de estúdio 3D e uma cena 3D abstrata](assets/Mastering3dlighting_5.jpg)
 
-Quando você cria uma nova cena em [[!DNL Dimension]](https://www.adobe.com/br/products/dimension.html), uma luz de ambiente padrão será criada. É por isso que você consegue imediatamente ver qualquer coisa na cena. Os Ativos Iniciais do Adobe [!DNL Dimension] incluem um determinado número de luzes ambiente, que você pode experimentar imediatamente. Além disso, o [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&amp;filters[3d_type_id][0]=2&amp;load_type=3d+lp) oferece uma enorme seleção com curadoria de luzes ambiente.
+Quando você cria uma nova cena em [[!DNL Dimension]](https://www.adobe.com/br/products/dimension.html), uma luz de ambiente padrão será criada. É por isso que você consegue imediatamente ver qualquer coisa na cena. Os Ativos Iniciais do Adobe [!DNL Dimension] incluem um determinado número de luzes ambiente, que você pode experimentar imediatamente. Além disso, o [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&filters[3d_type_id][0]=2&load_type=3d+lp) oferece uma enorme seleção com curadoria de luzes ambiente.
 
 As luzes do ambiente produzem resultados altamente realistas e podem poupar muito tempo. Para conseguir algo semelhante manualmente, você teria que criar todo o ambiente em 3D (incluindo várias fontes de luz), o que representa uma quantidade significativa de trabalho.
 

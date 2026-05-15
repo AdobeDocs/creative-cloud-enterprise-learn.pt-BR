@@ -1,20 +1,32 @@
 ---
 title: Fresco
-description: O Adobe Fresco é um aplicativo compatível com várias plataformas para criar desenhos e pinturas usando métodos baseados em pincel que combinam fluxos de trabalho vetoriais e rasterizados com documentos na nuvem
+description: O Adobe Fresca é um aplicativo compatível com várias plataformas para criar desenhos e pinturas usando métodos baseados em pincel que combinam fluxos de trabalho vetoriais e rasterizados com documentos na nuvem
 feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/2PEsjf-5wyIOoC1dvhfasq8MyDdClrbqFAeclc9gMQo
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: 337
 ht-degree: 0%
 
 ---
 
 # Fresco
 
-O Adobe Fresco é um aplicativo compatível com várias plataformas para criar desenhos e pinturas usando métodos baseados em pincel que combinam fluxos de trabalho vetoriais e rasterizados com documentos na nuvem.
+O Adobe Fresca é um aplicativo compatível com várias plataformas para criar desenhos e pinturas usando métodos baseados em pincel que combinam fluxos de trabalho vetoriais e rasterizados com documentos na nuvem.
 
 ## Procurar Tutorials de produtos
 
@@ -22,10 +34,10 @@ O Adobe Fresco é um aplicativo compatível com várias plataformas para criar d
 <tr>
  <td>
    <a href="fresco.md#tutorial1">
-      <img alt="Introdução ao desenho com o Adobe Fresco" src="../assets/fresco_drawingPaintingIntro_tanonis_thumbnail.jpg" />
+      <img alt="Introdução ao desenho com o Adobe Fresca" src="../assets/fresco_drawingPaintingIntro_tanonis_thumbnail.jpg" />
    </a>
     <div>
-   <a href="fresco.md#tutorial1"><strong>Introdução ao desenho com o Adobe Fresco</strong></a>
+   <a href="fresco.md#tutorial1"><strong>Introdução ao desenho com o Adobe Fresca</strong></a>
     </div>
     <em>Use as poderosas ferramentas de seleção e edição de cores do Adobe fresco para alterar drasticamente uma imagem para corresponder às suas necessidades de identidade corporativa</em>
     <br>
@@ -37,7 +49,7 @@ O Adobe Fresco é um aplicativo compatível com várias plataformas para criar d
     <div>
    <a href="fresco.md#tutorial2"><strong>Criar arte texturizada: Fresco para o Illustrator</strong></a>
     </div>
-    <em>Pinte e desenhe texturas no Adobe Fresco e aprenda a usá-las no Illustrator</em>
+    <em>Pinte e desenhe texturas no Adobe Fresca e aprenda a usá-las no Illustrator</em>
     <br>
   </td>
   <td>
@@ -48,12 +60,12 @@ O Adobe Fresco é um aplicativo compatível com várias plataformas para criar d
 </tr>
 </table>
 
-## Introdução ao desenho com o Adobe Fresco (19:07) {#tutorial1}
+## Introdução ao Desenho com o Adobe Fresca (19:07) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326946?hidetitle=true)
 
 **Descrição**
-Descubra o Adobe Fresco para criar desenhos e pinturas usando métodos baseados em pincel que combinam fluxos de trabalho vetoriais e rasterizados com documentos na nuvem.
+Descubra o Adobe Fresca para criar desenhos e pinturas usando métodos baseados em pincel que combinam fluxos de trabalho vetoriais e rasterizados com documentos na nuvem.
 
 Neste tutorial, você aprenderá como:
 * Use pincéis vivos exclusivos que imitam aquarela e tinta a óleo com os seus pincéis de pixel e de vetor favoritos
@@ -64,15 +76,15 @@ Neste tutorial, você aprenderá como:
 **Apresentado por:**
 Liz Tanonis, Consultora de soluções (mídia digital)
 
-## Criar arte texturizada — Fresco para o Illustrator (4:10) {#tutorial2}
+## Criar Arte Texturizada — Fresco para o Illustrator (4:10) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326947?hidetitle=true)
 
 **Descrição**
-Pinte e desenhe texturas no Adobe Fresco e aprenda a usá-las no Illustrator.
+Pinte e desenhe texturas no Adobe Fresca e aprenda a usá-las no Illustrator.
 
 Neste tutorial, você aprenderá como:
-* Crie ilustrações no aplicativo da Adobe Fresco para iPhone e exporte-o para usar em outros aplicativos Creative Cloud
+* Crie ilustrações no aplicativo da Adobe Fresca para iPhone e exporte-o para usar em outros aplicativos Creative Cloud
 * Use a ferramenta Traçado de imagem no Illustrator para converter ilustrações em vetores
 * Aplicar texturas feitas à mão à arte vetorial no Illustrator
 

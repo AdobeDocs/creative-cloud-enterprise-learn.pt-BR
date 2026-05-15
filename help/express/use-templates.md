@@ -6,9 +6,18 @@ role: User
 level: Beginner
 jira: KT-14887
 exl-id: 00b8d83a-630f-48a1-a87f-c6f43ad5f992
-source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
+TQID: https://experienceleague.adobe.com/EBugSKauNkk7tEBQJXkB1XncrDz5lLUGAuMnrzcJXwk
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: 133
 ht-degree: 0%
 
 ---
@@ -17,7 +26,7 @@ ht-degree: 0%
 
 Saiba como criar conteúdo de marca de maneira rápida e eficiente em toda a organização. Este tutorial mostra como criar conteúdo novo de marca que pode ser compartilhado e localizado imediatamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3436130?quality=12&learn=on&hidetitle=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3436130?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

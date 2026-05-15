@@ -1,13 +1,23 @@
 ---
 title: InDesign Server
-description: O software de servidor Adobe Adobe&reg; InDesign&reg; oferece um mecanismo robusto e escalável que aproveita o design, o layout e os recursos tipográficos do InDesign para permitir que você crie programaticamente documentos automatizados envolventes
+description: O software de servidor Adobe Adobe&reg; InDesign&reg; oferece um mecanismo robusto e escalonável que aproveita o design, o layout e os recursos tipográficos do InDesign para permitir que você crie programaticamente documentos automatizados envolventes
 feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/HAo866TVRBBSKgzQunMvpXxY8XqUZXEmsT4-aIk4vXQ
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: 278
 ht-degree: 0%
 
 ---
@@ -43,7 +53,7 @@ O software de servidor Adobe InDesign® oferece um mecanismo robusto e escaloná
 </tr>
 </table>
 
-## Conteúdo do InDesign Server orientado por dados (4:14) {#tutorial1}
+## Conteúdo de InDesign Server Orientado por Dados (4:14) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326901?hidetitle=true)
 

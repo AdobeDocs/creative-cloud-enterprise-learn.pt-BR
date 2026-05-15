@@ -6,9 +6,20 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: 10dcd7a20e5f1e3fa649531559791e4dc804a7e5
+TQID: https://experienceleague.adobe.com/AU9Jo3DbpwkvZK1RfP3-0pD3aCCp0vBJ6o9L61pJdGI
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '1286'
+source-wordcount: 1286
 ht-degree: 0%
 
 ---
@@ -161,7 +172,7 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/discover" target="_self" rel="referrer" title="Descobrir Adobe Firefly">Descobrir Adobe Firefly</a>
                     </p>
-                    <p class="is-size-6">Adobe Firefly Descubra o futuro da criatividade com IA generativa</p>
+                    <p class="is-size-6">Descubra o futuro da criatividade com IA generativa</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/discover" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exibir tutorial</span>
@@ -173,8 +184,8 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production" title="Produção do Creative" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_1c848099a48b90bf2a35c472811b7d634960fe6cb.webp?width=400&format=webply&optimize=medium" alt="Produção do Creative"
+                    <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production" title="Produção criativa" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/media_1c848099a48b90bf2a35c472811b7d634960fe6cb.webp?width=400&format=webply&optimize=medium" alt="Produção criativa"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -182,9 +193,9 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production" target="_self" rel="referrer" title="Produção do Creative">Produção do Creative</a>
+                        <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production" target="_self" rel="referrer" title="Produção criativa">Produção criativa</a>
                     </p>
-                    <p class="is-size-6">Saiba como a produção do Firefly Creative facilita a substituição de planos de fundo, cortes e correção de cores em milhares de arquivos</p>
+                    <p class="is-size-6">Saiba como a produção criativa do Firefly facilita a substituição de fundos, cortes e correções de cores em milhares de arquivos</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>
@@ -207,7 +218,7 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas" target="_self" rel="referrer" title="Acelere a ideação criativa">Acelere a ideação criativa</a>
                     </p>
-                    <p class="is-size-6">Saiba como visualizar ideias rapidamente e explorar conceitos para campanhas comerciais</p>
+                    <p class="is-size-6">Saiba como visualizar ideias rapidamente e explorar conceitos para campanhas de negócios</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exibir tutorial</span>
@@ -228,7 +239,7 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes" target="_self" rel="referrer" title="Criar cenas reutilizáveis para mercadorias">Criar cenas reutilizáveis para mercadoria</a>
+                        <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes" target="_self" rel="referrer" title="Criar cenas reutilizáveis para mercadorias">Criar cenas reutilizáveis para mercadorias</a>
                     </p>
                     <p class="is-size-6">Saiba como criar cenas reutilizáveis para mercadorias, como bolsas e acessórios</p>
                 </div>
@@ -242,8 +253,8 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" title="Criar um modelo personalizado" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474936?captions=por_br&quality=12&hidetitle=true&format=jpeg&nocache=1758117649719" alt="Criar um modelo personalizado"
+                    <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" title="Criar um Modelo Personalizado" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474936?captions=por_br&quality=12&hidetitle=true&format=jpeg&nocache=1758117649719" alt="Criar um Modelo Personalizado"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -251,9 +262,9 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" target="_self" rel="referrer" title="Criar um modelo personalizado">Criar um Modelo Personalizado</a>
+                        <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" target="_self" rel="referrer" title="Criar um Modelo Personalizado">Criar um Modelo Personalizado</a>
                     </p>
-                    <p class="is-size-6">Saiba como treinar Modelos personalizados no Firefly para criar novas imagens para a marca da sua organização</p>
+                    <p class="is-size-6">Saiba como treinar modelos personalizados no Firefly para criar novas imagens para a marca da sua organização</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exibir tutorial</span>
@@ -265,8 +276,8 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/landing-page" title="Landing page" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_1205aba1c139f9f8f7a31defc1e9c72abced77e9e.png?width=400&format=webply&optimize=medium" alt="Landing page"
+                    <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/landing-page" title="Página de aterrisagem" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_1205aba1c139f9f8f7a31defc1e9c72abced77e9e.png?width=400&format=webply&optimize=medium" alt="Página de aterrisagem"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -274,7 +285,7 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/landing-page" target="_self" rel="referrer" title="Landing page">Página de aterrissagem</a>
+                        <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/landing-page" target="_self" rel="referrer" title="Página de aterrisagem">Página de aterrissagem</a>
                     </p>
                     <p class="is-size-6">Saiba como começar a usar o Adobe Firefly em firefly.adobe.com.</p>
                 </div>

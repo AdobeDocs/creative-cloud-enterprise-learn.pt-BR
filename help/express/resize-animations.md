@@ -6,9 +6,16 @@ role: User
 level: Beginner
 jira: KT-14838
 exl-id: 9b13b1c3-1868-4b53-82bf-2cfb0d657891
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+TQID: https://experienceleague.adobe.com/81oaKeYCi-mB6zBYLOFLrpocLUfTL9XHL56PYYHnvHE
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: 97
 ht-degree: 0%
 
 ---
@@ -17,7 +24,7 @@ ht-degree: 0%
 
 Saiba como otimizar o tamanho da animação usando predefinições integradas para publicações em redes sociais, como o Instagram. Independentemente de como você redimensiona suas animações, as configurações são mantidas para que não seja necessário reconstruí-las.
 
->[!VIDEO](https://video.tv.adobe.com/v/3437727?quality=12&learn=on&hidetitle=true&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3437727?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

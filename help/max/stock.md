@@ -5,9 +5,20 @@ feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
+TQID: https://experienceleague.adobe.com/OO15ggOXFGIVvTH96F-dTOek9zhYq64kOVne2jE4KSk
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: da3860b0-d637-47df-bef0-273751180266
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: 330
 ht-degree: 0%
 
 ---
@@ -27,7 +38,7 @@ Os criativos estão sob pressão para fornecer rapidamente conteúdo novo e visu
     <div>
    <a href="stock.md#tutorial1"><strong>Encontre os melhores ativos mais rapidamente com o Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Encontre a imagem isenta de royalties perfeita para aprimorar seu projeto criativo usando resultados de pesquisa melhores e mais rápidos viabilizados por Adobe AI</em>
+    <em>Encontre a imagem isenta de royalties perfeita para aprimorar seu projeto criativo usando resultados de pesquisa melhores e mais rápidos fornecidos pela IA do Adobe</em>
     <br>
   </td>
   <td>
@@ -54,7 +65,7 @@ Adobe Experience Manager</strong></a>
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
 **Descrição**
-Encontre a imagem perfeita e isenta de royalties para aprimorar seu projeto criativo usando resultados de pesquisa melhores e mais rápidos com o Adobe AI.
+Encontre a imagem perfeita e isenta de royalties para aprimorar seu projeto criativo usando resultados de pesquisa melhores e mais rápidos fornecidos pela IA da Adobe.
 
 Neste tutorial, você aprenderá como:
 
@@ -71,7 +82,7 @@ Victoria Torres, Consultora de Soluções do [!DNL Stock] (Mídia digital)
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
 **Descrição**
-Simplifique o processo de upload dos ativos do Adobe [!DNL Stock] licenciados para o sistema de Gerenciamento de Ativos Digitais.
+Simplifique o processo de carregar os ativos do Adobe [!DNL Stock] licenciados no sistema de Gerenciamento de Ativos Digitais.
 
 Neste tutorial, você aprenderá como:
 * Executar a pesquisa de ativos do Adobe [!DNL Stock] sem sair do espaço de trabalho AEM
