@@ -3,7 +3,8 @@ cloud: Creative Cloud
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/creative-cloud-enterprise-learn.en
 solution: Creative Cloud
-product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
 usetq: true
 index: true
 source-git-commit: 6acd8c52fe7492e09cf3972ab14209827355c845
