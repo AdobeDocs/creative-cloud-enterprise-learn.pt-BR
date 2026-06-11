@@ -6,11 +6,19 @@ role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
 TQID: https://experienceleague.adobe.com/r0Wb24k8et-PY1rHi-CNF2RffU-BPT4ibtmckgf5A7g
-product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
-feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
-subfeature_v2: id: aaae4770-bc47-47c2-876b-1fbcb533c42aid: b29e1156-4668-4c0c-84e3-9347e94225edid: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2:
+  - id: aaae4770-bc47-47c2-876b-1fbcb533c42a
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+  - id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: 7827e1a6f74707ab792f72ab9ff692f756831313
 workflow-type: tm+mt
 source-wordcount: 512
