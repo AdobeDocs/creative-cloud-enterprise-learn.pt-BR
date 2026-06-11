@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c52f7a40d98aa5aef552a13bea2d3e5f5a89193e
+source-git-commit: 71056d443a4a6b29978d55211ea961c6aee2ebe4
 workflow-type: tm+mt
-source-wordcount: '808'
-ht-degree: 6%
+source-wordcount: '761'
+ht-degree: 4%
 
 ---
 
@@ -165,7 +165,7 @@ ht-degree: 6%
       + [Dicas e técnicas para dominar a iluminação 3D na CGI](3di/mastering3dlighting.md)
       + [Criação de fotografia virtual realista com renderização e composição 3D](3di/photorealistic.md)
       + [Personalize e marque um modelo 3D com  [!DNL Dimension] e Adobe [!DNL Stock]](3di/3ddimensionstock.md)
-+ Adobe Video {#videooverview}
++ Vídeo Adobe {#videooverview}
    + [Visão geral](dva/overview-dva.md)
    + Tutoriais {#videotutorials}
       + [Modelos profissionais de animações](dva/motion-graphics-templates.md)
@@ -180,29 +180,3 @@ ht-degree: 6%
    + [Visão geral](deploy/overview-deploy.md)
    + [Expiração do número de série](deploy/cceserial.md)
    + [Licenciamento por usuário nomeado](deploy/nameduserlicensing.md)
-+ Adobe MAX {#max}
-   + [Visão geral](max/overview-max.md)
-   + Tutoriais {#tutorials}
-      + [Visão geral](max/maxtutorials.md)
-      + Produtos para desktop {#desktop-products}
-         + [Acrobat e Sign](max/acrobat-sign.md)
-         + [[!DNL Dimension]](max/dimension.md)
-         + [Illustrator](max/illustrator.md)
-         + [InDesign](max/indesign.md)
-         + [Photoshop](max/photoshop.md)
-         + [[!DNL Rush]](max/rush.md)
-         + [XD](max/xd.md)
-      + Aplicativos móveis {#mobile-apps}
-         + [[!DNL Capture]](max/capture.md)
-         + [Fresco](max/fresco.md)
-         + [Illustrator no iPad](max/illustratoripad.md)
-         + [Photoshop no iPad](max/photoshopipad.md)
-      + Integrações {#integrations}
-         + [AEM](max/aem.md)
-         + [Aplicativo de desktop da Creative Cloud](max/creativeclouddesktopapp.md)
-         + [Bibliotecas da CC](max/cclibraries.md)
-         + [InDesign Server](max/indesignserver.md)
-         + [[!DNL Stock]](max/stock.md)
-         + [Administração corporativa](max/enterprise.md)
-      + Projeto prático {#project}
-         + [Crie sua própria máscara facial](max/handsonproject.md)
