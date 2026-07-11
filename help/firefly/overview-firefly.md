@@ -17,16 +17,16 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+source-git-commit: 667608382c7de46bf14136c4591c5d2384333129
 workflow-type: tm+mt
-source-wordcount: 1286
+source-wordcount: 1907
 ht-degree: 0%
 
 ---
 
 # Visão geral do Adobe [!DNL Firefly]
 
-Firefly é a nova família de modelos criativos de IA generativa que estão chegando aos produtos Adobe, com foco inicialmente na geração de efeitos de imagem e texto. O Firefly oferece novas maneiras de idealizar, criar e se comunicar, além de melhorar significativamente os fluxos de trabalho criativos.
+Firefly é uma família de modelos criativos de IA generativa em produtos Adobe, focados na geração de imagens e efeitos de texto. O Firefly oferece novas maneiras de idealizar, criar e se comunicar, além de melhorar significativamente os fluxos de trabalho criativos.
 
 ## Tutoriais do Firefly
 
@@ -153,7 +153,7 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/overview-of-firefly" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exibir tutorial</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -176,7 +176,7 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/discover" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exibir tutorial</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -199,7 +199,7 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/overview-firefly-creative-production" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -222,7 +222,7 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exibir tutorial</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -245,7 +245,7 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exibir tutorial</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -268,7 +268,7 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exibir tutorial</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -291,7 +291,7 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/landing-page" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exibir tutorial</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -314,7 +314,7 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-to-image" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exibir tutorial</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -337,7 +337,7 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exibir tutorial</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -360,7 +360,7 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-fill" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exibir tutorial</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -383,7 +383,7 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-recolor" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exibir tutorial</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -406,7 +406,7 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/examples" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -429,7 +429,7 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exibir tutorial</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -452,7 +452,7 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exibir tutorial</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -475,7 +475,7 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exibir tutorial</span>
-                </a>
+                
             </div>
         </div>
     </div>
@@ -498,7 +498,7 @@ Firefly é a nova família de modelos criativos de IA generativa que estão cheg
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exibir tutorial</span>
-                </a>
+                
             </div>
         </div>
     </div>

@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 71056d443a4a6b29978d55211ea961c6aee2ebe4
+source-git-commit: 5bbcac38cff2c03e96c6342e49de07231c173d9c
 workflow-type: tm+mt
-source-wordcount: '761'
+source-wordcount: '782'
 ht-degree: 4%
 
 ---
@@ -129,6 +129,13 @@ ht-degree: 4%
    + Tutoriais de produção criativa {#firefly-creative-production}
       + [Visão geral da [!DNL Adobe Firefly] Produção Criativa](firefly/creative-production/overview-firefly-creative-production.md)
       + [Remoção e substituição de plano de fundo](firefly/creative-production/background.md)
+   + Tutoriais do Graph {#firefly-graph}
+      + [Visão geral do  [!DNL Adobe Firefly Graph]](firefly/graph/overview-firefly-graph.md)
+      + [O que é o Firefly Graph?](firefly/graph/what-is-firefly-graph.md)
+      + [Conceitos principais do Firefly Graph](firefly/graph/key-concepts.md)
+      + [Crie seu primeiro gráfico](firefly/graph/create-your-first-graph.md)
+      + [Personalizar um modelo](firefly/graph/customize-template.md)
+      + [Biblioteca de modelos](firefly/graph/template-library.md)
    + Webinários {#firefly-webinars}
       + [Experimentar com Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
