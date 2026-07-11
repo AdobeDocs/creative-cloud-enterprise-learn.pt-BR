@@ -254,7 +254,7 @@ Firefly é uma família de modelos criativos de IA generativa em produtos Adobe,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" title="Criar um Modelo Personalizado" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474931?quality=12&hidetitle=true&format=jpeg&nocache=1758117649719" alt="Criar um Modelo Personalizado"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474936?captions=por_br&quality=12&hidetitle=true&format=jpeg&nocache=1758117649719" alt="Criar um Modelo Personalizado"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -323,7 +323,7 @@ Firefly é uma família de modelos criativos de IA generativa em produtos Adobe,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects" title="Efeitos de texto" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420829?quality=12&hidetitle=true&format=jpeg&nocache=1758117649937" alt="Efeitos de texto"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432217?captions=por_br&quality=12&hidetitle=true&format=jpeg&nocache=1758117649937" alt="Efeitos de texto"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
