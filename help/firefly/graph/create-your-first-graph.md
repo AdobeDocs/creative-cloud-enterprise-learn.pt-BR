@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 595c941c757c6b87e779ba406136d62c0172c3a0
+source-git-commit: 4dd919a2b06f0852dc0010b0f79d5a0b2eae4c1a
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '193'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,10 @@ Este é um nó que permite importar um gráfico.
    ![Nó com imagem](../assets/node-image.png)
 1. Clique com o botão direito na tela em branco e selecione **+ novo nó** e selecione **Máscara de Gradiente** na caixa de diálogo.
 1. Clique com o botão direito na tela em branco e selecione **+ novo nó** e selecione **Aplicar máscara** na caixa de diálogo.
+1. Conecte a saída do nó **Imagem de entrada** à entrada do nó de imagem **Aplicar máscara**.
+1. Conecte a saída da **Máscara de gradiente** à entrada de canal/máscara **Aplicar máscara**.
+   ![Nós de plug-in](../assets/plug-in.png)
 
 ## Próxima etapa
 
-Começando com um modelo? Vá para [4. Personalize um modelo &#x200B;](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que ele reflita seu próprio resumo.
+Começando com um modelo? Vá para [4. Personalize um modelo ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que ele reflita seu próprio resumo.
