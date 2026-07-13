@@ -24,4 +24,4 @@ Assim que souber o que são um nó, uma conexão e um modelo, você estará pron
 
 ## Próxima etapa
 
-Deseja começar com um modelo? Vá para [4. Biblioteca de modelos](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que ela reflita seu próprio resumo.
+Deseja começar com um modelo? Vá para [4. Biblioteca de modelos](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que ela reflita seu próprio resumo.
