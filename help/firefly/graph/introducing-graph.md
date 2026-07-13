@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-21970
 hide: true
 hidefromtoc: true
-source-git-commit: 886df44d056da6185d73fb5ad8a85c4454479bed
+source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -20,4 +20,4 @@ Neste webinar, saiba mais sobre o gráfico de sistema de fluxo de trabalho visua
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3492626?captions=por_br&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492621?quality=12&learn=on&hidetitle=true)
