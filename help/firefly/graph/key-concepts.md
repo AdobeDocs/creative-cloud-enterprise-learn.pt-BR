@@ -1,5 +1,5 @@
 ---
-title: Firefly Graph Key Concepts
+title: 2. Firefly Graph Key Concepts
 description: As quatro ideias que abrangem o modelo mental do Firefly Graph - nó, conexão, fluxo de trabalho e modelo
 feature: Image Editing, Gen AI
 role: User
@@ -7,16 +7,18 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
-# Conceitos principais do Firefly Graph
+# &#x200B;2. Conceitos principais do Firefly Graph
 
 Quatro ideias abrangem o modelo mental que você precisa para começar a usar o Firefly Graph.
+
+![Principais conceitos](../assets/concepts.png)
 
 ## Um nó
 
@@ -25,10 +27,6 @@ Um nó executa uma etapa no fluxo de trabalho — um nó, um trabalho. Um nó po
 ## Uma conexão
 
 Uma conexão transporta uma entrada ou saída entre dois nós. Um gráfico lê da esquerda para a direita, da entrada de origem para a saída final.
-
-## Um fluxo de trabalho (ou gráfico)
-
-Um fluxo de trabalho, ou gráfico, é a cadeia completa de nós conectados — da primeira entrada à saída final. Depois de criada, ela pode ser executada, refinada, salva e compartilhada.
 
 ## Um modelo
 
@@ -40,4 +38,4 @@ O gráfico é flexível por design. Essa flexibilidade significa que vale a pena
 
 ## Próxima etapa
 
-Pronto para construir algo? Passe para [Criar seu primeiro gráfico](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) para um passo a passo.
+Pronto para construir algo? Vá para [3. Crie seu primeiro gráfico](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) para um passo a passo.
