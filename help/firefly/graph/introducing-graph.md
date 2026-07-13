@@ -20,4 +20,4 @@ Neste webinar, saiba mais sobre o gráfico de sistema de fluxo de trabalho visua
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3492621?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492626?captions=por_br&quality=12&learn=on&hidetitle=true)
