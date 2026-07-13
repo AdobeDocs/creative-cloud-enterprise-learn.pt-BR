@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 52158ed3c024133a9a0d59537a774285d64dce1d
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '74'
 ht-degree: 2%
 
 ---
 
-# &#x200B;3. Crie seu primeiro gráfico
+# &#x200B;3. Criar seu primeiro gráfico
 
 Assim que souber o que são um nó, uma conexão e um modelo, você estará pronto para criar seu primeiro fluxo de trabalho.
 
@@ -24,4 +24,4 @@ Assim que souber o que são um nó, uma conexão e um modelo, você estará pron
 
 ## Próxima etapa
 
-Deseja começar com um modelo? Vá para [4. Personalize um modelo &#x200B;](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que ele reflita seu próprio resumo.
+Deseja começar com um modelo? Vá para [4. Biblioteca de modelos](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que ela reflita seu próprio resumo.
