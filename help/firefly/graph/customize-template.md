@@ -26,4 +26,4 @@ Cada modelo é fornecido com entradas de amostra e um caso de uso genérico. Ele
 
 ## Próxima etapa
 
-Não tem certeza de qual modelo iniciar? Navegue pela [biblioteca de modelos](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library) para encontrar uma próxima ao seu caso de uso.
+Não tem certeza de qual modelo iniciar? Navegue pela [biblioteca de modelos](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library) para encontrar uma próxima ao seu caso de uso.
