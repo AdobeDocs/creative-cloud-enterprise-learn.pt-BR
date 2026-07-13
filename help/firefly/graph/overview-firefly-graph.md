@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: eaa388c2919c505dc2148b1d09705d2109a995c1
+source-git-commit: f940c165582a647204f888b9181d9b2a152b13bf
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Se você já usou uma ferramenta de IA generativa antes, provavelmente está aco
 <tr>
  <td>
    <a href="what-is-firefly-graph.md">
-      <img alt="Bandeja de doce" src="../assets/graph-1.png" />
+      <img alt="Frasco de maquiagem" src="../assets/graph-1.png" />
    </a>
     <div>
    <a href="what-is-firefly-graph.md"><strong>O que é o Firefly Graph?</strong></a>
@@ -36,7 +36,7 @@ Se você já usou uma ferramenta de IA generativa antes, provavelmente está aco
   </td>
   <td>
    <a href="key-concepts.md">
-      <img alt="Origami" src="../assets/graph-2.png" />
+      <img alt="Frasco de maquiagem com fundo" src="../assets/graph-2.png" />
    </a>
     <div>
    <a href="key-concepts.md"><strong>Principais conceitos</strong></a>
@@ -46,7 +46,7 @@ Se você já usou uma ferramenta de IA generativa antes, provavelmente está aco
   </td>
   <td>
    <a href="create-your-first-graph.md">
-      <img alt="Frasco de maquiagem" src="../assets/graph-3.png" />
+      <img alt="Maquiagem jar novo fundo" src="../assets/graph-3.png" />
    </a>
     <div>
    <a href="create-your-first-graph.md"><strong>Criar seu primeiro gráfico</strong></a>
@@ -56,7 +56,7 @@ Se você já usou uma ferramenta de IA generativa antes, provavelmente está aco
   </td>
   <td>
    <a href="customize-template.md">
-      <img alt="Abelhas" src="../assets/graph-4.png" />
+      <img alt="Fundo diferente do frasco de maquiagem" src="../assets/graph-4.png" />
    </a>
     <div>
    <a href="customize-template.md"><strong>Personalizar um modelo</strong></a>
@@ -68,7 +68,7 @@ Se você já usou uma ferramenta de IA generativa antes, provavelmente está aco
 <tr>
  <td>
    <a href="template-library.md">
-      <img alt="Livro digital" src="../assets/graph-5.png" />
+      <img alt="Frasco de maquiagem com fundo final" src="../assets/graph-5.png" />
    </a>
     <div>
    <a href="template-library.md"><strong>Biblioteca de modelos</strong></a>
