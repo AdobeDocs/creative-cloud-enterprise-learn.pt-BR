@@ -31,4 +31,4 @@ Este é um nó que permite importar um gráfico.
 
 ## Próxima etapa
 
-Começando com um modelo? Vá para [4. Personalize um modelo ](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que ele reflita seu próprio resumo.
+Começando com um modelo? Vá para [4. Personalize um modelo &#x200B;](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que ele reflita seu próprio resumo.
