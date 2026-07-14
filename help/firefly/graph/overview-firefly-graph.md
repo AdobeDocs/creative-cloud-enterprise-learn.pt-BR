@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
+source-git-commit: de7e3db24f81f38010a9a7ec7d470db9f8cc5299
 workflow-type: tm+mt
-source-wordcount: '244'
-ht-degree: 2%
+source-wordcount: '227'
+ht-degree: 1%
 
 ---
 
@@ -52,25 +52,16 @@ Se você já usou uma ferramenta de IA generativa antes, provavelmente está aco
     
   </td>
   <td>
-   <a href="template-library.md">
-      <img alt="Frasco de maquiagem com fundo final" src="../assets/graph-5.png" />
-   </a>
-    <div>
-   <a href="template-library.md"><strong>4. Biblioteca de modelos</strong></a></div>
-    <em>Procure todos os modelos, com uma descrição e um link para cada</em>
-    
-  </td>
-</tr>
-<tr>
-  <td>
    <a href="customize-template.md">
       <img alt="Fundo diferente do frasco de maquiagem" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>5. Personalizar um modelo</strong></a></div>
+   <a href="customize-template.md"><strong>4. Personalizar um modelo</strong></a></div>
     <em>Fazer com que um modelo reflita sua própria ideia inicial</em>
     
   </td>
+</tr>
+<tr>
   <td>
    <a href="introducing-graph.md">
       <img alt="Caixa de chocolates" src="../assets/graph-introducing.png" />
@@ -80,6 +71,11 @@ Se você já usou uma ferramenta de IA generativa antes, provavelmente está aco
     </div>
     <em>Neste webinário, saiba tudo sobre o gráfico do sistema de fluxo de trabalho visual Firefly</em>
     
+  </td>
+  <td>
+    <img alt="Espaçador" src="../../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
   </td>
   <td>
     <img alt="Espaçador" src="../../assets/Gray_thumbnail.png" />
