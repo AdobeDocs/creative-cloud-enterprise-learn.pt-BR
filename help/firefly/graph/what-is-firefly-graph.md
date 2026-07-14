@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: d31d8b492c7f86f6369b88f8940dd752bd535e20
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 1%
+source-wordcount: '316'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ A maioria das ferramentas de IA generativa fornece uma saída de um prompt. Se o
 
 O Firefly gráfico funciona de forma diferente. Em vez de um único prompt, crie um **gráfico**: um fluxo de trabalho visual, passo a passo, no qual todas as entradas, transformações e saídas são capturadas juntas. Mude uma etapa e execute-a novamente — você não reconstrói a cadeia inteira. Cada etapa é um nó visível que sua equipe pode inspecionar, ajustar e entregar intacto.
 
-![Captura de tela do Visual Graph](../assets/what-is-1.png)
+![Captura de tela do Visual Graph](../assets/what-is-1.png){align="center"}
 
 Resumindo, o Gráfico não substitui o seu processo criativo, ele transforma esse processo em algo que você pode ver, reutilizar e dimensionar.
 
@@ -41,3 +41,5 @@ Essa é a mudança: o mesmo trabalho, mas cada decisão ao longo do caminho é a
 ## Próxima etapa
 
 Quando estiver familiarizado com a ideia, passe para [2. Principais conceitos: nós, conexões e modelos](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) para aprender o vocabulário que você usará para criar um gráfico.
+
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

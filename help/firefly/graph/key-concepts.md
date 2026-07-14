@@ -1,41 +1,43 @@
 ---
 title: 2. Firefly Graph Key Concepts
-description: As quatro ideias que abrangem o modelo mental do Firefly Graph - nó, conexão, fluxo de trabalho e modelo
+description: Conheça os principais conceitos para começar a usar o Firefly Graph
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: e0b6ded8af7d895674af4b060087f2be00e76e6f
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 0%
+source-wordcount: '217'
+ht-degree: 1%
 
 ---
 
 # &#x200B;2. Conceitos principais do Firefly Graph
 
-Quatro ideias abrangem o modelo mental que você precisa para começar a usar o Firefly Graph.
+Conheça os principais conceitos para começar a usar o Firefly Graph.
 
-![Principais conceitos](../assets/concepts.png)
+![Principais conceitos](../assets/concepts.png){align="center"}
 
-## Um nó
+## Nó
 
 Um nó executa uma etapa no fluxo de trabalho — um nó, um trabalho. Um nó pode gerar uma imagem, aplicar uma máscara, mudar de cor ou executar qualquer outra ação criativa.
 
-## Uma conexão
+## Conexão
 
 Uma conexão transporta uma entrada ou saída entre dois nós. Um gráfico lê da esquerda para a direita, da entrada de origem para a saída final.
 
-## Um modelo
+## Modelo
 
 Um modelo é um gráfico que alguém já criou. Começar a partir de um modelo remove a tela em branco e oferece um ponto de partida de trabalho para se adaptar ao seu próprio resumo.
 
 ## Por que isso é importante antes de criar
 
-O gráfico é flexível por design. Essa flexibilidade significa que vale a pena ser específica sobre o resultado e o fluxo de trabalho que você deseja *antes* de começar a criar. É isso que torna os modelos e a biblioteca de nós fáceis de apontar para o trabalho certo.
+O gráfico é flexível por design. Essa flexibilidade significa que vale a pena ser específica sobre o resultado e o fluxo de trabalho que você deseja *antes* de começar a criar.
 
 ## Próxima etapa
 
 Pronto para construir algo? Vá para [3. Crie seu primeiro gráfico](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) para um passo a passo.
+
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
