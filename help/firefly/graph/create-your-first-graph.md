@@ -29,4 +29,4 @@ Arquivos de amostra para acompanhar (ZIP, 1,45 MB)
 
 ## Próxima etapa
 
-Deseja começar com um modelo? Vá para [4. Personalize um modelo &#x200B;](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que ele reflita seu próprio resumo.
+Deseja começar com um modelo? Vá para [4. Personalize um modelo &#x200B;](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que ele reflita seu próprio resumo.
