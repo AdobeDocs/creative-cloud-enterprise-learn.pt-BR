@@ -6,8 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-hidefromtoc: true
-source-git-commit: d31d8b492c7f86f6369b88f8940dd752bd535e20
+source-git-commit: a7178ae1f1b0f3887863103fbf41f17dce0de911
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -40,6 +39,6 @@ Essa é a mudança: o mesmo trabalho, mas cada decisão ao longo do caminho é a
 
 ## Próxima etapa
 
-Quando estiver familiarizado com a ideia, passe para [2. Principais conceitos: nós, conexões e modelos](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) para aprender o vocabulário que você usará para criar um gráfico.
+Quando estiver familiarizado com a ideia, passe para [2. Principais conceitos: nós, conexões e modelos](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) para aprender o vocabulário que você usará para criar um gráfico.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
