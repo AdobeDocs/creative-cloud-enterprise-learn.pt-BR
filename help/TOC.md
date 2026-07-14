@@ -129,7 +129,7 @@ ht-degree: 3%
    + Tutoriais de produção criativa {#firefly-creative-production}
       + [Visão geral da [!DNL Adobe Firefly] Produção Criativa](firefly/creative-production/overview-firefly-creative-production.md)
       + [Remoção e substituição de plano de fundo](firefly/creative-production/background.md)
-   + Tutoriais do gráfico {hide-from-toc} {#firefly-graph}
+   + {hide-from-toc}Tutoriais do gráfico  {#firefly-graph}
       + {hide-from-toc}[Visão Geral do Adobe Firefly Graph](firefly/graph/overview-firefly-graph.md)
       + {hide-from-toc}[O que é o Firefly Graph?](firefly/graph/what-is-firefly-graph.md)
       + {hide-from-toc}[Conceitos-chave do Firefly Graph](firefly/graph/key-concepts.md)
@@ -142,7 +142,7 @@ ht-degree: 3%
    + [Visão geral](stock/overview-stock.md)
    + Tutoriais {#stocktutorials}
       + [Ativos digitais impressionantes](stock/stunning-digital-assets.md)
-      + [Pesquisar histórico de licenciamento de Adobe [!DNL Stock] ](stock/searchstock.md)
+      + [Pesquisar histórico de licenciamento de Adobe [!DNL Stock] &#x200B;](stock/searchstock.md)
       + [Adicionar uma estética desenhada à mão a imagens Adobe [!DNL Stock] nativas](stock/handdrawn.md)
       + [Adicionar estilo à tipografia com máscaras e animação](stock/flairtypography.md)
       + [Animar uma ilustração vetorial Adobe [!DNL Stock]  no Photoshop](stock/animatevector.md)
@@ -158,13 +158,13 @@ ht-degree: 3%
       + [Criar um configurador de produto interativo com Adobe [!DNL Stock]](stock/productconfigurator.md)
       + [Crie uma foto de turismo interativa com Adobe [!DNL Stock] e XD](stock/interactivetourismphoto.md)
       + [Criar animações para email com Adobe [!DNL Stock] e Photoshop](stock/animationemail.md)
-      + [Crie imagens de marca coesas com belos gradientes e ativos de Adobe [!DNL Stock] ](stock/brandgradients.md)
+      + [Crie imagens de marca coesas com belos gradientes e ativos de Adobe [!DNL Stock] &#x200B;](stock/brandgradients.md)
       + [Crie gráficos da Web envolventes combinando imagens Adobe [!DNL Stock] com CSS](stock/webgraphics.md)
       + [Crie quadros de humor inspiradores em um piscar de olhos com o Adobe [!DNL Stock]](stock/moodboard.md)
-      + [Crie composições de fotos realistas com imagens Adobe [!DNL Stock] ](stock/realisticcomposite.md)
+      + [Crie composições de fotos realistas com imagens Adobe [!DNL Stock] &#x200B;](stock/realisticcomposite.md)
       + [Personalize uma animação de tela de carregamento com Adobe [!DNL Stock] e XD](stock/loadingscreen.md)
       + [Personalize um modelo de apresentação do Adobe [!DNL Stock] para parecer profissional](stock/presentationtemplate.md)
-      + [Personalizar as cores em uma ilustração vetorial Adobe [!DNL Stock] ](stock/customizecolors.md)
+      + [Personalizar as cores em uma ilustração vetorial Adobe [!DNL Stock] &#x200B;](stock/customizecolors.md)
 + Adobe 3D e VR {#3doverview}
    + [Visão geral](3di/overview-3di.md)
    + Tutoriais {#3dtutorials}
