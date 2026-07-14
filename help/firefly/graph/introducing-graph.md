@@ -22,4 +22,4 @@ Neste webinar, saiba mais sobre o gráfico de sistema de fluxo de trabalho visua
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492621?quality=12&learn=on&hidetitle=true)
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
