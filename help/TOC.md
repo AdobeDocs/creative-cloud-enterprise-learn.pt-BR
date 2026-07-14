@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 5bbcac38cff2c03e96c6342e49de07231c173d9c
+source-git-commit: 719a2d0ed899fc0ebec604802f5480085c67df7b
 workflow-type: tm+mt
-source-wordcount: '782'
-ht-degree: 4%
+source-wordcount: '789'
+ht-degree: 3%
 
 ---
 
@@ -129,13 +129,14 @@ ht-degree: 4%
    + Tutoriais de produção criativa {#firefly-creative-production}
       + [Visão geral da [!DNL Adobe Firefly] Produção Criativa](firefly/creative-production/overview-firefly-creative-production.md)
       + [Remoção e substituição de plano de fundo](firefly/creative-production/background.md)
-   + Tutoriais do Graph {#firefly-graph}
-      + [Visão geral do  [!DNL Adobe Firefly Graph]](firefly/graph/overview-firefly-graph.md)
-      + [O que é o Firefly Graph?](firefly/graph/what-is-firefly-graph.md)
-      + [Conceitos principais do Firefly Graph](firefly/graph/key-concepts.md)
-      + [Crie seu primeiro gráfico](firefly/graph/create-your-first-graph.md)
-      + [Personalizar um modelo](firefly/graph/customize-template.md)
-      + [Biblioteca de modelos](firefly/graph/template-library.md)
+   + {hide-from-toc}Tutoriais do gráfico  {#firefly-graph}
+      + {hide-from-toc}[Visão Geral do Adobe Firefly Graph](firefly/graph/overview-firefly-graph.md)
+      + {hide-from-toc}[O que é o Firefly Graph?](firefly/graph/what-is-firefly-graph.md)
+      + {hide-from-toc}[Conceitos-chave do Firefly Graph](firefly/graph/key-concepts.md)
+      + {hide-from-toc}[Criar seu primeiro gráfico](firefly/graph/create-your-first-graph.md)
+      + {hide-from-toc}[Personalizar um modelo](firefly/graph/customize-template.md)
+      + {hide-from-toc}[Biblioteca de modelos](firefly/graph/template-library.md)
+      + {hide-from-toc}[Apresentando o webinário do Firefly Graph](firefly/graph/introducing-graph.md)
    + Webinários {#firefly-webinars}
       + [Experimentar com Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}

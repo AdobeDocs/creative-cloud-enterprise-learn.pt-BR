@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 886df44d056da6185d73fb5ad8a85c4454479bed
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 2%
@@ -52,23 +52,23 @@ Se você já usou uma ferramenta de IA generativa antes, provavelmente está aco
     
   </td>
   <td>
-   <a href="customize-template.md">
-      <img alt="Fundo diferente do frasco de maquiagem" src="../assets/graph-4.png" />
-   </a>
-    <div>
-   <a href="customize-template.md"><strong>4. Personalizar um modelo</strong></a></div>
-    <em>Fazer com que um modelo reflita sua própria ideia inicial</em>
-    
-  </td>
-</tr>
-<tr>
- <td>
    <a href="template-library.md">
       <img alt="Frasco de maquiagem com fundo final" src="../assets/graph-5.png" />
    </a>
     <div>
-   <a href="template-library.md"><strong>5. Biblioteca de modelos</strong></a></div>
+   <a href="template-library.md"><strong>4. Biblioteca de modelos</strong></a></div>
     <em>Procure todos os modelos, com uma descrição e um link para cada</em>
+    
+  </td>
+</tr>
+<tr>
+  <td>
+   <a href="customize-template.md">
+      <img alt="Fundo diferente do frasco de maquiagem" src="../assets/graph-4.png" />
+   </a>
+    <div>
+   <a href="customize-template.md"><strong>5. Personalizar um modelo</strong></a></div>
+    <em>Fazer com que um modelo reflita sua própria ideia inicial</em>
     
   </td>
   <td>
