@@ -4,9 +4,9 @@ description: Saiba como um gráfico se compara a um único prompt e por que cada
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22055
 hide: true
-source-git-commit: a7178ae1f1b0f3887863103fbf41f17dce0de911
+source-git-commit: 718629560ca93a30b61ef0599dcb978a65e69135
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -19,7 +19,7 @@ A maioria das ferramentas de IA generativa fornece uma saída de um prompt. Se o
 
 O Firefly gráfico funciona de forma diferente. Em vez de um único prompt, crie um **gráfico**: um fluxo de trabalho visual, passo a passo, no qual todas as entradas, transformações e saídas são capturadas juntas. Mude uma etapa e execute-a novamente — você não reconstrói a cadeia inteira. Cada etapa é um nó visível que sua equipe pode inspecionar, ajustar e entregar intacto.
 
-![Captura de tela do Visual Graph](../assets/what-is-1.png){align="center"}
+![Captura de tela do Visual Graph](../assets/graph.png){align="center"}
 
 Resumindo, o Gráfico não substitui o seu processo criativo, ele transforma esse processo em algo que você pode ver, reutilizar e dimensionar.
 
@@ -39,6 +39,6 @@ Essa é a mudança: o mesmo trabalho, mas cada decisão ao longo do caminho é a
 
 ## Próxima etapa
 
-Quando estiver familiarizado com a ideia, passe para [2. Principais conceitos: nós, conexões e modelos](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) para aprender o vocabulário que você usará para criar um gráfico.
+Quando estiver familiarizado com a ideia, passe para [2. Principais conceitos: nós, conexões e modelos](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) para aprender o vocabulário que você usará para criar um gráfico.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
