@@ -4,12 +4,12 @@ description: Conheça os principais conceitos para começar a usar o Firefly Gra
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22053
 hide: true
-source-git-commit: a7178ae1f1b0f3887863103fbf41f17dce0de911
+source-git-commit: 17cd1dad0b66c7d6bc041252863a4dfbae692076
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 1%
+source-wordcount: '240'
+ht-degree: 0%
 
 ---
 
@@ -17,23 +17,35 @@ ht-degree: 1%
 
 Conheça os principais conceitos para começar a usar o Firefly Graph.
 
-![Principais conceitos](../assets/concepts.png){align="center"}
-
 ## Nó
 
 Um nó executa uma etapa no fluxo de trabalho — um nó, um trabalho. Um nó pode gerar uma imagem, aplicar uma máscara, mudar de cor ou executar qualquer outra ação criativa.
+
+![Nó](../assets/node.png){align="center"}
+
+## Porta
+
+Os pontos de conexão em um nó. As portas de saída transmitem dados de um nó; as portas de entrada recebem dados recebidos. Conectar portas é o modo como os dados fluem através do fluxo de trabalho.
+
+![Porta](../assets/port.png){align="center"}
+
+## Widget
+
+Os controles interativos em um nó, como campos de texto, listas suspensas e controles deslizantes, que permitem definir suas configurações diretamente no editor.
+
+![Widget](../assets/widget.png){align="center"}
 
 ## Conexão
 
 Uma conexão transporta uma entrada ou saída entre dois nós. Um gráfico lê da esquerda para a direita, da entrada de origem para a saída final.
 
-## Modelo
+![Conexão](../assets/connection.png){align="center"}
 
-Um modelo é um gráfico que alguém já criou. Começar a partir de um modelo remove a tela em branco e oferece um ponto de partida de trabalho para se adaptar ao seu próprio resumo.
+## Gráfico
 
-## Por que isso é importante antes de criar
+O fluxo de trabalho completo que você cria no editor. Um gráfico é composto por nós e conexões organizadas na tela para produzir uma saída final.
 
-O gráfico é flexível por design. Essa flexibilidade significa que vale a pena ser específica sobre o resultado e o fluxo de trabalho que você deseja *antes* de começar a criar.
+![Gráfico](../assets/graph.png){align="center"}
 
 ## Próxima etapa
 

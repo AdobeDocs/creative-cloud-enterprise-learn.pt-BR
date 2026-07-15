@@ -4,12 +4,12 @@ description: Um passo a passo para criar seu primeiro gráfico de Firefly
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22054
 hide: true
 hidefromtoc: true
-source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
+source-git-commit: 68283426ada0fc12630e61d3e4441bf11531816c
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '107'
 ht-degree: 1%
 
 ---
@@ -29,6 +29,6 @@ Arquivos de amostra para acompanhar (ZIP, 1,45 MB)
 
 ## Próxima etapa
 
-Deseja começar com um modelo? Vá para [4. Personalize um modelo &#x200B;](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) para que ele reflita seu próprio resumo.
+Vá para [4. Compartilhar um gráfico com outras pessoas](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/share-a-graph) compartilhe seu gráfico com outras pessoas.
 
 Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
