@@ -25,7 +25,7 @@ Arquivos de amostra para acompanhar (ZIP, 1,45 MB)
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3495912?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3495916?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Próxima etapa
 
