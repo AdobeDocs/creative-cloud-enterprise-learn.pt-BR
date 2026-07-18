@@ -29,6 +29,6 @@ Arquivos de amostra para acompanhar (ZIP, 1,45 MB)
 
 ## Próxima etapa
 
-Vá para [4. Compartilhar um gráfico com outras pessoas](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/share-a-graph) compartilhe seu gráfico com outras pessoas.
+Vá para [4. Compartilhar um gráfico com outras pessoas](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/share-a-graph) compartilhe seu gráfico com outras pessoas.
 
 Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
