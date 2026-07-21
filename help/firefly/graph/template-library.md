@@ -25,4 +25,4 @@ Um índice de referência rápida de modelos de Firefly, organizado pelo que cad
 * [**Extração de estilo**](/help/firefly/graph/templates/style-extraction.md) — feed em uma imagem de referência aprovada. O nó de estilo extrai seu tratamento de cor, luz e textura e, em seguida, aplica esse tratamento a qualquer nova imagem executada no mesmo gráfico.
 * [**Vibrações do pôr do sol**](/help/firefly/graph/templates/sunset-vibes.md) — saiba como criar uma imagem tipográfica 3D com a palavra “Vibe” em um prompt de texto. O modelo manipula o posicionamento e o equilíbrio de cores automaticamente.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
