@@ -3,9 +3,9 @@ title: Camadas compostas e de mesclagem
 description: Saiba como empilhar um recorte de arestas do produto e uma cena de fundo como entradas de camada separadas
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22101
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
@@ -29,4 +29,4 @@ grupo de fotos para um local.
 * **Varejo** - Combine um recorte de produto em um plano de fundo de estilo de vida sazonal para um banner de página inicial.
 * **Viagem** - Componha um plano de fundo de destino atrás de uma foto de produto para uma promoção de marca conjunta.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

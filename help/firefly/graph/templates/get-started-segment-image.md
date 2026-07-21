@@ -4,9 +4,9 @@ description: Saiba como isolar o objeto do seu plano de fundo
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22100
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Saiba como carregar qualquer imagem de origem e executar o nó de segmentação 
 * **Varejo** - Isole uma roupa de uma foto de estilo de vida para criar uma imagem limpa de catálogo somente de produtos.
 * **Automotivo** - Corte um veículo para fora de uma tomada de local para colocá-lo contra um plano de fundo de estúdio para impressão.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

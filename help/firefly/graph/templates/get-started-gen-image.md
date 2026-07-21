@@ -4,9 +4,9 @@ description: Saiba como criar um gráfico básico - um nó de prompt em um nó d
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22096
 hide: true
-source-git-commit: bab6c055a00501f11e18fd80af7afcaf555a3694
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 1%
@@ -30,4 +30,4 @@ Saiba como criar um gráfico básico: um nó de prompt em um nó de geração em
 * **Instituições de ensino** - Crie uma primeira imagem de amostra para demonstrar o gráfico aos novos membros da equipe antes de atribuir um trabalho de projeto real.
 
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

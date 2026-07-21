@@ -4,9 +4,9 @@ description: Saiba como alterar o estilo a partir de uma imagem de referência q
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22098
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Saiba como se alimentar de uma imagem de referência para extrair sua cor, luz e
 * **Varejo** - Extraia a aparência aprovada de um diretor de arte de uma foto principal e aplique-a à fotografia de produto de uma temporada inteira.
 * **Bebidas** - corresponda as novas embalagens renderizadas ao clima de uma foto de campanha premiada.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

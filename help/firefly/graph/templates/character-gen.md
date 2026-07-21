@@ -4,9 +4,9 @@ description: Saiba como gerar uma referência de caractere consistente enquanto 
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22097
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Saiba como carregar uma imagem de referência do personagem e, em seguida, troca
 * **Varejo** - mantenha um personagem de marca em dezenas de fotos de produtos sazonais e publicações em redes sociais.
 * **Instituições de ensino** - mantenha um personagem instrutor animado consistente em todos os vídeos de aula de um curso.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
