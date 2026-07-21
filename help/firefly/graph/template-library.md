@@ -36,4 +36,4 @@ Um índice de referência rápida de modelos de Firefly, organizado pelo que cad
 * [**Introdução - Geração de vídeo**](/help/firefly/graph/templates/get-started-video-gen.md) — saiba como alimentar a arte estática e um prompt de animação curto aprovados. O modelo gera um corte de vídeo criado a partir dessa mesma arte principal em vez de uma nova tomada.
 * [**Bullet Time VFX**](/help/firefly/graph/templates/bullet-time-vfx.md) — Saiba como alimentar um produto ou imagem de assunto herói para gerar uma sequência giratória de ângulos ao redor dele e costurar a varredura de quadro congelado automaticamente.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

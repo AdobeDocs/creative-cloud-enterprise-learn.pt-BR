@@ -29,4 +29,4 @@ Saiba como se alimentar de uma imagem de referência para extrair sua cor, luz e
 * **Varejo** - Extraia a aparência aprovada de um diretor de arte de uma foto principal e aplique-a à fotografia de produto de uma temporada inteira.
 * **Bebidas** - corresponda as novas embalagens renderizadas ao clima de uma foto de campanha premiada.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

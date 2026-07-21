@@ -30,4 +30,4 @@ Saiba como alimentar a arte estática principal aprovada e um prompt de animaç�
 * **Varejo** - Estenda uma única foto de campanha em um vídeo de forma curta para redes sociais.
 
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

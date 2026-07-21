@@ -29,4 +29,4 @@ grupo de fotos para um local.
 * **Varejo** - Combine um recorte de produto em um plano de fundo de estilo de vida sazonal para um banner de página inicial.
 * **Viagem** - Componha um plano de fundo de destino atrás de uma foto de produto para uma promoção de marca conjunta.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

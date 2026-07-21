@@ -30,4 +30,4 @@ Saiba como alimentar um produto ou imagem do objeto principal para gerar uma seq
 * **Varejo** - Crie uma foto congelada de 360 graus de um novo tênis para uma página de lançamento de produto.
 * **Automotivo** - Gere uma foto de herói girando de um veículo para um showroom digital, sem uma sessão de estúdio de plataforma giratória.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
