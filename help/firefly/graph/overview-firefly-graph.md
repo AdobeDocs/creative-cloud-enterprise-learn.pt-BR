@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-21971
 hide: true
-source-git-commit: eaec81eb392c356a1819c459b50a627bd43dff9d
+source-git-commit: d0b68972fd6cba10fa2ee6a857a105131dc2b329
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 4%
+source-wordcount: '236'
+ht-degree: 0%
 
 ---
 
@@ -48,7 +48,7 @@ Se você já usou uma ferramenta de IA generativa antes, provavelmente está aco
       <img alt="Maquiagem jar novo fundo" src="../assets/graph-3.png" />
    </a>
     <div>
-   <a href="create-your-first-graph.md"><strong>3. Criar seu primeiro gráfico</strong></a>
+   <a href="create-your-first-graph.md"><strong>3. Crie seu primeiro gráfico</strong></a>
     </div>
     <em>Um passo a passo da tela para a exportação</em>
     <br>
@@ -66,14 +66,24 @@ Se você já usou uma ferramenta de IA generativa antes, provavelmente está aco
 </tr>
 <tr>
   <td>
-   <a href="customize-template.md">
-      <img alt="Frasco de maquiagem fundo diferente" src="../assets/graph-5.png" />
+   <a href="template-library.md">
+      <img alt="Frasco de maquiagem em variações" src="../assets/graph-templates.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>5. Personalizar um modelo</strong></a>
+   <a href="template-library.md"><strong>5. Biblioteca de modelos</strong></a>
     </div>
-    <em>Fazer com que um modelo reflita sua própria ideia inicial</em>
+    <em>Saiba tudo sobre os vários modelos</em>
     <br>
+  </td>
+  <td>
+    <a href="customize-template.md">
+        <img alt="Frasco de maquiagem fundo diferente" src="../assets/graph-5.png" />
+    </a>
+      <div>
+    <a href="customize-template.md"><strong> 6. Personalizar um modelo</strong></a>
+      </div>
+      <em>Fazer com que um modelo reflita sua própria ideia inicial</em>
+      <br>
   </td>
   <td>
    <a href="introducing-graph.md">
@@ -83,11 +93,6 @@ Se você já usou uma ferramenta de IA generativa antes, provavelmente está aco
    <a href="introducing-graph.md"><strong>Apresentando o webinário do Firefly Graph</strong></a>
     </div>
     <em>Neste webinário, saiba tudo sobre o gráfico do sistema de fluxo de trabalho visual Firefly</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaçador" src="../../assets/Gray_thumbnail.png" />
-    <div>
     <br>
   </td>
   <td>
