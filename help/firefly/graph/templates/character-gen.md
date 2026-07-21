@@ -29,4 +29,4 @@ Saiba como carregar uma imagem de referência do personagem e, em seguida, troca
 * **Varejo** - mantenha um personagem de marca em dezenas de fotos de produtos sazonais e publicações em redes sociais.
 * **Instituições de ensino** - mantenha um personagem instrutor animado consistente em todos os vídeos de aula de um curso.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
