@@ -6,16 +6,16 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '185'
 ht-degree: 1%
 
 ---
 
 # Extração de estilo
 
-Saiba como alterar o estilo a partir de uma imagem de referência que pode ser aplicada a qualquer nova imagem. [Abrir modelo de extração de estilo](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
+Saiba como se alimentar de uma imagem de referência para extrair sua cor, luz e tratamento de textura. Em seguida, é possível aplicar esse tratamento a qualquer nova imagem executada no mesmo gráfico. [Abrir modelo de extração de estilo](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
 
 >[!TIP]
 >
@@ -29,4 +29,4 @@ Saiba como alterar o estilo a partir de uma imagem de referência que pode ser a
 * **Varejo** - Extraia a aparência aprovada de um diretor de arte de uma foto principal e aplique-a à fotografia de produto de uma temporada inteira.
 * **Bebidas** - corresponda as novas embalagens renderizadas ao clima de uma foto de campanha premiada.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -1,21 +1,21 @@
 ---
 title: Introdução - Gerar uma imagem
-description: Saiba como começar a usar o gráfico mais simples possível
+description: Saiba como criar um gráfico básico - um nó de prompt em um nó de geração em uma saída
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: bab6c055a00501f11e18fd80af7afcaf555a3694
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '180'
 ht-degree: 1%
 
 ---
 
 # Introdução - Gerar uma imagem
 
-Aprenda o básico com o gráfico mais simples possível: um nó de prompt em um nó de geração em uma saída. [Abra o Guia de Introdução - Gere um modelo de imagem](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
+Saiba como criar um gráfico básico: um nó de prompt em um nó de geração em uma saída. [Abra o Guia de Introdução - Gere um modelo de imagem](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
 
 >[!TIP]
 >
@@ -30,4 +30,4 @@ Aprenda o básico com o gráfico mais simples possível: um nó de prompt em um 
 * **Instituições de ensino** - Crie uma primeira imagem de amostra para demonstrar o gráfico aos novos membros da equipe antes de atribuir um trabalho de projeto real.
 
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
