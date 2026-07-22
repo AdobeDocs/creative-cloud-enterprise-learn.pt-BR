@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-22098
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Saiba como se alimentar de uma imagem de referência para extrair sua cor, luz e
 >
 >**Antes de começar** - Para obter os melhores resultados, personalize este modelo de acordo com sua própria marca, produto e fluxo de trabalho. Troque suas imagens de referência, prompts e copie antes de usar qualquer saída.
 
-![Geração de caracteres consistente](../../assets/style-extraction.png){align="center"}
-
 [!BADGE Casos de uso]{type=Informative tooltip="Casos de uso"}
 
 * **Viagem** - Extraia o tratamento de cor e luz de uma foto de campanha de herói aprovada e aplique-o em vinte novas imagens de destino para manter a consistência visual.
 * **Varejo** - Extraia a aparência aprovada de um diretor de arte de uma foto principal e aplique-a à fotografia de produto de uma temporada inteira.
 * **Bebidas** - corresponda as novas embalagens renderizadas ao clima de uma foto de campanha premiada.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Geração de caracteres consistente](../../assets/style-extraction.png){align="center"}
+
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

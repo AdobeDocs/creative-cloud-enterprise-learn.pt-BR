@@ -5,7 +5,7 @@ role: User
 level: Beginner
 jira: KT-22101
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
@@ -20,8 +20,6 @@ Saiba como empilhar um recorte de produto e uma cena de plano de fundo como entr
 >
 >**Antes de começar** - Para obter os melhores resultados, personalize este modelo de acordo com sua própria marca, produto e fluxo de trabalho. Troque suas imagens de referência, prompts e copie antes de usar qualquer saída.
 
-![Compor e mesclar camadas](../../assets/composite-blend-layers.png){align="center"}
-
 [!BADGE Casos de uso]{type=Informative tooltip="Casos de uso"}
 
 * **Bebidas** - Compor uma nova lata de design em uma cena de estilo de vida de praia para uma campanha de verão, sem voar em uma
@@ -29,4 +27,6 @@ grupo de fotos para um local.
 * **Varejo** - Combine um recorte de produto em um plano de fundo de estilo de vida sazonal para um banner de página inicial.
 * **Viagem** - Componha um plano de fundo de destino atrás de uma foto de produto para uma promoção de marca conjunta.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Compor e mesclar camadas](../../assets/composite-blend-layers.png){align="center"}
+
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

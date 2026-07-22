@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Saiba como transformar suas ideias em um storyboard automaticamente usando promp
 >
 >**Antes de começar** - Para obter os melhores resultados, personalize este modelo de acordo com sua própria marca, produto e fluxo de trabalho. Troque suas imagens de referência, prompts e copie antes de usar qualquer saída.
 
-![Construtor de storyboards](../../assets/storyboard-builder.png){align="center"}
-
 [!BADGE Casos de uso]{type=Informative tooltip="Casos de uso"}
 
 * **Comunicações e telecomunicações** - Storyboard é um local de lançamento de 30 segundos para um novo plano, testando três estruturas narrativas diferentes antes de reservar uma sessão.
 * **Bebidas** - Crie um storyboard cena a cena para uma campanha sazonal e reordene as batidas para testar o ritmo antes de bloquear o corte.
 * **Viagem** - Storyboard do arco narrativo de uma campanha de destino antes de se comprometer com uma lista de fotos.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Construtor de storyboards](../../assets/storyboard-builder.png){align="center"}
+
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

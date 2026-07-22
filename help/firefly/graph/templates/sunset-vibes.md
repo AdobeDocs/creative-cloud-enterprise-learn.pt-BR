@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-22099
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 1%
@@ -21,12 +21,13 @@ Saiba como criar uma imagem tipográfica 3D com a palavra “Vibe” em um promp
 >
 >**Antes de começar** - Para obter os melhores resultados, personalize este modelo de acordo com sua própria marca, produto e fluxo de trabalho. Troque suas imagens de referência, prompts e copie antes de usar qualquer saída.
 
-![Vibrações do pôr do sol](../../assets/sunset-vibes.png){align="center"}
-
 [!BADGE Casos de uso]{type=Informative tooltip="Casos de uso"}
 
 * **Viagem** - Sobreponha um novo slogan de destino em um plano de fundo estilizado do pôr do sol para uma postagem de carrossel social, criada e testada em uma tarde.
 * **Bebidas** - Combine um slogan sazonal com um cenário de estilo de vida caloroso para uma promoção de verão.
 * **Varejo** - Gerar um ativo com estilo rápido de texto e fundo para um comunicado de venda rápido.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Vibrações do pôr do sol](../../assets/sunset-vibes.png){align="center"}
+
+
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
