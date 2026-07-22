@@ -30,4 +30,4 @@ e cortar todo o conjunto em uma execução. [Abrir modelo de geração de Headsh
 * **Finanças** - Normalizar headshots sobre uma equipe de conselheiros para uma página de encontro com a equipe.
 * **Saúde** - Padronize os headshots da equipe em vários locais da clínica para obter uma aparência de site unificada.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

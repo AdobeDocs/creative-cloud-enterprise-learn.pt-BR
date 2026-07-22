@@ -29,4 +29,4 @@ Saiba como gerar um sistema de design com base em uma captura de tela de site. O
 * **Finanças** - Crie um ícone e um sistema de cores consistentes para um novo design de aplicativo antes do início do desenvolvimento.
 * **Comunicações e Telecomunicações** - Gere uma linguagem visual correspondente para uma nova camada de plano na Web e sinalização na loja.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

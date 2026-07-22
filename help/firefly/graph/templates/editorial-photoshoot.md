@@ -29,4 +29,4 @@ Saiba como inserir uma referência de modelo e alternar a entrada de vestuário 
 * **Beleza** - Crie uma série editorial consistente em várias aparências de produtos usando uma referência de modelo.
 * **Atividades ao ar livre** - gere um conjunto editorial completo em uma nova linha de cores de jaqueta a partir de uma única sessão de modelos.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

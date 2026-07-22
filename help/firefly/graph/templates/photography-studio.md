@@ -29,4 +29,4 @@ Saiba como colocar uma renderização de produto no nó de plano de fundo do est
 * **Tecnologia** - Crie renderizações de qualidade de estúdio de um novo dispositivo para uma página de lançamento antes que as unidades estejam disponíveis para fotografar.
 * **Varejo** - Crie fotos de estúdio consistentes em toda a linha de produtos sem reservar sessões de fotografia individuais.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

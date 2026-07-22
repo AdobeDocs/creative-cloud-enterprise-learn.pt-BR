@@ -29,4 +29,4 @@ Saiba como visualizar decalques ou logotipos em modelos de produtos. O modelo qu
 * **Automotivo** - visualize um novo design de biblioteca ou decalque em um modelo de veículo antes de embalar a produção.
 * **Varejo** - Teste um novo posicionamento de logotipo em uma linha de modelo de vestuário completa antes de aprovar a impressão.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
