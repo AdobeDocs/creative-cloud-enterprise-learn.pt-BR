@@ -29,4 +29,4 @@ Saiba como visualizar seu logotipo ou marca em cenas de produtos. Alimentar as d
 * **Bebidas** - Teste três direções para o logotipo e a paleta de cores como arte-chave acabada antes de escolher uma para mover para a produção.
 * **Finanças** - Visualize uma nova identidade de cartão ou aplicativo como visuais de marca antes de fazer uma revisão de design.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
