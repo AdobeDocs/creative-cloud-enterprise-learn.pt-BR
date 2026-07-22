@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: af06d76d4cad7ccf7adeb845d71525480b68ea4f
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '878'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Um índice de referência rápida de modelos de Firefly, organizado pelo que cad
 
 ## Modelos de produtos e marcas
 
-* [**Visualização de marcas**](/help/firefly/graph/templates/branding-visualization.md) — neste modelo de gráfico, saiba como visualizar cenas de produtos. Alimentar as diretrizes de marca ou um logotipo e uma paleta de cores e o gráfico produz arte-chave estática e um movimento curto em uma execução, para que ambos os formatos permaneçam visualmente alinhados.
+* [**Visualização de marca**](/help/firefly/graph/templates/branding-visualization.md) — neste modelo de gráfico, saiba como visualizar o logotipo ou a marca em cenas de produtos. Alimentar as diretrizes de marca ou um logotipo e uma paleta de cores e o gráfico produz arte-chave estática e um movimento curto em uma execução, para que ambos os formatos permaneçam visualmente alinhados.
 * [**Modelo de produto da marca**](/help/firefly/graph/templates/brand-product-mockup.md) — Neste modelo de gráfico, saiba como visualizar seu produto em diferentes cenas. Você solta uma renderização de produto ou foto no nó do modelo e o gráfico a coloca dentro de uma cena totalmente da marca, com iluminação e sombra correspondentes a essa cena automaticamente.
 * [**Foto editorial**](/help/firefly/graph/templates/editorial-photoshoot.md) — neste modelo de gráfico, você carrega uma referência de modelo e troca a entrada de vestuário para cada novo visual. Os nós de pose e iluminação permanecem bloqueados no conjunto para proporcionar uma sensação editorial consistente.
 * [**Estúdio fotográfico**](/help/firefly/graph/templates/photography-studio.md) — neste modelo de gráfico, você coloca uma renderização do produto no plano de fundo do estúdio e ajusta a iluminação até que o resultado pareça uma captura de estúdio real.
@@ -61,4 +61,4 @@ Um índice de referência rápida de modelos de Firefly, organizado pelo que cad
 * [**Gerador de sistema de design**](/help/firefly/graph/templates/design-system-generator.md) — neste modelo de gráfico, você gera um sistema de design com base em uma captura de tela do site. O gráfico produz um conjunto correspondente de ícones, padrões e componentes de layout em uma única execução em lote.
 * [**Geração de headshots**](/help/firefly/graph/templates/headshots-generation.md) — Neste modelo de gráfico você harmoniza um lote de headshots corporativos. Carregue as fotos de origem, uma por pessoa, e o gráfico normalizará a iluminação, o plano de fundo e o corte em todo o conjunto em uma execução.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

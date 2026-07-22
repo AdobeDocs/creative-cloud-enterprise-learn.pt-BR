@@ -1,21 +1,21 @@
 ---
 title: Visualização de marca
-description: Saiba como visualizar seu logotipo em cenas de produtos
+description: Saiba como visualizar seu logotipo ou marca em cenas de produtos
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: af06d76d4cad7ccf7adeb845d71525480b68ea4f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '192'
 ht-degree: 1%
 
 ---
 
 # Visualização da marca
 
-Saiba como visualizar seu logotipo em cenas de produtos. Alimentar as diretrizes de marca ou um logotipo e uma paleta de cores e o gráfico produz arte-chave estática e um movimento curto em uma execução, para que ambos os formatos permaneçam visualmente alinhados.[Abrir modelo de visualização de identidade visual](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:c11ecbe0-0751-58ce-9f30-2eb6518bfd51).
+Saiba como visualizar seu logotipo ou marca em cenas de produtos. Alimentar as diretrizes de marca ou um logotipo e uma paleta de cores e o gráfico produz arte-chave estática e um movimento curto em uma execução, para que ambos os formatos permaneçam visualmente alinhados.[Abrir modelo de visualização de identidade visual](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:c11ecbe0-0751-58ce-9f30-2eb6518bfd51).
 
 >[!TIP]
 >
@@ -29,4 +29,4 @@ Saiba como visualizar seu logotipo em cenas de produtos. Alimentar as diretrizes
 * **Bebidas** - Teste três direções para o logotipo e a paleta de cores como arte-chave acabada antes de escolher uma para mover para a produção.
 * **Finanças** - Visualize uma nova identidade de cartão ou aplicativo como visuais de marca antes de fazer uma revisão de design.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
