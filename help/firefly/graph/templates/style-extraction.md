@@ -4,18 +4,18 @@ description: Saiba como alterar o estilo a partir de uma imagem de referência q
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22098
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '185'
 ht-degree: 1%
 
 ---
 
 # Extração de estilo
 
-Saiba como alterar o estilo a partir de uma imagem de referência que pode ser aplicada a qualquer nova imagem. [Abrir modelo de extração de estilo](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
+Saiba como se alimentar de uma imagem de referência para extrair sua cor, luz e tratamento de textura. Em seguida, é possível aplicar esse tratamento a qualquer nova imagem executada no mesmo gráfico. [Abrir modelo de extração de estilo](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
 
 >[!TIP]
 >

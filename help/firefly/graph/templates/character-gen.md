@@ -4,18 +4,18 @@ description: Saiba como gerar uma referência de caractere consistente enquanto 
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22097
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '170'
 ht-degree: 1%
 
 ---
 
 # Geração consistente de caracteres
 
-Saiba como gerar uma referência de caractere consistente enquanto a cena ao redor é alterada. [Abrir modelo de geração de caracteres consistente](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
+Saiba como carregar uma imagem de referência do personagem e, em seguida, trocar a cena ou o prompt de pose para cada nova tomada. [Abrir modelo de geração de caracteres consistente](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
 
 >[!TIP]
 >

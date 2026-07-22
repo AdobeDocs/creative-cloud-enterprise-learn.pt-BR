@@ -1,21 +1,21 @@
 ---
 title: Introdução - Gerar uma imagem
-description: Saiba como começar a usar o gráfico mais simples possível
+description: Saiba como criar um gráfico básico - um nó de prompt em um nó de geração em uma saída
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22096
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '180'
 ht-degree: 1%
 
 ---
 
 # Introdução - Gerar uma imagem
 
-Aprenda o básico com o gráfico mais simples possível: um nó de prompt em um nó de geração em uma saída. [Abra o Guia de Introdução - Gere um modelo de imagem](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
+Saiba como criar um gráfico básico: um nó de prompt em um nó de geração em uma saída. [Abra o Guia de Introdução - Gere um modelo de imagem](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
 
 >[!TIP]
 >
