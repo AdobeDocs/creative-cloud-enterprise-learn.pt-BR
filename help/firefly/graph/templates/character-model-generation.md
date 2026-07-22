@@ -29,4 +29,4 @@ Saiba como criar um estilo animado 3D de uma ilustração. O modelo gera uma pas
 * **Tecnologia** - Gerar um modelo de caractere 3D base de um resumo escrito, pronto para uso para um modelador para limpeza.
 * **Instituições de ensino** - Crie um modelo de personagem 3D de professor para usar nas aulas de vídeo de um curso.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -29,4 +29,4 @@ Saiba como transformar suas ideias em um storyboard automaticamente usando promp
 * **Bebidas** - Crie um storyboard cena a cena para uma campanha sazonal e reordene as batidas para testar o ritmo antes de bloquear o corte.
 * **Viagem** - Storyboard do arco narrativo de uma campanha de destino antes de se comprometer com uma lista de fotos.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

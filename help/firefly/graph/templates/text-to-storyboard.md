@@ -29,4 +29,4 @@ Saiba como gerar um storyboard a partir de um script ou de uma lista de tomadas.
 * **Varejo** - Storyboard um vídeo de lançamento de produto diretamente do resumo da campanha, antes de um diretor ser reservado.
 * **Tecnologia** - Storyboard e vídeo explicativo de um script de recurso para alinhar as partes interessadas antes do início da animação.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

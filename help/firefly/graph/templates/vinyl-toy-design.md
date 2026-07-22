@@ -29,4 +29,4 @@ Saiba como inserir uma referência de personagem ou mascote e renderizá-la em u
 * **Bebidas** - Simule uma figura colecionável de um mascote da marca para uma entrega de mercadorias de execução limitada.
 * **Entretenimento** - Visualize um personagem em formato de brinquedo de vinil para uma apresentação de licenciamento.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

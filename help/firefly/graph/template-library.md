@@ -48,4 +48,4 @@ Um índice de referência rápida de modelos de Firefly, organizado pelo que cad
 * [**Design de brinquedo de vinil**](/help/firefly/graph/templates/vinyl-toy-design.md) — neste modelo de gráfico, você insere uma referência de personagem ou mascote e a renderiza em uma forma de brinquedo de vinil estilizada. Há ângulos de rotação para uma plataforma de licenciamento ou revisão de produtos.
 * [**Virar do Sketch para 3D**](/help/firefly/graph/templates/sketch-to-3d.md) — Neste modelo de gráfico, você transforma um esboço em um caractere 3D. O gráfico cria um giro 3D giratório a partir dele, pronto para uma revisão interna de design antes de qualquer protótipo físico.
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
