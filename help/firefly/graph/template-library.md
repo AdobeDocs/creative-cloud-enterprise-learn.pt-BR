@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-22134
 hide: true
 hidefromtoc: true
-source-git-commit: bd878f1297ab60bcdf5e9e7e2d8c5ab9fa6a68b5
+source-git-commit: 45c4d9faf5ca3a49ae8a0266d415db8640fd79e0
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 3%
@@ -32,7 +32,7 @@ Um índice de referência rápida de modelos de Firefly, organizado pelo que cad
 | Modelo de gráfico | Descrição | Casos de uso |
 |---|---|---|
 | [**Introdução - Segmente uma imagem**](/help/firefly/graph/templates/get-started-segment-image.md) | Carregue qualquer imagem de origem e execute o nó de segmentação para isolar o objeto de seu plano de fundo. | <ul><li>Limpar recorte de arestas</li><li>Isolar catálogo</li><li>troca de tela de fundo</li></ul> |
-| [**Compor e mesclar camadas**](/help/firefly/graph/templates/composite-blend-layers.md) | Empilhe um recorte de produto e uma cena de plano de fundo como entradas de camada separadas. | <ul><li>Estilo de vida/Social composto</li><li>Banner da página inicial</li><li>Composição de marca</li></ul> |
+| [**Compor e mesclar camadas**](/help/firefly/graph/templates/composite-blend-layers.md) | Empilhe um recorte de produto e uma cena de plano de fundo como entradas de camada separadas. | <ul><li>Estilo de vida/Social composto</li><li>Banner da página inicial</li><li>Composição de marca conjunta</li></ul> |
 | [**Correção de cores seletivas**](/help/firefly/graph/templates/selective-color-correction.md) | Mascare uma região específica que precisa de correção e defina a cor de destino apenas nesse nó. | <ul><li>Correspondência de cores da marca</li><li>Padronização de cores</li><li>Correção de cor isolada</li></ul> |
 
 ## Vídeo e animação
@@ -66,7 +66,7 @@ Um índice de referência rápida de modelos de Firefly, organizado pelo que cad
 | [**Modelo de produto da marca**](/help/firefly/graph/templates/brand-product-mockup.md) | Visualize seu produto em diferentes cenas. | <ul><li>Modelo na loja</li><li>Modelo do produto</li><li>Modelo arquitetônico</li></ul> |
 | [**Fotos editoriais**](/help/firefly/graph/templates/editorial-photoshoot.md) | Carregue uma referência de modelo e troque a entrada da peça para cada novo visual. | <ul><li>Gravação de livro de pesquisa</li><li>Série editorial</li><li>Linha do Colorway</li></ul> |
 | [**Estúdio de fotografia**](/help/firefly/graph/templates/photography-studio.md) | Coloque uma renderização do produto no plano de fundo do estúdio e ajuste a iluminação até que o resultado se pareça com uma captura de estúdio real. | <ul><li>SKU studio shot</li><li>Iniciar renderização da página</li><li>Imagens de linha de produto</li></ul> |
-| [**Aplicar decalque em superfícies**](/help/firefly/graph/templates/decal-to-surfaces.md) | Carregue o modelo básico do produto e o ativo de decalque ou logotipo como entradas separadas. | <ul><li>Visualização da nova marca</li><li> Visualização da beleza</li><li>Teste de posicionamento do logotipo</li></ul> |
+| [**Aplicar decalque em superfícies**](/help/firefly/graph/templates/decal-to-surfaces.md) | Carregue o modelo básico do produto e o ativo de decalque ou logotipo como entradas separadas. | <ul><li>Visualização da nova marca</li><li>Visualização da beleza</li><li>Teste de posicionamento do logotipo</li></ul> |
 
 ## Operações de consistência em lote
 
