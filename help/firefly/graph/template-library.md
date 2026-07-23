@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-22134
 hide: true
 hidefromtoc: true
-source-git-commit: 45c4d9faf5ca3a49ae8a0266d415db8640fd79e0
+source-git-commit: bf07a4d42a566cc2f415d36305b99e46f540e72a
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 3%
