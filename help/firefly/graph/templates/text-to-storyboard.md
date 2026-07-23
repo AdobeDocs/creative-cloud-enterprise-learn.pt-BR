@@ -4,11 +4,11 @@ description: Saiba como gerar um storyboard a partir de um script ou de uma list
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22132
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '186'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Saiba como gerar um storyboard a partir de um script ou de uma lista de tomadas.
 >
 >**Antes de começar** - Para obter os melhores resultados, personalize este modelo de acordo com sua própria marca, produto e fluxo de trabalho. Troque suas imagens de referência, prompts e copie antes de usar qualquer saída.
 
-[!BADGE Casos de uso]{type=Informative tooltip="Casos de uso"}
+![Texto para storyboard](../../assets/text-storyboard.png){align="center"}
+
+[!BADGE Exemplos do setor]{type=Informative tooltip="Casos de uso"}
 
 * **Finanças** - Transforme um script aprovado para um novo produto de economia em um storyboard que a agência pode fotografar a partir do mesmo dia em que o documento é assinado.
 * **Varejo** - Storyboard um vídeo de lançamento de produto diretamente do resumo da campanha, antes de um diretor ser reservado.
@@ -29,4 +31,4 @@ Saiba como gerar um storyboard a partir de um script ou de uma lista de tomadas.
 
 ![Texto para storyboard](../../assets/text-storyboard.png){align="center"}
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

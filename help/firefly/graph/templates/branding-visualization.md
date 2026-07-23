@@ -4,11 +4,11 @@ description: Saiba como visualizar seu logotipo ou marca em cenas de produtos
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22122
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '194'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Saiba como visualizar seu logotipo ou marca em cenas de produtos. Alimentar as d
 >
 >**Antes de começar** - Para obter os melhores resultados, personalize este modelo de acordo com sua própria marca, produto e fluxo de trabalho. Troque suas imagens de referência, prompts e copie antes de usar qualquer saída.
 
-[!BADGE Casos de uso]{type=Informative tooltip="Casos de uso"}
+![Visualização de identidade visual](../../assets/branding-visualization.png){align="center"}
+
+[!BADGE Exemplos do setor]{type=Informative tooltip="Casos de uso"}
 
 * **Tecnologia** - Visualize uma nova submarca de produto como arte-chave e um teaser de lançamento antes de comprometer o design ou o orçamento de mídia para a produção completa.
 * **Bebidas** - Teste três direções para o logotipo e a paleta de cores como arte-chave acabada antes de escolher uma para mover para a produção.
@@ -29,4 +31,4 @@ Saiba como visualizar seu logotipo ou marca em cenas de produtos. Alimentar as d
 
 ![Visualização de identidade visual](../../assets/branding-visualization.png){align="center"}
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

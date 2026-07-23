@@ -4,11 +4,11 @@ description: Saiba como criar um estilo animado 3D de uma ilustração
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22123
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '186'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Saiba como criar um estilo animado 3D de uma ilustração. O modelo gera uma pas
 >
 >**Antes de começar** - Para obter os melhores resultados, personalize este modelo de acordo com sua própria marca, produto e fluxo de trabalho. Troque suas imagens de referência, prompts e copie antes de usar qualquer saída.
 
-[!BADGE Casos de uso]{type=Informative tooltip="Casos de uso"}
+![Geração de modelo de caractere](../../assets/character-model-generation.png){align="center"}
+
+[!BADGE Exemplos do setor]{type=Informative tooltip="Casos de uso"}
 
 * **Atividades ao ar livre** - Crie um modelo 3D de um personagem de mascote de trilha para usar em renderizações de embalagem e vídeo, a partir de um único resumo de caractere aprovado.
 * **Tecnologia** - Gerar um modelo de caractere 3D base de um resumo escrito, pronto para uso para um modelador para limpeza.
@@ -29,4 +31,4 @@ Saiba como criar um estilo animado 3D de uma ilustração. O modelo gera uma pas
 
 ![Geração de modelo de caractere](../../assets/character-model-generation.png){align="center"}
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

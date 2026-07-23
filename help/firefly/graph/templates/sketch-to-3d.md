@@ -4,11 +4,11 @@ description: Saiba como transformar um esboço em um caractere 3D
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22130
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '176'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Saiba como transformar um esboço em um caractere 3D. O gráfico cria um giro 3D
 >
 >**Antes de começar** - Para obter os melhores resultados, personalize este modelo de acordo com sua própria marca, produto e fluxo de trabalho. Troque suas imagens de referência, prompts e copie antes de usar qualquer saída.
 
-[!BADGE Casos de uso]{type=Informative tooltip="Casos de uso"}
+![De esboço para 3D](../../assets/sketch-to-3d.png){align="center"}
+
+[!BADGE Exemplos do setor]{type=Informative tooltip="Casos de uso"}
 
 * **Tecnologia** - Transforme um esboço inicial de conceito de hardware em uma transformação 3D para revisão de design, antes de se comprometer com uma compilação de protótipo físico.
 * **Automotivo** - Visualize um esboço de conceito de veículo inicial como uma rotação 3D para revisão interna.
@@ -29,4 +31,4 @@ Saiba como transformar um esboço em um caractere 3D. O gráfico cria um giro 3D
 
 ![De esboço para 3D](../../assets/sketch-to-3d.png){align="center"}
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

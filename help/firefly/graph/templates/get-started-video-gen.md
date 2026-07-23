@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-22103
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Saiba como alimentar a arte estática principal aprovada e um prompt de animaç�
 >
 >**Antes de começar** - Para obter os melhores resultados, personalize este modelo de acordo com sua própria marca, produto e fluxo de trabalho. Troque suas imagens de referência, prompts e copie antes de usar qualquer saída.
 
-[!BADGE Casos de uso]{type=Informative tooltip="Casos de uso"}
+![Geração de vídeo](../../assets/video-generation.png){align="center"}
+
+[!BADGE Exemplos do setor]{type=Informative tooltip="Casos de uso"}
 
 * **Finanças** - Transforme uma arte-chave de campanha impressa aprovada em um vídeo curto para redes sociais pagas, sem agendar uma sessão de vídeo separada.
 * **Bebidas** - Anime um produto principal em um curto teaser para o dia de lançamento.
@@ -29,4 +31,4 @@ Saiba como alimentar a arte estática principal aprovada e um prompt de animaç�
 
 ![Geração de vídeo](../../assets/video-generation.png){align="center"}
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
