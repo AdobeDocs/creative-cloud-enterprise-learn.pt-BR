@@ -29,4 +29,4 @@ Saiba como transformar um esboço em um caractere 3D. O gráfico cria um giro 3D
 
 ![De esboço para 3D](../../assets/sketch-to-3d.png){align="center"}
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -29,4 +29,4 @@ Saiba como visualizar seu produto em cenas de diferença. Solte uma renderizaç�
 
 ![Modelo de produto de marca](../../assets/brand-mockup.png){align="center"}
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
