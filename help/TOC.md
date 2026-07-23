@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '861'
 ht-degree: 3%
 
 ---
@@ -149,6 +149,19 @@ ht-degree: 3%
       + {hide-from-toc}[Correção de cores seletivas](firefly/graph/templates/selective-color-correction.md)
       + {hide-from-toc}[Introdução - Geração de vídeo](firefly/graph/templates/get-started-video-gen.md)
       + {hide-from-toc}[VFX de Marcador](firefly/graph/templates/bullet-time-vfx.md)
+      + {hide-from-toc}[Texto para storyboard](firefly/graph/templates/text-to-storyboard.md)
+      + {hide-from-toc}[Construtor de storyboards](firefly/graph/templates/storyboard-builder.md)
+      + {hide-from-toc}[Sombreadores em tempo real](firefly/graph/templates/real-time-shaders.md)
+      + {hide-from-toc}[Geração de modelo de caractere](firefly/graph/templates/character-model-generation.md)
+      + {hide-from-toc}[Design de brinquedo de vinil](firefly/graph/templates/vinyl-toy-design.md)
+      + {hide-from-toc}[Virar do Sketch para 3D](firefly/graph/templates/sketch-to-3d.md)
+      + {hide-from-toc}[Visualização de identidade visual](firefly/graph/templates/branding-visualization.md)
+      + {hide-from-toc}[Modelo de produto da marca](firefly/graph/templates/brand-product-mockup.md)
+      + {hide-from-toc}[Fotos editoriais](firefly/graph/templates/editorial-photoshoot.md)
+      + {hide-from-toc}[Estúdio de fotografia](firefly/graph/templates/photography-studio.md)
+      + {hide-from-toc}[Aplicar decalque em superfícies](firefly/graph/templates/decal-to-surfaces.md)
+      + {hide-from-toc}[Gerador de sistema de design](firefly/graph/templates/design-system-generator.md)
+      + {hide-from-toc}[Geração de headshots](firefly/graph/templates/headshots-generation.md)
   + Webinários {#firefly-webinars}
     + [Experimentar com Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
