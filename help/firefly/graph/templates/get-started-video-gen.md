@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-22103
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 1%
 
 Saiba como alimentar a arte estática principal aprovada e um prompt de animação curto. O modelo gera um corte de vídeo criado a partir dessa mesma arte principal em vez de uma nova tomada. [Abra o Guia de Introdução - Geração de vídeo](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:4729e537-95d5-56a6-b7c4-a1d4dadb76c9).
 
->[!TIP]
->
->**Antes de começar** - Para obter os melhores resultados, personalize este modelo de acordo com sua própria marca, produto e fluxo de trabalho. Troque suas imagens de referência, prompts e copie antes de usar qualquer saída.
-
-[!BADGE Casos de uso]{type=Informative tooltip="Casos de uso"}
+[!BADGE Exemplos do setor]{type=Informative tooltip="Exemplos do setor"}
 
 * **Finanças** - Transforme uma arte-chave de campanha impressa aprovada em um vídeo curto para redes sociais pagas, sem agendar uma sessão de vídeo separada.
 * **Bebidas** - Anime um produto principal em um curto teaser para o dia de lançamento.
 * **Varejo** - Estenda uma única foto de campanha em um vídeo de forma curta para redes sociais.
+
+>[!TIP]
+>
+>**Antes de começar** - Para obter os melhores resultados, personalize este modelo de acordo com sua própria marca, produto e fluxo de trabalho. Troque suas imagens de referência, prompts e copie antes de usar qualquer saída.
 
 ![Geração de vídeo](../../assets/video-generation.png){align="center"}
 
