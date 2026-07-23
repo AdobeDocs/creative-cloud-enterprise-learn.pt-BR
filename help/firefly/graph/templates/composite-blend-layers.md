@@ -5,10 +5,10 @@ role: User
 level: Beginner
 jira: KT-22101
 hide: true
-source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 1%
+source-wordcount: '179'
+ht-degree: 0%
 
 ---
 
@@ -16,19 +16,17 @@ ht-degree: 1%
 
 Saiba como empilhar um recorte de produto e uma cena de plano de fundo como entradas de camada separadas. Ajuste o modo de mesclagem e os nós de iluminação até que a composição seja lida como uma tomada. [Abrir modelo de camadas compostas e de mesclagem](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11).
 
->[!TIP]
->
->**Antes de começar** - Para obter os melhores resultados, personalize este modelo de acordo com sua própria marca, produto e fluxo de trabalho. Troque suas imagens de referência, prompts e copie antes de usar qualquer saída.
-
-![Compor e mesclar camadas](../../assets/composite-blend-layers.png){align="center"}
-
-[!BADGE Exemplos do setor]{type=Informative tooltip="Casos de uso"}
+[!BADGE Exemplos do setor]{type=Informative tooltip="Exemplos do setor"}
 
 * **Bebidas** - Compor uma nova lata de design em uma cena de estilo de vida de praia para uma campanha de verão, sem voar em uma
 grupo de fotos para um local.
 * **Varejo** - Combine um recorte de produto em um plano de fundo de estilo de vida sazonal para um banner de página inicial.
 * **Viagem** - Componha um plano de fundo de destino atrás de uma foto de produto para uma promoção de marca conjunta.
 
+>[!TIP]
+>
+>**Antes de começar** - Para obter os melhores resultados, personalize este modelo de acordo com sua própria marca, produto e fluxo de trabalho. Troque suas imagens de referência, prompts e copie antes de usar qualquer saída.
+
 ![Compor e mesclar camadas](../../assets/composite-blend-layers.png){align="center"}
 
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

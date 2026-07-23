@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-22104
 hide: true
-source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 1%
+source-wordcount: '192'
+ht-degree: 0%
 
 ---
 
@@ -17,18 +17,16 @@ ht-degree: 1%
 
 Aprenda a alimentar um produto ou imagem do objeto principal para gerar uma sequência giratória de ângulos ao redor e costurar a varredura de quadro congelado automaticamente. [Abrir modelo VFX de Marcador de Tempo](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:3efb4f51-345d-58eb-b7c8-7b289f0dd1c4).
 
+[!BADGE Exemplos do setor]{type=Informative tooltip="Exemplos do setor"}
+
+* **Atividades ao ar livre** - Crie uma foto de herói à bala de um alpinista em movimento para um anúncio para redes sociais pago, sem um equipamento multicâmera no local.
+* **Varejo** - Crie uma foto congelada de 360 graus de um novo tênis para uma página de lançamento de produto.
+* **Automotivo** - Gere uma foto de herói girando de um veículo para um showroom digital, sem uma sessão de estúdio de plataforma giratória.
+
 >[!TIP]
 >
 >**Antes de começar** - Para obter os melhores resultados, personalize este modelo de acordo com sua própria marca, produto e fluxo de trabalho. Troque suas imagens de referência, prompts e copie antes de usar qualquer saída.
 
 ![VFX](../../assets/bullet-time-vfx.png){align="center"} de Marcador
 
-[!BADGE Exemplos do setor]{type=Informative tooltip="Casos de uso"}
-
-* **Atividades ao ar livre** - Crie uma foto de herói à bala de um alpinista em movimento para um anúncio para redes sociais pago, sem um equipamento multicâmera no local.
-* **Varejo** - Crie uma foto congelada de 360 graus de um novo tênis para uma página de lançamento de produto.
-* **Automotivo** - Gere uma foto de herói girando de um veículo para um showroom digital, sem uma sessão de estúdio de plataforma giratória.
-
-![VFX](../../assets/bullet-time-vfx.png){align="center"} de Marcador
-
-Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Retorne ao [Introdução ao Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -4,10 +4,10 @@ description: Procure por modelos de Firefly prontos para abrir e adaptar ao seu 
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22134
 hide: true
 hidefromtoc: true
-source-git-commit: 0cf157213e0e349f58260b4f30635049fd5913cb
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 1%
