@@ -4,9 +4,9 @@ description: Saiba como transformar suas ideias em um storyboard automaticamente
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-22131
+jira: KT-22136
 hide: true
-source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
+source-git-commit: 8933daea4c9aeb7ad61e1cf407a8e838b7a82131
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
