@@ -52,7 +52,7 @@ Os aplicativos da Acrobat e da Creative Cloud para corporações começarão a e
 
 As informações a seguir descrevem a experiência do usuário final. Há um breve vídeo abaixo seguido pela análise da experiência do usuário final.
 
->[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441280?captions=por_br&hidetitle=true)
 
 **Antes da expiração**
 
@@ -76,7 +76,7 @@ Para todas as tentativas subsequentes de iniciar os aplicativos, o usuário fina
 
 As informações a seguir descrevem a experiência do usuário final. Há um breve vídeo abaixo seguido pela análise da experiência do usuário final.
 
->[!VIDEO](https://video.tv.adobe.com/v/331749?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439964?captions=por_br&hidetitle=true)
 
 
 **Antes da expiração**

@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Traga o poder do Photoshop ao seu alcance. Aprenda a usar um de seus aplicativos Creative Cloud favoritos de uma forma totalmente nova, com uma interface baseada em toque reformulada.
 
->[!VIDEO](https://video.tv.adobe.com/v/331004?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410493?captions=por_br&hidetitle=true)
 
 <br> 
 
