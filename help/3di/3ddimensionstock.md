@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Personalize e marque um modelo 3D no [!DNL Dimension] usando materiais, propriedades ambientais, iluminação e fotografia para criar imagens realistas para qualquer projeto de design.
 
->[!VIDEO](https://video.tv.adobe.com/v/331005?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410486?captions=por_br&hidetitle=true)
 
 Clique no ícone de PDF para baixar um Guia de referência rápida deste tutorial.
 

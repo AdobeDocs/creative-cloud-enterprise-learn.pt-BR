@@ -16,7 +16,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: 39
+source-wordcount: 40
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Neste tutorial em vídeo, saiba como pesquisar rapidamente o histórico de licenciamento do Adobe [!DNL Stock] da sua organização no Creative Cloud para corporações.
 
->[!VIDEO](https://video.tv.adobe.com/v/335327?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417358?captions=por_br&hidetitle=true)
