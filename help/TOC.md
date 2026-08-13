@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: f0ad6793dd537c72a691b38946acb633ad9bbc43
 workflow-type: tm+mt
-source-wordcount: '861'
+source-wordcount: '872'
 ht-degree: 3%
 
 ---
@@ -130,7 +130,9 @@ ht-degree: 3%
   + Tutoriais de produção criativa {#firefly-creative-production}
     + [Visão geral da [!DNL Adobe Firefly] Produção Criativa](firefly/creative-production/overview-firefly-creative-production.md)
     + [Remoção e substituição de plano de fundo](firefly/creative-production/background.md)
-  + {hide-from-toc}Tutoriais do gráfico  {#firefly-graph}
+    + {hide-from-toc}[Pré-visualização de sessão de fotos](firefly/photoshoot-pre-visualization.md)
+    + {hide-from-toc}[Explore ideias de produtos sem reuniões, marcadores e modelos](firefly/explore-product-ideas.md)
+  + Tutoriais do gráfico {hide-from-toc} {#firefly-graph}
     + {hide-from-toc}[Visão Geral do Adobe Firefly Graph](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc}[O que é o Firefly Graph?](firefly/graph/what-is-firefly-graph.md)
     + {hide-from-toc}[Conceitos-chave do Firefly Graph](firefly/graph/key-concepts.md)
@@ -148,7 +150,7 @@ ht-degree: 3%
       + {hide-from-toc}[Compor e mesclar camadas](firefly/graph/templates/composite-blend-layers.md)
       + {hide-from-toc}[Correção de cores seletivas](firefly/graph/templates/selective-color-correction.md)
       + {hide-from-toc}[Introdução - Geração de vídeo](firefly/graph/templates/get-started-video-gen.md)
-      + {hide-from-toc}[VFX de Marcador](firefly/graph/templates/bullet-time-vfx.md)
+      + {hide-from-toc}[VFX](firefly/graph/templates/bullet-time-vfx.md) de Marcador
       + {hide-from-toc}[Texto para storyboard](firefly/graph/templates/text-to-storyboard.md)
       + {hide-from-toc}[Construtor de storyboards](firefly/graph/templates/storyboard-builder.md)
       + {hide-from-toc}[Sombreadores em tempo real](firefly/graph/templates/real-time-shaders.md)
@@ -168,7 +170,7 @@ ht-degree: 3%
   + [Visão geral](stock/overview-stock.md)
   + Tutoriais {#stocktutorials}
     + [Ativos digitais impressionantes](stock/stunning-digital-assets.md)
-    + [Pesquisar histórico de licenciamento de Adobe [!DNL Stock] &#x200B;](stock/searchstock.md)
+    + [Pesquisar histórico de licenciamento de Adobe [!DNL Stock] ](stock/searchstock.md)
     + [Adicionar uma estética desenhada à mão a imagens Adobe [!DNL Stock] nativas](stock/handdrawn.md)
     + [Adicionar estilo à tipografia com máscaras e animação](stock/flairtypography.md)
     + [Animar uma ilustração vetorial Adobe [!DNL Stock]  no Photoshop](stock/animatevector.md)
@@ -184,13 +186,13 @@ ht-degree: 3%
     + [Criar um configurador de produto interativo com Adobe [!DNL Stock]](stock/productconfigurator.md)
     + [Crie uma foto de turismo interativa com Adobe [!DNL Stock] e XD](stock/interactivetourismphoto.md)
     + [Criar animações para email com Adobe [!DNL Stock] e Photoshop](stock/animationemail.md)
-    + [Crie imagens de marca coesas com belos gradientes e ativos de Adobe [!DNL Stock] &#x200B;](stock/brandgradients.md)
+    + [Crie imagens de marca coesas com belos gradientes e ativos de Adobe [!DNL Stock] ](stock/brandgradients.md)
     + [Crie gráficos da Web envolventes combinando imagens Adobe [!DNL Stock] com CSS](stock/webgraphics.md)
     + [Crie quadros de humor inspiradores em um piscar de olhos com o Adobe [!DNL Stock]](stock/moodboard.md)
-    + [Crie composições de fotos realistas com imagens Adobe [!DNL Stock] &#x200B;](stock/realisticcomposite.md)
+    + [Crie composições de fotos realistas com imagens Adobe [!DNL Stock] ](stock/realisticcomposite.md)
     + [Personalize uma animação de tela de carregamento com Adobe [!DNL Stock] e XD](stock/loadingscreen.md)
     + [Personalize um modelo de apresentação do Adobe [!DNL Stock] para parecer profissional](stock/presentationtemplate.md)
-    + [Personalizar as cores em uma ilustração vetorial Adobe [!DNL Stock] &#x200B;](stock/customizecolors.md)
+    + [Personalizar as cores em uma ilustração vetorial Adobe [!DNL Stock] ](stock/customizecolors.md)
 + Adobe 3D e VR {#3doverview}
   + [Visão geral](3di/overview-3di.md)
   + Tutoriais {#3dtutorials}
