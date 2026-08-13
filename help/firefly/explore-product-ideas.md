@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Os Firefly boards oferecem à sua equipe o ambiente mais avançado de brainstorming, transformando conceitos brutos em visuais compartilháveis que vão muito além de listas de texto e figuras.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497129?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497133?captions=por_br&quality=12&learn=on&hidetitle=true)
