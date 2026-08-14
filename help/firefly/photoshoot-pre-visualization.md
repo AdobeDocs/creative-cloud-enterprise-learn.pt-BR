@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Saiba como a Gen AI permite que você pré-visualize uma sessão de fotos inteira, colocando seu produto em ambientes de aspiração para que você possa bloquear o local, a configuração e os caracteres com a aprovação do cliente antes que um único quadro seja capturado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497053?captions=por_br&quality=12&learn=on&hidetitle=true)

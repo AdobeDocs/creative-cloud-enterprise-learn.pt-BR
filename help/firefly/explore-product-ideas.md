@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Conceitos de produto costumavam significar esperar que artistas e ilustradores 3D vissem apenas uma ideia ganhar forma. Saiba como o Firefly Boards permite que você gere conceitos em realismo incrível, sem marcadores, sem modelos, com renderizações estáticas e 3D que dão vida às ideias.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497129?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497133?captions=por_br&quality=12&learn=on&hidetitle=true)
