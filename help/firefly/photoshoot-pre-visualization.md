@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Visualize toda a sua visão de sessão de fotos com todo o poder do Adobe Firefly.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497053?captions=por_br&quality=12&learn=on&hidetitle=true)
