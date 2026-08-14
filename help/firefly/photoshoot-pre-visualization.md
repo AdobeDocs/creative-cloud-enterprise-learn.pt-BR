@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-22291
 hide: true
 hidefromtoc: true
-source-git-commit: f0ad6793dd537c72a691b38946acb633ad9bbc43
+source-git-commit: 256a1bd60eecaae02b974e86fd7bff9e35b51503
 workflow-type: tm+mt
 source-wordcount: '30'
 ht-degree: 0%
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Visualize toda a sua visão de sessão de fotos com todo o poder do Adobe Firefly.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497053?captions=por_br&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
