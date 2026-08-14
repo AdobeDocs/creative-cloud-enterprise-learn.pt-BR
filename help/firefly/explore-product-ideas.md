@@ -1,21 +1,21 @@
 ---
 title: Explore ideias de produtos sem reuniões, marcadores e modelos
-description: As Firefly boards oferecem à sua equipe o mais avançado ambiente de brainstorming
+description: Saiba como os Firefly boards permitem gerar conceitos em um realismo impressionante
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Beginner, Intermediate, Experienced
 jira: KT-22321
 hide: true
 hidefromtoc: true
-source-git-commit: f0ad6793dd537c72a691b38946acb633ad9bbc43
+source-git-commit: 8122068e72a49a2e5be625fa95accb6168aff403
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
 # Explore ideias de produtos sem reuniões, marcadores e modelos
 
-Os Firefly boards oferecem à sua equipe o ambiente mais avançado de brainstorming, transformando conceitos brutos em visuais compartilháveis que vão muito além de listas de texto e figuras.
+Conceitos de produto costumavam significar esperar que artistas e ilustradores 3D vissem apenas uma ideia ganhar forma. Saiba como o Firefly Boards permite que você gere conceitos em realismo incrível, sem marcadores, sem modelos, com renderizações estáticas e 3D que dão vida às ideias.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497133?captions=por_br&quality=12&learn=on&hidetitle=true)
