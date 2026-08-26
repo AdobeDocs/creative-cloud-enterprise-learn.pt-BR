@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Saiba como as equipes criativas usam os Adobe Firefly boards para pressionar as ideias de teste no início, chegando no set confiante de que cada take será lançado exatamente como planejado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502280?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3502284?captions=por_br&quality=12&learn=on&hidetitle=true)
