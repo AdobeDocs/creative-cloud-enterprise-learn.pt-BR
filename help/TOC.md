@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 389890ce1b958a53c3541db6bbfb2c7d532e22ac
+source-git-commit: ca32f73972c01089fd3741643c32bfc63cb974fc
 workflow-type: tm+mt
-source-wordcount: '880'
+source-wordcount: '885'
 ht-degree: 3%
 
 ---
@@ -133,6 +133,7 @@ ht-degree: 3%
     + {hide-from-toc}[Pré-visualização de sessão de fotos](firefly/photoshoot-pre-visualization.md)
     + {hide-from-toc}[Explore ideias de produtos sem reuniões, marcadores e modelos](firefly/explore-product-ideas.md)
     + {hide-from-toc}[Transforme uma palavra em uma visão criativa compartilhada](firefly/creative-vision.md)
+    + {hide-from-toc}[Alinhar antes do rolo da câmera](firefly/align-camera-roll.md)
   + {hide-from-toc}Tutoriais do gráfico  {#firefly-graph}
     + {hide-from-toc}[Visão Geral do Adobe Firefly Graph](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc}[O que é o Firefly Graph?](firefly/graph/what-is-firefly-graph.md)
