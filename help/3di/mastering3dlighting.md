@@ -71,7 +71,7 @@ Iluminações do ambiente são imagens equirretangulares (esféricas), que são 
 
 ![Exemplos de iluminações do ambiente feitas de fotos, uma cena de estúdio 3D e uma cena 3D abstrata](assets/Mastering3dlighting_5.jpg)
 
-Quando você criar uma nova cena em [[!DNL Dimension]](https://www.adobe.com/products/dimension.html), uma iluminação do ambiente padrão será criada. É por isso que você consegue imediatamente ver qualquer coisa na cena. Os Ativos Iniciais do Adobe [!DNL Dimension] incluem um determinado número de iluminações do ambiente, que você pode tentar imediatamente. Além disso, o [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&filters[3d_type_id][0]=2&load_type=3d+lp) oferece uma enorme seleção de iluminações do ambiente com curadoria.
+Quando você criar uma nova cena em [[!DNL Dimension]](https://www.adobe.com/products/dimension.html), uma iluminação do ambiente padrão será criada. É por isso que você consegue imediatamente ver qualquer coisa na cena. Os Ativos Iniciais do Adobe [!DNL Dimension] incluem um determinado número de iluminações do ambiente, que você pode tentar imediatamente. Além disso, o [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&filters[3d_type_id]&#x200B;[0]=2&load_type=3d+lp) oferece uma enorme seleção de iluminações do ambiente com curadoria.
 
 O Iluminação do ambiente produz resultados altamente realistas e pode poupar muito tempo. Para conseguir algo semelhante manualmente, você teria que criar todo o ambiente em 3D (incluindo várias fontes de luz), o que representa uma quantidade significativa de trabalho.
 
