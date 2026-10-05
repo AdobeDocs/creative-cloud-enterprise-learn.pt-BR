@@ -1,32 +1,40 @@
 ---
-title: Adobe [!DNL Stock] tutoriais
-description: Tutorials para ajudá-lo a se atualizar em Adobe [!DNL Stock]
+title: Tutoriais do Adobe [!DNL Stock]
+description: Tutorials para ajudá-lo a se atualizar no Adobe [!DNL Stock]
 feature: Licensable Assets, Vector Editing, Image Editing, Video Editing
 role: User
 level: Beginner, Intermediate
 jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-TQID: https://experienceleague.adobe.com/C01ouFDgnKklJjZY4j2UOojCYgyAx8YS7Qt2Kx8GMDk
+TQID: 'https://experienceleague.adobe.com/C01ouFDgnKklJjZY4j2UOojCYgyAx8YS7Qt2Kx8GMDk'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: a84ae583-df23-5233-92bc-9551edca26c7
+    internal-label: Licensable Assets
 subfeature_v2:
   - id: aaae4770-bc47-47c2-876b-1fbcb533c42a
+    internal-label: Vector editing
   - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
   - id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+    internal-label: Video editing
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 1257
+source-wordcount: '1258'
 ht-degree: 0%
-
 ---
-
 # Tutoriais do Adobe [!DNL Stock]
 
 Os criativos estão sob pressão para fornecer rapidamente conteúdo visual envolvente. A Adobe Stock oferece às equipes de criação acesso a mais de 300 milhões de imagens, vídeos, arquivos de áudio, modelos, ilustrações e ativos 3D isentos de royalties, dentro dos aplicativos Creative Cloud que usam todos os dias. Tenha acesso ilimitado aos ativos padrão do Adobe Stock com a Creative Cloud Pro Edition. Explore as coleções mais recentes em stock.adobe.com. Selecione uma imagem para ver um tutorial.

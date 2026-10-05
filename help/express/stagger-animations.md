@@ -6,20 +6,24 @@ role: User
 level: Beginner
 jira: KT-14835
 exl-id: 665b5cb0-0e0e-44d3-ad30-616d1fa7f99f
-TQID: https://experienceleague.adobe.com/mJCDN-84o2YKBbawp1JBT2At26iYmg4-LYh2mOTKwQ0
+TQID: 'https://experienceleague.adobe.com/mJCDN-84o2YKBbawp1JBT2At26iYmg4-LYh2mOTKwQ0'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 86
+source-wordcount: '86'
 ht-degree: 0%
-
 ---
-
 # Como escalonar animações
 
 Aprenda a criar animações escalonadas para obter o comportamento perfeito para chamar a atenção de alguém. Ajuste o tempo de diferentes elementos para facilitar a leitura da mensagem.

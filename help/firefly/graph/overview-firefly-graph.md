@@ -1,21 +1,36 @@
 ---
-title: Visão Geral do Adobe [!DNL Firefly Graph] Noun
+title: Visão Geral do Adobe [!DNL Firefly Graph]
 description: Saiba mais sobre o Adobe [!DNL Firefly Graph]
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-21971
 hide: true
-source-git-commit: d0b68972fd6cba10fa2ee6a857a105131dc2b329
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 0%
-
+source-wordcount: '255'
+ht-degree: 2%
 ---
-
 # Introdução ao Firefly Graph
 
-Se você já usou uma ferramenta de IA generativa antes, provavelmente está acostumado a digitar um prompt, obter um resultado e começar do zero na próxima vez que precisar de algo semelhante. O Firefly gráfico funciona de forma diferente. Em vez de um único prompt, crie um gráfico: um fluxo de trabalho visual, passo a passo, no qual todas as entradas, transformações e saídas estejam conectadas e salvas juntas. Esta página mostra tudo o que você precisa para criar seu primeiro gráfico: os conceitos principais, o primeiro fluxo de trabalho passo a passo e uma biblioteca de modelos prontos para abrir e adaptar imediatamente.
+Se você já usou uma ferramenta de IA generativa antes, provavelmente está acostumado a digitar um prompt, obter um resultado e começar do zero na próxima vez que precisar de algo semelhante. O Gráfico Vaga-moscas funciona de maneira diferente. Em vez de um único prompt, crie um gráfico: um fluxo de trabalho visual, passo a passo, no qual todas as entradas, transformações e saídas estejam conectadas e salvas juntas. Esta página mostra tudo o que você precisa para criar seu primeiro gráfico: os conceitos principais, o primeiro fluxo de trabalho passo a passo e uma biblioteca de modelos prontos para abrir e adaptar imediatamente.
 
 >[!TIP]
 >
@@ -30,7 +45,7 @@ Se você já usou uma ferramenta de IA generativa antes, provavelmente está aco
     <div>
    <a href="what-is-firefly-graph.md"><strong>1. O que é o Firefly Graph?</strong></a>
     </div>
-    <em>Saiba o que é o Gráfico de Firefly e como ele se compara a um único prompt</em>
+    <em>Saiba o que é o Firefly Graph e como ele se compara a um único prompt</em>
     <br>
   </td>
   <td>
@@ -48,7 +63,7 @@ Se você já usou uma ferramenta de IA generativa antes, provavelmente está aco
       <img alt="Maquiagem jar novo fundo" src="../assets/graph-3.png" />
    </a>
     <div>
-   <a href="create-your-first-graph.md"><strong>3. Crie seu primeiro gráfico</strong></a>
+   <a href="create-your-first-graph.md"><strong>3. Criar seu primeiro gráfico</strong></a>
     </div>
     <em>Um passo a passo da tela para a exportação</em>
     <br>
@@ -80,7 +95,7 @@ Se você já usou uma ferramenta de IA generativa antes, provavelmente está aco
         <img alt="Frasco de maquiagem fundo diferente" src="../assets/graph-5.png" />
     </a>
       <div>
-    <a href="customize-template.md"><strong> 6. Personalizar um modelo</strong></a>
+    <a href="customize-template.md"><strong>6. Personalizar um modelo</strong></a>
       </div>
       <em>Fazer com que um modelo reflita sua própria ideia inicial</em>
       <br>

@@ -6,20 +6,26 @@ role: User
 level: Intermediate
 jira: KT-13430
 exl-id: f248c621-f50c-45c8-97de-4f28c7ea97f1
-TQID: https://experienceleague.adobe.com/6rljjy1u63w3iFmoqbePPyzSeVMrJXfgm1F9bCnhAGw
+TQID: 'https://experienceleague.adobe.com/6rljjy1u63w3iFmoqbePPyzSeVMrJXfgm1F9bCnhAGw'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: 8b07a0b0-e985-53c7-a040-ce9d17c25ae8
+    internal-label: Share
+  - id: e3b67aac-252b-5c12-b4f2-e2ebb05e4916
+    internal-label: Social Media
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Intermediate
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 122
+source-wordcount: '122'
 ht-degree: 0%
-
 ---
-
 # Como usar o agendador para lançamento
 
 Agende publicações em redes sociais para o Instagram, o Facebook, o Twitter, o Pinterest e o LinkedIn. Você pode escolher propriedades específicas para cada plataforma. Por exemplo, no Instagram, você pode escolher se seu conteúdo será uma publicação, uma história ou um rolo.

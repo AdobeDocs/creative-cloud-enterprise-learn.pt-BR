@@ -6,28 +6,38 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-TQID: https://experienceleague.adobe.com/eeIW5Efbwzp7NrLzxzLuNAMj5l-lE3Zg0XqfLFnHpGQ
+TQID: 'https://experienceleague.adobe.com/eeIW5Efbwzp7NrLzxzLuNAMj5l-lE3Zg0XqfLFnHpGQ'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: 1fb90542-ecf7-55a9-93b7-4011ddcd40b5
+    internal-label: Collaboration
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
+  - id: dcec6556-a754-5235-b219-42ccb80fd3a2
+    internal-label: Integrations
 subfeature_v2:
   - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 1412
+source-wordcount: '1412'
 ht-degree: 1%
-
 ---
-
 # Creative Cloud para tutoriais corporativos
 
-Como um criador corporativo, você deve colaborar com equipes distribuídas, estabelecer processos escaláveis e estar em conformidade com sistemas e diretrizes corporativos. Esses tutoriais ajudam a aprender novos recursos em Creative Cloud de uma perspectiva corporativa.
+Como um criador corporativo, você deve colaborar com equipes distribuídas, estabelecer processos escaláveis e estar em conformidade com sistemas e diretrizes corporativos. Esses tutoriais ajudam a aprender novos recursos no Creative Cloud de uma Perspectiva corporativa.
 
 ## Selecione um tutorial de produto (listado em ordem alfabética) para visualizar
 

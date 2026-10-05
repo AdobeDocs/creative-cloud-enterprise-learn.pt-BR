@@ -6,27 +6,31 @@ role: User
 level: Beginner
 jira: KT-14887
 exl-id: 00b8d83a-630f-48a1-a87f-c6f43ad5f992
-TQID: https://experienceleague.adobe.com/EBugSKauNkk7tEBQJXkB1XncrDz5lLUGAuMnrzcJXwk
+TQID: 'https://experienceleague.adobe.com/EBugSKauNkk7tEBQJXkB1XncrDz5lLUGAuMnrzcJXwk'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 133
+source-wordcount: '133'
 ht-degree: 0%
-
 ---
-
 # Consistência de marca sem esforço com modelos
 
 Saiba como criar conteúdo de marca de maneira rápida e eficiente em toda a organização. Este tutorial mostra como criar conteúdo novo de marca que pode ser compartilhado e localizado imediatamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3436130?captions=por_br&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3427099?quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

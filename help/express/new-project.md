@@ -6,25 +6,29 @@ role: User
 level: Beginner
 jira: KT-14822
 exl-id: 459c74ac-7b91-4b56-9957-f48603ee0a8e
-TQID: https://experienceleague.adobe.com/Kd7rsu2HntmBQ5vQIUhE7ZACGGj0nzO5vCkuYYk7lMw
+TQID: 'https://experienceleague.adobe.com/Kd7rsu2HntmBQ5vQIUhE7ZACGGj0nzO5vCkuYYk7lMw'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 94
+source-wordcount: '94'
 ht-degree: 0%
-
 ---
-
 # Iniciar um projeto
 
 Saiba como criar um novo projeto a partir do zero usando um tamanho de tela específico, como uma publicação quadrada do Instagram.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441422?captions=por_br&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3426931?quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

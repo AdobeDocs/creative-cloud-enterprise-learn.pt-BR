@@ -6,25 +6,29 @@ role: User
 level: Beginner
 jira: KT-14829
 exl-id: aa02b7fc-09be-47cd-8869-88b5d2511415
-TQID: https://experienceleague.adobe.com/H3XuPtFEbmCPJHPvCT4R0wDn-TIIlD1e6n7xsVS0sho
+TQID: 'https://experienceleague.adobe.com/H3XuPtFEbmCPJHPvCT4R0wDn-TIIlD1e6n7xsVS0sho'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 109
+source-wordcount: '109'
 ht-degree: 0%
-
 ---
-
 # Como usar o histórico de versões
 
 Saiba como acessar o histórico de versões e exibir e copiar versões anteriores de seus projetos. Marque pontos fundamentais no desenvolvimento para voltar facilmente a momentos específicos no progresso do projeto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3438702?captions=por_br&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3426937?quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

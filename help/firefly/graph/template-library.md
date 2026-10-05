@@ -1,22 +1,37 @@
 ---
 title: Biblioteca de modelos
-description: Procure por modelos de Firefly prontos para abrir e adaptar ao seu próprio projeto
+description: Navegue pelos modelos de gráfico do Firefly prontos que você pode abrir e adaptar ao seu próprio projeto
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-22134
 hide: true
-hidefromtoc: true
-source-git-commit: bf07a4d42a566cc2f415d36305b99e46f540e72a
+hidefromtoc: 'yes'
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 3%
-
 ---
-
 # &#x200B;5. Biblioteca de modelos
 
-Um índice de referência rápida de modelos de Firefly, organizado pelo que cada um produz ou faz. Cada exemplo é um ponto de partida — troque sua própria marca, produto e prompts antes de usar um modelo na produção.
+Um índice de referência rápida de modelos do Firefly Graph, organizado pelo que cada um produz ou faz. Cada exemplo é um ponto de partida — troque sua própria marca, produto e prompts antes de usar um modelo na produção.
 
 ## Geração e estilo da imagem
 
@@ -40,7 +55,7 @@ Um índice de referência rápida de modelos de Firefly, organizado pelo que cad
 | Modelo de gráfico | Descrição | Casos de uso |
 |---|---|---|
 | [**Introdução - Geração de vídeo**](/help/firefly/graph/templates/get-started-video-gen.md) | Feed em uma arte estática e um prompt de animação curto aprovados. | <ul><li>Arte principal do vídeo</li><li>Iniciar teaser</li><li>Vídeo cortado</li></ul> |
-| [**VFX**](/help/firefly/graph/templates/bullet-time-vfx.md) de Marcador | Alimente um produto herói ou imagem do objeto para gerar uma sequência giratória de ângulos ao redor dele e, em seguida, costure a varredura de quadro congelado automaticamente. | <ul><li>Tiro de hora do marcador</li><li>Congelamento de quadro 360</li><li>Rotação de imagem principal</li></ul> |
+| [**VFX**](/help/firefly/graph/templates/bullet-time-vfx.md) de Marcador | Alimente um produto herói ou imagem do objeto para gerar uma sequência giratória de ângulos ao redor dele e, em seguida, costure a varredura de quadro congelada automaticamente. | <ul><li>Tiro de hora do marcador</li><li>quadro de congelamento 360</li><li>Rotação de imagem principal</li></ul> |
 
 ## Storyboarding
 
@@ -53,7 +68,7 @@ Um índice de referência rápida de modelos de Firefly, organizado pelo que cad
 
 | Modelo de gráfico | Descrição | Casos de uso |
 |---|---|---|
-| [**Sombreadores em tempo real**](/help/firefly/graph/templates/real-time-shaders.md) | Comece com uma imagem e aplique três sombreadores personalizados diferentes, visualizando o resultado em tempo real. | <ul><li>Sombreador configurador</li><li>Visualização de material de pintura</li><li>Renderização do produto</li></ul> |
+| [**Sombreadores em tempo real**](/help/firefly/graph/templates/real-time-shaders.md) | Comece com uma imagem e aplique três sombreadores personalizados diferentes, visualizando o resultado em tempo real. | <ul><li>Sombreador do configurador</li><li>Tinta visualização do material</li><li>Renderização do produto</li></ul> |
 | [**Geração de modelo de caractere**](/help/firefly/graph/templates/character-model-generation.md) | Crie um estilo animado 3D de uma ilustração. | <ul><li>Modelo de mascote</li><li>Modelo 3D base</li><li>Modelo do professor</li></ul> |
 | [**Design de brinquedo de vinil**](/help/firefly/graph/templates/vinyl-toy-design.md) | Insira um personagem ou referência de mascote e renderize-o em uma forma estilizada de brinquedo de vinil. | <ul><li>Conceito colecionável</li><li>Imagem do mascote</li><li>Densidade de licenciamento</li></ul> |
 | [**Virar do Sketch para 3D**](/help/firefly/graph/templates/sketch-to-3d.md) | Transformar um esboço em um caractere 3D. | <ul><li>Recuperação do hardware</li><li>Retorno de veículos e acessórios</li><li>Transformação de caracteres</li></ul> |

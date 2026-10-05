@@ -6,25 +6,29 @@ role: User
 level: Intermediate
 jira: KT-14846
 exl-id: ce097d61-070d-41f7-9cc4-3dcdb76a63d3
-TQID: https://experienceleague.adobe.com/39YQsTw3RZTpnZX2t4yWt6e2jQ1Iy0QdpFMxAlaKgNA
+TQID: 'https://experienceleague.adobe.com/39YQsTw3RZTpnZX2t4yWt6e2jQ1Iy0QdpFMxAlaKgNA'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Intermediate
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 108
+source-wordcount: '108'
 ht-degree: 0%
-
 ---
-
 # Como usar o Preenchimento generativo
 
 Saiba mais sobre como usar o Preenchimento generativo fornecido pelo Adobe Firefly para adicionar e remover elementos de uma imagem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3437837?captions=por_br&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3427020?quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

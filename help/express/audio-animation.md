@@ -6,25 +6,29 @@ role: User
 level: Beginner
 jira: KT-14837
 exl-id: 76a7b235-abb8-4a40-907a-2340a088e41b
-TQID: https://experienceleague.adobe.com/se4ihvvmwe1IYBqNFrxer5xOLWCsznHGew1xBZarLw8
+TQID: 'https://experienceleague.adobe.com/se4ihvvmwe1IYBqNFrxer5xOLWCsznHGew1xBZarLw8'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 82
+source-wordcount: '82'
 ht-degree: 0%
-
 ---
-
 # Adicionar áudio às suas animações
 
 Saiba como criar projetos envolventes e memoráveis adicionando áudio, incluindo arquivos de áudio isentos de royalties disponíveis na Express.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433914?captions=por_br&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3426983?quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 
