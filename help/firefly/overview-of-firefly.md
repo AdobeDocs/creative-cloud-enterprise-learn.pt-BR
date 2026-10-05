@@ -35,4 +35,4 @@ Saiba o que você pode criar com o Adobe Firefly. Descubra como acelerar a cria�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420929?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423651?captions=por_br&quality=12&learn=on&hidetitle=true)
