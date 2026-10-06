@@ -6,24 +6,31 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6944
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-TQID: https://experienceleague.adobe.com/M7ZbwU4I7Dq26Hh3Ps-WJD7jhYwwVo5VrNfllLeTwEU
+TQID: 'https://experienceleague.adobe.com/M7ZbwU4I7Dq26Hh3Ps-WJD7jhYwwVo5VrNfllLeTwEU'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: 401e32ea-dbf3-5b5e-950e-e7ccc600fa78
+    internal-label: UI Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: a09a5a04-e30b-4d55-b031-38e6f5ec86db
+    internal-label: Experience design
   - id: e9001ce2-5245-4a8e-8601-dd958009072f
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Web experience
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 462
+source-wordcount: '462'
 ht-degree: 0%
-
 ---
-
 # Tutoriais do Adobe XD
 
 O Adobe XD é uma ferramenta de design e prototipagem da experiência do usuário para criar sites, aplicativos, interfaces de voz, jogos e outros tipos de experiências digitais. Selecione uma imagem para ver um tutorial.

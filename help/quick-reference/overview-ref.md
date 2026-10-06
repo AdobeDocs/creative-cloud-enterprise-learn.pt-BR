@@ -6,27 +6,41 @@ role: User
 level: Beginner, Intermediate
 jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-TQID: https://experienceleague.adobe.com/aY5x7jWyzTgckibWDj7BcdvqyZR1yy4GUQOikhFWQRA
+TQID: 'https://experienceleague.adobe.com/aY5x7jWyzTgckibWDj7BcdvqyZR1yy4GUQOikhFWQRA'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
+  - id: 401e32ea-dbf3-5b5e-950e-e7ccc600fa78
+    internal-label: UI Design
+  - id: a84ae583-df23-5233-92bc-9551edca26c7
+    internal-label: Licensable Assets
+  - id: c03edad5-0111-525a-a563-c422672a5e57
+    internal-label: 3D
 subfeature_v2:
   - id: aaae4770-bc47-47c2-876b-1fbcb533c42a
+    internal-label: Vector editing
   - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
   - id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+    internal-label: Video editing
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 1212
+source-wordcount: '1212'
 ht-degree: 0%
-
 ---
-
 # guias de referência rápida do Creative Cloud para corporações
 
 Como um criador corporativo, você deve colaborar com equipes distribuídas, estabelecer processos escaláveis e estar em conformidade com sistemas e diretrizes corporativos. Esses guias de referência rápida (PDF) ajudam você a conhecer novos recursos do Creative Cloud.

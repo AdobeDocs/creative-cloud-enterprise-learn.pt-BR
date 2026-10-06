@@ -5,27 +5,45 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-TQID: https://experienceleague.adobe.com/r0Wb24k8et-PY1rHi-CNF2RffU-BPT4ibtmckgf5A7g
+TQID: 'https://experienceleague.adobe.com/r0Wb24k8et-PY1rHi-CNF2RffU-BPT4ibtmckgf5A7g'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
+  - id: 401e32ea-dbf3-5b5e-950e-e7ccc600fa78
+    internal-label: UI Design
+  - id: a84ae583-df23-5233-92bc-9551edca26c7
+    internal-label: Licensable Assets
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+  - id: c03edad5-0111-525a-a563-c422672a5e57
+    internal-label: 3D
 subfeature_v2:
   - id: aaae4770-bc47-47c2-876b-1fbcb533c42a
+    internal-label: Vector editing
   - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
   - id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+    internal-label: Video editing
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 7827e1a6f74707ab792f72ab9ff692f756831313
+    internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 512
-ht-degree: 5%
-
+source-wordcount: '799'
+ht-degree: 3%
 ---
-
 # Tutorials para Creative Cloud para corporações
 
 Bem-vindo ao Creative Cloud para o centro de aprendizado corporativo. Aqui você encontra uma ampla variedade de experiências de aprendizado focadas no Creative Cloud para corporações. Nossos tutoriais, webinars e casos de uso foram criados para disponibilizar rapidamente para iniciantes e administradores os produtos Creative Cloud para corporações.
@@ -106,7 +124,7 @@ Bem-vindo ao Creative Cloud para o centro de aprendizado corporativo. Aqui você
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/overview-cce" target="_self" rel="referrer" title="Creative Cloud para tutoriais corporativos">Creative Cloud para tutoriais corporativos</a>
                     </p>
-                    <p class="is-size-6">Conheça os novos recursos da versão mais recente do Creative Cloud — do ponto de vista corporativo</p>
+                    <p class="is-size-6">Conheça os novos recursos da versão mais recente do Creative Cloud em uma Perspectiva corporativa</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/overview-cce" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Procurar tutoriais</span>

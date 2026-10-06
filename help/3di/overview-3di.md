@@ -6,21 +6,26 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6945
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-TQID: https://experienceleague.adobe.com/NPmS-BMJjiAZnLUNwDLGufCEduFrXAS0-TAScXzGbL0
+TQID: 'https://experienceleague.adobe.com/NPmS-BMJjiAZnLUNwDLGufCEduFrXAS0-TAScXzGbL0'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c03edad5-0111-525a-a563-c422672a5e57
+    internal-label: 3D
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 311
+source-wordcount: '311'
 ht-degree: 0%
-
 ---
-
 # Tutoriais de 3D e VR do Adobe
 
 Crie conteúdo envolvente em 3D mais rapidamente com modelos, materiais e iluminação de alta qualidade. O [!DNL Dimension] facilita a criação de visualizações de marcas, ilustrações, modelos de produtos, designs de embalagens e outros trabalhos criativos. Selecione uma imagem para ver um tutorial.

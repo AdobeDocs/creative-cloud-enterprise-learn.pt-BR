@@ -1,30 +1,38 @@
 ---
-title: Adobe [!DNL Express] Tutorials de instruções
-description: Atualize-se em Adobe [!DNL Express]
+title: Tutorials de instruções do Adobe [!DNL Express]
+description: Atualize-se no Adobe [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations
 role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-TQID: https://experienceleague.adobe.com/vXAaKbzUm97uoCDQm45GxgyCs335hL1ZxfofYgtEcRw
+TQID: 'https://experienceleague.adobe.com/vXAaKbzUm97uoCDQm45GxgyCs335hL1ZxfofYgtEcRw'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
+  - id: dcec6556-a754-5235-b219-42ccb80fd3a2
+    internal-label: Integrations
 subfeature_v2:
   - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 368
+source-wordcount: '369'
 ht-degree: 1%
-
 ---
-
 # Tutoriais de instruções do Adobe [!DNL Express]
 
 Comece a criar trabalhos incríveis que se destacam com IA generativa desenvolvida por Adobe Firefly. Folhetos de design, TikToks, currículos e rolos com Adobe Express.

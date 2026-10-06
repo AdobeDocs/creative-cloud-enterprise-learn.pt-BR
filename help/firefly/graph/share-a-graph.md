@@ -1,5 +1,5 @@
 ---
-title: ​5. Compartilhar um gráfico
+title: 5. Compartilhar um gráfico
 description: Saiba como compartilhar um gráfico com outras pessoas
 feature: Image Editing, Gen AI
 role: User
@@ -7,13 +7,28 @@ level: Beginner
 jira: KT-22058
 hide: true
 hidefromtoc: true
-source-git-commit: 21ac1c37cd76408493eda8cfc8aa1f56f250ed26
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 0%
-
 ---
-
 # &#x200B;5. Compartilhar um gráfico
 
 Saiba como compartilhar um gráfico com outras pessoas. Compartilhar um gráfico compartilha o fluxo de trabalho ao vivo, não apenas uma saída. Qualquer pessoa com acesso de edição pode executá-lo novamente, alterá-lo e entregá-lo a outra pessoa. Use o acesso no nível do link para ter uma ampla visibilidade dentro da organização e convites nomeados com uma função específica para qualquer pessoa que precise de acesso direto.
