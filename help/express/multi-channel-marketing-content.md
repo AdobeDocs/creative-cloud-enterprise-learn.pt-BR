@@ -33,6 +33,6 @@ ht-degree: 3%
 
 Saiba como as equipes de marketing de eventos podem criar conteúdo exclusivo para atrair espectadores para eventos online. Neste fluxo de trabalho, um comerciante B2B inicia um novo projeto no Adobe Express usando um modelo do kit da marca e das bibliotecas. O comerciante B2B cria variações para diferentes canais sociais e web e compartilha o conteúdo nas mídias sociais e plataformas de hospedagem de vídeo.
 
-Este tutorial usa o novo [Adobe Express](https://www.adobe.com/express/).
+Este tutorial usa o novo [Adobe Express](https://www.adobe.com/br/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444984?captions=por_br&quality=12&learn=on&hidetitle=true)

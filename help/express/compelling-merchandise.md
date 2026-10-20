@@ -33,6 +33,6 @@ ht-degree: 2%
 
 Saiba como uma equipe de comércio pode criar facilmente imagens atraentes para um novo conjunto de estoque em sua loja online. Neste fluxo de trabalho, o gerente de mercadorias cria um novo modelo em Adobe Express para uma nova mercadoria. Em seguida, o profissional de marketing cria um novo projeto de anúncio para a Web e ajusta o texto e as imagens das bibliotecas da marca para atender às suas necessidades. Eles também editam um vídeo de marketing para o novo inventário.
 
-Este tutorial usa o novo [Adobe Express](https://www.adobe.com/express/).
+Este tutorial usa o novo [Adobe Express](https://www.adobe.com/br/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447136?captions=por_br&quality=12&learn=on&hidetitle=true)

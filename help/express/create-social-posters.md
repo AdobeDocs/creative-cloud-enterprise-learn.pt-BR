@@ -33,6 +33,6 @@ ht-degree: 4%
 ---
 # Criar pôsteres para redes sociais com o Firefly
 
-Saiba como usar Texto para imagem, fornecido por Adobe Firefly, em Adobe Express para criar uma campanha de promoção para as redes sociais. Este tutorial usa o novo [Adobe Express](https://www.adobe.com/express/).
+Saiba como usar Texto para imagem, fornecido por Adobe Firefly, em Adobe Express para criar uma campanha de promoção para as redes sociais. Este tutorial usa o novo [Adobe Express](https://www.adobe.com/br/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430562?captions=por_br&quality=12&learn=on&hidetitle=true)

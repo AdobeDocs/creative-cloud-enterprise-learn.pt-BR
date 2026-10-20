@@ -30,6 +30,6 @@ ht-degree: 4%
 ---
 # Criar pôsteres para webinar com o Firefly
 
-Saiba como usar Texto para imagem, com o Adobe Firefly, no Adobe Express para criar um pôster de webinar para um evento de realidade virtual. Este tutorial usa o novo [Adobe Express](https://www.adobe.com/express/).
+Saiba como usar Texto para imagem, com o Adobe Firefly, no Adobe Express para criar um pôster de webinar para um evento de realidade virtual. Este tutorial usa o novo [Adobe Express](https://www.adobe.com/br/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446868?captions=por_br&quality=12&learn=on&hidetitle=true)
