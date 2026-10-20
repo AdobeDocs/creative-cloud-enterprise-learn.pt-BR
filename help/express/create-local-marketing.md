@@ -30,6 +30,6 @@ ht-degree: 4%
 ---
 # Criar conteúdo de folheto para campanha de marketing com o Firefly
 
-Aprenda a usar Texto para imagem, fornecido por Adobe Firefly, em Adobe Express para criar conteúdo localizado a partir de uma campanha global de marketing em hotéis. Este tutorial usa o novo [Adobe Express](https://www.adobe.com/express/).
+Aprenda a usar Texto para imagem, fornecido por Adobe Firefly, em Adobe Express para criar conteúdo localizado a partir de uma campanha global de marketing em hotéis. Este tutorial usa o novo [Adobe Express](https://www.adobe.com/br/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443589?captions=por_br&quality=12&learn=on&hidetitle=true)
