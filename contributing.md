@@ -1,47 +1,59 @@
 ---
 source-git-commit: 52fd854fb4327ae1280d43b0412b9122f1cdf104
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '300'
 ht-degree: 0%
-
 ---
-# Contribuição
+# Contribuindo
 
 Obrigado por escolher contribuir!
 
-Veja a seguir um conjunto de diretrizes a serem seguidas ao colaborar com este projeto.
+Veja a seguir um conjunto de diretrizes a serem seguidas ao contribuir com este projeto.
 
-## Código de conduta
+## Código De Conduta
 
-Este projeto adere ao Adobe [código de conduta](code-of-conduct.md). Ao participar, você deve manter esse código. Denuncie um comportamento inaceitável para
+Este projeto segue o [código de conduta](code-of-conduct.md) do Adobe. Ao participar,
+espera-se que você mantenha esse código. Denuncie comportamento inaceitável para
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
-## Documentação do guia do colaborador
+## Documentação do Guia do Colaborador
 
-Consulte o [Guia do colaborador](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR).
+Consulte o [Guia do Colaborador](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
-## Tem alguma pergunta?
+## Tem Alguma Dúvida?
 
-Comece apresentando um problema. Os atuais aprovadores deste projeto trabalham para chegar a um consenso sobre a direção do projeto e as soluções de problemas dentro dos threads de problemas (quando apropriado).
+Comece preenchendo um problema. Os responsáveis por este projeto trabalham para
+consenso sobre a direção do projeto e as soluções de problemas dentro dos tópicos de problemas
+(quando adequado).
 
 ## Contrato de licença do colaborador
 
-Todas as contribuições de terceiros para este projeto devem ser acompanhadas por um contrato de licença do colaborador assinado. Isso dá permissão de Adobe para redistribuir suas contribuições como parte do projeto. [Assine nosso CLA](http://opensource.adobe.com/cla.html). Você só precisa enviar um Adobe CLA uma vez, então se você já enviou um anteriormente, você está pronto para ir!
+Todas as contribuições de terceiros para este projeto devem ser acompanhadas por um colaborador assinado
+contrato de licença. Isso dá permissão de Adobe para redistribuir suas contribuições
+como parte do projeto. [Assine nosso CLA](http://opensource.adobe.com/cla.html). Você
+você só precisa enviar um CLA de Adobe uma vez, portanto, se tiver enviado um anteriormente,
+você está pronto para ir!
 
 ## Revisões de código
 
-Todos os envios devem assumir a forma de solicitações de incorporação e devem ser revisados por aprovadores de projetos. Ler [Documentação de solicitação de incorporação do GitHub](https://help.github.com/articles/about-pull-requests/)
-para obter mais informações sobre como enviar solicitações de baixa automática.
+Todos os envios devem vir na forma de solicitações de recebimento e precisam ser revisados
+pelos responsáveis pelo projeto. Ler a documentação de solicitação pull de [GitHub](https://help.github.com/articles/about-pull-requests/)
+para obter mais informações sobre o envio de solicitações pull.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
 submitting a pull request!
 -->
 
-## Do Colaborador ao Committer
+## Do Colaborador Para O Committer
 
-Adoramos contribuições de nossa comunidade! Se você quiser ir um passo além de ser colaborador e se tornar um aprovador com acesso total para escrever e participar do projeto, você deve ser convidado para o projeto. Os atuais aprovadores utilizam um processo de indicação interno que deve chegar a um consenso presumido (silêncio é aprovação) antes que os convites sejam emitidos. Se você se sentir qualificado e quiser se envolver mais profundamente, sinta-se à vontade para contatar os atuais aprovadores e conversar sobre isso.
+Adoramos as contribuições da nossa comunidade! Se você deseja ir além do colaborador
+e torne-se um comitê com acesso total de gravação e voz no projeto, você deve
+ser convidado para o projeto. Os comitês existentes empregam uma nomeação interna
+processo que deve chegar a um consenso preguiçoso (silêncio é aprovação) antes de convites
+são emitidos. Se você sente que é qualificado e quer se envolver mais profundamente,
+fique à vontade para entrar em contato com os comitês existentes e conversar sobre isso.
 
 ## Problemas de segurança
 
-Problemas de segurança não devem ser relatados neste controlador de problemas. Em vez disso, [relate um problema para os nossos especialistas em segurança](https://helpx.adobe.com/br/security/alertus.html)
+Os problemas de segurança não devem ser relatados neste controlador de problemas. Em vez disso, [envie um problema aos nossos especialistas em segurança](https://helpx.adobe.com/security/alertus.html)
