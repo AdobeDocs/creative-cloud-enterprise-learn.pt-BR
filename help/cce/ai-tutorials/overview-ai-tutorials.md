@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 95ceedf2be8ea49003f3e2388f3556746dee6b7a
+source-git-commit: 72601cd9612b12283c0bae7b4b21d030e8cf1d77
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '329'
 ht-degree: 0%
 ---
 # Tutoriais do Creative Cloud para IA corporativa
@@ -141,9 +141,14 @@ Explore tutoriais que podem ajudar você a descobrir ideias, criar conteúdo e o
     <em>Saiba como usar a Extensão Generativa no Premiere</em>
     <br>
   </td>
-  <td>
-    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+ <td>
+   <a href="rough-cut.md">
+      <img alt="Acesse o seu copião mais rápido" src="../../assets/rough-cut.png" />
+   </a>
     <div>
+   <a href="rough-cut.m"><strong>Acesse o copião mais rápido</strong></a>
+    </div>
+    <em>Saiba como criar um copião a partir de entrevistas e rolar o filme mais rápido no Premiere, sem arrastar cada clipe</em>
     <br>
   </td>
   <td>
