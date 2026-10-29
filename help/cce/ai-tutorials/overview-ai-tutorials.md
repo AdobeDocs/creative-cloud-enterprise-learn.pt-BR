@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 91f579e542ea780ee55aaeb65eefd213f41ed1d7
+source-git-commit: 9737f2658a0d2570b9731f78d50fa7633855cf01
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '90'
 ht-degree: 0%
 ---
 # Tutoriais do Creative Cloud para IA corporativa
 
-Explore tutoriais que podem ajudar você a descobrir ideias, criar conteúdo e otimizar fluxos de trabalho criativos no Creative Cloud. Estes tutoriais são agrupados por função: Designer gráfico, Director criativo/artístico, Artista/Retoucher do Photoshop e Editor de vídeo.
+Explore tutoriais que podem ajudar você a descobrir ideias, criar conteúdo e otimizar fluxos de trabalho criativos usando IA no Creative Cloud. Estes tutoriais são agrupados por função: Designer gráfico, Director criativo/artístico, Artista/Retoucher do Photoshop e Editor de vídeo.
 
 ## Designer gráfico
 
@@ -31,17 +31,17 @@ Explore tutoriais que podem ajudar você a descobrir ideias, criar conteúdo e o
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
