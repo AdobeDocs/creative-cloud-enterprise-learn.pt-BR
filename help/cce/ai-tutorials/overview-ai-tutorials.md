@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: cf848c3ca49226d8264100a7c6143bff7b0cd38d
+source-git-commit: 95ceedf2be8ea49003f3e2388f3556746dee6b7a
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '298'
 ht-degree: 0%
 ---
 # Tutoriais do Creative Cloud para IA corporativa
@@ -105,8 +105,13 @@ Explore tutoriais que podem ajudar você a descobrir ideias, criar conteúdo e o
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="build-presets.md">
+      <img alt="Crie predefinições para uniformizar as cores em uma foto" src="../../assets/build-presets.png" />
+   </a>
     <div>
+   <a href="build-presets.md"><strong>Crie predefinições para uniformizar as cores em uma foto</strong></a>
+    </div>
+    <em>Saiba como dar a uma sessão de fotos inteira uma aparência consistente sem editar cada imagem uma a uma</em>
     <br>
   </td>
   <td>
