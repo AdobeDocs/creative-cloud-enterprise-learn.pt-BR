@@ -5,9 +5,7 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23025
-hide: true
-hidefromtoc: true
-source-git-commit: b1cffc816ca06a24dce4b70f938c5ed0c8d36db0
+source-git-commit: 008d64be8a58330f687edf18aae398b506e13ca2
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
