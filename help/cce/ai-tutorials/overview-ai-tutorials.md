@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: f7f52e4c28c9c376b51b83fc5711dc963dca0e7e
+source-git-commit: b787511cf017c97d40f0b9501ad126ff45fe69fd
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '155'
 ht-degree: 0%
 ---
 # Tutoriais do Creative Cloud para IA corporativa
@@ -52,3 +52,36 @@ Explore tutoriais que podem ajudar você a descobrir ideias, criar conteúdo e o
   </td>
 </tr>
 </table>
+
+## Director criativo/artístico
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="one-brief.md">
+      <img alt="20 direções a partir de um breve, antes do almoço" src="../../assets/one-brief.png" />
+   </a>
+    <div>
+   <a href="one-brief.md"><strong>20 direções de um resumo, antes do almoço</strong></a>
+    </div>
+    <em>Saiba como transformar um resumo criativo em uma tabela compartilhada de fortes direções visuais</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
