@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: b1cffc816ca06a24dce4b70f938c5ed0c8d36db0
+source-git-commit: 63b6d4f6bba92207bff7cd9b981c9c10a8a3dbbf
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '234'
 ht-degree: 0%
 ---
 # Tutoriais do Creative Cloud para IA corporativa
@@ -97,6 +97,38 @@ Explore tutoriais que podem ajudar você a descobrir ideias, criar conteúdo e o
    <a href="retouch-faster.md"><strong>Retoque mais rápido e mantenha seus pixels originais</strong></a>
     </div>
     <em>Saiba como adicionar sombras naturais a uma foto de produto no Photoshop enquanto mantém os pixels originais intactos</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+## Editor de vídeo
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="fill-gaps.md">
+      <img alt="Preencher lacunas no corte: rolagem B, áudio e clipes que terminam muito cedo" src="../../assets/fill-gaps.png" />
+   </a>
+    <div>
+   <a href="fill-gaps.md"><strong>Preencha lacunas no corte: rolagem B, áudio e clipes que terminam muito cedo</strong></a>
+    </div>
+    <em>Saiba como usar a Extensão Generativa no Premiere</em>
     <br>
   </td>
   <td>
