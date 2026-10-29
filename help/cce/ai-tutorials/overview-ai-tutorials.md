@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 63b6d4f6bba92207bff7cd9b981c9c10a8a3dbbf
+source-git-commit: cf848c3ca49226d8264100a7c6143bff7b0cd38d
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '266'
 ht-degree: 0%
 ---
 # Tutoriais do Creative Cloud para IA corporativa
@@ -68,8 +68,13 @@ Explore tutoriais que podem ajudar você a descobrir ideias, criar conteúdo e o
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="brief-to-storyboard.md">
+      <img alt="Do resumo ao storyboard: explore as direções do vídeo antes da produção" src="../../assets/brief-to-storyboard.png" />
+   </a>
     <div>
+   <a href="brief-to-storyboard.md"><strong>Do resumo ao storyboard: explore as direções do vídeo antes da produção</strong></a>
+    </div>
+    <em>Saiba como transformar um resumo criativo em uma tabela compartilhada de fortes direções visuais</em>
     <br>
   </td>
   <td>
