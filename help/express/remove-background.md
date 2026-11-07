@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Saiba como remover o plano de fundo de suas imagens em um clique com uma ação rápida. Depois de remover o fundo, sua imagem pode ser baixada e usada para vários fins.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420220?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506212?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

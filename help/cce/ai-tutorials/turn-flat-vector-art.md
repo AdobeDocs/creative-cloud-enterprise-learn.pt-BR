@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Não há necessidade de recriar padrões manualmente para cada produto final. Crie padrões vetoriais perfeitos em minutos, em vez de horas. Neste tutorial, aprenda a usar Texto para padrão no Illustrator para explorar as opções, adicionar sua própria arte de marca à repetição e redimensionar o padrão para diferentes aplicativos sem alterar o layout. Em seguida, crie três cores a partir de um design totalmente editável, pronto para embalagens, têxteis, telas e muito mais.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505932?captions=por_br&quality=12&learn=on&hidetitle=true)

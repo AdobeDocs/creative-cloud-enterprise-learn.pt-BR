@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Aprenda a criar um padrão de marca perfeito no Illustrator sem marcar cada repetição à mão. Veja como Gerar padrões cria um ponto de partida, como soltar seu próprio ícone de logotipo no bloco e como dimensionar a repetição para embalagens, etiquetas e cenários de evento. Você também verá como o Generative Recolor cria três cores a partir de um design totalmente editável.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505924?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505941?captions=por_br&quality=12&learn=on&hidetitle=true)

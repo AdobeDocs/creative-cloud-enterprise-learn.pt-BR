@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Descubra como adicionar imagens geradas por IA, com o Adobe Firefly, aos seus projetos criativos. Personalize seu conteúdo gerando imagens com base em prompts de texto, com opções para diferentes estilos e tipos de conteúdo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426933?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506249?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Saiba como criar um copião a partir de entrevistas e rolar mais rápido no Premiere, sem depurar cada clipe. Veja como a Edição baseada em texto permite escolher o diálogo a partir de uma transcrição e como o Media Intelligence encontra o B-roll descrevendo o que está na tela, como “mãos pintando um mural”. Você ainda decide o que fica, onde corta e como a história se sente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3506011?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506025?captions=por_br&quality=12&learn=on&hidetitle=true)

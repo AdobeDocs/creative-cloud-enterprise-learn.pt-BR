@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Saiba como apagar áreas específicas de suas imagens. Como alternativa, você pode usar a ferramenta de restauração para trazer de volta partes da imagem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427019?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506184?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

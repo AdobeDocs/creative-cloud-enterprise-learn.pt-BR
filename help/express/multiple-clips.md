@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Saiba como adicionar novos clipes de vídeo à linha do tempo, ajustar sua duração, adicionar transições e dividir clipes para criar novas cenas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427091?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506274?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

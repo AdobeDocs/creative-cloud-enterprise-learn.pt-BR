@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Saiba como salvar e compartilhar modelos em um kit de marca ou biblioteca para a sua equipe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427098?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506264?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

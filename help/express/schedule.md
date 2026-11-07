@@ -30,7 +30,7 @@ ht-degree: 0%
 
 Agende publicações em redes sociais para o Instagram, o Facebook, o Twitter, o Pinterest e o LinkedIn. Você pode escolher propriedades específicas para cada plataforma. Por exemplo, no Instagram, você pode escolher se seu conteúdo será uma publicação, uma história ou um rolo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420242?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506301?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Seu B-roll está a poucos segundos e a filmagem acabou. E agora? Saiba mais sobre como usar a Extensão generativa no Premiere para gerar gravações adicionais do clipe que você já tem, para que você possa fazer o corte exatamente onde precisa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505947?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505971?captions=por_br&quality=12&learn=on&hidetitle=true)

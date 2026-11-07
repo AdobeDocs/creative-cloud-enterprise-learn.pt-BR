@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Atualize rapidamente uma imagem gráfica estática substituindo elementos usando preenchimento generativo, alterando o texto correspondendo o tipo de fonte e a cor e removendo o fundo de novas imagens. Essa é uma maneira rápida e fácil de reutilizar ativos gráficos, como arredondamentos financeiros.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427116?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506346?captions=por_br&quality=12&learn=on&hidetitle=true)

@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Precisa que suas fotos de produtos correspondam sem alterar a foto original? Saiba como adicionar sombras naturais a uma foto do produto no Photoshop enquanto mantém os pixels originais intactos. Veja como Harmonizar gera opções de sombra e, em seguida, tinta em uma máscara de camada para revelar a foto original por baixo. O resultado corresponde ao estilo da sua marca e permanece totalmente editável.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505928?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505961?captions=por_br&quality=12&learn=on&hidetitle=true)
