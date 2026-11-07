@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Saiba mais sobre os novos recursos de IA de geração no Adobe Express. Usando um prompt de texto, você pode facilmente criar designs e modelos, adicionar elementos a imagens e aplicar efeitos especiais ao texto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427018?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506216?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

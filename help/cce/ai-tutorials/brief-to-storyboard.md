@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Neste tutorial, a tecnóloga criativa Mary Poplin mostra como transformar uma breve e algumas referências em quadros de storyboard, gerar testes de movimento curtos e comparar duas direções lado a lado, para que você possa escolher a que vale a pena produzir. Assista ao tutorial e experimente-o nos painéis do Firefly no próximo resumo do vídeo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505948?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505980?captions=por_br&quality=12&learn=on&hidetitle=true)

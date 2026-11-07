@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Explore a página inicial para poder navegar facilmente pelo aplicativo. Saiba mais sobre ações rápidas, modelos, designs sazonais, marcas, bibliotecas, agendador, tutoriais e muito mais.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426924?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506355?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Saiba como adicionar elementos de design visual aos seus projetos para torná-los mais atraentes e envolventes. Há quatro tipos de elementos: ativos de design, planos de fundo, formas e ícones. Cada tipo de elemento tem centenas de componentes diferentes para escolher. Cada elemento é projetado profissionalmente e pronto para ser adicionado aos projetos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426935?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506157?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

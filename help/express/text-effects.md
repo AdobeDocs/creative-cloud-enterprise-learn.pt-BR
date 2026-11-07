@@ -30,7 +30,7 @@ ht-degree: 0%
 
 Conheça todas as diferentes maneiras de adicionar texto a projetos criativos, incluindo editar, mover e excluir camadas de texto, alterar fontes, ajustar o tamanho e o layout do texto, alinhar texto, alterar a cor de preenchimento e o contorno, adicionar sombras e usar formas e recortar texto. As fontes recomendadas são fornecidas como inspiração.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420222?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506364?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

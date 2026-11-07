@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Aprenda todas as diferentes maneiras de adicionar uma imagem e efeitos de imagem aos seus projetos criativos. Substitua imagens de modelo por imagens do Adobe Stock mais adequadas. Use o painel Camadas para reorganizar camadas, procurar novas imagens e alterar o corte. A natureza não destrutiva do corte permite alterar a forma do corte a qualquer momento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420226?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506229?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 

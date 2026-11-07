@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Saiba como criar comunicados envolventes de tela digital para o escritório. Usando o recurso texto para modelo, viabilizado pelo Adobe Firefly, você pode gerar uma imagem personalizada com espaço para a cópia do texto. Animações e preenchimento generativo são adicionados para tornar o comunicado mais atraente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427119?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506319?captions=por_br&quality=12&learn=on&hidetitle=true)

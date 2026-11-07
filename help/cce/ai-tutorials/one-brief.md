@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Aprenda a transformar um resumo criativo em uma tabela compartilhada de direções visuais fortes, com ferramentas generativas fazendo o trabalho pesado e você fazendo a chamada. A tecnóloga criativa Mary Poplin mostra como usar Firefly boards para puxar esboços e referências, gerar um lote de opções, editar as ideias e restringir às duas ou três direções que vale a pena defender.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505927?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505952?captions=por_br&quality=12&learn=on&hidetitle=true)

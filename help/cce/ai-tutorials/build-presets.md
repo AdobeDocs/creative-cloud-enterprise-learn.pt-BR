@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Saiba como dar a uma sessão de fotos uma aparência consistente sem editar cada imagem uma a uma. Neste tutorial, saiba como criar uma predefinição de cor no Lightroom e, em seguida, aplicar essa correção de cor em um lote de imagens com ações em massa no Firefly. Seus arquivos retornam no mesmo formato e nas mesmas dimensões em pixels que os originais. Assista ao tutorial e experimente na próxima sessão.
 
->[!VIDEO](https://video.tv.adobe.com/v/3506009?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506015?captions=por_br&quality=12&learn=on&hidetitle=true)

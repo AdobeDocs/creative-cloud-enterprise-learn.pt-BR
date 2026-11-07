@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Aprenda a criar animações escalonadas para obter o comportamento perfeito para chamar a atenção de alguém. Ajuste o tempo de diferentes elementos para facilitar a leitura da mensagem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426981?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506252?captions=por_br&quality=12&learn=on&hidetitle=true)
 
 ## Vídeos adicionais desta série
 
