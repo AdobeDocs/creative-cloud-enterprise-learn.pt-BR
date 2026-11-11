@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: 055ac3bad810a31a979a88d730e044dcda3241b7
+source-git-commit: a6486cb4cee2b1de98ecabfe23a80ceb95b378f9
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '383'
 ht-degree: 0%
 ---
 # Tutoriais do Creative Cloud para IA corporativa
@@ -149,14 +149,19 @@ Explore tutoriais que podem ajudar você a descobrir ideias, criar conteúdo e o
       <img alt="Acesse o seu copião mais rápido" src="../../assets/rough-cut.png" />
    </a>
     <div>
-   <a href="rough-cut.m"><strong>Acesse o copião mais rápido</strong></a>
+   <a href="rough-cut.md"><strong>Acesse o copião mais rápido</strong></a>
     </div>
     <em>Saiba como criar um copião a partir de entrevistas e rolar o filme mais rápido no Premiere, sem arrastar cada clipe</em>
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="match-color.md">
+      <img alt="Combine cores entre tomadas — sem necessidade de discos de cores" src="../../assets/match-color.png" />
+   </a>
     <div>
+   <a href="match-color.md"><strong>Combine cores em fotos — sem necessidade de discos de cores</strong></a>
+    </div>
+    <em>Saiba como fazer com que as fotos iluminadas pareçam ter a mesma edição</em>
     <br>
   </td>
   <td>
