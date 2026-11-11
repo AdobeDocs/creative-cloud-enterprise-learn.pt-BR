@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Saiba como fazer com que as fotos iluminadas de forma diferente pareçam ter sido inseridas na mesma edição usando o modo Cor no Premiere. Veja como equilibrar uma foto, copiar essa imagem em clipes semelhantes e ajustar uma cor específica, como o azul de uma piscina, para que sua edição pareça consistente do corte ao corte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508128?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3508155?captions=por_br&quality=12&learn=on&hidetitle=true)
