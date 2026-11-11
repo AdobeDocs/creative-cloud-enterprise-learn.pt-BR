@@ -16,4 +16,4 @@ Sua equipe adora a foto, mas ela tem o formato errado. Saiba como expandir a cen
 
 Neste tutorial, aprenda como usar Expansão generativa e Preenchimento generativo para estender uma cena e trazer uma pessoa bloqueada para visualização. Em seguida, como uma máscara de camada restaura os pixels originais onde você precisa deles.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508142?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3508165?captions=por_br&quality=12&learn=on&hidetitle=true)
