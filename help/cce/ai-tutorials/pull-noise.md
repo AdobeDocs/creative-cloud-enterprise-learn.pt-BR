@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Essa entrevista no último piso é difícil de ouvir. Você não precisa cortá-lo. Saiba como resgatar o áudio da entrevista gravado ao vento com as ferramentas aprimoradas por IA no painel Áudio essencial do Premiere. Puxe a voz para frente e reduza o ruído de fundo, aprimore a faixa de voz e, em seguida, finalize sua edição com o clipe que tem.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3508146?captions=por_br&quality=12&learn=on&hidetitle=true)
