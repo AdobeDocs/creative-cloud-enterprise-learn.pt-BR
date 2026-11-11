@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: dac9b2dca8056ae4ef125af7d46624437f414114
+source-git-commit: a73cdb356c783a0c3bdc6d53fb458cc9934ac044
 workflow-type: tm+mt
-source-wordcount: '976'
+source-wordcount: '1021'
 ht-degree: 3%
 ---
 
@@ -24,12 +24,17 @@ ht-degree: 3%
     + [Visão geral](cce/ai-tutorials/overview-ai-tutorials.md)
     + [Transforme uma ilustração vetorial plana em qualquer ângulo, sem redesenhá-la](cce/ai-tutorials/turn-flat-vector-art.md)
     + [Padrões vetoriais perfeitos em minutos, não em horas](cce/ai-tutorials/seamless-vector.md)
+    + [De esboço a vetor limpo e editável](cce/ai-tutorials/sketch-to-clean.md)
     + [20 direções a partir de um breve, antes do almoço](cce/ai-tutorials/one-brief.md)
     + [Do resumo ao storyboard: explore as direções do vídeo antes da produção](cce/ai-tutorials/brief-to-storyboard.md)
     + [Retoque mais rápido e mantenha seus pixels originais](cce/ai-tutorials/retouch-faster.md)
     + [Crie predefinições para uniformizar as cores em uma foto](cce/ai-tutorials/build-presets.md)
+    + [Limpar e adaptar uma imagem com ferramentas generativas](cce/ai-tutorials/adapt.md)
+    + [Mover arte vetorial para um layout de InDesign e empacotá-lo para entrega](cce/ai-tutorials/vector-to-layout.md)
     + [Preencher lacunas no corte: rolagem B, áudio e clipes que terminam muito cedo](cce/ai-tutorials/fill-gaps.md)
     + [Acesse o seu copião mais rápido](cce/ai-tutorials/rough-cut.md)
+    + [Combine cores entre tomadas — sem necessidade de discos de cores](cce/ai-tutorials/match-color.md)
+    + [Novo no Adobe Premiere: caixa de diálogo, ambiente e ruído separados](cce/ai-tutorials/pull-noise.md)
   + Tutoriais {#ccetutorials}
     + [Acrobat para criadores de conteúdo](cce/acrobat-content-creators.md)
     + [Aprimore os fluxos de trabalho da CC com o CC Libraries](cce/cc-workflows-cc-libraries.md)

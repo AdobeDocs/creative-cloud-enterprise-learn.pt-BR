@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: 008d64be8a58330f687edf18aae398b506e13ca2
+source-git-commit: a73cdb356c783a0c3bdc6d53fb458cc9934ac044
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '480'
 ht-degree: 0%
 ---
 # Tutoriais do Creative Cloud para IA corporativa
@@ -39,13 +39,23 @@ Explore tutoriais que podem ajudar você a descobrir ideias, criar conteúdo e o
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="sketch-to-clean.md">
+      <img alt="De esboço a vetor limpo e editável" src="../../assets/sketch.png" />
+   </a>
     <div>
+   <a href="sketch-to-clean.md"><strong>De esboço a vetor limpo e editável</strong></a>
+    </div>
+    <em>Saiba como transformar um esboço irregular em arte vetorial editável no Illustrator</em>
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="vector-to-layout.md">
+      <img alt="Mover arte vetorial para um layout de InDesign e empacotá-lo para entrega" src="../../assets/package.png" />
+   </a>
     <div>
+   <a href="vector-to-layout.md"><strong>Mova a arte vetorial para um layout de InDesign e empacote-a para entrega</strong></a>
+    </div>
+    <em>Saiba como verificar um layout de impressão perguntando ao Assistente de IA no InDesign</em>
     <br>
   </td>
 </tr>
@@ -113,8 +123,13 @@ Explore tutoriais que podem ajudar você a descobrir ideias, criar conteúdo e o
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="adapt.md">
+      <img alt="Limpar e adaptar uma imagem com ferramentas generativas" src="../../assets/adapt.png" />
+   </a>
     <div>
+   <a href="adapt.md"><strong>Limpe e adapte uma imagem com ferramentas generativas</strong></a>
+    </div>
+    <em>Saiba como usar a Expansão Gerativa e o Preenchimento Gerativo para aprimorar suas ideias</em>
     <br>
   </td>
   <td>
@@ -144,22 +159,33 @@ Explore tutoriais que podem ajudar você a descobrir ideias, criar conteúdo e o
       <img alt="Acesse o seu copião mais rápido" src="../../assets/rough-cut.png" />
    </a>
     <div>
-   <a href="rough-cut.m"><strong>Acesse o copião mais rápido</strong></a>
+   <a href="rough-cut.md"><strong>Acesse o copião mais rápido</strong></a>
     </div>
     <em>Saiba como criar um copião a partir de entrevistas e rolar o filme mais rápido no Premiere, sem arrastar cada clipe</em>
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="match-color.md">
+      <img alt="Combine cores entre tomadas — sem necessidade de discos de cores" src="../../assets/match-color.png" />
+   </a>
     <div>
+   <a href="match-color.md"><strong>Combine cores em fotos — sem necessidade de discos de cores</strong></a>
+    </div>
+    <em>Saiba como fazer com que as fotos iluminadas pareçam ter a mesma edição</em>
     <br>
   </td>
-  <td>
-    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+ <td>
+   <a href="pull-noise.md">
+      <img alt="Novo no Adobe Premiere: caixa de diálogo, ambiente e ruído separados" src="../../assets/pull-noise.png" />
+   </a>
     <div>
+   <a href="pull-noise.md"><strong>Novo no Adobe Premiere: caixa de diálogo, ambiente e ruído separados</strong></a>
+    </div>
+    <em>Saiba como recuperar a caixa de diálogo separando o áudio</em>
     <br>
   </td>
 </tr>
 </table>
+
 
 
