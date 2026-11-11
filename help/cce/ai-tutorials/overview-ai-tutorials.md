@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: 008d64be8a58330f687edf18aae398b506e13ca2
+source-git-commit: 055ac3bad810a31a979a88d730e044dcda3241b7
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '353'
 ht-degree: 0%
 ---
 # Tutoriais do Creative Cloud para IA corporativa
@@ -39,8 +39,13 @@ Explore tutoriais que podem ajudar você a descobrir ideias, criar conteúdo e o
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="sketch-to-clean.md">
+      <img alt="De esboço a vetor limpo e editável" src="../../assets/sketch.png" />
+   </a>
     <div>
+   <a href="sketch-to-clean.md"><strong>De esboço a vetor limpo e editável</strong></a>
+    </div>
+    <em>Saiba como transformar um esboço irregular em arte vetorial editável no Illustrator</em>
     <br>
   </td>
   <td>
