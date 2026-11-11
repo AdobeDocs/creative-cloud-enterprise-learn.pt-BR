@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: 230e8dcc3d293a7d9e3382b3604dda7466c6d739
+source-git-commit: a73cdb356c783a0c3bdc6d53fb458cc9934ac044
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '480'
 ht-degree: 0%
 ---
 # Tutoriais do Creative Cloud para IA corporativa
@@ -49,8 +49,13 @@ Explore tutoriais que podem ajudar você a descobrir ideias, criar conteúdo e o
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="vector-to-layout.md">
+      <img alt="Mover arte vetorial para um layout de InDesign e empacotá-lo para entrega" src="../../assets/package.png" />
+   </a>
     <div>
+   <a href="vector-to-layout.md"><strong>Mova a arte vetorial para um layout de InDesign e empacote-a para entrega</strong></a>
+    </div>
+    <em>Saiba como verificar um layout de impressão perguntando ao Assistente de IA no InDesign</em>
     <br>
   </td>
 </tr>
@@ -118,8 +123,13 @@ Explore tutoriais que podem ajudar você a descobrir ideias, criar conteúdo e o
     <br>
   </td>
   <td>
-    <img alt="Espaçador" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="adapt.md">
+      <img alt="Limpar e adaptar uma imagem com ferramentas generativas" src="../../assets/adapt.png" />
+   </a>
     <div>
+   <a href="adapt.md"><strong>Limpe e adapte uma imagem com ferramentas generativas</strong></a>
+    </div>
+    <em>Saiba como usar a Expansão Gerativa e o Preenchimento Gerativo para aprimorar suas ideias</em>
     <br>
   </td>
   <td>
