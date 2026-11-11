@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Saiba como transformar um esboço irregular em arte vetorial editável no Illustrator sem criar todas as formas à mão. Veja como Concept to Vetor interpreta um esboço de montanha, como limpar o resultado com a ferramenta Seleção direta e como o Generative Recolor ajuda a explorar as opções de cores em uma campanha de publicidade ao ar livre, tudo isso mantendo controle total sobre o design.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508126?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3508135?captions=por_br&quality=12&learn=on&hidetitle=true)
